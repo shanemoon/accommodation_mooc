@@ -1,0 +1,7 @@
+Tuesday September 10th 2013 10:31 pm -04:00,May I use Google. For example I want to round down a number.So may I import Math and use trunc function?My lifes motto is Google It, Unresolved,0
+Tuesday September 10th 2013 10:38 pm -04:00,What Im trying to say is that I found the trunc function using google. May I use it?, Unresolved,0
+Tuesday September 10th 2013 10:54 pm -04:00,Thanks Todd but thats not my question. I just want to know if Im allowed to use functions not discussed in the lectures such as the trunc function. I joined this course about an hour ago so I really have to submit Assignment One. I was able to complete the Assignment using the trunc function., Unresolved,0
+Tuesday September 10th 2013 11:54 pm -04:00,So I uploaded Assignment 1 and I get this error:Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a1.py 98 3 def time_to_utc(offset time):)Can please someone tell me whats going on? Should I post something? I have checked my syntax and it look fine to me.S, Unresolved,0
+Tuesday September 10th 2013 11:57 pm -04:00,No just checked, Unresolved,0
+Wednesday September 11th 2013 12:01 am -04:00,I wasnt able to install it. Im currently on Linux Mint and I havent tested the whole program. However I tested some parts here:http://ideone.com/by8tIi, Unresolved,0
+Wednesday September 11th 2013 12:01 am -04:00,Please ignore that Fabs thing., Unresolved,0

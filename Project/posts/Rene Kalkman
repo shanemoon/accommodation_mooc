@@ -1,0 +1,3 @@
+Friday September 20th 2013 5:41 am -04:00,6 of 8 functions are correct while testing. When submitted all the 8 failed. Is something wrong with the automatic testing?, Resolved,-1
+Friday September 20th 2013 8:07 am -04:00,Ive already looked at the details. The only message i get is 8 times ERROR. No explenation at all, Resolved,0
+Tuesday September 24th 2013 3:36 am -04:00,One function does not run and so the whole test failed, Resolved,0

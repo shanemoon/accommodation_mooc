@@ -1,0 +1,1 @@
+Tuesday August 27th 2013 12:55 pm -04:00,Hello everybody  for me is vowels = aeiuoAEIOU>>> [letter for letter in stackoverflow if letter in vowels][a o e o]>>> len([letter for letter in stackoverflow if letter in vowels])4consonants = len(word) - len(vowels)count_letters(stackoverflow) == len(stackoverflow)return sum([xxxxyyyy]), Unresolved,0

@@ -1,0 +1,2 @@
+Saturday September 7th 2013 6:44 pm -04:00,Christelle Why would 90000sec return 1? and how did you get it to give you that answer?My code was approved but when I do get_minutes(9000) I get back 0, Resolved,0
+Saturday September 7th 2013 8:56 pm -04:00,lolI should read things through with a bit more care. I do get all of those numbers returned now (after adjusting my code). Thanks for the quick reply!, Resolved,0

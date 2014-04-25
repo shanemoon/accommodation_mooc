@@ -1,0 +1,1 @@
+Tuesday August 20th 2013 2:49 pm -04:00,Very helpful.To clarify if i type a=5.  a points to x1 and 5 is stored in x1.  Does that mean x1 is forever 5 or does the garbage collector delete 5 from x1 periodically.  So x1 is 5 for a period of time but eventually x1 is either a new value or is clear again.Thanks., Approved Resolved,0

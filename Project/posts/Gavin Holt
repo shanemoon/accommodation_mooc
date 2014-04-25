@@ -1,0 +1,4 @@
+Wednesday September 4th 2013 8:49 am -04:00,question only accepts 1 answer yet there are 2 correct answers.Both8> x or x>= 5and8> x and x>= 5are equivalent to: 8 > x >= 5see:>>> x = 5 and 6 and 7>>> (8 > x>= 5) == (8> x or x>= 5)True>>> (8 > x>= 5) == (8> x and x>= 5)TrueWhere am I going wrong or is there actually 2 solutions and we just pick one of them?, Resolved,0
+Wednesday September 4th 2013 11:02 am -04:00,Got it thanks guys., Resolved,0
+Wednesday October 2nd 2013 4:33 am -04:00,What is the penalty for submitting a piece of work beyond the extra week allocated? With work I simply havent had time to complete assignment 3 and was planning on doing it this week.Thanks, Resolved,0
+Wednesday October 2nd 2013 4:48 am -04:00,Great thanks, Resolved,0

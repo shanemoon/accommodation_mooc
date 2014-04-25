@@ -1,0 +1,1 @@
+Thursday September 5th 2013 9:22 am -04:00,Hello everyone! Have you seen 3.2 Lecture 1st question? Why 50>=grade IS NOT CORRECT? There is said that the minimum grade is 50. And what if for instance we have like this:>>> grade = 50>>> 50>=gradeTrueThanks in advance!, Unresolved,0

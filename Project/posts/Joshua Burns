@@ -1,0 +1,1 @@
+Saturday August 31st 2013 6:37 am -04:00,Its because youre not using Python 3 as instructed.  To achieve the desired result in Python 2 youd simply use:raw_input(What is your name? ), Resolved,4

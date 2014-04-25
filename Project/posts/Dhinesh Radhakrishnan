@@ -1,0 +1,8 @@
+Wednesday September 11th 2013 3:13 am -04:00,Whether the index column can be negative or positive?, Resolved,0
+Wednesday September 11th 2013 3:56 am -04:00,thanks for the info, Resolved,0
+Wednesday September 11th 2013 4:23 am -04:00,What is the difference between get_complement and get_complement_sequence?Thanks, Resolved,0
+Wednesday September 11th 2013 4:34 am -04:00,for the second onein that case AT -> TA and vice versa similarly CG -> GC and vice versa and not any other sequence(ACAGTCTG.....)  right?, Resolved,0
+Wednesday September 11th 2013 4:51 am -04:00,for get_complement() it is right but for get_complement_sequence() the answer is wrong, Resolved,0
+Wednesday September 11th 2013 5:06 am -04:00,so for exampleusing get_complement_sequence()ATCG -> TAGCACTG -> ACTG right?, Resolved,0
+Wednesday September 11th 2013 5:52 am -04:00,Still i am confused with it how to use multi character string?then there is no difference between the both functionsfinecan u give me output forget_complement_sequence(ACGT)get_complement_sequence(AC)get_complement_sequence(ACTGA)?Thanks for being patience on my questions. , Resolved,0
+Wednesday September 11th 2013 6:08 am -04:00,Thanks for solving!!! I appreciate it :), Resolved,0

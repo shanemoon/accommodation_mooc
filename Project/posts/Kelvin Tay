@@ -1,0 +1,11 @@
+Thursday August 29th 2013 10:37 pm -04:00,Man it took me ages to figure this one out but after reading your reply to Charles Larry I finally got it (I hope/think). So theres essentially two ways to write the body for get_hours (calling to_24_hour_clock OR %24 at the end) but for get_minutes & get_seconds ending with %60 will suffice. Right.....?, Unresolved,0
+Saturday August 31st 2013 11:51 pm -04:00,Thanks!, Pinned Resolved,0
+Saturday September 28th 2013 9:29 am -04:00,The challenge for me is that the lectures go in one ear and quickly out the other. Although Im getting most of the questions right there is a disturbing lack of cohesiveness which does make me anxious about the final. But I have gotten taste of programming and I like it (sometimes!) The textbook is really useful too., Resolved,0
+Saturday September 14th 2013 9:12 am -04:00,Hey guys this last question has me stumped. I would appreciate any help here. My code is:*edited*, Resolved,0
+Saturday September 14th 2013 9:17 am -04:00,And what I get is:>>> get_complementary_sequence(ATAT)TTraceback (most recent call last):  File <pyshell#114> line 1 in <module>    get_complementary_sequence(ATAT)  File C:\Users\Kelvin\Desktop\a2.py line 135 in get_complementary_sequence    complement = complement + get_complement(char)TypeError: Cant convert NoneType object to str implicitly, Resolved,0
+Saturday September 14th 2013 9:30 am -04:00,As far as I can tell my get_complement function works...    if nucleotide == A:        print(T)    elif____    elif____    elif____    else:        print(Not a valid nucleotide!)(Blanks to satisfy HC), Resolved,0
+Saturday September 14th 2013 9:38 am -04:00,Legendary. Thanks guys!, Resolved,0
+Saturday September 14th 2013 9:44 am -04:00,I think I get it now function reuse doesnt work if the reused function does not have a return., Resolved,0
+Saturday September 14th 2013 7:46 am -04:00,You dont need the else right?, Unresolved,0
+Friday September 20th 2013 10:22 am -04:00,Type the following and you will find your answer: help(list.insert), Unresolved,4
+Sunday September 29th 2013 1:38 am -04:00,Thanks Janet. Until I have a firmer grasp of how Python works this is the type of answer I need., Resolved,0

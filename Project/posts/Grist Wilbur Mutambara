@@ -1,0 +1,2 @@
+Friday August 23rd 2013 10:47 am -04:00,Wen I start IDLE it throws an error  Unable to Update recent file list[errno13] permission deniedThen it give me a file location. I can only continue by switching debug on and off  Any ideas, Unresolved,0
+Friday August 23rd 2013 5:46 pm -04:00,Sorry yes My Operating system is windows 7. So when I start IDLE it gives me that error. I haver not tried o install in administrative mode. The down load page is http://www.python.org/download/releases/3.2.4/ n the installer is Windows x86 MSI Installer (3.2.4) (sig) , Unresolved,0

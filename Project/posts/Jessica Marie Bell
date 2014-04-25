@@ -1,0 +1,1 @@
+Sunday September 15th 2013 8:22 pm -04:00,You could actually solve this with a easier code. Instead of using a for loop try using len  but without the .  Then just return the fucntion.Example:  len(), Unresolved,0

@@ -1,0 +1,2 @@
+Thursday September 26th 2013 6:24 pm -04:00,Ive tried this approach many times but for some reason it keeps skipping 1st and 3rd lines and takes 2nd and 4th lines. Any idea why?, Resolved,0
+Thursday September 26th 2013 6:43 pm -04:00,I solved it.I wasnt aware that putting f.readline() command in a for loop makes some problems because for loop does the reading already. Anyway I removed the command and the problem is gone., Resolved,0

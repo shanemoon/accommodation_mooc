@@ -1,0 +1,7 @@
+Wednesday August 28th 2013 12:34 pm -04:00,does changing the name of file cause error..i changed the first part to second_difference.py and submitted its showing 8 errors, Unresolved,0
+Thursday September 12th 2013 7:06 am -04:00,def is_valid_sequence(dna):   CODE removed by Kevin Eugensson.    return seqdef is_valid_sequence(dna):CODE removed by Kevin Eugensson.return count==0i tried to run both these code and it is showing name error in interpretter.i cant understand y?can any1 help, Resolved,0
+Thursday September 12th 2013 7:57 am -04:00,no.in idle i typed True only.still its giving name error...even in second one am getting name error..cudn understand y?..sry to post the codes., Resolved,1
+Thursday September 12th 2013 8:15 am -04:00,i was tryng for two hours for remove the error..but name error appears even after modifyng the entire code.but when i submitted the same code autotester shown success.can any1 explain y is the code not wrkng in my interpreter., Resolved,1
+Saturday September 28th 2013 10:56 am -04:00,please add one more for loop as here the len(board) says the no. of list inside the list.we want the no. of columns inside each list. also dat will solve assymetrical problem., Resolved,0
+Sunday September 29th 2013 12:46 pm -04:00,i got a 25 on my submission  after dat i tried to submit completed assgnmnt it is evaluatin to zero.., Unresolved,0
+Sunday September 29th 2013 3:41 pm -04:00,but when writing four lines autotester shows wordlist is not defined..my code is running but dnt know how to submit it in autotester..., Unresolved,0

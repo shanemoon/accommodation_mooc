@@ -1,0 +1,1 @@
+Tuesday August 27th 2013 6:25 am -04:00,This is about to_24_hour_clock  function.you put pre-condition hour>=0 while in some of the examplethere are some - result like -1.and why is it still working?, Resolved,0

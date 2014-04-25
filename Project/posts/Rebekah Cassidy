@@ -1,0 +1,5 @@
+Wednesday September 18th 2013 8:11 pm -04:00,I have downloaded a2.py and then tried to open it. The shell opens but is black for 1 second and then it exits. I am unsure why it wont open or how to correct the problem., Resolved,0
+Wednesday September 18th 2013 8:24 pm -04:00,Thank you. It worked. :-), Resolved,0
+Wednesday October 2nd 2013 3:38 pm -04:00,Okay Im not sure what this means? I dont have the word list in my code and yet I have an error for it?Method Description:NoneMessage:ERROR: TypeErrorlist object is not callable, Resolved,0
+Wednesday October 2nd 2013 3:05 pm -04:00,Okay thanks! That fixed that error. But now it has a different error.Method Description:NoneMessage:ERROR: NameErrorglobal name word_list is not definedBut I have words_list=  Doesnt that define words_list?, Unresolved,0
+Wednesday October 2nd 2013 3:20 pm -04:00,YES!!! Thank you!! Completely missed that. No more errors now. :-), Unresolved,0

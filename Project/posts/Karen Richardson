@@ -1,0 +1,11 @@
+Saturday August 31st 2013 2:07 am -04:00,The precondition for to_24_hour_clock(hours) is hours>=0.  Yet negative hours are passed to to_24_hour_clock in the functions time_to_utc and time_from_utc and to_24_hour_clock returns the correct time.  Why is the precondition included?, Unresolved,0
+Monday September 2nd 2013 1:34 pm -04:00,No. -1//24 = -1.  In general (a//b) * b + a%b = a for any a and b including negative a and b. Python has defined the operations for negative numbers so that this always holds., Unresolved,0
+Monday September 2nd 2013 1:54 pm -04:00,Alan - the remainder does not have to be positive.  1%-24 = -23 and -1%-24 = -1. , Unresolved,0
+Monday September 2nd 2013 1:40 pm -04:00,In general (a//b) * b + a%b = a for any a and b including negative a and b. Python has defined the operations for negative numbers so that this always holds., Unresolved,0
+Wednesday September 25th 2013 2:57 pm -04:00,I had the same question. line[0] is only one character; letter could be more than one character.  In that case letter == line[0]would be false. Right?, Resolved,1
+Wednesday September 25th 2013 4:26 pm -04:00,So that should not be marked as incorrect then., Resolved,0
+Wednesday September 25th 2013 7:35 pm -04:00,Yes I missed the precondition len(letter) = 1. , Resolved,0
+Wednesday September 25th 2013 4:22 pm -04:00,In the function board_contains_word_in_row the last line is return False.  Why isnt False always returned regardless of what happens in the for loop?  Does the program exit the function as soon as something is returned?, Unresolved,0
+Wednesday September 25th 2013 4:27 pm -04:00,Thanks., Unresolved,0
+Thursday September 26th 2013 4:47 pm -04:00,I completed Assignment 3 received score of 37/37.  Now Im trying to play the game using a3_driver.py.  Its in the same directory as my a3.py file and Im running a3_driver.py in IDLE.  The little empty box that says tk pops up and then nothing happens., Unresolved,0
+Thursday September 26th 2013 7:31 pm -04:00,Im not even getting getting a choose file dialog just the empty tk box. , Unresolved,0

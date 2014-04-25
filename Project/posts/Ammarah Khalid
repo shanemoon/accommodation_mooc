@@ -1,0 +1,7 @@
+Monday September 2nd 2013 11:45 am -04:00,hi i also got the same error as Kasra Manshaei what should i do to resolve this errorSummary: test_get_hours (student)student: test_get_hours.TestGetHours.test_large_inputMethod Description:Test large input.Message:FAILURE: AssertionError9 != 105, Resolved,0
+Monday September 2nd 2013 2:47 pm -04:00,thanks  Kasra  and Byrne :) , Resolved,0
+Monday September 2nd 2013 3:00 pm -04:00,hi to_24_hour_clock() function is included in  a1.py file provided to us , Resolved,0
+Monday September 2nd 2013 3:04 pm -04:00,thanks  Kasra  and Byrne :)  thank you once again because of you guys i got 42/41 Show Summary Mid-Summaries Failed AllGroupAllPassFailErrorWarningViewstudent4242000DetailTotal4242000, Resolved,0
+Monday September 2nd 2013 11:41 am -04:00,hi i also got this error what should i do to resolve this errorSummary: test_get_hours (student)student: test_get_hours.TestGetHours.test_large_inputMethod Description:Test large input.Message:FAILURE: AssertionError9 != 105, Unresolved,0
+Friday September 20th 2013 3:24 am -04:00,in your for statement replace char with nucleotide and nucleotide with dna  your code will work:), Unresolved,0
+Friday September 20th 2013 3:26 am -04:00,and ur get_complementary_sequence() should also contain dna in it not nucleotide, Unresolved,0

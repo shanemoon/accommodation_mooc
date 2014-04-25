@@ -1,0 +1,6 @@
+Wednesday August 21st 2013 5:23 pm -04:00,I click on IDLE (Python GUI) - and for a split second something opens and immediately closes.  I can open Python (Command line) but there is not way to save my functions like in the Defining Functions lecture.  I am on Windows 7 64 bit.  ,None,0
+Wednesday August 21st 2013 6:00 pm -04:00,I am honestly trying but holding the Esc isnt doing anything.  Now when I click on it it doesnt do anything.  The cursor does the little loading icon but then nothing happens.,None,0
+Wednesday August 21st 2013 6:29 pm -04:00,I downloaded the 32 bit version first and then uninstalled and installed the 64 bit since i am on a 64 bit system - so it is running on the 64 bit version now,None,0
+Wednesday August 21st 2013 6:43 pm -04:00,no it did not which is why i switched to 64,None,0
+Wednesday August 21st 2013 6:53 pm -04:00,I have tried:- from start menu- navigating to  C:\Python33\Lib\idlelib\idle.bat,None,0
+Thursday August 22nd 2013 12:40 pm -04:00,when I right click it does not have that option.  I was able to complete this weeks exercise by using Python (command line),None,0

@@ -1,0 +1,5 @@
+Wednesday September 11th 2013 10:24 pm -04:00,Im actually interested to know about the assignment to see what they expected vs what Ive produced and see the difference. Not only for this assignment but for all. Pedagogy right? , Unresolved,0
+Wednesday September 11th 2013 9:51 am -04:00,In the lecture it says that you can omit the start of the index so therefore ive entereds[:5]The answer was wrong. I went in IDLE and tested it. I tried the followingIm confuse since the lecture clearly said that you should slice one index past where you want right? The answer in the video is below what am I not thinking about?s[1:5], Resolved,0
+Wednesday September 11th 2013 4:51 pm -04:00,Got it. The index start at 0 not 1. , Resolved,0
+Wednesday September 11th 2013 9:43 pm -04:00,Im guessing I did the same thing. I made a if statement outside of the for loop checking to see  but that didnt work. I integrated checking to see it in the for loop and then it work. , Resolved,0
+Wednesday September 11th 2013 9:44 pm -04:00,You have to check for the proper character and also make sure its not an empty str. , Resolved,0

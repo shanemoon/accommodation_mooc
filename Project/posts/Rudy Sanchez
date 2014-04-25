@@ -1,0 +1,2 @@
+Sunday August 18th 2013 10:45 pm -04:00,Good question.  This True division is very accurate but not exact.  Use the Pythons decimal module for exact division math. However using this True division / is pretty good for most purposes.The float division is explained starting around 1:30 in the video., Resolved,1
+Monday August 19th 2013 12:57 am -04:00,The instructor said its due to Pythons limited memory management., Resolved,0

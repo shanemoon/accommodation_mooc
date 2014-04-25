@@ -1,0 +1,7 @@
+Sunday September 1st 2013 7:03 pm -04:00,Meni je prijavio jednu gresku ali ukupan skor ostao 41/41Koje greske su u pitanju?,None,1
+Sunday September 1st 2013 8:13 pm -04:00,Problem ti je znaci u drugoj funkciji. Pokusaj unijeti:hours_difference(1800.0 1800.00001)hours_difference(1800.0 860000000000.0)Kakve vrijednosti izbaci? ,None,1
+Sunday September 1st 2013 8:31 pm -04:00,Da program ti zaokruzuje vrijednost na 1 decimalu i zbog toga javlja gresku.,None,0
+Sunday September 1st 2013 7:15 pm -04:00,I get failure at following test:student: test_get_hours.TestGetHours.test_large_inputSo what does it mean? I tested it with some large number and it seems working. I do get 41/41 but I would like to know why do I get this failure?, Resolved,0
+Sunday September 1st 2013 8:01 pm -04:00,@Blagica StojanoskaDid it already without using the to_24_hour_clock function though... Thank you score is 42/41 now. :), Resolved,0
+Sunday September 1st 2013 8:07 pm -04:00,Problem resolved., Resolved,0
+Sunday September 1st 2013 8:17 pm -04:00,You havent defined those 3 functions at all..., Unresolved,0

@@ -1,0 +1,4 @@
+Monday September 2nd 2013 4:51 am -04:00,How come  to_24_hour_clock(hours) functions well for negatives. I mean why when hours = -1  hours % 24 returns 23?When I divide -1 in 24 the result is 0 and a remainder of -1 so the functions result should be -1?, Unresolved,0
+Monday September 2nd 2013 8:59 am -04:00,That the logic of the clock but pyhon doesnt know that I use the modulo for a clock. Why -1 is 23? Maybe Im using it to calculate the number of years out of a given number of days and than -1 should be considered as 364? , Unresolved,0
+Tuesday September 3rd 2013 8:50 am -04:00,thanks, Unresolved,0
+Monday September 2nd 2013 9:04 am -04:00,Thanks. Its pretty odd though that python expects that a // or % of integers will produce an outcome that is >= 0., Unresolved,0

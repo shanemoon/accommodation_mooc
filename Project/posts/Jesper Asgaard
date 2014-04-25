@@ -1,0 +1,2 @@
+Friday September 27th 2013 4:56 pm -04:00,HiI have tried the code below to make my update_score fiunctionplayer_info = [player_info[0]  player_info[1] + word_score(word)]but when I am submitting I am gettingMessage:FAILURE: AssertionErrorTrue is not false : Score not updated.I do not understand what is wrong. Please help, Resolved,0
+Saturday September 28th 2013 8:00 am -04:00,Thank you all for you responses. Your help is really appreciated.I finally got it :-), Resolved,0

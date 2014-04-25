@@ -1,0 +1,3 @@
+Wednesday August 28th 2013 3:19 am -04:00,Thanks a lot Guys.. This discussion helped me a lot to find the right answer..!!! :) :), Unresolved,1
+Sunday September 15th 2013 2:09 pm -04:00,Thanks a lot..!! :), Resolved,0
+Sunday September 15th 2013 2:58 pm -04:00,The reason for that is probably that the last time you modified your code you introduced a Syntax Error somewhere in the file.When that happens the autograder cannot use the file at all and therefore all the tests are showing as failure.Try and run your file as a module in IDLE if there is a SyntaxError somewhere it wont run and IDLE should highlight the source of the problem., Unresolved,0

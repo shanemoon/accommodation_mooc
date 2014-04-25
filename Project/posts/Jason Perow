@@ -1,0 +1,1 @@
+Sunday September 29th 2013 10:29 pm -04:00,To test read_board I opened and closed the files so it could be read however once I got read_board working and submitted I got 0/37 result too.  I just removed where I had opened and closed the files and resubmitted and it gave me the 37/37.  Maybe your having a similar issue?, Unresolved,0

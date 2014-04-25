@@ -1,0 +1,5 @@
+Tuesday August 27th 2013 11:56 am -04:00,Thanks for the effort Denise... , Pinned Approved Resolved,0
+Monday September 2nd 2013 11:42 pm -04:00,Great Job.... , Pinned Resolved,0
+Sunday September 1st 2013 2:35 am -04:00,this means that 3800 sec = 1 hr 3 min and 20 sec...u have to extract the number of hrs min and sec... hope this helps.. ;), Resolved,1
+Sunday September 1st 2013 9:44 am -04:00,you can use the // operator to get the hrs from 3800.. use the same concept in getting the minutes to the remaining time (200 sec) ... , Resolved,1
+Saturday September 14th 2013 1:02 am -04:00,python variables are case sensitive so num_vowels is different from Num_vowels, Resolved,0

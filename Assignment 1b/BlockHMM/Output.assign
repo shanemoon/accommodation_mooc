@@ -1,0 +1,965 @@
+0 -1 str0 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+1 0 str1 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+2 1 str2 1 i:1 am:1 {s001}:1 
+3 2 str3 2 Hi:1 {s001}:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+4 3 str4 2 {s005}:1 you:1 are:0 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+5 4 str5 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for:1 by:1 looking:1 over:1 pages:1 7-9:1 in:1 your:1 book:1 and:1 remembering:1 what:1 role:1 you:1 have:1 been:1 assigned.:1 
+6 5 str6 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+7 6 str7 1 Nice:1 to:1 meet:1 u:1 2.:1 
+8 7 str8 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+9 8 str9 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+10 9 str10 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+11 10 str11 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+12 11 str12 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+13 12 str13 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+14 13 str14 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+15 14 str15 1 I:1 predict:1 that:1 in:1 Condition:1 A:1 the:1 cell:1 model:1 would:1 gain:1 more:1 water:1 and:1 Codition:1 b:1 would:1 loose:1 the:1 water:1 in:1 the:1 cell:1 model:1 
+16 15 str16 0 Is:1 everyone:1 back?:1 
+17 16 str17 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+18 17 str18 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+19 18 str19 3 Ok:1 I:1 gotta:1 go.:1 
+20 19 str20 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+21 20 str21 1 Nice:1 talking:1 to:1 you:1 two<:1 
+22 21 str22 0 why:1 isnt:1 this:1 working?:1 
+23 22 str23 0 this:1 thing:1 is:1 slow:1 
+24 23 str24 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+25 24 str25 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+26 25 str26 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+27 26 str27 1 water:1 will:1 be:1 able:1 to:1 get:1 in:1 but:1 the:1 starch:1 wont:1 be:1 able:1 to:1 move:1 out:1 so:1 the:1 tube:1 will:1 expand:1 
+28 27 str28 0 thats:1 for:1 C:1 
+29 28 str29 0 what:1 one:1 are:0 you:1 talking:1 about:1 
+30 29 str30 0 i:1 see:1 you:1 
+31 30 str31 0 C:1 on:1 the:1 chart:1 
+32 31 str32 0 i:1 see:1 you:1 too:1 
+33 32 str33 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+34 33 str34 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+35 34 str35 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+36 35 str36 1 If:1 glucose:1 is:1 placed:1 in:1 the:1 beaker:1 the:1 water:1 in:1 the:1 tube:1 will:1 disapear:1 
+37 36 str37 1 what:1 was:1 the:1 explaination:1 for:1 C:1 and:1 A:1 
+38 37 str38 1 never:1 mind:1 
+39 38 str39 0 Are:1 you:1 guys:1 back?:1 
+40 39 str40 0 is:1 anyone:1 else:1 seriously:1 confused:1 
+41 40 str41 0 {s006}:1 did:1 you:1 get:1 any:1 other:1 observation:1 other:1 than:1 the:1 weight:1 
+42 41 str42 0 no:1 i:1 didnt:1 write:1 anything:1 down:1 for:1 the:1 observations:1 
+43 42 str43 3 Ok:1 I:1 gotta:1 go.:1 
+44 43 str44 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+45 44 str45 1 um:1 bye?:1 
+46 45 str46 1 for:1 1:1 hour:1 on:1 a:1 it:1 was:1 .620:1 they:1 were:1 both:1 clear:1 tube:1 and:1 beaker:1 and:1 both:1 strips:1 were:1 green:1 
+47 46 str47 1 same:1 for:1 the:1 B:1 but:1 the:1 weight:1 was:1 .540:1 
+48 -1 str48 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+49 48 str49 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+50 49 str50 0 hello:1 this:1 is:1 christian:1 
+51 50 str51 1 s003:0 s007:1 s011...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+52 51 str52 0 I'm:1 {s011}:1 
+53 52 str53 2 Hi:1 {s003}:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+54 53 str54 2 s007:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+55 54 str55 2 Ok...:1 So:1 the:1 Explainer:1 is:1 s011.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+56 55 str56 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+57 56 str57 0 who:1 r:1 u:1 guys:1 
+58 57 str58 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for:1 by:1 looking:1 over:1 pages:1 7-9:1 in:1 your:1 book:1 and:1 remembering:1 what:1 role:1 you:1 have:1 been:1 assigned.:1 
+59 58 str59 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:0 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+60 59 str60 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+61 60 str61 1 when:1 we:1 put:1 in:1 the:1 glucose:1 the:1 cell:1 will:1 get:1 smaller:1 
+62 61 str62 2 s011:1 can:1 you:1 ask:1 {s003}:1 to:1 build:1 on:1 what:1 S007:1 is:1 saying.:1 
+63 62 str63 2 {s003}:1 can:1 you:1 build:1 on:1 to:1 what:1 s007:1 said.:1 
+64 63 str64 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+65 64 str65 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+66 65 str66 1 the:1 cell:1 will:1 blacken:1 when:1 it:1 comes:0 in:1 touch:1 with:1 the:1 iodine:0 
+67 66 str67 2 s011:1 can:1 you:1 ask:1 {s003}:1 to:1 build:1 on:1 what:1 s007:1 is:1 saying.:1 
+68 67 str68 0 i:1 cannot:1 build:1 on:1 
+69 68 str69 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+70 69 str70 3 so:0 for:1 glucose:1 we:1 are:1 putting:0 the:1 cell:1 gets:1 smaller?:1 why?:1 
+71 70 str71 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+72 71 str72 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+73 72 str73 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+74 73 str74 0 is:1 anyone:1 in:1 here:1 
+75 74 str75 0 I:0 dont:1 understand:1 this.:1 
+76 75 str76 3 we:1 gotta:1 watch:1 a:1 video:1 
+77 76 str77 0 who:1 is:1 #11:1 and:1 #7:1 
+78 77 str78 0 I'm:1 {s011}:1 who:1 are:1 you:1 
+79 78 str79 0 {s003}:1 lol:1 
+80 79 str80 0 haha:1 whos:1 number:0 07:1 
+81 80 str81 0 Is:1 everyone:1 back?:1 
+82 81 str82 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+83 82 str83 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+84 83 str84 3 Ok:1 I:1 gotta:1 go.:1 
+85 84 str85 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+86 85 str86 0 this:1 is:1 so:1 confusing:1 
+87 86 str87 0 And:1 stupid:1 
+88 87 str88 3 For:1 solution:1 B:1 what:1 did:1 we:1 say:1 for:1 prediction:1 and:1 explanation:1 
+89 88 str89 1 i:1 didnt:1 get:1 anything:1 
+90 89 str90 1 i:1 said:1 it:1 was:1 gonna:1 lose:1 weight:1 for:1 solution:1 b:1 
+91 90 str91 2 is:1 alex:1 a:1 real:1 person:1 or:1 a:1 computer:1 
+92 91 str92 1 Same:1 but:1 i:1 didnt:1 say:1 why.:1 And:1 I:1 dotn:1 know.:1 I:1 think:1 he:1 was:1 a:1 computer:1 thing.:1 
+93 92 str93 0 it:1 was:1 they:1 just:1 told:1 me:1 
+94 93 str94 0 yeah:0 he:1 was:1 &:1 idk:1 why:1 
+95 94 str95 0 Why:0 what?:1 
+96 95 str96 0 whos:1 this:1 
+97 96 str97 0 who:1 is:1 this:1 
+98 -1 str98 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+99 98 str99 0 its:1 {s012}:1 whos:1 this?:1 
+100 99 str100 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+101 100 str101 2 Hi:1 {s004}:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+102 101 str102 2 {s008}:1 n:1 whois:1 this:1 
+103 102 str103 2 {s008}:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:0 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+104 103 str104 1 s012...:1 i:1 didn't:1 get:1 your:1 name:1 yet.:1 
+105 104 str105 2 Ok...:1 So:1 the:1 Explainer:1 is:1 s012.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+106 105 str106 0 oh:1 r:1 u:1 sittin:1 next:1 to:1 {s009}??:1 
+107 106 str107 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+108 107 str108 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for:1 by:1 looking:1 over:1 pages:1 7-9:1 in:1 your:1 book:1 and:1 remembering:1 what:1 role:1 you:1 have:1 been:1 assigned.:1 
+109 108 str109 0 im:1 {s012}:1 
+110 109 str110 0 idk:1 who:1 {s012}:1 is:1 
+111 110 str111 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+112 111 str112 0 and:1 yes:1 
+113 112 str113 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+114 113 str114 0 oh:1 ok:1 and:1 hi:1 {s004}:1 
+115 114 str115 0 stop:1 typinh:1 all:1 fazt:0 
+116 115 str116 0 its:1 the:1 tutor:1 typein:1 that:1 
+117 116 str117 0 whos:1 004?:1 
+118 117 str118 0 oh:1 ok:1 sup:1 
+119 118 str119 0 typin:1 wat:1 the:1 yellow:1 stuff:1 is:1 the:1 tutor:1 all:1 the:1 other:1 color:0 stuff:1 is:1 us:1 
+120 119 str120 0 smartness:1 
+121 120 str121 1 the:1 glucsoe:1 will:1 expand:1 in:1 side.:1 becasue:1 of:1 the:1 sugar:1 attracts?:1 
+122 121 str122 1 i:1 concur:1 
+123 122 str123 0 ?:1 concur:1 
+124 123 str124 0 idek:1 wat:1 we:1 r:1 doin:1 
+125 124 str125 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+126 125 str126 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+127 126 str127 0 oh:1 yess:1 i:1 agree:1 
+128 127 str128 4 with:1 what?:1 
+129 128 str129 0 i:1 hope:0 you:1 know:1 wat:1 u:1 r:1 doig:1 
+130 129 str130 0 doing*****:1 
+131 130 str131 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+132 131 str132 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+133 132 str133 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+134 133 str134 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+135 134 str135 0 mk:1 {s008/Alex}<3:1 
+136 135 str136 0 alrighty:1 then:1 
+137 136 str137 0 do:1 you:1 like:0 spongebob:1 
+138 137 str138 0 i:1 LOVE:0 spongebob:1 
+139 138 str139 0 o:1 yes.jk:0 
+140 139 str140 0 ok:1 so:1 what:1 are:1 we:1 putting:1 for:1 A?:1 
+141 140 str141 0 yess:1 i:1 love:1 spongebob<3:1 
+142 141 str142 1 can:1 we:1 get:1 off:0 the:1 subject:0 of:1 spongebob?:1 
+143 142 str143 0 no:1 i:1 prefer:1 not:1 
+144 143 str144 1 um:1 tyhay:1 it:1 loses:1 weight:1 
+145 144 str145 0 ok:1 so:1 what:1 u:1 put:1 for:1 A?:1 
+146 145 str146 1 it:1 loses:1 weight:1 
+147 146 str147 0 right?:1 
+148 147 str148 0 yeah:0 i:1 agreee:0 
+149 148 str149 1 i:1 said:1 it:1 will:1 gain:1 weight:1 #2:1 will:1 lose:1 weight:1 and:1 #3:1 stays:1 the:1 same:1 
+150 149 str150 1 it:1 will:1 lose:1 weight:1 because:1 water:1 has:1 no:0 glucose:1 in:1 it:1 and:1 the:1 glucose:1 will:1 let:1 out:1 sugar:1 
+151 150 str151 1 #2:1 it:1 will:1 gain:1 weight:1 
+152 151 str152 0 watever:1 
+153 152 str153 0 Are:1 you:1 guys:1 back?:1 
+154 153 str154 0 nope:1 wer:1 watching:1 iyt:1 
+155 154 str155 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+156 155 str156 0 does:0 ne:0 one:1 know:1 wat:1 they:0 r:1 doing:1 
+157 156 str157 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:0 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+158 157 str158 3 Ok:1 I:1 gotta:1 go.:1 
+159 158 str159 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+160 159 str160 0 ok:1 this:1 video:1 made:1 no:1 sense:1 at:1 all:1 soes:1 any:1 one:1 know:1 what:1 they:1 are:1 doing:1 
+161 160 str161 0 maybeee:1 
+162 161 str162 0 well:1 then:1 tell:1 me:1 
+163 162 str163 0 well:1 then:1 tell:1 me:1 
+164 163 str164 0 well:1 A:1 is:1 retarded:1 
+165 164 str165 1 it:1 gained:1 twice:1 then:1 lost:1 weight:1 
+166 165 str166 1 well:1 i:1 only:1 got:1 the:1 1:1 hour:1 thing:1 nd:1 the:1 5:1 hour:1 one:1 i:1 dint:1 watch:0 the:1 rest:1 of:1 the:1 video:1 
+167 166 str167 0 {s004}:1 are:0 u:1 still:1 on:1 
+168 167 str168 0 she:1 got:1 shot:1 
+169 168 str169 0 ok:1 tht:1 is:1 good:1 i:1 love:1 how:1 u:1 just:1 say:1 tht:1 randomly:1 
+170 169 str170 0 alright:0 we:1 r:1 cheatin:1 on:1 this:1 quiz:1 wats:1 the:1 answers:1 
+171 -1 str171 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+172 171 str172 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+173 172 str173 1 s020:1 s022:1 s021...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+174 173 str174 2 Hi:1 s020:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+175 174 str175 2 s022:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+176 175 str176 2 Ok...:1 So:1 the:1 Explainer:1 is:1 s021.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+177 176 str177 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+178 177 str178 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+179 178 str179 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+180 179 str180 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+181 180 str181 0 my:1 name:1 is:1 {s020}:1 
+182 181 str182 0 hi:1 im:1 {s022}:1 
+183 182 str183 0 i:1 dont:1 get:1 this:1 
+184 183 str184 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+185 184 str185 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+186 185 str186 1 i:1 think:1 that:1 it:1 will:1 let:1 water:1 in:1 but:1 not:1 glucose:1 
+187 186 str187 2 s020:1 do:1 you:1 agree:1 with:1 what:1 s021:1 is:1 saying?:1 
+188 187 str188 1 i:1 think:1 that:1 the:1 liquid:1 inside:1 will:1 come:1 out:1 
+189 188 str189 2 s022:1 do:1 you:1 agree:1 with:1 what:1 s020:1 is:1 saying?:1 
+190 189 str190 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+191 190 str191 0 i:1 disagree:1 with:1 {s020}:1 because:1 i:1 really:1 dont:1 understand:1 what:1 she:1 just:1 said:1 
+192 191 str192 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+193 192 str193 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+194 193 str194 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+195 194 str195 1 i:1 think:1 that:1 the:1 glucose:1 and:1 distilled:1 water:1 will:1 mix:1 
+196 195 str196 1 what:1 does:0 that:1 mean:1 s022:1 
+197 196 str197 1 {s021}:1 why:1 do:1 you:1 think:1 that:1 the:1 glucose:1 will:1 stay:1 inside:1 
+198 197 str198 0 what:1 does:0 what:1 mean?:0 
+199 198 str199 0 Back:1 from:1 watching:1 the:1 video?:1 
+200 199 str200 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+201 200 str201 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+202 201 str202 3 Ok:1 I:1 gotta:1 go.:1 
+203 202 str203 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+204 203 str204 0 hi:1 every1:0 
+205 -1 str205 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+206 205 str206 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+207 206 str207 1 s034:1 s041:1 s027...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+208 207 str208 0 my:1 name:1 is:1 {s034}:1 
+209 208 str209 2 Hi:1 S034:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+210 209 str210 2 S041:1 you:1 are:0 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+211 210 str211 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S027.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+212 211 str212 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+213 212 str213 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+214 213 str214 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+215 214 str215 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+216 215 str216 0 who:1 is:1 27:1 
+217 216 str217 0 {s027}:0 
+218 217 str218 0 what:1 do:1 you:1 think'ds:1 going:1 to:1 happen?:1 
+219 218 str219 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+220 219 str220 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+221 220 str221 0 the:1 world:1 is:1 going:1 to:1 end:1 in:1 2012:1 
+222 221 str222 2 S027:1 now:1 would:1 be:1 a:1 good:1 time:0 to:1 ask:1 S034:1 to:1 build:1 on:1 what:1 S041:1 is:1 saying.:1 
+223 222 str223 0 im:1 so:1 confused!:1 
+224 223 str224 2 034:1 would:1 you:1 like:0 to:1 build:1 on:1 to:1 what:1 041:1 is:1 saying?:1 and:1 me:0 too!:1 
+225 224 str225 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+226 225 str226 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:0 
+227 226 str227 0 ooh.:0 hi:1 
+228 227 str228 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+229 228 str229 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+230 229 str230 0 idk:1 what:1 to:1 do.:1 
+231 230 str231 1 someone:1 predict:1 something:1 
+232 231 str232 4 THE:1 WORLD:0 IS:1 GOING:1 TO:1 END:1 IN:1 2012:0 !:1 
+233 232 str233 1 oh:1 i:1 get:1 it!:1 what:1 do:1 you:1 think:1 is:1 going:1 to:1 happen:1 when:1 you:1 put:1 the:1 glucose:1 in:1 the:1 distilled:1 water?:1 
+234 233 str234 1 i:1 think:1 it:1 will:1 turn:1 a:1 different:1 color.:1 
+235 234 str235 0 {s041}?:1 
+236 235 str236 0 ok:1 dude:1 what:1 27:1 said:1 
+237 236 str237 3 in:1 your:1 own:1 words:1 
+238 237 str238 1 you:1 have:1 to:1 be:1 more:1 specific:1 27:1 
+239 238 str239 0 ur:1 one:1 to:1 talk!!!:0 
+240 239 str240 1 the:1 answer:1 to:1 number:0 one:1 ::1 the:1 distilled:1 water:1 will:1 move:1 into:1 the:1 internal:1 envorment:0 of:1 glucose:1 solution:1 
+241 240 str241 4 and:1 the:1 explaination:1 is:1 glucose:1 is:1 denser:1 
+242 241 str242 0 just:1 write:1 what:1 she[{s034}]:1 said.:1 
+243 242 str243 0 for:1 the:1 explination:1 
+244 243 str244 1 #2:1 the:1 distilled:1 water:1 will:1 move:1 into:1 the:1 external:1 enviroment:1 
+245 244 str245 0 watch:1 the:1 video:1 
+246 245 str246 0 Is:1 everyone:1 back?:1 
+247 246 str247 0 we:1 have:1 to:1 do:1 all:1 the:1 prediction:1 thats:1 what:1 NACHO:0 said:1 
+248 247 str248 0 ok:1 but:1 where:1 do:1 i:1 click:1 to:1 watch:0 it?:1 
+249 248 str249 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+250 249 str250 1 nevermind:0 i:1 found:1 it.:1 
+251 250 str251 1 #3:1 the:1 water:1 will:1 move:1 into:1 the:1 starch:1 because:1 starch:1 absorbs:1 it:1 
+252 251 str252 2 S027:1 now:1 would:1 be:1 a:1 good:1 time:0 to:1 ask:1 S041:1 to:1 build:1 on:1 what:1 S034:1 is:1 saying.:1 
+253 252 str253 0 {s034}:1 are:1 these:1 #'s:0 all:1 of:1 the:1 predictions:0 or:1 explanations?:1 
+254 253 str254 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+255 254 str255 1 #3:1 is:1 that:1 the:1 prediction?:1 
+256 255 str256 0 Lets:1 spend:1 the:1 rest:1 of:1 the:1 time:0 we:1 have:1 discussing:1 your:1 observations:1 from:1 all:1 the:1 three:1 conditions.:1 
+257 256 str257 3 Discuss:1 explanations:1 of:1 what:1 you:1 observed:1 in:1 each:1 condition:1 and:1 make:1 sure:1 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets.:1 
+258 257 str258 1 what:1 is:1 explanation:1 for:1 #2:1 
+259 258 str259 1 its:1 both:1 the:1 first:1 part:1 is:1 the:1 prediction:1 the:1 second:0 part:1 is:1 the:1 explanation:1 
+260 259 str260 2 @S027:1 can:1 you:1 ask:1 S041:1 to:1 build:1 on:1 what:1 S034:1 is:1 saying.:1 
+261 260 str261 1 i:1 want:1 to:1 shoot:1 myself:1 in:1 the:1 foot:1 -.-:1 
+262 261 str262 0 this:1 is:1 so:1 stupid.:1 
+263 262 str263 1 this:1 would:1 be:1 so:1 much:1 easier:0 just:1 in:1 a:1 group:0 
+264 263 str264 3 yep:1 yep:1 
+265 264 str265 2 @S027:1 can:1 you:1 ask:1 S041:1 to:1 build:1 on:1 what:1 S034:1 is:1 saying.:1 
+266 265 str266 0 you:1 dont:1 have:1 the:1 balls:0 to:1 do:1 it:1 
+267 266 str267 0 do:1 what?:1 
+268 267 str268 3 Ok:1 I:1 gotta:1 go.:1 
+269 268 str269 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+270 269 str270 0 our:1 tutor:1 left:1 us!!!:1 
+271 270 str271 0 she:1 is:1 a:1 baad:1 tutor!!!:1 
+272 271 str272 0 im:1 pretty:1 sure:1 its:1 a:1 he:1 
+273 272 str273 0 really?:1 haah!:0 oh:1 well.:1 idc.:1 he/she/it:1 
+274 273 str274 0 i:1 ddnt:1 even:1 watch:1 the:1 whole:1 video:1 
+275 274 str275 0 i:1 watched:1 most:1 of:1 it:1 
+276 275 str276 0 do:1 you:1 know:1 what:1 happened?:0 
+277 276 str277 0 i:1 just:1 wrote:0 the:1 observations:1 
+278 277 str278 1 oh.:1 what:1 was:1 it:1 after:1 1:1 hour:1 for:1 condition:1 A?:1 
+279 278 str279 1 {s041}:0 did:1 you:1 get:1 everything:0 so:1 far?:1 
+280 279 str280 4 condition:1 a::1 620:1 glucose:1 inside;:1 635:1 glucose:1 inside;:1 630:1 glucose:1 inside;:1 explanation::1 the:1 membrane:0 will:0 hold:1 stuff:1 for:1 a:1 certain:1 amount:1 of:1 time:0 
+281 280 str281 4 condition:1 b::1 540:1 glucose:1 outside;:1 525:1 glucose:1 outside;:1 525:1 glucose:1 outside;:1 explanation::1 the:1 glucose:1 was:1 not:1 being:1 absorbed:1 by:1 the:1 water:1 
+282 281 str282 0 i:1 think:1 .:1 
+283 282 str283 1 k:1 i'll:0 fast:1 forward:1 and:1 try:1 to:1 find:1 the:1 last:1 one:1 when:1 im:1 done:1 writing:1 the:1 condition:1 b.:1 
+284 283 str284 0 you:1 mean:1 i:1 know:1 !:1 
+285 284 str285 0 yea:1 sure:1 i:1 do:1 whatever.:1 hahahahahha:1 
+286 285 str286 0 lol:1 what:1 is:1 C:1 
+287 286 str287 0 i:1 dont:1 even:1 think:1 there:1 was:1 one:1 
+288 287 str288 1 i:1 sd:1 i'd:1 try:1 to:1 find:1 it:1 if:0 i:1 could.:1 
+289 288 str289 0 there:1 is:1 &:1 ok:1 
+290 289 str290 1 aaah:1 there:1 is:1 a:1 quiz!!!!!!!!!!!!!:1 
+291 290 str291 0 im:1 gonna:1 fail!!!!!!!!!!!!!!:1 
+292 291 str292 0 stfu:1 !:1 
+293 292 str293 4 HAPPY:1 BIRTHDAAAY:1 {s041}:0 :D:1 :D:1 :D:1 :D:1 :D:1 :D:1 :D:1 :D:1 :D:1 
+294 293 str294 0 lol:1 thsnks:1 
+295 294 str295 0 is:1 it:1 ur:1 birthday?:0 
+296 295 str296 0 bye:1 bye:1 guys.:1 
+297 -1 str297 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+298 297 str298 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+299 298 str299 1 s035:1 s042:0 s028...:0 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+300 299 str300 2 Hi:1 S035:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+301 300 str301 2 S042:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+302 301 str302 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S028.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+303 302 str303 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+304 303 str304 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+305 304 str305 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+306 305 str306 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+307 306 str307 0 hi:1 my:1 name:1 is:1 {s035}:1 
+308 307 str308 0 W:1 ho's:1 35?:1 
+309 308 str309 0 O:1 h:0 this:1 is:1 {s042}:1 
+310 309 str310 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+311 310 str311 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+312 311 str312 1 Yeah.:1 I:1 think:1 that:1 water:1 will:1 try:1 to:1 even:1 out:1 with:1 glucose:1 for:1 the:1 first:1 one:1 
+313 312 str313 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+314 313 str314 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+315 314 str315 0 ook....so:1 we:1 got:0 the:1 parts..:1 who:1 else:0 is:1 in:1 the:1 group...and:1 i:1 have:1 no:1 clue:1 what:1 we:1 are:1 doing....:1 do:1 we:1 just:1 talk:1 about:1 what:1 we:1 think:1 is:1 going:1 to:1 happen:1 to:1 the:1 egg:1 
+316 315 str316 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+317 316 str317 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+318 317 str318 0 oo:1 hey:1 im:1 {s035}!!:1 
+319 318 str319 0 ook:1 group:0 what:1 do:1 we:1 pedict:1 
+320 319 str320 1 I:1 think:1 that:1 the:1 water:1 will:1 seperate:1 and:1 travel:1 to:1 glucose.:1 Because:1 water:1 has:1 a:1 lot:1 of:1 molecules:1 and:1 glucose:1 is:1 just:1 sugar.:1 So:0 it:1 would:1 then:1 balance:1 out.:1 What:1 do:1 you:1 think?:1 
+321 320 str321 1 ook:1 this:1 is:1 what:1 i:1 think...if:1 we:1 put:1 the:1 cell:1 model:1 in:1 the:1 water:1 it:1 will:1 grow:1 like:1 the:1 egg:1 did....but:0 if:0 its:1 in:1 teh:1 sugar:1 it:1 will:1 shrink:1 
+322 321 str322 1 Oh:1 I:1 get:1 it.:1 But:0 wouldn't:1 it:1 still:1 expand:1 and:1 try:1 to:1 balance:1 out?:1 
+323 322 str323 0 i:1 am:1 so:1 confused:1 
+324 323 str324 0 im:1 with:1 {s028}:1 on:1 this:1 one....:1 
+325 324 str325 1 It's:1 like:1 Osmosis:1 I:1 think.:1 If:1 it's:1 water:1 mixed:1 in:1 with:1 sugar:1 like:0 liquid:1 or:1 another:1 solvent:1 it:1 will:1 try:1 to:1 balance:1 out.:1 Like:1 salt.:0 Does:1 that:1 help?:1 
+326 325 str326 0 thankyou!:1 i:1 have:1 nothing:1 written:1 on:1 my:1 paper:1 i'm:1 a:1 bit:1 stupid:1 
+327 326 str327 0 Back:1 from:1 watching:1 the:1 video?:1 
+328 327 str328 0 no:1 alex:1 we:1 arent!:1 jeeze!:1 
+329 328 str329 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+330 329 str330 1 alright:0 i:1 am:1 still:1 on:1 A:1 for:1 the:1 first:1 box:1 thing:1 
+331 330 str331 0 haha:1 its:1 cool:1 and:1 {s042}:1 that:1 is:1 a:1 good:1 idea....:1 i:1 think:1 we:1 mite:1 have:1 to:1 watch:0 the:1 movie:1 
+332 331 str332 0 what:1 do:1 you:1 guys:1 think?:0 
+333 332 str333 0 we:1 need:1 to:1 watch:0 the:1 movie:1 maybe??:1 
+334 333 str334 0 yeah:0 i:1 think:1 we:1 should:1 
+335 334 str335 1 I:1 think:1 that:1 it:1 might:1 balance:1 out:1 and:1 that:1 {s035}'s:1 right:1 with:1 the:1 shrinking:1 of:1 the:1 water.:1 
+336 335 str336 0 Yeah:1 we:1 should:1 
+337 336 str337 1 ook:1 were:1 do:1 we:1 go:1 lol:0 
+338 337 str338 1 down:1 at:1 the:1 bottom:0 of:1 the:1 screen:1 
+339 338 str339 0 thnx:1 found:1 it:1 
+340 339 str340 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+341 340 str341 1 So:0 far:1 it's:1 like:0 consuing:0 and:1 growing:1 
+342 341 str342 0 Lets:1 spend:1 the:1 rest:1 of:1 the:1 time:0 we:1 have:1 discussing:1 your:1 observations:1 from:1 all:1 the:1 three:1 conditions.:1 
+343 342 str343 3 Discuss:1 explanations:1 of:1 what:1 you:1 observed:1 in:1 each:1 condition:1 and:1 make:1 sure:1 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets.:1 
+344 343 str344 1 i:1 think:1 that:1 for:1 C:1 the:1 predicted:1 change:1 would:1 be:1 that:1 the:1 water:1 will:1 move:1 into:1 the:1 starch:1 
+345 344 str345 1 The:1 glucose:1 weighed:1 it:1 down:1 and:1 then:1 disperssed:1 
+346 345 str346 2 I:1 agree:1 with:1 s028:1 
+347 346 str347 3 Ok:1 I:1 gotta:1 go.:1 
+348 347 str348 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+349 348 str349 0 wooo:1 now:1 all:1 i:1 need:1 is:1 B!:1 and:1 the:1 entire:1 second:0 box:1 haha:1 
+350 349 str350 0 i:1 still:1 hav:1 eno:1 clue:1 what:1 to:1 write:1 in:1 all:1 the:1 boxes:1 :(:1 
+351 350 str351 1 Okay:1 I:0 think:1 that:1 when:1 the:1 distilled:1 water:1 is:1 put:1 into:1 the:1 glucose:1 the:1 glucose:1 will:1 get:1 lighter:1 and:1 then:1 well:1 I:1 don't:0 know:1 what:1 then.....:1 
+352 351 str352 1 wouldnt:1 for:1 B:1 the:1 water:1 will:1 once:1 again:1 shrink:1 because:1 its:1 mixing:0 water:1 with:1 glucose:1 again?:1 
+353 352 str353 0 oh:1 ok:1 or:1 your:1 prediction:1 haha:1 
+354 353 str354 1 Oh:1 I:1 think:1 it:1 would:1 but:1 it:1 might:0 expand:1 at:1 first:1 then:1 shrink:1 
+355 354 str355 0 that:1 makes:1 sense:1 
+356 355 str356 1 wouldnt:1 the:1 explanation:1 for:1 C:1 be:1 that:1 starch:1 absorbs:1 water:1 and:1 thats:1 why:1 the:1 water:1 will:1 move:1 into:1 it?:1 
+357 356 str357 1 the:1 explanation:1 I:1 think:1 would:1 be:1 that:1 since:1 when:1 h20:1 is:1 put:1 into:1 another:1 solvent:1 it:1 expands:1 its:1 molecules:1 and:1 then:1 maybe:1 it:1 would:1 shrink:1 from:1 the:1 glucose:1 
+358 357 str358 1 Yeah:1 thats:1 what:1 shoud:1 happen:1 for:1 the:1 starch:1 box:1 
+359 358 str359 0 i:1 think:1 we:1 ahuld:1 all:1 write:1 what:1 we:1 think:1 an:1 dthen:0 talk:1 about:1 it:1 
+360 359 str360 0 mkkk.:0 now:1 all:1 we:1 need:1 is:1 the:1 explanation:1 for:1 box:1 A:1 
+361 360 str361 1 Box:0 A:1 I:1 think:1 would:1 be:1 that:1 there's:1 a:1 lot:1 of:1 water:1 and:1 glucose:1 is:1 sugar:1 so:1 it:1 would:1 shrink:1 and:1 like:1 balance:1 
+362 361 str362 4 are:0 we:1 on:1 the:1 first:1 set:1 of:1 boxes:1 of:1 the:1 seconf??:1 
+363 362 str363 0 ok:1 now:1 we:1 have:1 to:1 watch:1 that:1 stupid:1 video:1 but:1 didnt:1 he:1 tell:1 us:1 to:1 X:1 out:1 of:1 it?:1 
+364 363 str364 0 I'm:1 restarting:1 the:1 video:1 the:1 2nd:1 box:1 is:1 confusing....:1 
+365 364 str365 0 mk:1 me:1 too:1 
+366 365 str366 0 ok:1 thnx...for:0 the:1 second:0 st:1 of:1 boxes:1 for:1 the:1 observations:1 change:1 i:1 put:1 all:1 the:1 weights:1 i:1 saw:1 in:1 the:1 movie:1 
+367 366 str367 0 we:1 didnt:1 even:1 take:1 the:1 quiz:1 yet:1 and:1 i:1 failed:1 hahhaha:1 
+368 367 str368 0 oo:1 great:1 a:1 quiz:1 
+369 368 str369 3 I:1 don't:0 want:1 a:1 quiz:1 
+370 369 str370 1 I:1 think:1 the:1 glocos:0 will:1 get:1 heavier:1 
+371 370 str371 0 bye:1 guys!:1 
+372 371 str372 0 bye:1 bye:1 
+373 -1 str373 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+374 373 str374 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+375 374 str375 1 s029:1 s036:1 s043...:0 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+376 375 str376 2 Hi:1 S029:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+377 376 str377 2 S036:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+378 377 str378 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S043.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+379 378 str379 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+380 379 str380 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+381 380 str381 0 this:1 is:1 {s036}:1 :):1 
+382 381 str382 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+383 382 str383 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+384 383 str384 0 HELLO!?:1 who:1 is:1 there:1 
+385 384 str385 4 HELLO?:1 
+386 385 str386 0 who:1 is:1 my:1 partner:1 
+387 386 str387 0 your:1 mom...:1 {s036}:1 :):1 
+388 387 str388 0 who:1 is:1 so29:0 
+389 388 str389 0 {s029[pet:1 name:1 form]}:1 
+390 389 str390 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+391 390 str391 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+392 391 str392 1 what:1 do:1 we:1 discuss:1 
+393 392 str393 0 who:1 are:1 you?^:1 
+394 393 str394 0 who:1 is:1 dis:1 wats:1 a:1 {s029[pet:1 name:1 form]}:1 
+395 394 str395 0 dis:1 is:1 {s043}:1 
+396 395 str396 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+397 396 str397 0 who:1 is:1 29:1 
+398 397 str398 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+399 398 str399 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+400 399 str400 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+401 400 str401 0 {s043}:1 wat:1 are:1 we:1 doing?:1 
+402 401 str402 3 {s029}!:1 
+403 402 str403 3 BOYFRIEND!:1 :):1 
+404 403 str404 0 haha:1 hey:1 boyfriend!:1 
+405 404 str405 4 WHAT:1 ARE:1 WE:1 SUPPOSED:1 TO:1 WRITE:1 
+406 405 str406 0 ok:1 wat:1 r:1 we:1 doin?:1 
+407 406 str407 1 i:1 think:1 the:1 water:1 will:1 travel:1 into:1 the:1 tube:1 with:1 the:1 gluecose:1 because:1 of:1 osmosis:1 
+408 407 str408 1 for:1 A?:1 
+409 408 str409 1 a?:1 i:1 thought:1 it:1 was:1 #1?:1 
+410 409 str410 1 water:1 will:1 mix:1 with:1 the:1 gluecose:1 to:1 try:1 and:1 balance:1 out:1 the:1 water:1 molecules:1 
+411 410 str411 0 yes:1 for:1 a:1 
+412 411 str412 1 for:1 predicted:1 change?:1 
+413 412 str413 1 wouldn't:1 that:1 be:1 the:1 same:1 for:1 B?:0 
+414 413 str414 1 i:1 need:1 help!:1 ;(:1 
+415 414 str415 1 i:1 think:1 the:1 water:1 will:1 be:1 obsorbed:1 
+416 415 str416 1 for:1 part:1 b:1 
+417 416 str417 1 i:1 think:1 the:1 glucose:1 will:1 dissolve:1 
+418 417 str418 1 there:1 is:1 more:1 gluecose:1 than:1 water:1 outside:1 than:1 inside:1 so:1 the:1 water:1 will:1 come:1 out:1 
+419 418 str419 0 Is:1 everyone:1 back?:1 
+420 419 str420 0 ok:1 can:1 someone:1 help:1 me:1 please!:1 
+421 420 str421 1 how:1 do:1 you:1 know:1 there's:1 more:1 glucose:1 than:1 water:1 outside:1 than:1 inside?:1 
+422 421 str422 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+423 422 str423 1 becasue:1 the:1 tube:1 of:1 water:1 is:1 siting:1 inside:1 the:1 container:1 of:1 gluecose:1 
+424 423 str424 2 S036:1 can:1 you:1 put:1 what:1 S043:1 said:1 in:1 your:1 own:1 words?:1 
+425 424 str425 1 wait:1 what're:1 we:1 writing:1 for:1 the:1 explanation:1 for:1 each:1 prediction?:1 so:1 far:1 i:1 just:1 have:1 water:1 will:1 mix:1 with:1 glucose:1 to:1 try:1 to:1 balance:1 out:1 the:1 water:1 molecules:1 for:1 the:1 predicted:1 change:1 for:1 A:1 
+426 425 str426 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:0 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+427 426 str427 0 Lets:1 spend:1 the:1 rest:1 of:1 the:1 time:0 we:1 have:1 discussing:1 your:1 observations:1 from:1 all:1 the:1 three:1 conditions.:1 
+428 427 str428 3 Discuss:1 explanations:1 of:1 what:1 you:1 observed:1 in:1 each:1 condition:1 and:1 make:1 sure:1 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets.:1 
+429 428 str429 1 for:1 A:1 what:1 did:1 we:1 get:1 for:1 the:1 explanation:1 for:1 prediction..:0 since:1 i:1 need:1 alot:1 of:1 help!:1 
+430 429 str430 0 wait:1 {s029}:1 did:1 you:1 watch:0 the:1 video:1 already?:1 
+431 430 str431 1 yea:1 dats:1 right:1 for:1 b:1 i:1 jus:1 said:1 the:1 water:1 will:1 b:1 obsorbed:1 because:1 there:1 is:1 more:1 gluecose:1 and:1 the:1 water:1 will:1 travel:1 from:1 a:1 low:1 water:1 level:1 to:1 attempt:1 to:1 go:1 to:1 a:1 higher:1 source:1 of:1 water:1 
+432 431 str432 2 S036:1 can:1 you:1 put:1 what:1 S043:1 said:1 in:1 your:1 own:1 words?:1 
+433 432 str433 3 Ok:1 I:0 gotta:1 go.:1 
+434 433 str434 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+435 434 str435 1 is:1 everybody:1 redy:1 for:1 the:1 video?????:1 
+436 435 str436 0 no:1 no:1 no:1 !:1 i:1 need:1 the:1 A:1 &:1 C:1 prediction.....:1 
+437 436 str437 1 a-the:0 water:1 will:1 go:1 into:1 the:1 tube:1 because:1 of:1 osmosis:1 
+438 437 str438 1 c-the:1 water:1 will:1 go:1 into:1 the:1 starch:1 
+439 438 str439 0 okayy:1 thankyouu:1 :):1 now:1 we:1 watch:1 the:1 video?:1 
+440 439 str440 1 what's:1 the:1 predicted:1 change:1 for:1 B?:0 
+441 440 str441 1 noooo!!!:1 i:1 need:1 B:1 and:1 the:1 Explanation:1 for:1 Prediction:1 of:1 each:1 one:1 
+442 441 str442 1 b-i:1 think:1 the:1 water:1 will:1 be:1 obsorbed:1 
+443 442 str443 1 b-:1 water:1 will:1 obsorbed:1 bc:1 there:1 is:1 more:1 gluecose/:1 the:1 water:1 travel:1 low:1 water:1 level:1 to:1 a:1 higher:1 source?:1 ritght?:1 
+444 443 str444 1 wait:1 would:1 osmosis:1 be:1 the:1 explanation:1 for:1 A?:1 
+445 444 str445 1 yeah:0 the:1 A:1 the:1 water:1 will:1 go:1 into:1 the:1 tube:1 bc:1 of:1 osmois:1 
+446 445 str446 0 idk:1 this:1 is:1 wat:1 she:1 was:1 sayn:1 
+447 446 str447 1 so:1 we're:0 writing:1 Osmosis:1 in:1 the:1 box:1 for:1 Explanation?!:0 
+448 447 str448 0 but:1 she:1 is:1 watching:1 the:1 video:1 we:1 are:0 soo:1 lost:1 :(:1 
+449 448 str449 1 hahahh:1 oh:1 dear:1 
+450 449 str450 0 i:1 put:1 for:1 A:1 the:1 explantation:1 prediction:1 of:1 what:1 i:1 said:1 about:1 A:1 lol!:1 
+451 450 str451 1 i:1 only:1 watched:1 a:1 couple:0 seconds:1 of:1 the:1 video:1 so:1 far:1 
+452 451 str452 4 WHERE:1 IS:1 THE:1 VIDEO!?:1 
+453 452 str453 0 at:1 the:1 bottom:0 next:1 to:1 start:1 it:1 says:1 combined:1 video:1 
+454 453 str454 0 i:1 hate:1 psp:1 :'(:1 idk:1 wats:1 goin:0 on:1 
+455 454 str455 1 for:1 the:1 explantion:1 for:1 C:1 i:1 put:1 stach:1 absorbs:1 liquid:1 and:1 water:1 is:1 a:1 liquid:1 
+456 455 str456 1 yea:1 i:1 put:1 like:1 the:1 same:1 thing:1 water:1 will:1 go:1 into:1 the:1 strarch:1 
+457 456 str457 0 well:1 im:1 going:1 to:1 watch:0 the:1 video:1 lol:1 
+458 457 str458 0 me:1 too!:1 
+459 -1 str459 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+460 459 str460 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+461 460 str461 1 s044:0 s030:1 s037...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+462 461 str462 2 Hi:1 S044:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+463 462 str463 2 S030:0 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+464 463 str464 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S037.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+465 464 str465 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+466 465 str466 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+467 466 str467 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+468 467 str468 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+469 468 str469 0 this:1 is:1 {s037}:1 
+470 469 str470 0 ur:1 mom:1 
+471 470 str471 0 hi:1 {s036[sic]}:1 
+472 471 str472 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+473 472 str473 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+474 473 str474 0 im:1 watching:1 you:1 
+475 474 str475 0 haha..were:1 gona:1 fail:1 
+476 475 str476 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+477 476 str477 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+478 477 str478 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+479 478 str479 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+480 479 str480 0 what:1 do:1 we:1 do:1 
+481 480 str481 0 write:1 your:1 preditions:1 
+482 481 str482 0 Say:1 Yes:1 to:1 let:1 me:1 know:1 you:1 are:1 back:1 from:1 watching:1 the:1 video.:1 
+483 482 str483 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+484 483 str484 3 did:1 you:1 guys:1 get:1 it:1 
+485 484 str485 0 i:1 got:0 it:1 
+486 485 str486 0 wat:1 did:1 u:1 observe:1 for:1 5hrs:1 condition:1 c:1 
+487 486 str487 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+488 487 str488 3 Ok:1 I:0 gotta:1 go.:1 
+489 488 str489 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+490 489 str490 0 i:1 love:1 you:1 
+491 490 str491 0 i:1 hate:1 {s036}:1 
+492 491 str492 1 condition:1 gained:1 waight':1 
+493 492 str493 1 lost:1 waight':1 
+494 493 str494 1 c:1 gained:1 weight:1 for:1 hr:1 and:1 5:1 hrs:1 then:1 lost:1 weight:1 at:1 day:1 
+495 494 str495 0 i:1 didnt:1 watch:0 c:1 
+496 495 str496 4 tell:1 {so36}:1 shes:1 a:1 hoe:1 
+497 496 str497 0 she:1 said:1 your:1 momma:0 mj!:1 
+498 497 str498 1 how:1 much:1 does:0 (c):1 weigh:1 on:1 th:1 first:1 hr:1 
+499 498 str499 1 and:1 the:1 5th:1 hr:1 
+500 499 str500 1 and:1 after:1 day:1 one:1 
+501 500 str501 1 6.55:0 for:1 both:1 
+502 501 str502 1 .655:1 srry:1 
+503 502 str503 0 thats:1 wat:1 she:1 said:1 
+504 503 str504 1 wow..lol:1 
+505 504 str505 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+506 505 str506 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+507 506 str507 1 s045:1 s031:1 s038...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+508 507 str508 2 Hi:1 S045:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+509 508 str509 2 S031:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+510 509 str510 0 hi:1 my:1 name:1 is:1 {s038}:1 
+511 510 str511 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S038.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+512 511 str512 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+513 512 str513 0 hi:1 my:1 name:1 is:1 {s031}:1 
+514 513 str514 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+515 514 str515 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+516 515 str516 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+517 516 str517 0 what:1 do:1 you:1 think:1 will:1 hlappen?:1 
+518 517 str518 1 i:1 think:1 that:1 a:1 and:1 b:1 will:1 turn:1 out:1 the:1 same.:1 
+519 518 str519 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+520 519 str520 1 i:1 think:1 in:1 condition:1 A:1 water:1 will:1 go:1 inside:1 the:1 cell:1 and:1 b:1 will:1 be:1 the:1 oppisite:1 
+521 520 str521 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+522 521 str522 0 what:1 do:1 you:1 think:1 will:1 happpen?:1 
+523 522 str523 0 ok..sound:1 about:1 right:1 
+524 523 str524 0 what:1 wil:0 happen:1 to:1 condition:1 c./:0 
+525 524 str525 0 i:1 have:1 no:1 idea:1 either:1 
+526 525 str526 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+527 526 str527 0 alrighhttm:1 
+528 527 str528 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+529 528 str529 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+530 529 str530 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+531 530 str531 0 what:1 the:1 explanatiion:1 for:1 what:1 you:1 guys:1 said?:0 
+532 531 str532 0 what:1 do:1 you:1 mean:1 ?:1 
+533 532 str533 0 great:1 help..:1 
+534 533 str534 0 it:1 says:1 whats:1 the:1 explanation:1 for:1 your:1 prediction:1 
+535 534 str535 1 for:1 A:1 i:1 said:1 that:1 water:1 would:1 go:1 inside:1 since:1 gloucuse:1 dissolves:1 in:1 waterr:1 and:1 the:1 membrane:0 would:1 gain:1 weight:1 
+536 535 str536 0 im:1 not:1 sure:1 though:1 
+537 536 str537 0 that:1 sounds:1 gooood.:1 
+538 537 str538 3 ok..what:1 did:1 you:1 put:1 for:1 condition:1 B:1 
+539 538 str539 4 LETS:1 WATCH:1 THE:1 VIDEO:1 IN:1 THE:1 OTHER:1 TAB..:1 
+540 539 str540 0 COUGH:1 COUGH:1 at:1 the:1 bottomof:1 the:1 page:1 
+541 540 str541 1 hahhaha:1 
+542 541 str542 0 waht:1 did:1 you:1 put:1 for:1 conditon:1 c?:1 
+543 542 str543 0 Are:1 you:1 guys:1 back?:1 
+544 543 str544 0 the:1 thing:1 {s031}:1 said?\:0 
+545 544 str545 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+546 545 str546 1 i:1 think:1 for:1 c:1 that:1 it:1 would:1 turn:1 purple:1 since:1 the:1 starch:1 would:1 mix:1 with:1 the:1 idione:1 or:1 is:1 it:1 the:1 other:0 way:1 around:1 
+547 546 str547 0 i:1 was:1 thinking:1 the:1 same:1 thing:1 
+548 547 str548 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+549 548 str549 0 i:1 dont:1 know:1 what:1 this:1 video:1 is:1 doing:1 i:1 cant:1 hear:1 anything:1 and:1 its:1 confusing:1 me:1 
+550 549 str550 1 same:1 here..i:0 cant:1 see:1 the:1 weighto=or:1 anythign:1 
+551 550 str551 3 Ok:1 I:1 gotta:1 go.:1 
+552 551 str552 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+553 552 str553 0 exactly:1 
+554 553 str554 0 i:1 dont:1 know:1 how:1 to:1 do:1 any:1 of:1 thiss.:1 
+555 554 str555 1 i:1 got:1 the:1 weight:1 but:1 i:1 can:1 barely:1 see:1 the:1 strips:1 
+556 555 str556 1 for:1 a:1 and:1 b:1 the:1 strips:1 are:0 dark:1 green:1 
+557 556 str557 0 yeaah:0 i:1 got:1 alll:1 confused:1 and:1 dont:1 know:1 is:1 for:1 which:1 
+558 557 str558 0 whats:1 the:1 weight:1 
+559 558 str559 3 condtion:1 A:1 
+560 559 str560 1 wasnt:1 one:1 like:1 .60:1 
+561 560 str561 1 after:1 1:1 hr?:1 
+562 561 str562 1 and:1 then:1 after:1 5:1 hours:1 it:1 was:1 .635:1 
+563 562 str563 1 and:1 after:1 1:1 day:1 it:1 was:1 .630:1 
+564 563 str564 1 for:1 b:1 it:1 was:1 .540:1 for:1 1:1 hour:1 
+565 564 str565 1 .525:1 for:1 5:1 hours:1 
+566 565 str566 1 what:1 was:1 the:1 weight:1 for:1 conditon:1 b?:0 
+567 566 str567 1 and:1 then:1 .525:1 again:1 for:1 a:1 day:1 
+568 567 str568 2 thankk:0 youu:1 
+569 568 str569 3 ok..whaty:1 about:1 for:1 conditon:1 c?:1 
+570 569 str570 0 i:1 didnt:1 get:1 there:1 yet:1 in:1 the:1 videeooo:1 
+571 570 str571 3 neither:1 did:1 i...what:1 did:1 you:1 put:1 for:1 your:1 observations:1 for:1 a:1 and:1 b:1 
+572 571 str572 1 for:1 c:1 after:1 i:1 hour:1 it:1 was:1 black:1 on:1 the:1 tube:1 and:1 the:1 water:1 outside:1 look:1 kinda:1 yellow:1 and:1 it:1 was:1 .655:1 
+573 572 str573 1 after:1 5:1 hours?:1 
+574 573 str574 1 after:1 5:1 hours:1 it:1 was:1 .655:1 and:1 the:1 water:1 still:1 looked:1 yellow:1 
+575 574 str575 1 and:1 then:1 after:1 24:0 hours:1 it:1 was:1 .635:1 
+576 575 str576 1 ok:1 and:1 for:1 one:1 day?:1 
+577 576 str577 1 and:1 the:1 water:1 looked:1 lighter:1 than:1 for:1 before:1 
+578 577 str578 0 okkaaaaayyyy.:1 do:1 you:1 guys:1 know:1 why:1 this:1 stuff:1 happpned:1 
+579 578 str579 1 for:1 a....it:1 gained:1 weight:1 because:1 th:1 glucose:1 was:1 obsorbed:1 
+580 579 str580 1 okay:1 and:1 then:1 would:1 it:1 be:1 the:1 oppistie:1 for:1 b:1 
+581 580 str581 0 umm...im:1 not:1 so:1 sure:1 
+582 581 str582 1 iit:1 lost:1 weighht:1 
+583 582 str583 2 nevermind....yeah:1 it:1 would:1 
+584 583 str584 0 what:1 about:1 for:1 c?:1 
+585 584 str585 1 soooo:0 it:1 lost:1 water:1 from:1 inside?:1 
+586 585 str586 1 yeah..weight:1 was:1 lost:1 because:1 the:1 glucose:1 didnt:1 absord:0 all:0 the:1 way:1 
+587 586 str587 1 what:1 would:1 we:1 put:1 for:1 c:1 
+588 587 str588 1 and:1 the:1 last:1 one:1 lost:1 weight:1 
+589 588 str589 0 idk:1 this:1 quiz:1 :(:1 
+590 589 str590 0 mmee:1 either:1 
+591 -1 str591 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+592 591 str592 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+593 592 str593 0 hi:1 alex:1 
+594 593 str594 0 hi:1 32:1 and:1 46:0 
+595 594 str595 1 s032:1 s046:1 s039...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+596 595 str596 0 im:1 {s039}:1 
+597 596 str597 2 Hi:1 S032:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+598 597 str598 2 S046:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+599 598 str599 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S039.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+600 599 str600 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+601 600 str601 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+602 601 str602 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+603 602 str603 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+604 603 str604 0 hi:1 i:1 am:1 {s039}:1 
+605 604 str605 0 hi:1 im:1 {s046}:1 
+606 605 str606 0 hi:1 {s046}:1 
+607 606 str607 0 hey:1 {s053}:1 
+608 607 str608 0 hey:1 {s053}:1 from:1 {s032}:1 
+609 608 str609 0 32:1 is:1 {s032}:1 
+610 609 str610 0 39:1 is:1 {s039}:1 
+611 610 str611 0 hi:1 {s039}:1 
+612 611 str612 0 so:1 u:1 know:1 
+613 612 str613 0 hi:1 {s032}:1 
+614 613 str614 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+615 614 str615 0 so:1 what:1 do:1 you:1 think:1 about:1 the:1 first:1 one:1 {s039}:1 
+616 615 str616 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+617 616 str617 0 i:1 dont:1 know:1 i:1 feel:0 stupid:1 do:1 you:1 know:1 {s046}?:1 
+618 617 str618 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+619 618 str619 1 i:1 think:1 water:1 wil:0 be:1 taken:1 out:1 of:1 the:1 cell:1 because:1 the:1 glucose:1 will:1 harvest:1 the:1 water:1 
+620 619 str620 2 S039:1 do:1 you:1 agree:1 with:1 what:1 S032:1 is:1 saying?:1 
+621 620 str621 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+622 621 str622 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+623 622 str623 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+624 623 str624 0 i:1 was:1 going:1 to:1 ask:1 but:1 ok:1 thats:1 sounds:1 right:1 
+625 624 str625 0 yea:1 alex:1 
+626 625 str626 0 who's:1 in:1 my:1 group?:1 
+627 626 str627 0 hahahahha:1 {s046}:1 
+628 627 str628 0 {s046}:1 is:1 mean:0 from:1 {s039}:1 
+629 628 str629 0 your:1 beat:1 
+630 629 str630 0 no:1 she:1 is:1 super:1 beat:1 
+631 630 str631 0 exactly:1 
+632 631 str632 0 okay:1 so:1 what:1 are:1 we:1 doing?:1 
+633 632 str633 1 for:1 solution:1 a:1 i:1 think:1 water:1 will:1 be:1 added:1 to:1 the:1 cell:1 
+634 633 str634 1 my:1 explanation:1 is:1 that:1 the:1 glucose:1 will:1 absorb:1 the:1 water:1 causing:1 the:1 cell:1 to:1 expand:1 
+635 634 str635 1 i:1 think:1 the:1 exact:1 opposite:1 
+636 635 str636 1 lets:0 go:1 to:1 the:1 video:1 
+637 636 str637 1 to:1 my:1 knowledge:1 glucose:1 attractes:0 water:1 but:1 when:1 inside:1 an:1 ienvoronment:0 itll:1 push:0 out:1 water:1 but:1 i:1 could:1 be:1 wrong:0 
+638 637 str638 0 so:1 i:1 like:0 what:1 you:1 siad:1 
+639 638 str639 0 Are:1 you:1 guys:1 back?:1 
+640 639 str640 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+641 640 str641 0 alrite:0 what:1 do:1 you:1 think:1 about:1 condition:1 B?:0 
+642 641 str642 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+643 642 str643 0 i:1 didnt:1 watch:1 it:1 yet:1 
+644 643 str644 1 i:1 think:1 the:1 cell:1 would:1 lose:1 weigtt:1 to:1 because:1 the:1 glucose:1 will:1 extract:1 the:1 water:1 out:1 of:1 the:1 cell:1 
+645 644 str645 2 S039:1 why:1 dont:1 you:1 do:1 explain:1 the:1 reasons:1 behind:1 what:1 S032:1 is:1 saying.:1 
+646 645 str646 3 Ok:1 I:1 gotta:1 go.:1 
+647 646 str647 1 so:1 it:1 turns:1 out:1 i:1 was:1 right:1 according:1 to:1 the:1 video:1 the:1 cell:1 in:1 (a):1 gained:1 wight:1 and:1 the:1 one:1 in:1 (b):1 loses:1 wight:1 
+648 647 str648 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+649 648 str649 2 byeee(::1 
+650 649 str650 0 yea:1 thats:1 what:1 i:1 was:1 thinking:1 {s032}:1 
+651 650 str651 0 i:1 need:1 helpp:1 
+652 651 str652 1 i:1 saw:1 the:1 video:1 condition:1 b:1 will:1 take:1 water:1 out:1 
+653 652 str653 0 so:1 my:1 prediction:1 was:1 right:1 from:1 the:1 start:0 
+654 653 str654 4 condition:1 a:1 is:1 right:1 also.:1 
+655 654 str655 0 so:1 {s039}:1 what:1 you:1 doing:1 saturday:0 nght:1 
+656 655 str656 0 i:1 didnt:1 see:1 the:1 video:1 for:1 condition:1 a:1 though:1 
+657 656 str657 0 hat:1 was:1 weird:0 
+658 657 str658 0 he:1 says:1 idk:1 hahhahah:0 {s033}:1 says:1 hi:1 
+659 658 str659 1 never:1 do:1 that:1 again:1 
+660 659 str660 0 tell:1 i:1 {s033}:1 i:1 say:1 nothing:1 
+661 660 str661 0 awe:1 thats:1 mean:1 
+662 661 str662 0 no:1 its:1 not:1 
+663 662 str663 0 im:1 gonna:1 watch:1 the:1 video:1 to:1 see:1 condition:1 c:1 
+664 663 str664 0 im:1 gonna:1 watch:1 it:1 too:1 to:1 understand:1 whats:1 going:1 on:1 
+665 664 str665 0 fun:1 fact:1 from:1 dr:1 {s032}:1 asdfjkl;:0 are:0 all:1 home:1 row:1 keys:1 
+666 665 str666 0 fun:1 fact:1 from:1 doctor:1 {s032}:1 you:1 can:1 type:1 the:1 word:1 typewriter:1 using:1 only:1 the:1 top:0 row:1 
+667 666 str667 1 also:1 for:1 C:1 the:1 starch:1 will:1 come:1 out:1 slowlyu:1 
+668 667 str668 0 slowly:1 
+669 668 str669 0 fun:1 fact:1 lollipop:0 is:1 the:1 longest:1 word:1 you:1 can:1 type:1 using:1 only:1 your:1 left:1 hand:1 
+670 669 str670 1 my:1 explanation:1 is:1 the:1 water:1 will:1 absorb:1 the:1 starch:1 causing:1 the:1 cell:1 to:1 decrease:1 
+671 670 str671 0 {s032}:1 its:1 ur:1 right:1 hand:1 
+672 671 str672 1 oh:1 hahahah:1 i:1 meant:1 to:1 say:1 that:1 swear:1 any:0 way:1 
+673 672 str673 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+674 673 str674 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+675 674 str675 3 wattup:1 
+676 675 str676 1 Hi:1 I:1 am:1 {s040}:0 
+677 676 str677 2 Hi:1 {s040}:0 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+678 677 str678 0 im:1 {s047}:1 
+679 678 str679 1 s033:1 s047...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+680 679 str680 2 {s047}:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+681 680 str681 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S033.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+682 681 str682 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+683 682 str683 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+684 683 str684 4 33who:1 areu:1 
+685 684 str685 0 who:1 is:1 33:1 
+686 685 str686 0 {s033}:1 is:1 33:1 haha:1 
+687 686 str687 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+688 687 str688 0 who:1 is:1 40:1 
+689 688 str689 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+690 689 str690 0 {s040}:1 
+691 690 str691 0 {s040}:1 
+692 691 str692 0 toast:1 nd:1 cereal:1 all:1 day:1 
+693 692 str693 0 {s047}:1 do:1 you:1 know:1 what:1 to:1 do:1 
+694 693 str694 0 what:1 {s047}:1 
+695 694 str695 0 nope:1 i:1 left:1 the:1 room:1 cuz:1 i:1 cut:0 my:1 finger:1 on:1 the:1 chair:1 
+696 695 str696 2 S033:1 now:1 would:1 be:1 a:1 good:1 time:1 to:1 ask:1 {s040}:0 to:1 build:1 on:1 what:1 {s047}:1 is:1 saying.:1 
+697 696 str697 0 {s033}:1 
+698 697 str698 3 you:1 are:1 supposedtoask:1 mesomething:1 
+699 698 str699 1 what:1 do:1 u:1 think:1 will:1 happen:1 to:1 the:1 glucose:1 in:1 the:1 distilled:1 water:1 
+700 699 str700 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+701 700 str701 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+702 701 str702 0 {s047}:1 you:1 have:1 no:1 clue:1 what:1 we:1 are:0 doing:1 
+703 702 str703 0 do:1 u???:1 
+704 703 str704 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+705 704 str705 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+706 705 str706 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+707 706 str707 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+708 707 str708 1 i:1 cant:1 find:1 the:1 video:1 toast!!!:1 
+709 708 str709 4 on:1 the:1 desktop:1 there:1 is:1 a:1 folder:1 videos:1 
+710 709 str710 1 go:1 there:1 
+711 710 str711 1 you:1 will:1 findthe:1 video:1 
+712 711 str712 0 wait:1 what:1 is:1 it:1 called:0 
+713 712 str713 0 combined:1 video:1 
+714 713 str714 1 but:1 it:1 wouldnt:1 work:1 before:1 
+715 714 str715 0 thats:1 y:1 i:1 asked:1 which:1 one:1 it:1 was:0 
+716 715 str716 0 so:1 what:1 do:1 you:1 guys:1 predict:1 
+717 716 str717 0 idk:1 my:1 viseo:0 still:1 isnt:1 working:1 
+718 717 str718 0 Back:1 from:1 watching:1 the:1 video?:1 
+719 718 str719 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+720 719 str720 0 well:1 tht:1 lady:0 took:1 my:1 paper:1 yinz:1 guys:1 lol:1 
+721 720 str721 0 why:1 did:1 she:1 take:1 your:1 paper:1 
+722 721 str722 0 so:1 how:1 are:1 u:1 going:1 to:1 work:1 
+723 722 str723 0 i:1 watched:1 the:1 video:1 and:1 i:1 have:1 no:1 idea:1 what:1 we:1 ater:0 supposed:0 to:1 do:1 
+724 723 str724 0 well:1 first:1 we:1 should:1 makesome:1 predictions:1 
+725 724 str725 2 S033:1 can:1 you:1 ask:1 {s047}:1 to:1 build:1 on:1 what:1 {s040}:0 is:1 saying.:1 
+726 725 str726 1 i:1 wrote:0 the:1 wieght:1 and:1 color:1 of:1 the:1 little:1 strips:1 
+727 726 str727 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:0 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+728 727 str728 0 ok:1 well:1 cn:0 sumbody:1 write:1 my:1 name:1 on:1 their:1 papaer:1 bcuz:1 mines:0 is:1 gone:1 
+729 728 str729 0 {s047}:1 please:1 build:1 on:1 what:1 {s040}:1 is:1 sayin:1 haha:1 
+730 729 str730 0 shut:1 up:1 cereal:1 
+731 730 str731 0 ewww:0 ur:1 doggy:1 toast:1 ha:1 ha:1 
+732 731 str732 3 did:1 you:1 guys:1 writethe:1 observations:1 
+733 732 str733 3 Ok:1 I:1 gotta:1 go.:1 
+734 733 str734 0 i:1 wrote:1 what:1 i:1 could:1 this:1 is:1 so:1 weird:0 
+735 734 str735 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+736 735 str736 0 i:1 dnt:1 hav:1 a:1 paper:1 i:1 cnt:1 
+737 736 str737 0 aaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:1 
+738 737 str738 0 the:1 lady:0 took:1 it:1 a:1 while:1 ago:1 idk:1 y:1 
+739 738 str739 0 what:1 is:1 the:1 observation:1 for:1 the:1 third:1 one?:1 
+740 739 str740 0 well:1 if:0 ik:0 wat:1 it:1 was:1 id:1 tell:1 u:1 but.:1 .:1 .no:0 paper:1 lol:1 
+741 740 str741 0 u:1 dont:1 need:1 a:1 paper:1 look:1 at:1 the:1 video:1 
+742 741 str742 0 ur:1 killin:1 me:1 toast!:1 
+743 742 str743 0 ok:1 il:1 look:1 cereal:1 
+744 743 str744 0 asdfjkl;:0 
+745 744 str745 0 homerow:0 keys:1 
+746 745 str746 0 lol:1 ms:0 pfifer:0 tought:1 u:1 tht:1 
+747 746 str747 0 {s040}:0 help:1 me:1 out:1 here:1 buddy:1 what:1 did:1 u:1 get:1 for:1 the:1 third:1 one:1 
+748 747 str748 1 the:1 strips:1 turned:1 green:1 the:1 first:1 time:0 
+749 748 str749 4 happy:1 birthday:1 {s040}:0 form:1 {s049}:1 
+750 749 str750 0 o:1 wait:1 wat:1 was:1 the:1 third:1 1:0 
+751 750 str751 0 ok:1 i:1 am:1 back:1 with:1 all:1 the:1 answers:1 
+752 751 str752 0 i:1 think:1 
+753 752 str753 4 happy:1 birthday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111:1 
+754 753 str754 0 ok:1 thanks:1 
+755 754 str755 0 {s033}:1 what:1 are:1 you:1 talking:1 about:1 
+756 755 str756 0 on:1 third:1 one:1 predictions:1 or:1 observations:1 
+757 756 str757 3 observations:1 
+758 757 str758 1 after:1 what:1 hour:1 
+759 758 str759 1 ok:1 .655:1 grams:1 color:0 of:1 the:1 tube:1 got:1 darker:1 
+760 759 str760 0 imma:1 fail:1 tht:1 lil:1 test:1 
+761 760 str761 0 bye:1 u:1 guys:1 
+762 -1 str762 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+763 762 str763 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+764 763 str764 0 who:1 is:1 this:1 
+765 764 str765 0 62:1 is:1 {s062}:1 
+766 765 str766 1 s056:1 s059:1 s062...:1 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+767 766 str767 0 who:1 is:1 {s062}:1 
+768 767 str768 2 Hi:1 S056:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+769 768 str769 2 S059:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+770 769 str770 1 it:1 is:1 goin:0 2:1 get:1 heavier:1 
+771 770 str771 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S062.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+772 771 str772 0 kid:0 in:1 the:1 grey:1 hood:1 
+773 772 str773 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+774 773 str774 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+775 774 str775 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+776 775 str776 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+777 776 str777 0 okay:1 now:1 what:1 do:1 we:1 do?:1 
+778 777 str778 0 somthing:1 about:1 the:1 egg:1 
+779 778 str779 0 okay:1 i:1 am:1 about:1 to:1 ask:1 them:1 for:1 more:1 information:1 on:1 this:1 
+780 779 str780 0 would:1 you:1 stop:1 saying:1 the:1 same:1 thing:1 ovae:1 and:1 over:1 omqq:1 
+781 780 str781 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+782 781 str782 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+783 782 str783 1 i:1 think:1 were:1 suppose:1 to:1 work:1 on:1 our:1 prediction:1 
+784 783 str784 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+785 784 str785 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+786 785 str786 3 As:1 you:1 watch:0 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+787 786 str787 1 umm:1 a:1 you:1 can:1 say:1 that:1 when:1 you:1 mix:1 them:1 together:1 the:1 colors:1 will:1 change:1 and:1 something:1 may:0 happen..okay:1 
+788 787 str788 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+789 788 str789 3 wacth:1 the:1 video:1 
+790 789 str790 1 okay:1 so:1 do:1 you:1 want:1 to:1 put:1 that:1 down:1 
+791 790 str791 0 who:1 is:1 this:1 anyway:0 
+792 791 str792 0 Is:1 everyone:1 back?:1 
+793 792 str793 1 {s059}...and:1 we:1 can:1 say:1 when:1 you:1 mix:1 them:1 together:1 the:1 color:1 changes:1 and:1 they:0 have:1 different:1 weight:1 
+794 793 str794 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+795 794 str795 1 glucose:1 will:1 dissolve:1 in:1 the:1 distilled:1 water:1 
+796 795 str796 0 put:1 in:1 what:1 box:1 
+797 796 str797 1 predicted:1 change:1 
+798 797 str798 0 umm:1 or:1 you:1 going:1 to:1 say:1 somthinq:1 back:1 
+799 798 str799 0 thanks:1 
+800 799 str800 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:0 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+801 800 str801 1 iin:1 thee:1 ontha:1 box:1 ii:1 put:1 when:1 they:1 are:0 put:1 together:1 they:1 will:1 dissolve:1 in:1 the:1 distilled:1 water....okay:1 
+802 801 str802 0 {s059}:1 guess:0 who:1 this:1 is:1 
+803 802 str803 3 Ok:1 I:1 gotta:1 go.:1 
+804 803 str804 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+805 804 str805 3 come:1 on:1 
+806 805 str806 1 for:1 explanation:1 for:1 prediction:1 box:1 it:1 is:1 we:1 cant:1 see:1 glucose:1 once:1 it:1 goes:1 into:1 water:1 
+807 806 str807 0 who:1 is:1 s062:1 
+808 807 str808 0 {s062}:1 
+809 808 str809 0 hey:1 buddy:1 
+810 809 str810 0 whos:1 56:1 
+811 810 str811 1 put:1 iin:1 thee:1 otha:0 box:1 they:0 dunt:1 dissolve:1 in:1 thee:1 water...:0 
+812 811 str812 0 who:1 iis:1 56:1 
+813 812 str813 0 have:1 u:1 heaard:1 about:1 the:1 word:1 
+814 813 str814 0 who:1 iis:1 56:1 
+815 814 str815 0 y:1 u:1 wanna:1 kno:1 
+816 815 str816 0 bjus:1 yuee:0 are:1 twalkinq:0 tew:1 me:1 
+817 816 str817 0 i:1 will:1 give:1 u:1 a:1 hint:0 im:1 in:1 ur:1 class:1 
+818 817 str818 1 i:1 would:1 never:1 guessed:0 
+819 818 str819 3 yessssssssss:1 southside:0 sabers:1 
+820 -1 str820 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+821 820 str821 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+822 821 str822 1 IM:1 {s060}!!!:):1 
+823 822 str823 2 Hi:1 {s060}:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+824 823 str824 1 s063:1 s057...:0 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+825 824 str825 0 im:1 {s063}:0 
+826 825 str826 2 {s063}:0 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+827 826 str827 1 I:1 think:1 it:1 is:1 going:1 to:1 get:1 heavier:1 
+828 827 str828 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S057.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+829 828 str829 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+830 829 str830 4 WHO:1 IS:1 IN:1 MY:1 GROUPP??:1 
+831 830 str831 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+832 831 str832 0 {s057}:1 who:1 is:1 in:1 my:1 group:0 
+833 832 str833 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+834 833 str834 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+835 834 str835 2 {s063}:0 do:1 you:1 agree:1 with:1 what:1 S057:1 is:1 saying?:1 
+836 835 str836 2 Wait:1 I'm:1 confusedd:1 please:1 explain:1 this:1 again:1 
+837 836 str837 1 the:1 egg:1 will:1 get:1 bigger:1 
+838 837 str838 1 heavier:1 
+839 838 str839 1 i:1 agree:1 with:1 s057:0 
+840 839 str840 2 {s060}:1 do:1 you:1 agree:1 with:1 what:1 S057:1 is:1 saying?:1 
+841 840 str841 1 i:1 cant:1 understand.:1 
+842 841 str842 0 wait:1 so:1 it's:1 me:1 {s063}:0 and:1 {s057}??:1 why:1 are:1 we:1 talking:1 about:1 eggs?:1 
+843 842 str843 0 oo:1 ok.:0 i:1 got:1 it:1 
+844 843 str844 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+845 844 str845 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+846 845 str846 0 this:1 guy:1 is:1 smart:1 
+847 846 str847 1 he:1 may:0 be:1 smart:1 but:1 I:1 am:1 lost!!!:1 
+848 847 str848 4 YO:1 ALEX:1 HELP:1 ME:1 OUT:1 HERE!!!:1 
+849 848 str849 4 Im:1 lost!!!!!!!:1 
+850 849 str850 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+851 850 str851 2 S057:1 why:1 dont:1 you:1 do:1 explain:1 the:1 reasons:1 behind:1 what:1 {s060}:1 is:1 saying.:1 
+852 851 str852 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+853 852 str853 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+854 853 str854 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+855 854 str855 0 {s060}:1 is:1 very:1 confused!:1 
+856 855 str856 0 Video:1 with:1 no:1 sound:1 
+857 856 str857 0 Is:1 everyone:1 back?:1 
+858 857 str858 0 hi:1 alex:1 
+859 858 str859 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+860 859 str860 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+861 860 str861 0 guess:0 what:1 guys!:1 
+862 861 str862 3 Ok:1 I:1 gotta:1 go.:1 
+863 862 str863 0 I'm:1 confused:1 and:1 annnnddd:1 I:0 have:1 no:1 idea:1 whats:1 going:1 onn!!!:1 
+864 863 str864 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+865 864 str865 1 bluecost:1 can:1 go:1 anywere:1 and:1 strach:1 cant:1 go:1 everywere:1 
+866 865 str866 0 ok:1 bye:1 
+867 866 str867 0 byee:0 alex!!!:1 
+868 867 str868 0 love:1 youu!!<3:0 
+869 868 str869 0 wait:1 who:1 is:1 the:1 yellow:1 person?:1 
+870 869 str870 0 wht:1 u:1 mean:1 by:1 yellow:1 perosn?:1 
+871 870 str871 0 like:0 who:1 is:1 the:1 person:1 who:1 has:1 the:1 yellow:1 font!lol:1 
+872 871 str872 0 well:1 then:1 can:1 you:1 please:1 explain:1 to:1 me:1 what:1 is:1 going:1 onn!:1 
+873 872 str873 0 idk:1 either!!!!!!:1 
+874 873 str874 0 aww:0 poop!:1 
+875 874 str875 1 Hi:1 all!:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student.:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy:1 to:1 be:1 used:1 in:1 the:1 conversation.:1 
+876 875 str876 3 Lets:1 get:1 started:1 by:1 introducing:1 ourselves.:1 I:1 am:1 Alex.:1 
+877 876 str877 0 who:1 is:1 in:1 my:1 group:0 
+878 877 str878 1 s058:0 s061:1 s064...:0 i:1 didn't:1 get:1 your:1 names:1 yet.:1 
+879 878 str879 2 Hi:1 S058:1 you:1 are:1 the:1 Revoicer.:1 When:1 an:1 explanation:1 or:1 idea:1 is:1 given:1 which:1 would:1 benefit:1 from:1 revoicing:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 to:1 explain:1 what:1 was:1 said:1 in:1 their:1 own:1 words.:1 
+880 879 str880 2 S061:1 you:1 are:1 the:1 Challenger.:1 When:1 you:1 see:1 a:1 statement:1 being:1 made:1 (whether:1 it:1 is:1 right:1 or:1 wrong):1 which:1 would:1 benefit:1 from:1 being:1 challenged:1 please:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 so:1 for:1 example:1 by:1 asking:1 them:1 whether:1 they:1 agree:1 or:1 disagree:1 with:1 what:1 was:1 said:1 and:1 why.:1 
+881 880 str881 2 Ok...:1 So:1 the:1 Explainer:1 is:1 S064.:1 When:1 you:1 see:1 a:1 place:1 where:1 it:1 would:1 be:1 good:1 to:1 get:1 more:1 explanation:1 you:1 can:1 encourage:1 one:1 of:1 your:1 team:1 mates:1 to:1 do:1 that:1 for:1 example:1 by:1 inviting:1 that:1 person:1 to:1 add:1 on:1 to:1 what:1 the:1 other:1 student:1 has:1 already:1 said.:1 
+882 881 str882 0 You:1 should:1 probably:1 all:1 mark:1 an:1 X:1 opposite:1 your:1 role:1 in:1 the:1 book:1 so:1 you:1 won't:1 forget.:1 
+883 882 str883 3 Its:1 nice:1 to:1 meet:1 you:1 all.:1 :):1 Please:1 make:1 sure:1 you:1 have:1 understood:1 what:1 you:1 are:1 responsible:1 for.:1 
+884 883 str884 3 In:1 condition:1 A:1 we:1 placed:1 a:1 glucose:1 solution:1 inside:1 the:1 cell:1 model:1 and:1 immerse:1 it:1 in:1 distilled:1 water.:1 In:1 condition:1 B:1 we:1 did:1 the:1 opposite.:1 
+885 884 str885 1 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions.:1 
+886 885 str886 0 need:1 help:1 
+887 886 str887 1 Who:1 is:1 s058:1 
+888 887 str888 0 the:1 guy:1 over:1 there:1 in:1 the:1 grey:1 hoody:1 
+889 888 str889 2 S061:1 can:1 you:1 check:1 if:1 S058:1 agrees:1 with:1 S064.:1 
+890 889 str890 0 need:1 help:1 
+891 890 str891 0 hello:1 do:1 you:1 argee:1 
+892 891 str892 4 WHO:1 NEEDS:1 HELP?:1 
+893 892 str893 0 who:1 is:1 s064:1 
+894 893 str894 0 do:1 you:1 understand:1 
+895 894 str895 4 In:1 condition:1 C:1 we:1 made:1 a:1 modification:1 to:1 condition:1 A.:1 We:1 replace:1 the:1 glucose:1 solution:1 with:1 a:1 starch:1 suspension.:1 In:1 order:1 to:1 detect:1 the:1 presence:1 of:1 starch:1 we:1 replace:1 the:1 distilled:1 water:1 with:1 Lugol's:1 Iodine:1 solution.:1 
+896 895 str896 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 will:1 happen:1 in:1 Condition:1 C:1 and:1 your:1 explanation:1 for:1 this:1 change.:1 
+897 896 str897 0 i:1 am:1 lost:1 to:1 what:1 is:1 going:1 on:1 here:1 im:1 so:1 confused:1 
+898 897 str898 3 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet.:1 
+899 898 str899 0 same:1 here:1 s064:1 
+900 899 str900 0 i:1 mean:1 61:1 
+901 900 str901 3 You:1 are:1 now:1 going:1 to:1 watch:1 a:1 video:1 showing:1 the:1 cell:1 in:1 Conditions:1 A:1 B:1 and:1 C.:1 
+902 901 str902 3 As:1 you:1 watch:1 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet.:1 
+903 902 str903 4 Go:1 to:1 the:1 Videos:1 folder:1 on:1 the:1 Desktop:1 and:1 watch:1 the:1 video:1 which:1 is:1 there.:1 
+904 903 str904 1 descuss:1 what:1 will:1 happen:1 with:1 a:1 b:1 c:1 
+905 904 str905 0 what:1 about:1 61:1 
+906 905 str906 0 iz:1 that:1 all:1 we:1 gonna:1 do:1 
+907 906 str907 0 idk:1 who:1 is:1 sayin:1 61:1 
+908 907 str908 0 who:1 are:1 
+909 908 str909 3 watch:1 the:1 video:1 
+910 909 str910 0 who:1 is:1 s058???:1 
+911 910 str911 0 oh:1 thanks:1 
+912 911 str912 0 who:1 iz:1 that:1 64:1 
+913 912 str913 0 who:1 is:1 s064:1 
+914 913 str914 0 {s064}:1 
+915 914 str915 0 who:1 is:1 the:1 revoicer???:1 
+916 915 str916 0 Are:1 you:1 guys:1 back?:1 
+917 916 str917 0 yes:1 i:1 am:1 back:1 thanks:1 
+918 917 str918 3 Now:1 discuss:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 conditions:1 A:1 and:1 B.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 
+919 918 str919 0 so:1 wht:1 do:1 u:1 think:1 0s64:1 
+920 919 str920 0 who:1 said:1 hi:1 alex?:1 
+921 920 str921 0 You:1 should:1 now:1 move:1 on:1 to:1 discussing:1 what:1 you:1 observed:1 in:1 the:1 video:1 about:1 condition:1 C.:1 Compare:1 what:1 you:1 observed:1 to:1 your:1 predictions.:1 How:1 is:1 this:1 different:1 from:1 what:1 happened:1 in:1 condition:1 A?:1 
+922 921 str922 3 Questions:1 S058?:1 
+923 922 str923 1 in:1 Condition:1 a:1 the:1 glucose:1 was:1 inside:1 and:1 the:1 water:1 was:1 outside:1 
+924 923 str924 0 Lets:1 spend:1 the:1 rest:1 of:1 the:1 time:0 we:1 have:1 discussing:1 your:1 observations:1 from:1 all:1 the:1 three:1 conditions.:1 
+925 924 str925 3 Discuss:1 explanations:1 of:1 what:1 you:1 observed:1 in:1 each:1 condition:1 and:1 make:1 sure:1 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets.:1 
+926 925 str926 2 S064:1 now:1 would:1 be:1 a:1 good:1 time:0 to:1 ask:1 S061:1 to:1 build:1 on:1 what:1 S058:1 is:1 saying.:1 
+927 926 str927 0 s058:0 yes:1 
+928 927 str928 0 who:1 is:1 challenger:1 
+929 928 str929 4 ya:1 leave:0 people:1 alone:1 
+930 929 str930 0 who:1 care:1 
+931 930 str931 0 how:1 rude:1 
+932 931 str932 0 common:1 guys:1 
+933 932 str933 0 i:1 did:1 not:1 type:1 yene:1 
+934 933 str934 1 discuss:1 abt:1 this:1 topic:1 
+935 934 str935 3 Ok:1 I:1 gotta:1 go.:1 
+936 935 str936 1 It:1 was:1 nice:1 talking:1 to:1 you:1 all.:1 :-):1 
+937 936 str937 0 yup:0 same:1 to:1 u:1 alex:1 
+938 937 str938 0 no:1 you:1 guy:1 need:1 to:1 watch:0 the:1 video:1 and:1 than:1 talk:1 about:1 it:1 
+939 938 str939 0 you:1 guy:1 huh:0 
+940 939 str940 0 criticize:1 
+941 940 str941 0 stop:1 critisizeing:1 me:1 and:1 work:1 
+942 941 str942 0 ok:1 thanks:1 {s064}:1 
+943 942 str943 0 .and:1 help:1 
+944 943 str944 0 do:1 u:1 have:1 any:1 questions?:0 
+945 944 str945 0 yes:1 what:1 is:1 c!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!:1 
+946 945 str946 3 For:1 what:1 hour!!!!!!!!!!!!!!!!!!!!!!!!!:1 
+947 946 str947 1 It:1 loses:1 weight:1 and:1 color:1 sir:1 thank:1 you:1 
+948 947 str948 0 who:1 is:1 S063:1 
+949 948 str949 2 numbers:0 please:1 
+950 949 str950 0 who:1 did:1 those:1 empty:1 lines:1 what's:1 wrong:0 with:1 your:1 brain?:1 
+951 950 str951 0 english:1 
+952 951 str952 0 just:1 playing:1 {s064}:1 
+953 952 str953 0 wats:1 ur:1 obesrvation:1 for:1 Condition:1 B:1 
+954 953 str954 1 It:1 loses:1 weight:1 colors:1 are:0 different:1 
+955 954 str955 1 hw:1 abt:1 c:1 
+956 955 str956 0 who:1 is:1 S058:1 
+957 956 str957 0 unknown:1 guy:1 
+958 957 str958 0 58:1 put:1 your:1 hand:1 up:1 
+959 958 str959 0 you:1 have:1 a:1 dumb:1 alias:1 
+960 959 str960 0 i:1 see:1 you:1 
+961 960 str961 0 who:1 is:1 it:1 {s064}:1 
+962 961 str962 0 i:1 think:1 its:1 {s056}:1 
+963 962 str963 0 you:1 are:1 next:1 to:1 {s057}:1 
+964 963 str964 0 who:1 is:1 {s057}?:1 

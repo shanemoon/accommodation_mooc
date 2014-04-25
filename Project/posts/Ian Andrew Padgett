@@ -1,0 +1,2 @@
+Monday September 2nd 2013 1:10 pm -04:00,use the    to 24 hour clock functionit uses simple modular arithmetic to turn -1 into 23 , Resolved,0
+Tuesday September 10th 2013 4:59 pm -04:00,I had the same problem  the solution was - as soon an invalid letter was found return False  and  ignore the rest, Resolved,0

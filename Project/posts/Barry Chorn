@@ -1,0 +1,3 @@
+Monday September 16th 2013 3:57 pm -04:00,Please explain why i had a FAILURE on  student: test_a2.TestIsValidSequence.test_is_valid_sequence_zero_length . My code works for a zero length string., Resolved,0
+Tuesday September 17th 2013 7:24 am -04:00,I am still having difficulty with the following test: student: test_a2.TestIsValidSequence.test_is_valid_sequence_zero_length  The assessment registers FAILURE however when I run my code it gives the correct response:>>> is_valid_sequence()FalseCould there be a problem with the test for this? All other tests register SUCCESS., Resolved,0
+Tuesday September 17th 2013 12:19 pm -04:00,Thanks Vita. I am sooooo dumb!, Resolved,0

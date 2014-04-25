@@ -1,0 +1,9 @@
+Saturday August 31st 2013 5:17 am -04:00,input( what is your name?  )what is your name? Dan Traceback (most recent call last):  File <pyshell#2> line 1 in <module>    input( what is your name?  )  File <string> line 1 in <module>NameError: name Dan is not defined>>> , Resolved,0
+Saturday August 31st 2013 6:13 am -04:00,Hi thanks for the response but the same thing happens. input(What is your name?  )What is your name? Dan Traceback (most recent call last):  File <pyshell#4> line 1 in <module>    input(What is your name?  )  File <string> line 1 in <module>NameError: name Dan is not defined, Resolved,0
+Saturday August 31st 2013 8:06 am -04:00,Thanks duuudes. Really appreciate you taking to help :-) Ill let you how it goes..., Resolved,0
+Saturday August 31st 2013 8:06 am -04:00,the time#, Resolved,0
+Saturday August 31st 2013 11:31 pm -04:00,Worked a treat. Installed the new version silly me. Thanks again!!!, Resolved,0
+Monday September 2nd 2013 10:57 pm -04:00,Hi I know most of you would be attempting week 3 but I have a quick question. Finally finished assignment 1. My code works (as I returned the same values in the qs) but I got a score of 23 (resubmitted twice and same thing). Are peeps having the same issue?? Not sure if I should move ahead or not......, Unresolved,0
+Sunday September 8th 2013 12:06 am -04:00,Finally got 41 on the assignment. Id like to thank all those people that replied to me and the whole community in general. Great bunch of people. Thanks... ,None,0
+Sunday September 8th 2013 4:18 am -04:00,I submitted and it says 41/41....no mention of 42. ,None,0
+Sunday September 8th 2013 4:19 am -04:00,I do have that large input failure though...Ill attempt it after week 3 homework. Cheers,None,0

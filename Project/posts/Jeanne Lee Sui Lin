@@ -1,0 +1,1 @@
+Saturday September 21st 2013 5:50 am -04:00,def example(L):	i = 0	result = 	while i < len(L):		result.append(L.[i])		SyntaxError: invalid syntaxThe red highlighted part is the square bracket in front of the i in the last line. Can anyone explain?, Resolved,0

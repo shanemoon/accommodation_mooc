@@ -1,0 +1,2 @@
+Tuesday September 3rd 2013 12:24 am -04:00,Im in California (and I received 42 on my assignment) and the time doesnt seem to account for DST as part of the UTC zone.  The local time that comes up when I first run a1_gui.py is correct but when I change the time zone to utc -8 (which is Ca time) it changes the clock to an hour earlier., Unresolved,0
+Tuesday September 3rd 2013 3:53 am -04:00,Got it.  Thanks.  I was just using the link in the assignment where it shows Ca in UTC -8., Unresolved,0

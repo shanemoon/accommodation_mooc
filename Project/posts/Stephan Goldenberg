@@ -1,0 +1,14 @@
+Monday September 2nd 2013 7:49 am -04:00,sudo apt-get updatesudo apt-get install python3 idle3And then they coexist on your harddisk. Run it withidle3, Resolved,1
+Sunday September 1st 2013 8:02 am -04:00,Got it thanks., Resolved,0
+Sunday September 1st 2013 5:50 am -04:00,41/41 butMethod Description:Test large input.Message:FAILURE: AssertionError9 != 105As I dont know what this large input was I cant do anything about it. , Resolved,0
+Sunday September 1st 2013 7:54 am -04:00,I need to know what actual value was asserted. get_hours() is just an integer division I dont know what could fail with this. , Resolved,0
+Sunday September 1st 2013 8:05 am -04:00,Now I have it thank you. :)But still the actual values would help., Resolved,0
+Friday September 27th 2013 10:59 am -04:00,I didnt find the visualizer to be of help in this.Ah Im glad Im not the only one. The visualizer helps zero. What I think the function does is marked wrong. Ah well who needs 100%..., Unresolved,0
+Friday September 27th 2013 11:33 am -04:00,Nope thats Q3 (What the function does). Ive found the answer by plain luck., Unresolved,0
+Friday September 27th 2013 1:26 pm -04:00,Now that I know the answer I can make a connection to this. But the point of the OP still remains. The visualizer does not help to figure out what it does. ;), Unresolved,0
+Thursday October 3rd 2013 4:28 am -04:00,Write the missing assignment statementThats the point I used a method. Cheers Tom. :), Resolved,0
+Wednesday October 2nd 2013 8:11 am -04:00,>>> d = {a: 1 b: 2}>>> d{a: 1 b: 2}>>> wrong code  was a method>>> d{a: 1 b: 2 c: 3}>>> d = {a: 1 b: 2}>>> d{a: 1 b: 2}>>> wrong code was a method>>> d{a: 1 b: 3}>>> ;(Edit: As Tom Enos pointed out its down to poor reading skills of mine: Ive used a method where the problem asked to use an assignment., Resolved,0
+Thursday October 3rd 2013 8:50 am -04:00,Nope if you mastered this course youll storm through the Rice course., Resolved,0
+Friday October 4th 2013 9:02 am -04:00,Are you sure that youve picked the right file ?Just checked back - the grader is fine., Unresolved,0
+Saturday October 5th 2013 6:16 am -04:00,We are working on big changes to course exports and analytics tools. Please take a minute to share your thoughts in a short survey.I have this at the top in a blue bar. When I click the link I get to an Instructor Survey for Analytics.Aha seems to be Coursera. I get this on other course pages too.,None,1
+Saturday October 5th 2013 6:34 am -04:00,Unless someone forgot to tell me nope.,None,0

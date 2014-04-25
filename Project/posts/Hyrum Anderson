@@ -1,0 +1,2 @@
+Friday August 30th 2013 2:16 pm -04:00,I keep getting this when I am running the module. Any help?Python 3.3.2 (v3.3.2:d047928ae3f6 May 13 2013 13:52:24) [GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwinType copyright credits or license() for more information.>>> ================================ RESTART ================================>>> Traceback (most recent call last):  File /Users/hyrumandbrescia/Downloads/a1_gui.py line 2 in <module>    import a1ImportError: No module named a1>>> , Unresolved,0
+Friday August 30th 2013 2:29 pm -04:00,Gotcha! Thanks!, Unresolved,0

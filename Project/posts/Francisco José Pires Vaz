@@ -1,0 +1,4 @@
+Monday August 19th 2013 6:31 am -04:00,ord() as u can see if you read the help by typing help(ord) returns the integer ordinal of a one-character string.You passed 4 numbers as arguments and not a one-character string so try something like ord(a) or ord(b).Strings will be studied in next weeks module.Hope this helps :), Resolved,6
+Monday August 19th 2013 3:21 pm -04:00,98 is the decimal ascii value of the character b.If you google ascii table you will find a table containing all the values of all valid ascii characters., Resolved,4
+Tuesday September 3rd 2013 12:34 am -04:00,50 >= gradeis only true when grade as the value 50 in all other cases is false so you cant say that the value grade is always a passing grade, Unresolved,0
+Tuesday September 3rd 2013 12:27 am -04:00,Alt + P in Windows, Resolved,1

@@ -1,0 +1,8 @@
+Sunday August 25th 2013 1:10 pm -04:00,thank you, Pinned Approved Resolved,0
+Monday August 26th 2013 10:16 pm -04:00,Hi in exercice the first assignment in the line 1(id1 for x). Is this destroyed? The Id1 is not more valid? Why the computer not change the value of Id1 and dont create a new id? In this case  new assignments for a id1 is not possible?, Resolved,2
+Monday August 26th 2013 10:37 pm -04:00,The use of single  quote or double quote. As a rule then it is better to use double quotes ever? Or is it a matter of personal style?, Resolved,1
+Tuesday September 3rd 2013 1:26 pm -04:00,Whats your Operational System? What Idle are u install?, Unresolved,0
+Tuesday September 3rd 2013 10:42 pm -04:00,im have same difficult. I try the video lecture of Jen reuse function! But dont works. ;-( . And hours to do understand all exercices. But im keep trying. I believe its simple.  , Resolved,0
+Friday September 20th 2013 8:02 pm -04:00,  for char in dna:        if char in BDEFHIJKLMNOPQRSUVWYZ:            return False        if char in (ATCG):            return True        elif char != ATCG:            return False        else:            if char == :                return True Im stuck and dont understand whats wrong. , Unresolved,0
+Wednesday September 18th 2013 9:25 pm -04:00,Hi what is wrong with my code? The get_complementary_sequence ?          if nucleotide == AT:      returnTA    elif nucleotide == TA:        returnAT    elif nucleotide == GC:        return CG    elif nucleotide == CG:        return GC, Resolved,0
+Wednesday September 18th 2013 9:10 pm -04:00,See the videos lectures again  use for loop same with Jene use. And get a bool result. Think simple.. , Resolved,1

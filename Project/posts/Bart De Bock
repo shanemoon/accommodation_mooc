@@ -1,0 +1,3 @@
+Monday August 19th 2013 4:14 pm -04:00,In Python indentation matters. It is part of the syntax and sort of replaces the curly braces of C or C++. Apart from that it also helps to keep programs and functions legible. As tuxoko already wrote: IDLE does this automatically (when working with in the shell at the prompt). Some editors may do the same when creating your .py files., Resolved,1
+Tuesday August 20th 2013 7:12 am -04:00,char() and ord() are typically used to switch between capital and undercase letters., Resolved,0
+Monday August 19th 2013 4:23 pm -04:00,Because you use the float division (single forward slash). You can try using the double forward slash instead and if Im right you should get and int result (given base and height are both int)., Resolved,3

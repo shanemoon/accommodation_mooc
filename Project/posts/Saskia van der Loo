@@ -1,0 +1,2 @@
+Thursday September 12th 2013 5:45 am -04:00,It is not clear to me what python should return when asked for the complement of a zero-length sequence. I thought a zero-length sequence would be an invalid sequence but apparently it is not. should we write the code such that it returns a zero-length sequence? , Resolved,0
+Thursday September 12th 2013 7:16 am -04:00,Ok thanks. I changed my code  so that it will return   when called with  and didnt bother about all other invalid sequences and have no erroran ymore. So apparently it should return nothing or ., Resolved,0

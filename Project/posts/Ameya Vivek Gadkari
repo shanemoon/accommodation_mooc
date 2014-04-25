@@ -1,0 +1,3 @@
+Wednesday September 25th 2013 2:33 pm -04:00,The problem summary:The option with if(letters==line[0]) is wrongly asserted as rightAs line is a single string and not list of stringscomparison is incorrect so the code will not be the missing fragment, Resolved,1
+Wednesday September 25th 2013 2:40 pm -04:00,Am I right?, Resolved,0
+Wednesday September 25th 2013 3:26 pm -04:00,Neither am I familiar with wide characters for that matter  Any ways thanks for clearing that up., Resolved,0

@@ -1,0 +1,13 @@
+Sunday August 18th 2013 9:50 pm -04:00,The group for Russian speakers communication. Youre welcome!Группа для общения русскоязычных участников. Вливайтесь! ;),None,7
+Monday August 19th 2013 1:27 am -04:00,Добро пожаловать на борт! :) Я в принципе немного знаком с Python так что если есть желание обсудить лекции не на английском то можно сделать это здесь. Надеюсь народ ещё присоединится... ,None,0
+Monday August 19th 2013 1:41 am -04:00,Судя по первым лекциям изложение ведётся хорошим языком вполне доступно. :),None,0
+Monday August 19th 2013 6:58 am -04:00,Ну вот и прослушал все лекции. Как-то так. Ждём quizzes...,None,0
+Monday August 19th 2013 9:35 am -04:00,Привет братьями-сишникам! :) У меня C++ Qt Juce.,None,0
+Sunday August 18th 2013 11:09 pm -04:00,Yes Python 2 and Python 3 are slightly different. But you dont need to uninstall Python 2 to install Python 3. They can live together in your computer:,None,4
+Tuesday August 20th 2013 1:09 am -04:00,Nope. An installer does this work automatically.,None,0
+Sunday August 18th 2013 11:41 pm -04:00,You dont need any additional IDE besides standard one IDLE. It included into a Python installation package both 3 and 2.,None,3
+Monday August 19th 2013 9:52 am -04:00,Ciao Claudia piacere di conoscerLa.Sono di Almaty Kazakistan. Sono medico ma programmo un po con C++ Qt Juce. E sono un novellino esperto in Python... ;),None,1
+Tuesday August 20th 2013 3:27 am -04:00,In C++ I can see :) both a value of a variable and its address. For example:#include <iostream>using namespace std;int main(){    int x;    x = 1;    cout << x << endl;    cout << & x << endl;    x = 2;    cout << x << endl;    cout << & x << endl;    return 0;}Programmes output:1002FFAB82002FFAB8As you can see one variable - one adress.Therere a lot of advices to do this in Python using an id function. Well lets try:>>> x = 1>>> print(x)1>>> print(hex(id(x)))0x1e279650>>> x = 2>>> print(2)2>>> print(hex(id(x)))0x1e279660But... two adresses of the same variablediffer! Why?, Resolved,2
+Tuesday August 20th 2013 3:42 am -04:00,I could understand it if another value were assigned to the variable for example x = two. But the variable get a value of the same type int. What the need to redistribute memory?, Resolved,0
+Tuesday August 20th 2013 3:47 am -04:00,Ah! Something becomes clear thank you! :), Resolved,0
+Tuesday August 20th 2013 4:34 am -04:00,Thank you your explanation fits me absolutely. :), Resolved,0

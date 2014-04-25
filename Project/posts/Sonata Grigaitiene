@@ -1,0 +1,2 @@
+Sunday September 22nd 2013 6:30 am -04:00,HiI made my code acc. shift excample and while testing I receive:NameError: global name nucleotide is not definedMy function  get_complement(nucleotide) is correct. Where could be my mistake?, Resolved,0
+Sunday September 22nd 2013 8:34 am -04:00,I got it tnaks., Resolved,0

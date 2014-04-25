@@ -1,0 +1,1 @@
+Sunday August 25th 2013 9:58 pm -04:00,Im using Ubuntu-- If youre in Ubuntu install python3sudo apt-get install python3and install idle3sudo apt-get install idle3.And to use IDLE run in the command line:idle3& if you just run idle& the 2.7 version will be used as default. It may be the same for other distibutions but the package names might differ.,None,0

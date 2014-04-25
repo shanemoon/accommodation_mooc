@@ -1,0 +1,1 @@
+Tuesday September 17th 2013 10:53 am -04:00,This is a bit out of what is covered in lectures.Somebody please explain the following usage on range..>>> x=range(1102)>>> xrange(1 10 2)>>> print(x)range(1 10 2)>>> x=list(range(1102))>>> x[1 3 5 7 9]>>>p rint(x)[1 3 5 7 9]ThanksChetan, Unresolved,1

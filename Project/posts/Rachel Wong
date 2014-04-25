@@ -1,0 +1,1 @@
+Monday September 9th 2013 6:23 pm -04:00,return module.function(). You dont need to import anything because it only asks for the return statement. The module is given when imported in the beginning and the function is area_hero(), Unresolved,1

@@ -1,0 +1,2 @@
+Tuesday August 27th 2013 2:17 pm -04:00,To fix your code you need to replace the + signs with commas when you call perimeter in semiperimeter. so:Return perimeter(side1 side2 side3) / 2 notReturn perimeter(side1 + side 2 + side3) / 2I did this first time too and took a little while to spot the step Id missed on the video., Resolved,6
+Sunday September 29th 2013 2:40 pm -04:00,Sorry if this has been asked before but:Is there a reason that the visualizer doesnt recognise the in command?, Unresolved,0

@@ -1,0 +1,4 @@
+Friday August 30th 2013 4:04 am -04:00,I also run into this problem I found on xp  for me works   Win + p in IDLE  and up down arrows in python.exe. , Resolved,0
+Thursday August 29th 2013 10:52 pm -04:00,Hello. Why does 4%5 2%3 6%7 and so on givs 4 2 6 and not 0?There is no remainder so must it not be 0? thank you, Unresolved,1
+Saturday October 5th 2013 11:15 am -04:00,def bigornot(x):	number->strTells us if x is bigger then a given numberbigornot(5)   biggerbigornot(1)   not bigger        if x>10:                return bigger        else:                return not biggerhello  for some reason if i remove the doc string it works if not it gives an error  expected an indented blockWhat is my mistake?, Unresolved,0
+Saturday October 5th 2013 11:28 am -04:00,thank you!  i didnt think the comments(doc string) must also be indented) , Unresolved,0

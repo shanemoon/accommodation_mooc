@@ -1,0 +1,10 @@
+Tuesday August 20th 2013 2:25 pm -04:00,Is there a way to create a file from within python shell? , Resolved,0
+Monday August 19th 2013 11:30 am -04:00,Im using my Raspberry Pi running Raspbian wheezy. As I want to learn to operate terminal and bash as well Ive decided not to use IDLE which runs as a GUI. Instead I operate on terminal level only. Ive noticed its much faster than the GUI.  I just type sudo python  and am in! ,None,0
+Monday August 19th 2013 12:36 pm -04:00,Right! Thanks! ,None,0
+Monday August 19th 2013 12:37 pm -04:00,True no su needed. No  I dont run desktop mode it serves just as a headless machine. ,None,0
+Monday August 19th 2013 12:40 pm -04:00,Yes Im using nano why? ,None,0
+Monday August 19th 2013 12:45 pm -04:00,Yeah Im grasping vim as well but mostly using nano. I suppose its just out of a habit. ,None,0
+Monday August 19th 2013 12:52 pm -04:00,Im a newbie to vim dont know it yet but there are lots of tutorials for example http://justinlilly.com/vim/vim_and_python.html and https://github.com/mbrochh/vim-as-a-python-ide/blob/master/.vimrc,None,0
+Monday August 19th 2013 12:46 pm -04:00,That might be nice and useful for all of Pi-ers! ,None,3
+Monday August 19th 2013 12:49 pm -04:00,Great!  On Raspbian python is pre-installed so thered be only a matter of upgrading it if necessary. ,None,0
+Monday August 19th 2013 1:04 pm -04:00,I got myself a Pi (Ive got two already) to teach myself Linux and coding. Ive got a laptop running Windows but didnt want to mess up with it as its used by one more person in my house. Thus Pi is perfect for me. If I break anything I can start again without having to hear about lost data. Im lightyears behind but I hope to catch up and learn the Vi as well thanks to Pi. ,None,0

@@ -1,0 +1,1 @@
+Saturday September 28th 2013 6:02 pm -04:00,Are you explicitly stating that your function should return False if the condition isnt true?  I was getting a similar error message to this in 5 places because I hadnt done that and in false cases my program just wasnt returning anything instead of the boolean value False that the code tester was expecting to get., Unresolved,0

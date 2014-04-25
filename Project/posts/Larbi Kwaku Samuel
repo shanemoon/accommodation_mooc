@@ -1,0 +1,10 @@
+Sunday August 25th 2013 8:14 am -04:00,After this course how can i improve upon my python coding?,None,0
+Saturday August 31st 2013 6:59 am -04:00,i want explanation to exercise 14 and 15 i have tried but always getting it wrong.,None,0
+Sunday September 1st 2013 8:35 am -04:00,please i need help on the assignment 1 question 4 on how to put parenthesis over the body everything i do comes out with an error., Resolved,0
+Sunday September 1st 2013 11:24 am -04:00,TypeError: descriptor __trunc__ of int object needs an argument) this is the first error i had using to_float_hours(hoursminutesseconds) and had this error too trying to correct it (TypeError: unsupported operand type(s) for /: type and int), Resolved,0
+Sunday September 1st 2013 12:01 pm -04:00,Traceback (most recent call last):  File <pyshell#15> line 1 in <module>    to_float_hours(0 15 0)  File /home/charis/Downloads/a1.py line 55 in to_float_hours    return int+ (int/60) + (int/3600)TypeError: unsupported operand type(s) for /: type and strthis is the error i got., Resolved,0
+Sunday September 1st 2013 12:16 pm -04:00,thank you., Resolved,0
+Sunday September 1st 2013 7:25 pm -04:00,reading some threads but i am getting confused.Are we suppose to do it this way 3800%3600 200//60 or 200%60 pls i really need assistance., Unresolved,0
+Sunday September 1st 2013 9:09 pm -04:00,thank you, Unresolved,0
+Friday September 6th 2013 11:30 am -04:00,after learning the python programming language how many daysweeksmonthsyears is one supposed to learn another programming language or can learn immediately another one.Considering mastering the languages?,None,1
+Sunday September 22nd 2013 7:34 pm -04:00,i have submitted assignment two for three times on 22 of September and it is not being graded i plead to the masters of the course to give grace period for the assignments.thank you, Unresolved,0

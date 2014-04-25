@@ -1,0 +1,10 @@
+Sunday August 18th 2013 10:55 pm -04:00,why does Python associate variables with a memory address instead of attaching them directly to the value?  Can multiple variables be pointed to the same memory address? Is there a functional reason to arrange things this way?, Resolved,0
+Monday August 19th 2013 10:22 am -04:00,dgoore97 would like to join as well,None,0
+Monday August 19th 2013 10:28 am -04:00,Just trying to understand why they chose to do it this way?  Is this different than other languages like Ruby?, Approved Resolved,4
+Monday August 19th 2013 11:09 am -04:00,It gives some helpful context. thanks. Do you know why Python does it this way?  Is it a performance issue?, Approved Resolved,0
+Monday August 19th 2013 11:27 am -04:00,ok understood.  Do other interpreted languages  use the same convention or is this unique to python?, Approved Resolved,0
+Monday August 19th 2013 1:10 pm -04:00,ok thanks, Approved Resolved,0
+Tuesday September 10th 2013 6:04 pm -04:00,I am in NJ (though not close to Princeton).  However I am trying to learn Ruby/Rails as well as I have an app that was built using that framework.  I would love to know what you are studying.  I wish Coursera had a Ruby version of this course!,None,0
+Tuesday September 10th 2013 6:16 pm -04:00,I have an app that was built for me in RoR.  I am also in the process of learning Ruby.  My question:Aside from syntax is there anything that we have learned so far that is markedly different from what would be done in Ruby?,None,0
+Tuesday September 10th 2013 6:19 pm -04:00,At the end of this course will we be able to build a simple web scraper?,None,0
+Sunday September 15th 2013 9:29 am -04:00,this worked for me:   count=0    for char in dna:                if not char in ATCG:            count = count + 1    if count == 0:        return True    else:        return False, Resolved,1

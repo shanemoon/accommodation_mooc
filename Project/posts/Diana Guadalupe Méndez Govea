@@ -1,0 +1,2 @@
+Wednesday September 11th 2013 12:15 am -04:00,Hi...Um...Im kind of lost with some parte of step 5...The instructions said that we have to call the to_24_hour_clock function to obtain the get_hours function but I dont know how to call it...The get_hours function cant be obtain without the to_24_hour_clock?, Unresolved,0
+Wednesday September 11th 2013 1:26 am -04:00,but the to_24_hour_clock function its called inside the module?Oh oh i can do it now i found the way thank you :), Unresolved,0

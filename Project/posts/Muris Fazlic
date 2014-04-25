@@ -1,0 +1,1 @@
+Monday September 2nd 2013 2:05 pm -04:00,We have intentionally left out tests involving time zones that are not on the hour: you should make sure you handle those cases.Are they saying that they only passed the time in hours and we need to handle cases if they were passed in minutes and/or hours?, Unresolved,1

@@ -1,0 +1,2 @@
+Monday September 2nd 2013 8:24 am -04:00,Got this error: student: test_get_hours.TestGetHours.test_large_inputMy get_hours is like this:def get_hours(seconds):     (int) -> int    Return the amount of hours since midnight in the given    amount of seconds.    Precondition: seconds >= 0    >>> get_hours(3800)    1    >>> get_hours(9000)    2    >>> get_hours(1250)    0        return seconds // 3600Am I missing something?, Resolved,0
+Monday September 2nd 2013 8:30 am -04:00,Ha!Thats right. :/Thanks. =), Resolved,0

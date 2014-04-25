@@ -1,0 +1,2 @@
+Wednesday September 25th 2013 11:53 am -04:00,Have you managed to get your read_words function working? If you have then youre close to completing read_board as well, Resolved,0
+Wednesday September 25th 2013 12:13 pm -04:00,you use read_words to return a list of strings. the read_board function should return an output like this-[ [ANT][PAR]....]so essentially you will have to write a function that segregates the interior elements and appends it to a final list.Youre almost there... Approach it a single step at a time., Resolved,0

@@ -1,0 +1,53 @@
+Sunday August 25th 2013 9:26 am -04:00,Yes you have to post the actual question as your Q10 will be different from another persons Q10.  The values names etc. may also be different., Resolved,0
+Sunday August 25th 2013 9:29 am -04:00,They are talking about the blue question mark in the upper right corner as the lecture proceeds not the quizzes.  I dont know what thats supposed to do either as Ive found nothing by clicking on it myself., Unresolved,0
+Sunday August 25th 2013 9:31 am -04:00,I hope Gerrys answer helps you with the quiz issue.  Those are very helpful.  You need em., Unresolved,0
+Monday September 2nd 2013 12:12 pm -04:00,I watch the videos over and over and over and over and sometimes over and over again til a bell goes off and I get it.  I guess we each find our own way.,None,1
+Tuesday September 3rd 2013 7:31 pm -04:00,Im actually spending less time than estimated on the actual coursework but Im having problems with technical stuff like not submitting the a1 file on my desktop.  That I had to fiddle with in a different way that the instructions said to do.  ...but no worries rather having to delete my file on my desktop labeled a1 because when I browse prior to submit its the only one with the title...that is the empty one.  deleting it did the trick but it took me forever to figure out my problem.  At first I thought I lost all my work because it was back to its original state then I saw that the one in python was still there.I saved it within the Python/IDLE program and then deleted it from desktop.  I copy and pasted before trying it just in case.  I think the extra time helps me learn stuff.  Im liking it all even with the frustrations.  ,None,0
+Sunday September 1st 2013 9:53 am -04:00,I find that my temperature.py works when my type contract is left as (number) -> number and the answers seem to work too.  Why did it have to be changed to (number) -> float instead?, Resolved,0
+Sunday September 1st 2013 3:30 pm -04:00,Interesting and thank you both., Resolved,0
+Monday September 2nd 2013 1:24 pm -04:00,I wish I knew that before I submitted roughly six times.  The auto message says something like check back in a few minutes for the feedback  so I figured my submission didnt go thru.  How long should we wait before assuming we submitted improperly or something?, Unresolved,0
+Monday September 2nd 2013 9:53 pm -04:00,I am unable to see if there is a problem with the autograder or whatever we are submitting to.  The only comments saying its not working are from students.  It would be nice to have that confirmed by an instructor or TA.  I submitted my finished product (which isnt really finished.  I just want to see the feedback to continue) around noon and its now nearly 10pm.  No result., Unresolved,0
+Tuesday September 3rd 2013 6:41 am -04:00,I used both because the code submission wasnt working.  Still no reply with feedback too.  Ill submit again., Unresolved,0
+Monday September 2nd 2013 9:50 pm -04:00,My download went strait to desktop then I had to right click to edit in Idle.  , Unresolved,0
+Monday September 2nd 2013 9:59 pm -04:00,It seems to be working the way I have it but maybe it explains the problem Im having with no response to my 2nd submittal.  It was 10hrs ago and no feedback yet.  Have you had any luck submitting more than the first one?, Unresolved,0
+Monday September 2nd 2013 10:02 pm -04:00,Sorry it shoulda been Edit with IDLE.  But it sounds like yours is different anyhoo.  Ack.  Kindov annoying.  I cant submit.  At least I know what the assignment looks like.  I should be grateful., Unresolved,0
+Monday September 2nd 2013 10:02 pm -04:00,I hope you can get it that other way., Unresolved,0
+Monday September 2nd 2013 10:15 pm -04:00,I use 7, Unresolved,0
+Sunday September 15th 2013 6:18 pm -04:00,The screenshot was posted as an illustration only of a stackframe.  It wasnt an answer to a homework question., Resolved,0
+Sunday September 15th 2013 7:27 am -04:00,I figured out that it had to be triangle.something so that was good but now I still dont see what goes into the parentheses if its not (sidelength sidelength sidelength), Unresolved,0
+Sunday September 15th 2013 7:29 am -04:00,OH!  Nevermind.  I was also including area = then rewriting the return.  Not the right way.  , Unresolved,0
+Sunday September 8th 2013 12:02 pm -04:00,I dont know why I got that either.  I mean this:Method Description:Test large input.Message:FAILURE: AssertionError9 != 105.55555555555556Ive tested large inputs including 9 and 105.  They come back correctly in python.  what am I doin wrong?  why the failure?, Resolved,0
+Sunday September 8th 2013 12:51 pm -04:00,I have int for my type contract too so Im wondering where Ive allowed the non integers to appear., Resolved,0
+Sunday September 8th 2013 12:35 pm -04:00,Ive changed my body for minutes but not for hours and its all working properly now.  hmm., Resolved,0
+Sunday September 8th 2013 12:38 pm -04:00,Im still getting this failure:Method Description:Test the example in the handout.Message:FAILURE: AssertionError1 != 1.0555555555555556Whats the example in the handout?  Ive used (3800) for all of them., Resolved,0
+Sunday September 8th 2013 12:44 pm -04:00,Oh!  I didnt us call to 24hrclock.  maybe thats it?, Resolved,0
+Sunday September 8th 2013 1:08 pm -04:00,Thats it!  thank you!  I saw the // mark but didnt know what it was and couldnt locate it either., Resolved,0
+Sunday September 8th 2013 2:37 pm -04:00,I cant see the difference and without understanding that I cant form a body  Could someone clarify that please?, Unresolved,0
+Sunday September 8th 2013 4:11 pm -04:00,I looked at the examples but no formula jumps out at me., Unresolved,0
+Monday September 9th 2013 8:59 pm -04:00,whats that about a greenwhich line?  I know nothing of it., Unresolved,0
+Saturday September 14th 2013 8:41 am -04:00,I wish that helped clarify but it doesnt.  Thanks for responding tho I appreciate that., Unresolved,0
+Monday September 9th 2013 6:16 pm -04:00,I still cant get this last part.  I have everything right but the time from utc.  Half the provided examples from the docstring work and half dont with my body so its gotta be the body right?  I cant see whats wrong tho.  I wish someone could help me figure it out.  Any ideas?, Unresolved,0
+Monday September 9th 2013 7:54 pm -04:00,did you remember the call from the guide/instructions?  They seem to have removed assignment three and just went to assignment four so I bet youre not really behind.  Hang tough., Unresolved,0
+Monday September 9th 2013 7:50 pm -04:00,Knowing when the instructors or TAs are on would be nice.  You know so if we wait for days on end for a reply blah blah blah., Unresolved,0
+Sunday September 15th 2013 12:41 pm -04:00,I was equally confused by that thank you.  Is there significance to using () vs ()?  I see in Pauls example Bwa has the single while ha has the double., Resolved,0
+Sunday September 15th 2013 11:03 am -04:00,maybe hes using 2.7 for visualiser?  I would like to know whats wrong with the last one.  if temperature > 28 and money > 0.99:    print(Im buying a lemonade)else:    print(Wheres the water fountain?)is it because the else refers only to the money in the initial bit?  ..so it has to be dealt with as separate from the temp in that case?, Unresolved,1
+Monday September 23rd 2013 1:29 am -04:00,The colon symbol is not permitted in my python.  where have I gone wrong to have that happen?I tried:dna1[:index] + dna2 + dna1[index:], Resolved,0
+Monday September 23rd 2013 1:43 am -04:00,rite-O thanks, Resolved,0
+Sunday September 22nd 2013 11:27 pm -04:00,I dont see it.  Was it removed?  Ive been pulling my hair out for 5 hours over this now.  Lots of differing answers none of which solve my problem., Resolved,0
+Sunday September 22nd 2013 11:59 pm -04:00,I found the fix on another thread.  I wish I had cut the link so I coulda pasted it here for other strugglers but Im probly among the few who do this Sunday nite anyhoo.  , Resolved,0
+Sunday September 29th 2013 4:00 pm -04:00,not counting the word len in there I said the same and got it wrong even with the colon removed.  Any help?, Unresolved,0
+Sunday September 29th 2013 4:12 pm -04:00,Oh for corn sake.  why are all the examples provided using len( blah) and then when we apply it no len?  can someone provide explanation of that please?, Unresolved,1
+Saturday September 21st 2013 6:32 pm -04:00,Im still getting it wrong on the exercise but correct in python so Im wondering what is wrong myself.  Any help?I went with :s1.find(s2 4) + s1.find(s2 6)I hope thats not tmi, Unresolved,0
+Saturday September 21st 2013 6:57 pm -04:00,Yes I just labeled the words I used here as s1 and s2.  I figured it would be too easy to just post my words and have someone violate the code of ethics if I used them., Unresolved,0
+Saturday September 21st 2013 7:04 pm -04:00,thanks.   https://class.coursera.org/programming1-002/forum/thread?thread_id=2137, Unresolved,0
+Saturday September 21st 2013 7:09 pm -04:00,Still cant figure out whats wrong.  :(    That link leads to additional confusion unfortunately., Unresolved,0
+Sunday September 22nd 2013 2:30 pm -04:00,I tried that.  It doesnt work in python for me.  meh., Unresolved,0
+Sunday September 22nd 2013 3:27 pm -04:00,did you mean this one?s1.find(s2 (s1.find(s2))+1), Unresolved,0
+Sunday September 22nd 2013 3:33 pm -04:00,Also while Im grateful at getting an answer....really....cus this is frustrating....I would still like to understand the whys and wherefores., Unresolved,0
+Sunday September 22nd 2013 9:39 pm -04:00,I did that and it still failed., Unresolved,0
+Monday September 23rd 2013 12:29 am -04:00,try:return s1.count(s2)instead of the whole if statement and nuc = 0 bit, Resolved,1
+Friday October 4th 2013 7:21 pm -04:00,Indeed I too created an addition problem.  Got it correct now that I see they want to produce their own 4.  It was not at all the phrase POSITIVE INDICES that caused my confusion., Resolved,0
+Friday October 4th 2013 7:03 pm -04:00,Im with 777guy.  Its rigged to not allow proper answer., Unresolved,0
+Friday October 4th 2013 7:04 pm -04:00,Kindov annoying but at least its not for actual points so..., Unresolved,0
+Wednesday October 2nd 2013 6:25 pm -04:00,I wonder if theres an error....they say its longer and its only one item.  It can only be 7 no matter what so not such a mind stretch or even procedure check.  I dont get it for that reason., Resolved,0
+Thursday October 3rd 2013 6:22 pm -04:00,No I get that its 7.  The statement that its longer is odd.  Thats where I wonder if there is an error in the intent of the question.  (It can only be 7 thats not at all confusing)., Resolved,0

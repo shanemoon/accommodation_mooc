@@ -1,0 +1,1 @@
+Monday August 26th 2013 2:51 pm -04:00,Hint: Remember that the print function only prints a value onto the screen. A function that does not have a return statement returns None.This is incorrect the function is calling to return the number to the screen by calling the print function., Unresolved,0

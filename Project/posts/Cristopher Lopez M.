@@ -1,0 +1,13 @@
+Thursday September 5th 2013 10:10 pm -04:00,im having problem with the spaces in pythong does anybody have a tutorial explaining how to solve this issue  the main error is: (Unident does not match any outer indentation level), Unresolved,0
+Sunday September 8th 2013 9:44 pm -04:00,Ive been trying to do this questionthis is what i thing that is the right answer:return count_letters(count_vowels(word) + count_consonants(word)), Resolved,0
+Sunday September 8th 2013 9:54 pm -04:00,lol now i see thank you !!, Resolved,0
+Tuesday September 10th 2013 10:22 pm -04:00,Im totally stuck in step 5 ive tried in many ways and i havent got the good resultDoes anybody can give some tips or hints please to understand this problem better, Resolved,0
+Tuesday September 10th 2013 10:59 pm -04:00,I understood the get houts but im still a little confused with the get minutes a seconds , Resolved,0
+Tuesday September 10th 2013 11:27 pm -04:00,Thanks you Very much for the tips i finished succesfully the assigment :D, Resolved,0
+Monday September 23rd 2013 12:07 am -04:00,Ive trying this code what;s wrong for count_nucleotidesnucleotide = 0    for char in dna:        if char in  ATCG:            nucleotide + 1            return nucleotide, Resolved,0
+Monday September 23rd 2013 12:24 am -04:00,nopwhen i tried like thatit gave these results >>> count_nucleotides(ATCTA G)5>>> count_nucleotides(ATCGGC G)6, Resolved,0
+Monday September 23rd 2013 12:33 am -04:00,Thank  you ! , Resolved,1
+Monday September 23rd 2013 12:47 am -04:00,def contains_sequence(dna1 dna2):     for char in dna1:        if char in ATCGGC:         return True    else:        return False, Resolved,0
+Monday September 23rd 2013 1:37 am -04:00,ive already watched it but i havent got the clue, Resolved,0
+Monday September 23rd 2013 1:46 am -04:00,Lol i feel a little bit dum  Thank you man!, Resolved,0
+Monday September 30th 2013 11:10 am -04:00,i did the fuctiona=0for b in range(524105092):a=a+bprint(a)the result was 27530880whats the problem, Unresolved,0

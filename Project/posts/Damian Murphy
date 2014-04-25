@@ -1,0 +1,5 @@
+Tuesday September 10th 2013 9:04 am -04:00,Yes same here: correct answers in my testing and using the examples above but marked wrong. I only use str.find () parentheses and an arithmetic operator in a single expression..., Unresolved,0
+Tuesday September 10th 2013 9:59 am -04:00,ok so I chose s1.find(s2 ((s1.find(s2)) + 1))and it was marked wrong - why?  2 find methods only no square brackets no other functions single expression  -  and it works!Thanks, Resolved,-1
+Tuesday September 10th 2013 2:20 pm -04:00,got it but unconvinced it should have been marked wrong - shouldnt parentheses be used at the programmers discretion to help with comprehension?, Resolved,0
+Thursday September 26th 2013 4:44 pm -04:00,My function seems to work returning the correct number on a range of tests but when I submit I get errors as belowIm using a for word in words loop and testing word using board_contains against the board and wordI define word as  so not sure how to progress with this error...  ?Message:ERROR: TypeErrorin <string> requires string as left operand not list, Resolved,0
+Thursday September 26th 2013 4:50 pm -04:00,sorry forget that - got it, Resolved,0

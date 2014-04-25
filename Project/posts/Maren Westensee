@@ -1,0 +1,1 @@
+Saturday August 31st 2013 9:29 am -04:00,I thought you still need the value of id1 for the value of id2 because the x from y=x+2 refers to the value of id1. Or is it useless because once its referred and its memorized in id2 the x from y=x+2 doesnt refer anymore to the first x its like already used?, Unresolved,0

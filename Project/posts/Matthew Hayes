@@ -1,0 +1,2 @@
+Thursday August 22nd 2013 10:14 am -04:00,def f(x):     return x**2A new prompt will not start after I hit the enter key., Unresolved,0
+Thursday August 22nd 2013 10:17 am -04:00,I resolved my own question. You have to hit the return key TWICE to mark the end of a function definition., Unresolved,2

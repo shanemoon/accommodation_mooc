@@ -1,0 +1,1 @@
+Sunday September 29th 2013 7:24 am -04:00,def avg(x):    y =     a = 0        for i in range(len(x)):        z = 0        for j in range(len(x[i])):            z = z + x[i][j]        a = z / len(x[i])        y.append(a)    return yal, Unresolved,0

@@ -1,0 +1,1 @@
+Monday September 16th 2013 12:38 pm -04:00,Not saying this is the most efficient I just dont see how it is returning wrong...s1.find(s2 (s1.find(s2))+1)simply Im adding the first occurrence in the second parameter and telling it to begin searching after that.If anyone can let me why this doesnt work it would greatly be appreciated, Resolved,0

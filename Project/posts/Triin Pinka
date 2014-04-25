@@ -1,0 +1,5 @@
+Thursday August 22nd 2013 5:19 pm -04:00,X = 9 / 4 is not 2.25 because neither 9 nor 4 are floating point values x is equal to 2 because its an all-integer operation.,None,1
+Thursday September 5th 2013 9:18 am -04:00,Hi. Ive submitted twice today but havent got any report back. How often does that system check homeworks now? , Resolved,0
+Thursday September 5th 2013 10:27 am -04:00,Ok thanks. I think I was confused because I keep seeing same results which are crap (6 from 41) even when I change stuff. So I thought my work hasnt checked yet., Resolved,0
+Friday September 13th 2013 9:35 am -04:00,student: test_a2.TestInsertSequence.test_insert_sequence_at_beginningMethod Description:Have you tested your function where you insert at the beginning of dna1?Message:ERROR: AttributeErrorReplacerModule object has no attribute insert_sequenceWhat does it mean? , Resolved,0
+Friday September 13th 2013 9:47 am -04:00,Aaa ok. Now I understand. I haven´t done those last steps. Only first 4. So first ones should be correct. That report thing is confusing when you want to test from the middle., Resolved,0

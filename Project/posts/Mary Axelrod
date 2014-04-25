@@ -1,0 +1,1 @@
+Thursday August 22nd 2013 6:17 pm -04:00,In the text there is a discussion of using integer division and modulo with negative operands.  I understand the integer division result but I am having trouble understanding how the modulo answer is correct.The example is -17 // 10 =-2  and -17 % 10= 3Can someone enlighten me?Mary, Resolved,0

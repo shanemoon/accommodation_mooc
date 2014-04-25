@@ -1,0 +1,2 @@
+Monday September 23rd 2013 12:33 pm -04:00,Ok so I finally figured out the assignement but I get two different results (using different methods) and I dont know why.first using sum(range(524 10509 2))I get 27541388But then using xxx = 0for num in range(524 10509 2):	xxx = xxx + numI get 27541520This last result is greater by 132. Why?, Resolved,0
+Monday September 23rd 2013 1:15 pm -04:00,I restarted (closed and opened again) Python and the result was the same using both methods: 27541388Very weird but fixed.Thanks., Resolved,0

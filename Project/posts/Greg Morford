@@ -1,0 +1,2 @@
+Friday September 27th 2013 6:06 pm -04:00,The docstring type contract says the return type is NoneType... how can code calling .pop() please the type contract?My understanding is that thats the primary difference between pop() and remove() is that remove() doesnt return what is knocked from the list whereas pop does return what it knocked off the list..Can someone explain how this works?  Or is there a bug in the answer feedback?, Resolved,0
+Saturday September 28th 2013 12:28 pm -04:00,Good point!  Thanks for the quick reply!  Makes sense now., Resolved,0

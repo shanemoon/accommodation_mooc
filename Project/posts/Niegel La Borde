@@ -1,0 +1,2 @@
+Saturday September 7th 2013 10:15 am -04:00,My code works but when i submit it I get this error message:Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a1.py 17 11     return= time_1-time_2), Resolved,0
+Saturday September 7th 2013 10:46 am -04:00,Thanks for the editing...careless error., Resolved,0

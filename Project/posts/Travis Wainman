@@ -1,0 +1,5 @@
+Monday September 23rd 2013 8:00 pm -04:00,The question asks what it should be after the 1st iteration or loop. Not what it should be at the very end.for i in range(1)      L[i - 1] = L[i]           L[0] = L[1], Resolved,1
+Monday September 23rd 2013 8:04 pm -04:00,first_item = L[0]for i in range(1 len(L))   L[i - 1] = L[i]L[0] = L[1] ?? What is L[1]? Wouldnt this result in an error?, Unresolved,0
+Monday September 30th 2013 3:23 pm -04:00,Why does print(line end=  ) print the line without the ?  # For the Print built-in you have 2 ways of taking the  off your string.  # You can use print(line end=) or print(line.strip()), Unresolved,0
+Thursday October 3rd 2013 9:01 pm -04:00,I am lost please help. My index iteration is working and the letter is being produced each step but they just arent accumulating. This is week 3/4 stuff and I just cant get it!    i = 0    row =board[row_index]    for i in range(len(board[row_index]))):            letter =letter + just keep getting:make_str_from_row([[A N T T] [X S OB]] 0)    T, Unresolved,0
+Thursday October 3rd 2013 11:35 pm -04:00,That did it. Thank you much Nadine!, Unresolved,0

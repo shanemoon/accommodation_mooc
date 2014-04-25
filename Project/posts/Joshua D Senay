@@ -1,0 +1,1 @@
+Monday September 23rd 2013 3:37 pm -04:00,def get_compliment(dna):    if dna == A:        return T    elif dna == T:         returnA    elif dna == C:        returnG    elif dna == G:        returnCWhat am I doing wrong here. So confused, Unresolved,0

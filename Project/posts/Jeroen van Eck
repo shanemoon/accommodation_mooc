@@ -1,0 +1,1 @@
+Saturday September 14th 2013 8:18 am -04:00,you cant return the function itself from the specific function. Create a local (function) variable and at the end of your function return that variable. , Unresolved,0

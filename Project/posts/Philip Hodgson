@@ -1,0 +1,1 @@
+Thursday September 26th 2013 8:29 pm -04:00,I was getting the same error.  I believe the problem is the way that Windows now uses a \ in the path which Python thinks is an escape symbol and doesnt recognise it.  If you change all the \ in the path to / it should open correctly., Resolved,0

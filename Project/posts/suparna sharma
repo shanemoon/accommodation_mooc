@@ -1,0 +1,17 @@
+Friday September 6th 2013 1:05 pm -04:00,HiI have the same problem .I fixed it (or thats what i think) but I havent seen any change in my scores .How did you resubmitted it did you submit justget_hoursor you submitted the whole a1thanks, Resolved,0
+Friday September 6th 2013 11:50 pm -04:00,Thanks for the reply . I did  submit the modified a1.py file but its still showing 1 fail .following is the messagestudent		42		41		1		0		0		Detail 	student: test_get_hours.TestGetHours.test_large_inputFAILURE[x]Method Description:Test large input.Message:FAILURE: AssertionError9 != 105I found out that I had typed one example wrong .Even after fixing it marks are still 41., Resolved,0
+Saturday September 7th 2013 12:01 am -04:00,Thanks Yutha Vasanth J! I just solved the problem now I have 42 .I was reading another post and found out that I was not running the to_24_hour function . Thanks for your help. , Resolved,0
+Saturday September 7th 2013 10:37 am -04:00,Please check the Home page of this course to find out reason., Resolved,0
+Friday September 13th 2013 11:08 pm -04:00,Hi I am  not quite getting Q - 9 going to attempt it for the fourth time .Can someone please tell me if the following is correct>>>import book>>>dir(book)>>> help(book.chapter)thanks, Unresolved,0
+Friday September 13th 2013 11:47 pm -04:00,thanks Etienne.after reading the anons post I think it should be just >>> import chapterdo you think I am heading in the right direction?, Unresolved,0
+Saturday September 7th 2013 10:46 am -04:00,try calling  to_24_hour_clock  function .I had the same problem., Unresolved,0
+Saturday September 21st 2013 8:43 am -04:00,Hello Everyone I tried the following code in IDLE it works but answer is marked wrong . Can someone tell me what is wrong in thiss1.find(s2s1.find(s26))thanks, Unresolved,0
+Saturday September 21st 2013 9:59 am -04:00,Thanks AdrianDo you mean we have to use  index+1 instead of a number?, Unresolved,0
+Saturday September 21st 2013 3:20 pm -04:00,Thanks Adrian and AnonymousJust tried again and got the right answer!! , Unresolved,2
+Saturday September 21st 2013 6:38 pm -04:00,check out the post how is my code returning correctly but come out as incorrect?thats how I got my answer, Unresolved,-1
+Saturday September 21st 2013 7:52 pm -04:00,ok  read the first post in that .that is very close to the right answer just there is an extra parentheses or bracket around s2.hope this helps , Unresolved,0
+Sunday September 22nd 2013 3:53 pm -04:00,yes that is correct  just remove the extra parentheses after s2 , Unresolved,0
+Sunday September 22nd 2013 10:35 pm -04:00,hello I am tring the following code but it is giving 0 every time I run this .nucleotide = 0    for char in dna:        if char == nucleotide :            nucleotide = nucleotide + 1    return nucleotide        Can someone please tell me what is wrong here ?, Unresolved,0
+Sunday September 22nd 2013 10:42 pm -04:00,I removed == and wrote is in its placebut still I get 0., Unresolved,0
+Sunday September 22nd 2013 10:50 pm -04:00,this is my new code .This gives me 5 when i run this        nucleotide = 0    for char in dna:        nucleotide = nucleotide + 1    return nucleotide        , Unresolved,0
+Sunday September 22nd 2013 11:09 pm -04:00,well now I tried thisnum_nuc = 0    for char in dna:        if char is nucleotide:            num_nuc = num_nuc + 1    return num_nucthis one is giving the right answer in idle but when I submitted it I got only 1 point, Unresolved,0

@@ -1,0 +1,5 @@
+Thursday August 29th 2013 4:51 pm -04:00,Yes why is this?, Unresolved,0
+Friday August 30th 2013 5:40 am -04:00,Of course thanks, Unresolved,0
+Monday September 9th 2013 2:51 pm -04:00,HiIm getting a syntax error pointing to semi when I try to run my module. This is what Ive got - I cant seem to see whats wrong with it:def area_hero(side1 side2 side3:     (number number number) -> float    Return the area of a triangle with sides of length side1 side2 side3.    >>> area_hero(3 4 5)    6.0    >>> area_hero(10.5 6 9.3)    27.731        semi = semiperimeter(side1 side2 side3)                  area = math.sqrt(semi * (semi - side1) * (semi - side2) * (semi - side3))    return area, Unresolved,0
+Monday September 9th 2013 3:12 pm -04:00,It is defined in the same module above it like this:def semiperimeter(side1 side2 side3):     (number number number) -> float    Return the semiperimeter of a triangle with sides of length...    >>> semiperimeter(3 4 5)    6.0        return perimeter(side1 side2 side3) / 2, Unresolved,0
+Monday September 9th 2013 3:12 pm -04:00,(likewise for perimeter), Unresolved,0

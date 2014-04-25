@@ -1,0 +1,1 @@
+Sunday September 29th 2013 1:10 am -04:00,Finally got update_score working .... initially solved for player_info (and printed it out and it looked fine) but changed it to player_info[1] and everything passed., Resolved,0

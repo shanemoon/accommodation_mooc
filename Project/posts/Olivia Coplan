@@ -1,0 +1,1 @@
+Sunday August 25th 2013 1:49 pm -04:00,This function always returns a value in the Fibonacci sequence but it returns the n+1 term instead of n.Eg:fibonacci(5) should return the 5th term in the sequence but instead returns 5 which is the 6th number in the sequence.fibonacci(8) should return the 8th term in the sequence (13) but instead returns 21 (the 9th term).,None,0

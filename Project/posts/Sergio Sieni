@@ -1,0 +1,7 @@
+Thursday September 5th 2013 7:03 am -04:00,@ Ivayla Ivanova1) pythontutor is an interactive interpreter so you dont need line 1 and 22) just define grade1 and grade2above/below the two variables total grade_countgrade1 = 50.0grade2 = 50.03) run the codeps: the indentation is correct. (without line 1 and 2), Resolved,0
+Thursday September 5th 2013 7:40 am -04:00,@Sateesh M NCould you please explain the error you get when you copy/paste the link assignment 1 handout in to the url bar?Because assignment 1 handout is a simple html page and if you cannot see it then you should not see this page too., Unresolved,0
+Saturday September 7th 2013 6:16 am -04:00,@Tabea LeusserI am using pdb or debug option in python idleHopes it help., Unresolved,1
+Monday September 9th 2013 4:10 pm -04:00,digit is the variable used by the for loop.for number in digits:     result = result - int(number), Resolved,0
+Monday September 9th 2013 6:09 pm -04:00,@ Sandeep & MarthaWe got question 10 with different value and operator.digits = 0123456789result = 100for digit in digits:    result = result - int(digit)print(result), Resolved,0
+Saturday September 14th 2013 1:31 pm -04:00,Hi ChrisIt seems to me that you have a tcl/tk problem have a look at this thread., Unresolved,0
+Saturday September 14th 2013 10:50 am -04:00,Try:while answer not in YNyn,None,0

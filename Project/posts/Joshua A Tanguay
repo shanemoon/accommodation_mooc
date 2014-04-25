@@ -1,0 +1,3 @@
+Wednesday September 11th 2013 3:56 pm -04:00,I had success with this and ignored the message regarding GCTAGCTA = TAGCTAGC.  My function handled it as such so it would return the compliment of the DNA sequence and my functions passed the automatic checking routine.  So GCTAGCTA = CGATCGAT., Resolved,0
+Wednesday September 11th 2013 3:58 pm -04:00,Returning will break out of the function.  Try adding your char to an empty string and return your final string once you exit your for loop.  I hope this helps without spoiling too much., Resolved,3
+Wednesday September 11th 2013 6:37 pm -04:00,You are probably so close to getting this right.  Good luck.  Respond to this post if you want anymore help and Ill do my best to throw another hint your way., Resolved,0

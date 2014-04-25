@@ -1,0 +1,2 @@
+Tuesday September 17th 2013 11:30 am -04:00,In sequence it doesnt mean that dna1 should be greater than dna2 is that right ? I need to specify something that dna1 is really the first dna is that right ?, Unresolved,0
+Wednesday September 18th 2013 9:20 am -04:00,>>> insert_sequence(ATTGGG0)GGATTG>>> insert_sequence(GGATTG0)GGATTG    <--- is this output supposed to be correct ? or it should give a None output ?, Unresolved,0

@@ -1,0 +1,3 @@
+Tuesday August 27th 2013 3:54 pm -04:00,I get  lots of error messages and i dont know whats wrong - my code is indentedMessage:ERROR: IndentationErrorunindent does not match any outer indentation level(./a1.py 16 25    return time_2-time_1 ), Resolved,0
+Tuesday August 27th 2013 4:37 pm -04:00,you are right there was one row which had three instead of four spaces, Resolved,0
+Tuesday September 10th 2013 4:59 pm -04:00,From he Assignment description : ...There is no starter codefor these functions. .. I think you have to do it from scratch, Resolved,1

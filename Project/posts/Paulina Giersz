@@ -1,0 +1,2 @@
+Wednesday October 2nd 2013 3:14 pm -04:00,I cant understand it either :(, Unresolved,0
+Thursday October 3rd 2013 2:10 pm -04:00,Why do we need the expression: L[-1] = first_itemI know that without it the code does not work properly but...L[0 - 1] = L[0]L[-1] = L[0]... so the last item in the list (L[-1]) should automatically get the value of the first item(L[0]), Unresolved,0

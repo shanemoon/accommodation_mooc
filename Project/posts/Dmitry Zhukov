@@ -1,0 +1,3 @@
+Monday August 26th 2013 4:41 pm -04:00,Hello for everybody!I have tried to implement the following code in the second excercise but grader didnt accept. Is there any possibilities to write expression without another functions (return print etc.)?[code removed]Thanks for your advising!, Resolved,0
+Monday August 26th 2013 5:02 pm -04:00,Oh sorry!Really I have passed it. I thought that capital means money. Modern society has bad influence on me :), Resolved,5
+Tuesday August 27th 2013 10:17 am -04:00,Hi! Function returns a value of the longer capital which is calculated in the body of function. In this task you must write expression after operand return. It means:def function (xy):    return <expression>You need to write only <expression> in your answer., Resolved,4

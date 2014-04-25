@@ -1,0 +1,14 @@
+Thursday August 29th 2013 11:40 am -04:00,I dont understand how to use the  to_24_hour_clock in get_hours... Can anyone explain it to me?, Resolved,0
+Tuesday September 10th 2013 1:05 pm -04:00,I cant figure this one out! How can I make it look for the repetition using only .find?, Resolved,0
+Tuesday September 10th 2013 1:38 pm -04:00,Ok I finally got it! :), Resolved,0
+Tuesday September 17th 2013 6:26 am -04:00,Hi you also dont need those elif in the get_complement. you can do it with just if for each of the nucleotides., Resolved,1
+Sunday September 29th 2013 2:09 pm -04:00,I cant figure out how to use the if statement to remove the . My code is working properly but its not removing the  at the end of each list. What my code is returning is:[[E F J A J C O W S S ] [S D G K S R F D F F ] [A S R J D U S K L K ] [H E A N D N D J W A ] [A N S D N C N E O P ] [P M S N F H H E J E ] [J E P Q L Y N X D L ]] , Resolved,0
+Wednesday September 25th 2013 10:56 am -04:00,Also having problems in this one i tried the code but it doesnt write anything to the file I created... its always blank., Resolved,1
+Friday September 27th 2013 7:08 am -04:00,make_str_from_row([[A N T T] [X S O B]] 0)A It gives me only the first character what am I doing wrong?, Unresolved,0
+Friday September 27th 2013 7:27 am -04:00,I tried it but I got the same only difference is the space came before the letter:make_str_from_row([[A N T T] [X S O B]] 0) ACant figure this one out... I think my problem is in the for char in board[row_index]:it only gives me the first character, Unresolved,0
+Friday September 27th 2013 7:48 am -04:00,LOL you were right it was all because of the indentation! Damn! Thanks for your help Alison!, Unresolved,0
+Friday September 27th 2013 1:46 pm -04:00,I did this code and its working but I cant understand how its doing the calculation of the points because I only atributed a value to a variable and then added the length of the word and somehow its doing the correct calculations! Miracle?, Unresolved,0
+Friday September 27th 2013 2:04 pm -04:00,Sorry deleted... but did you understand the code? Somehow its working properly and I just want to understand how is that possible., Unresolved,0
+Sunday September 29th 2013 2:19 pm -04:00,Somethings wrong with my code im getting repeated lists and also with the  at the end... My code is like this:board =     for row in board_file:        board1 =         for row1 in row:            board1.append(row1)            board.append(board1)                return board Can you please help?, Unresolved,1
+Sunday September 29th 2013 2:31 pm -04:00,Thanks Anonymous that resolved the repetition issue but I still get the  at the end..., Unresolved,0
+Sunday September 29th 2013 2:53 pm -04:00,I get an invalid syntax error when I put the if statement..., Unresolved,0

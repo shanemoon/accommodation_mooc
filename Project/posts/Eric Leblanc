@@ -1,0 +1,4 @@
+Friday August 30th 2013 10:47 pm -04:00,I was wondering if using doctest in the submitted code is allowed. I was worrying that it would conflict with your auto grader or not., Resolved,0
+Saturday August 31st 2013 1:29 am -04:00,I submitted with and without and both seem to work fine., Resolved,2
+Saturday August 31st 2013 1:36 am -04:00,use \ when you want to break your linelike:def  really_long_function \    (arg1 arg2):    return 0, Resolved,2
+Friday September 27th 2013 12:08 pm -04:00,the program that call the function you just wrote give you an open file as the argument.something like:wfile = open(words1.txt  r)read_words(wfile), Unresolved,0

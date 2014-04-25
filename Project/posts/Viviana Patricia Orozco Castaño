@@ -1,0 +1,1 @@
+Saturday August 24th 2013 1:44 pm -04:00,IDLE internal error in runcode()Traceback (most recent call last):  File D:\DOC\Programas\lib\idlelib\rpc.py line 236 in asyncqueue    if threading.current_thread() != self.sockthread:AttributeError: MyRPCClient object has no attribute sockthreadwhat is this??? cannt open IDLE,None,0

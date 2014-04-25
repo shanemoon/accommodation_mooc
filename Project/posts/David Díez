@@ -1,0 +1,6 @@
+Monday August 19th 2013 6:56 am -04:00,Hola a todosAcabo de entrar en el grupo de Fb.Un saludo y vamos hablando.David,None,0
+Wednesday August 21st 2013 3:55 pm -04:00,Hey thereI just wanted to share that I am very happy with the introductory lectures of the week and in general with the planning and develop of the course. First week was easy but I am sure it will get harder!Also in the Spanish study group created in Facebook someone has shared this highly recommendable introductory course http://www.codecademy.com/tracks/python I think is ideal to complement this course and get some more practice.Enjoy!,None,1
+Friday September 13th 2013 1:40 pm -04:00,Wow! It took me a while but FINALLY I get the correct code.Hint: more than one if is needed., Resolved,0
+Monday September 30th 2013 10:54 am -04:00,Im SO HAPPY. It took me a while to figure out but finally 37/37 and working!Yay!:P , Resolved,1
+Monday September 30th 2013 7:01 am -04:00,Some posted thisWhy is it that we can update via player_info[1]+=word_score(word) but we cant sayplayer_info=[player_info[0]player_info[1] +word_score(word)]?I have the same question.Anybody?Thanks in advance!, Resolved,0
+Monday September 30th 2013 9:07 am -04:00,I understand but the code:player_info=[player_info[0]player_info[1] +word_score(word)]is not doing the same changing only the score?, Resolved,0

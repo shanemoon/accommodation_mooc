@@ -1,0 +1,10 @@
+Friday September 13th 2013 7:30 pm -04:00,Hello u did a small mistake by did not define res is an empty str , Unresolved,0
+Saturday September 28th 2013 2:09 pm -04:00,my methods are works but my Assm. 19 only & the error I do not understand it :|, Resolved,0
+Friday September 27th 2013 3:32 pm -04:00,Hi every onewhen I try to put my work the score is zero and I tested it with visualize and it was worked can any one help me to solve itthanx  , Unresolved,0
+Friday September 27th 2013 4:05 pm -04:00,yes I did :(but also not work :|, Unresolved,0
+Friday September 27th 2013 6:01 pm -04:00,Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: IndentationErrorexpected an indented block(./a3.py 161 7     sco=word_score(word))this is the error , Unresolved,0
+Saturday September 28th 2013 1:02 pm -04:00,Method Description:NoneMessage:ERROR: DisabledBuiltinErrorCalling the open built-in is not permitted.what about this error ??, Unresolved,0
+Saturday September 28th 2013 1:09 pm -04:00,hello dearI do not have any statement for open file as I know I must pass the file directory to methods  does not it??, Unresolved,0
+Sunday September 29th 2013 9:53 am -04:00,student: test_a3.Test_03_IsValidWord.test_02_full_word_presentSUCCESSstudent: test_a3.Test_03_IsValidWord.test_03_full_word_not_presentSUCCESS, Unresolved,0
+Sunday September 29th 2013 9:55 am -04:00,they are succeeded but also still the same error but the score raise up from 10 to 22, Unresolved,0
+Saturday September 28th 2013 2:05 pm -04:00,hello dearsin the final test how are the answer of questions ?? like Assessment or like test for each week? thanx  , Resolved,0

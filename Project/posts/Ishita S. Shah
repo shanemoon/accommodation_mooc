@@ -1,0 +1,4 @@
+Monday August 26th 2013 4:19 am -04:00,heythis is Ishita Shah here.this is my first online course.i am an Indian and am 21.please add me on grp : ishah4193@gmail.com,None,0
+Wednesday August 21st 2013 1:21 pm -04:00,round (float) will round off the float value to interger valueround(float int) will round off the float value to a float number till int numbers after decimaleg round(4.5623589) will give me 4but round (4.56235894) will give me 4.5624and round(4.5623589 1) will give me 4.6and so on,None,0
+Friday August 23rd 2013 10:40 am -04:00,that is because round() works like rounding off to the nearest integer so when you give 4.5623589that evaluated like 4.5623589-4.562359-4.56236-4.5624-4.562-4.56-4.6-5,None,0
+Wednesday September 11th 2013 9:19 am -04:00,please let me know which is the shortcut used to copy the previous statements in python , Unresolved,0

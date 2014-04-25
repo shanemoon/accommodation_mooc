@@ -1,0 +1,3 @@
+Sunday September 1st 2013 10:02 pm -04:00,Hi Tamara and thanks for the post;this is exactly my questionIm getting: Method Description:Test large input.Message:FAILURE: AssertionError9 != 105in my get_hours function and Im quiet sure my code is OK. I tested it several times even with large inputs.whats wrong there?, Resolved,6
+Monday September 2nd 2013 12:04 am -04:00,Thanks dude!Everything works fine :), Resolved,0
+Monday September 2nd 2013 1:57 pm -04:00,Hi Ammarahyou need to necessarily use 24 clock function. It will work. Best :), Resolved,0

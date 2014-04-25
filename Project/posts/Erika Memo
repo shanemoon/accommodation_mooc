@@ -1,0 +1,1 @@
+Wednesday October 2nd 2013 6:30 pm -04:00,What does this message mean ?I have tested every possible word and combination and it always works....How should I check?student: test_a3.Test_07_BoardContainsWordInColumn.test_04_word_end_of_colFAILURE[x]Method Description:NoneMessage:FAILURE: AssertionErrorFalse != True : Word not found., Unresolved,0

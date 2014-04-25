@@ -1,0 +1,10 @@
+Monday August 26th 2013 1:53 pm -04:00,Do i have to submit the code for assignment 1 after completion of every module like seconds_difference etc. If yes should i submit it in code submission or additional submission??, Resolved,0
+Monday August 26th 2013 2:11 pm -04:00,that means we have to submit the entire code just once as we complete all the modules?, Resolved,0
+Monday August 26th 2013 2:18 pm -04:00,thank you paul!! Appreciate your help! :), Resolved,0
+Monday August 26th 2013 2:18 pm -04:00,thank you Greg!!, Resolved,0
+Monday August 26th 2013 2:33 pm -04:00,I have submitted the assignment but for all the modules i am getting error like this:Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: DisabledModuleErrorUse of the sys module is not permitted.What does it mean? can someone explain?, Resolved,0
+Monday August 26th 2013 2:43 pm -04:00,No!!All the test cases are working fine on my laptop!! i have tried and tested them!!, Resolved,0
+Monday August 26th 2013 3:03 pm -04:00,Anyone with the solution to this?, Resolved,0
+Monday August 26th 2013 3:13 pm -04:00,sorry to bother i found out the mistake i was submitting the file with the same name a1.py thats why i was getting error i feel now it got succeeded!! Thanks!, Resolved,1
+Monday August 26th 2013 3:13 pm -04:00,Thread is resolved, Resolved,0
+Wednesday September 11th 2013 8:16 am -04:00,This is the error shown to me now because of the change made to the assignmentstudent: test_get_hours.TestGetHours.test_large_inputi m not getting what is this test all about!! please somebody if you could help me out!!, Unresolved,0

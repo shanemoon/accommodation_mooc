@@ -1,0 +1,19 @@
+Tuesday August 20th 2013 1:59 pm -04:00,What this course needs is a IRC Channel for general chat.  Forums are good for short discussions on a specific topic but quickly get sloppy and out of control.,None,0
+Tuesday August 20th 2013 1:47 pm -04:00,git and other version control software are extremely useful and should be learned.  Eventually. Looking at what we have done so far and the course syllabus I really doubt we are going to be writing any code complex enough to require its use., Unresolved,0
+Tuesday August 20th 2013 2:32 pm -04:00,the old memory location at x200 will be cleaned out by pythons garbage collection.  No need to worry about manually cleaning it out like C., Unresolved,1
+Tuesday August 20th 2013 4:35 pm -04:00,dont use the square brackets it denotes an option in the help.   Seperate the arguments with a i.e. round(45.7890 2), Resolved,1
+Wednesday August 21st 2013 10:14 am -04:00,The Run menu item is only available in the editor view as opposed to the console view ( the one where you have the >>> prompt)  You can change the default view under Options -> Configure IDLE switch it to editor by default and you will always have run.  You will however have to open another window to get the console (from the run menu), Resolved,4
+Wednesday August 21st 2013 7:34 pm -04:00,you can write extensions for ArcGIS in python.,None,0
+Sunday September 8th 2013 9:26 am -04:00,I dont intent to sound cheeky but the best way to prepare for the exam is to Study.  In this case review and write code., Resolved,0
+Thursday September 12th 2013 10:48 am -04:00,IDLE is what the course uses but if you want to expand out you could try notepad++ with its python plugin.,None,1
+Monday September 23rd 2013 2:05 pm -04:00,Never too late until your dead =P,None,3
+Friday September 27th 2013 11:17 am -04:00,Your going to have to be more specific than that Im afraid.  Can you post your code what you expect and what you get as a result?, Unresolved,0
+Monday September 30th 2013 4:18 pm -04:00,sometimes a single mistake will cause a cascade of errors in testing fixing one makes the lot go away., Resolved,0
+Monday September 30th 2013 4:01 pm -04:00,Instead of range use a slice. i.e. board[x:len(board)]], Unresolved,0
+Monday September 30th 2013 3:49 pm -04:00,The doc string does say File open for reading...  sometimes we look for complication where there is none., Unresolved,0
+Monday September 30th 2013 3:56 pm -04:00,There is a Interactive Programming with Python course starting next week.  Looks a bit more intense but should be fun.,None,0
+Monday September 30th 2013 4:08 pm -04:00,total = total + i # not 1, Resolved,2
+Monday September 30th 2013 4:23 pm -04:00,I love using that terminology., Resolved,1
+Wednesday October 2nd 2013 4:01 pm -04:00,See you there!, Resolved,1
+Thursday October 3rd 2013 7:40 am -04:00,What the title says., Unresolved,0
+Thursday October 3rd 2013 4:11 pm -04:00,So? what does that have to do with the rest of us.  Its graded automatically and doesnt impact anyone else.  It would be nice to know how we did so we can move on.  As it is now Im going to be a week into another course before I find out how I did on this exam., Unresolved,0

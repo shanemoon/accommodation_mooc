@@ -1,0 +1,1 @@
+Sunday September 29th 2013 1:23 pm -04:00,Charlotte not sure if the answer above solves your problem or if you figured it out.  Here is what I figured out http://docs.python.org/2/reference/lexical_analysis.html#string-literals.  The literals \=newline and \\=backslash.  hope that helps., Unresolved,0

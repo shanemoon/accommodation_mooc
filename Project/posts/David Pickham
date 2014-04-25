@@ -1,0 +1,7 @@
+Wednesday September 18th 2013 10:34 pm -04:00,I have coded a long way to pick the complimentary string however I am now out of frustration wanting to know how to call the prior function get_complement to pull the get_complementary - My code is below - WTF is wrong??def get_complementary(dna) xyznucleo=        for char in DNA:        nucleo = nucleo + get_complement                return nucleo, Unresolved,0
+Wednesday September 18th 2013 10:58 pm -04:00,thanks for reply - complete below - still not working. thoughts? nucleo=        for char in DNA:        nucleo = nucleo + get_complement(DNA)    return nucleo , Unresolved,0
+Wednesday September 18th 2013 11:08 pm -04:00,thanks I havent all uppercase., Unresolved,0
+Wednesday September 18th 2013 11:28 pm -04:00,Wasnt clear - it still is working and I have them all capitalized - it acknowledges the first complementary pair and duplicates it over and over - TTTTTTTTTWTF, Unresolved,0
+Thursday September 19th 2013 12:29 am -04:00,champion!! how would one work this out without the messenger boards.....crazy, Unresolved,0
+Wednesday September 18th 2013 11:43 pm -04:00,thanks - but Im not talking about grading - I dont care. I just dont understand why calling the function get_complement is working in the shell as listed above? why, Unresolved,0
+Wednesday September 18th 2013 11:44 pm -04:00,sorry NOT working, Unresolved,0

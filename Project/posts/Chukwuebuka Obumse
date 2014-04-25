@@ -1,0 +1,2 @@
+Sunday September 22nd 2013 11:55 pm -04:00,why dont you consider the built-in function len(). It counts the number of characters., Resolved,0
+Monday September 23rd 2013 12:02 am -04:00,In the result feedback I got a msg that of failure in the get_complementary_sequence which is different from its excellent run on my IDLE.  Message:FAILURE: AssertionError != TAbut I got: >>>get_complementary_sequence (AT) TA I want to know how I got it wrong., Resolved,0

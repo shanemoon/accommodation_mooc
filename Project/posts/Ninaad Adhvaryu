@@ -1,0 +1,4 @@
+Monday September 2nd 2013 1:18 pm -04:00,I have a function that returns x + 4.def f(x): return (x + 4)My list is a.a = [1 2 3 4 5]I can apply the function f(x) on the list a like this:[f(x) for x in vec]However how to do this if your function has two variables x and y.def f(x y): return (x + y)My second list is:b = [2 4 6 8 10] ,None,0
+Sunday September 8th 2013 6:48 am -04:00,Thank you all.I did it as follows:(list(map(f a b)))Using the map tool,None,0
+Sunday September 8th 2013 6:55 am -04:00,I have 3 lists as follows:a = [10.0 20.0 30.0 40.0 50.0]b = [x x x x x]c = [5 4 3 2 1]I want to be able to combine all of them as one list:answer = [10.0 x ^ 5 20.0 x ^ 5 ..... 50.0 x ^ 1] I can convert each of the lists in to str form as such: (list(map(str a)))(list(map(str c)))Any help would be much appreciated! ,None,0
+Sunday September 8th 2013 10:25 am -04:00,I was unaware of the zip function!Thank you very much! Great help.,None,0

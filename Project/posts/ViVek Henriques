@@ -1,0 +1,1 @@
+Monday September 9th 2013 3:07 am -04:00,student: test_get_hours.TestGetHours.test_large_inputFAILURE[x]Method Description:Test large input.Message:FAILURE: AssertionError9 != 105i used this operation for calculating hours hours = seconds // 60 // 60i tested the function it does workfor large 67 digit inputs too, Resolved,0

@@ -1,0 +1,33 @@
+Saturday September 14th 2013 4:47 am -04:00,Please re-offer the follow up course. Thanks!, Resolved,10
+Sunday September 22nd 2013 7:14 am -04:00,This course is almost finished only two more weeks left. Jen and Paul please start LTP2 after this course and we will do Python programming with classes for Christmas. :), Resolved,2
+Sunday September 22nd 2013 7:40 am -04:00,If I could do anything on my own I were Einstein now., Resolved,3
+Monday September 23rd 2013 4:06 am -04:00,Which course is DIno 101?, Resolved,0
+Monday September 23rd 2013 9:25 am -04:00,Thanks., Resolved,0
+Monday September 30th 2013 4:54 pm -04:00,Exercises yes but not assignments., Resolved,0
+Wednesday August 21st 2013 3:32 am -04:00,1) Its prerequisite to many Coursera courses.2) an option for server side web programming besides Java PHP ...3) Good for in-house scripting.4) Not good for commercial software.,None,0
+Thursday August 22nd 2013 2:55 am -04:00,Is she also anonymous to course staff?,None,0
+Sunday August 25th 2013 7:28 am -04:00,why we work with python??,None,0
+Wednesday August 28th 2013 3:15 pm -04:00,The question explanation reads: Remember that there needs to be a space after the word return.However thats not true if you use parentheses after return which is what I did and was marked as incorrect.return(value), Resolved,0
+Wednesday August 28th 2013 3:29 pm -04:00,oops youre right. Changed the title. Thanks!, Resolved,0
+Wednesday August 28th 2013 3:43 pm -04:00,Obviously its considering those parentheses as unnecessary but as we see here they are not unnecessary and furthermore gives a wrong tip: Remember that there needs to be a space after the word return, Resolved,0
+Wednesday August 28th 2013 3:54 pm -04:00,Yeah youre right., Resolved,0
+Wednesday August 28th 2013 3:40 pm -04:00,The question states: The line with the red arrow (line 15) is about to be executed. which means it hasnt been executed yet and as such wouldnt the only variable on stack be hours_asleep?, Unresolved,1
+Wednesday August 28th 2013 4:03 pm -04:00,So they could just simply say after executing the last line but I guess they wanted the problem description match the screenshot (or vice versa) so they made a little story there. :), Unresolved,0
+Thursday August 29th 2013 10:02 am -04:00,Changed it., Unresolved,0
+Wednesday August 28th 2013 4:55 pm -04:00,Did you remember to convert it to 24h format before return?, Unresolved,1
+Wednesday August 28th 2013 5:46 pm -04:00,If you get values above 23 or below 0 then it means thats the issue., Unresolved,0
+Wednesday August 28th 2013 5:51 pm -04:00,Did you check if you get values below 0?, Unresolved,0
+Thursday August 29th 2013 1:21 pm -04:00,You should use to_24_hour_clock function instead., Unresolved,0
+Wednesday September 25th 2013 2:15 am -04:00,The one-hour submission delay is back? Cant submit more than one per hour., Unresolved,0
+Wednesday September 25th 2013 9:06 am -04:00,:D, Unresolved,0
+Monday September 16th 2013 3:33 pm -04:00,PyScripter: free 32/64 bit Python 2.7/3.3 debugger autocomplete context-sensitive help code explorer ..., Unresolved,1
+Tuesday September 17th 2013 3:10 am -04:00,Though it lacks code folding., Unresolved,0
+Monday September 23rd 2013 12:58 pm -04:00,If on the other hand you have been avoiding using IDLE and youre struggling with the exercises then you arent learning as much as you should.I disagree. If you can predict the output without running the example in IDLE youre quite a few steps ahead of someone who just runs the code and observes the result. Copy -> paste -> run -> get answer needs no skills. :), Resolved,2
+Monday September 23rd 2013 1:13 pm -04:00,I do struggle most of the time though. :) It also takes a lot longer to get to the answer without running the code considering I have to be pretty sure about the answer before submitting since number of tries isnt unlimited., Resolved,0
+Tuesday September 24th 2013 6:26 pm -04:00,Isnt this what read_board function needs to return?[[E F J A J C O W S S] [S D G K S R F D F F] [A S R J D U S K L K] [H E A N D N D J W A] [A N S D N C N E O P] [P M S N F H H E J E] [J E P Q L Y N X D L]]The grader gives these errors:student: test_a3.Test_02_ReadBoard.test_01_return_typeERROR[x]Method Description:NoneMessage:ERROR: AttributeErrorlist object has no attribute copystudent: test_a3.Test_02_ReadBoard.test_02_square_symmetric_boardERROR[x]Method Description:NoneMessage:ERROR: AttributeErrorlist object has no attribute copystudent: test_a3.Test_02_ReadBoard.test_03_rectangular_assymetric_boardERROR[x]Method Description:NoneMessage:ERROR: AttributeErrorlist object has no attribute copystudent: test_a3.Test_02_ReadBoard.test_03_square_assymetric_boardERROR[x]Method Description:NoneMessage:ERROR: AttributeErrorlist object has no attribute copy, Resolved,0
+Wednesday September 25th 2013 2:33 am -04:00,Im using Python 3.3 and dont know why it doesnt complain about using copy().Anyway I changed it to [:] and now grader is complaining that list has no clear() attribute. Went and changed it to del and now guess what: you have to wait 58 minutes to resubmit., Resolved,0
+Tuesday September 24th 2013 3:42 pm -04:00,Me too:    res =     for line in open(words_filer).readlines():        res.append(line.strip()), Resolved,0
+Tuesday September 24th 2013 3:57 pm -04:00,or:    res =     for line in open(words_filer):        res.append(line.strip()), Resolved,0
+Tuesday September 24th 2013 4:47 pm -04:00,hahah silly me. Thanks., Resolved,0
+Tuesday September 24th 2013 12:38 pm -04:00,This procedure doesnt return anything. It can neither modify the parameter. Im wondering how its going to accomplish the task of updating player_info?, Resolved,0
+Tuesday September 24th 2013 1:53 pm -04:00,Yes strangely it does modify its parameter which would in my opinion be like begging for hard to catch bugs. :), Resolved,1

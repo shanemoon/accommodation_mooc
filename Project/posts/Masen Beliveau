@@ -1,0 +1,31 @@
+Monday September 2nd 2013 8:09 am -04:00,HelloI was having some trouble on Step 4 in the Assignment and was wondering if someone could help me? My answer was: return to_float_hours((hours minutes / 60) (seconds / 3600))But that doesnt work. I didnt know if someone could get me back on track?Thanks, Resolved,0
+Monday September 2nd 2013 8:17 am -04:00,got it! I was totally off!, Resolved,0
+Monday September 2nd 2013 11:57 am -04:00,HelloI was having trouble at the end of Step 5 for the get_seconds part. My first thought was:return seconds % 10But for the 3800 the answer it sent back was 0 instead of 20. I was wondering if someone could tell me how I can fix this problem.Thanks, Resolved,0
+Monday September 2nd 2013 12:03 pm -04:00,Also when I put in 32 it gives me 2 instead of 32., Resolved,0
+Monday September 2nd 2013 12:09 pm -04:00,thank you so much! I got it! It WORKS! :D, Resolved,0
+Sunday September 22nd 2013 6:05 pm -04:00,Having same problem. How do you fix it..... I dont get the other comments....Sorry, Resolved,-1
+Sunday September 22nd 2013 6:12 pm -04:00,Thx!, Resolved,0
+Sunday September 22nd 2013 6:45 pm -04:00,Also for this one:get_length()It gave an error saying I need to try it with zero length sequence and it should work. It does it gives zero for the code above.What do I do?Thanks, Resolved,0
+Sunday September 22nd 2013 9:11 pm -04:00,I dont understand. What lines of code do I count other than a docstring. Can you give me an example.... Thanks, Resolved,0
+Sunday September 22nd 2013 6:47 pm -04:00,This is another problem I didnt know if you could help with;>>> count_nucleotides(ATCGGC GG)0>>> count_nucleotides(ATCGGC G)2The top one doesnt work.... Do you know how I can fix it? THX, Resolved,0
+Sunday September 22nd 2013 9:33 pm -04:00,Thx GOT IT! At 20/24 now!, Resolved,0
+Sunday September 22nd 2013 9:49 pm -04:00,Thx, Resolved,0
+Sunday September 22nd 2013 9:50 pm -04:00,for the get_complement(CGAT) it returns false....How can I fix it. I made it do uppercase and lowercase but it can only do 1 at a time.Thanks, Resolved,0
+Monday September 23rd 2013 7:35 am -04:00,With contains_sequence If I put contains_sequence(ATGGC gG)It comes up false. How do I fix this.....?And for count_nucleotidewhen I type in count_nucleotide(ATCGGC g)It comes up false as well...... I appreciate all the help given to me! This community ROCKS!Thx., Resolved,0
+Friday September 20th 2013 5:56 pm -04:00,HelloI was wondering if anyone could help me with this:def contains_sequence(dna1 dna2):     (str str) -> bool    Return True if and only if DNA sequence dna2 occurs in the DNA sequence    dna1.    >>> contains_sequence(ATCGGC GG)    True    >>> contains_sequence(ATCGGC GT)    False         b=0    for char in dna1:        if char is dna2:            b=TrueIt doesnt give out anything not even an error.ThanksMasen, Resolved,0
+Friday September 20th 2013 6:14 pm -04:00,What is the substring function?, Resolved,-1
+Friday September 20th 2013 6:20 pm -04:00,I also tried this:if dna2 in [dna1]:        return True    else:        return Falsebut that didnt work either. , Resolved,0
+Friday September 20th 2013 8:12 pm -04:00,I tried this after looking back into my folders:if b == s[0:]:        return True    else:        return Falseand it returned False both times. Can you give me a hint for using str.find?Thanks again!, Resolved,0
+Friday September 20th 2013 9:58 pm -04:00,It doesnt make sense :(, Resolved,-1
+Saturday September 21st 2013 12:39 am -04:00,Got it! Thanks for ALL of your help!, Resolved,0
+Saturday September 21st 2013 8:09 am -04:00,HelloI was trying to do the insert_sequence but I failed with this code: def insert_sequence(a1a2b1):    (str str int) -> string    Return str2 in str1 where the int tells it to.    >>> insert_sequence(CCGG AT 2)    CCATGG    >>> insert_sequence(CCT TYO 1)    CTYOCT            [Body edited out by AK CTA]I didnt know if someone could help methanksMasen, Resolved,0
+Saturday September 21st 2013 9:46 am -04:00,Sorry. Thanks for the help. I will try to get it right, Resolved,0
+Saturday September 21st 2013 9:55 am -04:00,I cant get it. I tried this:def insert_sequence(letters1 letters2 index1):     (str str int) -> str    Return letters2 into letters1 where you tell it to (Using index1).    >>> insert_sequence(CCGG AT 2)    CCATGG    >>> insert_sequence(CCT TYO 1)    CTYOCT    It still doesnt work. Says CCGG is not identified. Thanks, Resolved,0
+Saturday September 21st 2013 9:57 am -04:00,Got it!, Resolved,0
+Saturday September 21st 2013 10:30 pm -04:00,Thanks!, Resolved,0
+Saturday September 21st 2013 11:17 pm -04:00,HelloI submitted the a2.py file and I tested everything and everything works! But the raw score is 0. Everything has errors. Can someone help me to solve this?ThanksMasen, Resolved,0
+Friday October 4th 2013 7:56 am -04:00,HelloI was alos one of the many having issues with the board_contains_word_in_column......This is my code:for column_index in range(len(board[1])):        for word in make_str_from_column(board column_index):            return True    return FalseIt returns True for everything......... Can someone help meThanksMasen, Resolved,0
+Friday October 4th 2013 8:08 am -04:00,I just fixed my code and it has improved but is still has problemsNew code:for column_index in range(len(board[0][1:3])):        if word in make_str_from_column(board column_index):            return True        else:            return FalseIt returns AX true but not NS or TO or TBThanksMasen, Resolved,0
+Saturday October 5th 2013 9:40 am -04:00,What would be a better method to use?, Resolved,0
+Thursday October 3rd 2013 7:09 pm -04:00,This doesnt even return anything:return(board[row_index][0] + board[row_index][1] + board[row_index][2] + board[row_index][3]can someone helpThanks, Resolved,0
+Friday October 4th 2013 8:10 am -04:00,Got if. Forgot end parentheses! , Resolved,0

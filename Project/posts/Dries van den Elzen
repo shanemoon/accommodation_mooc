@@ -1,0 +1,1 @@
+Wednesday August 28th 2013 6:21 pm -04:00,Ive been using triple quotes to pass long SQL statements via Python. Otherwise these long statements would have run off the screen. cursor.execute (SELECT name age location income phonenumber                             FROM studentdata                             WHERE age>20 AND Income<2000, Resolved,1

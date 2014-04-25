@@ -1,0 +1,3 @@
+Saturday August 31st 2013 3:02 pm -04:00,When I call the Print function with two strings this is what i get:>>> print(Hello)Hello>>> print(Hellothere)(Hello there)Why those parentheses and the quotes remain? Its a little frustrating :/, Resolved,0
+Saturday August 31st 2013 4:02 pm -04:00,Thanks Anat! I was running a previous version of Python, Resolved,0
+Saturday August 31st 2013 4:05 pm -04:00,Youre so right Bob. I have installed both versions and I was using 2.7.5. Thanks!, Resolved,0

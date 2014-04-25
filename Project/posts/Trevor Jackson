@@ -1,0 +1,2 @@
+Monday August 26th 2013 7:25 am -04:00,that worked for me thanks, Resolved,0
+Saturday August 31st 2013 7:16 am -04:00,Maria + Spenair if it is any consolation I got the same result as performing the code on screen gives 4 you only get aTypeError:unsupported operand type(s) for +: NoneType and  intby performing the additional new_result=result+1 , Resolved,0

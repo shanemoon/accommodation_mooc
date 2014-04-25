@@ -1,0 +1,3 @@
+Friday September 20th 2013 6:15 am -04:00,Hi I get a failure in get_complementMy code is :def get_complement(nucleotide):    if nucleotide is C:        return G    if nucleotide is G:        return C    if nucleotide is A:        return T    if nucleotide is T:        return A description:Have you tested your function with all 4 nucleotides?Message:FAILURE: AssertionErrorNone != T : Have you tested your function with all 4 nucleotides?, Pinned Approved Unresolved,0
+Friday September 20th 2013 7:32 am -04:00,I dont get it. Its if function not elif. It checkes if it is C if yes prints G if not it checks if it is G and so on. i got 24/24 so it is ok :), Pinned Approved Unresolved,0
+Friday September 20th 2013 6:32 am -04:00,thx but why is that?, Pinned Approved Unresolved,0

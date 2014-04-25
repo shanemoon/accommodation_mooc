@@ -1,0 +1,2 @@
+Thursday September 19th 2013 10:30 pm -04:00,why dont you test with a flag in the for loop? so the if condition could be: number %2 != 0 and flag == false. , Unresolved,0
+Thursday September 26th 2013 1:02 pm -04:00,I solve this question assuming that the vectors inside the vectors make a matrix and each vector is a row. So when you need to find a specific element you must find by its row and column., Unresolved,0

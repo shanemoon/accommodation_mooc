@@ -1,0 +1,4 @@
+Friday August 30th 2013 1:23 pm -04:00,First change the seconds to minutesand use an expression similar to to_24_hour_clock to get the value between 0 and 59I got 41/41 :-) ! carryon guys the course is really interesting :-P, Unresolved,0
+Saturday September 14th 2013 7:07 am -04:00,Help me to solve. my prob. I did everything correctly. Dont know why it appears.!!!, Resolved,0
+Saturday September 14th 2013 11:30 am -04:00,, Unresolved,0
+Monday September 16th 2013 2:16 am -04:00,Method Description:Have you tested your function on a sequence with multiple occurrences        of each nucleotide?Message:ERROR: AttributeErrorReplacerModule object has no attribute get_complementary_sequence, Resolved,0

@@ -1,0 +1,5 @@
+Monday August 26th 2013 1:12 pm -04:00,def sum(num1 num2):    print(num1 + num2)result = sum(1 + 3)I got result 4but the correct is Nothing.  In Python None is used to represent nothing., Unresolved,4
+Monday August 26th 2013 4:29 pm -04:00,Thanks got it now.. :), Unresolved,1
+Thursday September 5th 2013 1:49 pm -04:00,Where can I get files for Assignment 1? I missed it but I want to have to see what I miss. Anyone got the files and want to share?, Unresolved,0
+Tuesday September 17th 2013 1:55 pm -04:00,My answerrange(2 11 2):My result the same as the quiz result. But I got incorrect..., Unresolved,1
+Monday September 23rd 2013 12:07 am -04:00,happened to me too.. IDLE no error I uploaded the first time. I got 16/24 and without change the code I uploaded the 2nd time I got 18/24... weird!, Unresolved,0

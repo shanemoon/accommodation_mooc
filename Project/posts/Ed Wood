@@ -1,0 +1,2 @@
+Friday September 13th 2013 2:57 pm -04:00, An index is the position of a character in a string. Indexing is extracting one character from the string.Slicing uses two indexes to extract a substring from the string., Resolved,2
+Wednesday October 2nd 2013 10:38 pm -04:00,It looks like you are doing this in Idle console. If so and you want the print statement to execute once after the while loop is finished then you need to close out ( <enter> <enter> before you put in the print statement.>>>while line != :          .......>>>print(test_result), Unresolved,0

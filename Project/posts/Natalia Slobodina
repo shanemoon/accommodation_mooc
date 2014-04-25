@@ -1,0 +1,2 @@
+Tuesday September 10th 2013 3:44 am -04:00,Hi do I need to make sure my code can handle negative index numbers?Currently I get   >>> insert_sequence(CCGG AT -1)    CCGATGShould it be   >>> insert_sequence(CCGG AT -1)    CCGGAT?Thanks!Natasha, Resolved,0
+Tuesday September 10th 2013 4:12 am -04:00,Thanks Etienne., Resolved,0

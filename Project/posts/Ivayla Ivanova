@@ -1,0 +1,6 @@
+Tuesday August 27th 2013 10:03 am -04:00,Hi everyoneI have bigger problem than thinking capital is money :). I dont understand what do they mean by write a one-line expression that calls both get_capital and longer.? Thank you!:) , Resolved,0
+Tuesday August 27th 2013 10:30 am -04:00,That was quick. Thank you ! :) , Resolved,0
+Wednesday September 4th 2013 11:42 am -04:00,I have some troubles making Q13 codes to work. I constantly get an error message as follows: Traceback (most recent call last):  File /Users/iva/Documents/average_grade2.py line 7 in <module>    if grade1 >= 50 and grade2 >= 50:NameError: name grade1 is not definedI started like this: def average_grade(grade1 grade2):(float float)-> floatCan you help me find what I am doing wrong? Thanks, Resolved,0
+Thursday September 5th 2013 3:22 am -04:00,I will check again but I am pretty sure I had no mistakes in the spelling because I tried it quite a lot. :( Thank you anyway , Resolved,0
+Thursday September 5th 2013 5:11 am -04:00,, Resolved,0
+Friday September 6th 2013 2:45 am -04:00,Pickonrs you explanation was a little bit advanced but with the PS now makes more sense for me:))). Thank you all for the help., Resolved,0

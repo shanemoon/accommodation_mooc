@@ -1,0 +1,1 @@
+Saturday September 14th 2013 11:17 pm -04:00,the solution is in the lecture for loop over str in the boolean accumulator.  is_valid = True and in the loop we test the sequence . if  char is not valid then false.at the end we must return the value of the variable , Unresolved,0

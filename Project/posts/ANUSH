@@ -1,0 +1,5 @@
+Sunday September 8th 2013 4:38 am -04:00,You just need to type  dir(_builtins_) along with single quotesFor more info type dir() in IDLE console,None,0
+Saturday August 31st 2013 3:45 pm -04:00,I had a confusion whether do we need to call a function even if a regular statement would be possible or would be straight forward as in instead of calling the func we can directly write the soln followed by%24 isnt that feasible?, Unresolved,0
+Monday September 9th 2013 8:31 am -04:00,Python doesnt mostly  use paranthesis for indentation  so the parser automatically detects the piece of code as per its indentation (unlike in other lang. which uses paranthesis to separate out code).Even this might have some help http://docs.python.org/2/faq/design.html#why-does-python-use-methods-for-some-functionality-e-g-list-index-but-functions-for-other-e-g-len-list, Resolved,1
+Monday September 9th 2013 2:34 pm -04:00,NO even with return statement its executing just check it out in the IDLE shell, Resolved,0
+Wednesday September 18th 2013 11:38 am -04:00,Check with the spell do not change the function name to complimentary , Resolved,2

@@ -1,0 +1,1 @@
+Sunday September 15th 2013 7:06 pm -04:00,Please help in understanding the FAILURE message for test_a2.TestGetComplement.test_get_complement - FAILURE:Method Description:Have you tested your function with all 4 nucleotides?Message:FAILURE: AssertionErrorNot a valid nucleotide != T- Not a valid nucleotide+ T : Have you tested your function with all 4 nucleotides?, Unresolved,0

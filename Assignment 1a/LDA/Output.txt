@@ -1,0 +1,965 @@
+0 -1 str0 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+1 0 str1 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+2 1 str2 i:2 am:2 s001:2       
+3 2 str3 Hi:2 s001:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+4 3 str4 s005:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+5 4 str5 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:1 by:3 looking:3 over:3 pages:3 7:3 9:3 in:3 your:3 book:3 and:3 remembering:3 what:3 role:3 you:3 have:3 been:3 assigned:3     
+6 5 str6 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+7 6 str7 Nice:3 to:3 meet:3 u:3 2:3       
+8 7 str8 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+9 8 str9 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+10 9 str10 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+11 10 str11 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+12 11 str12 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3    
+13 12 str13 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+14 13 str14 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+15 14 str15 I:4 predict:4 that:4 in:4 Condition:4 A:4 the:4 cell:4 model:4 would:4 gain:4 more:4 water:4 and:4 Codition:4 b:4 would:4 loose:4 the:4 water:4 in:4 the:4 cell:4 model:4       
+16 15 str16 Is:3 everyone:3 back:3       
+17 16 str17 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+18 17 str18 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+19 18 str19 Ok:3 I:3 gotta:3 go:3       
+20 19 str20 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+21 20 str21 Nice:3 talking:1 to:3 you:3 two:3       
+22 21 str22 why:3 isnt:3 this:3 working:3       
+23 22 str23 this:5 thing:1 is:5 slow:5       
+24 23 str24 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+25 24 str25 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+26 25 str26 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+27 26 str27 water:4 will:4 be:4 able:4 to:4 get:5 in:4 but:4 the:4 starch:4 wont:4 be:4 able:4 to:4 move:4 out:4 so:4 the:4 tube:4 will:4 expand:4       
+28 27 str28 thats:1 for:1 C:1       
+29 28 str29 what:5 one:5 are:2 you:5 talking:1 about:5       
+30 29 str30 i:2 see:2 you:2       
+31 30 str31 C:4 on:4 the:4 chart:4       
+32 31 str32 i:3 see:2 you:3 too:3       
+33 32 str33 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+34 33 str34 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+35 34 str35 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+36 35 str36 If:4 glucose:4 is:4 placed:4 in:4 the:4 beaker:4 the:4 water:4 in:4 the:4 tube:4 will:4 disapear:4       
+37 36 str37 what:2 was:2 the:4 explaination:4 for:2 C:2 and:4 A:2       
+38 37 str38 never:3 mind:3       
+39 38 str39 Are:3 you:3 guys:3 back:3       
+40 39 str40 is:3 anyone:3 else:3 seriously:3 confused:3       
+41 40 str41 s006:5 did:4 you:5 get:5 any:4 other:5 observation:5 other:5 than:4 the:4 weight:4       
+42 41 str42 no:1 i:1 didnt:1 write:1 anything:1 down:1 for:1 the:1 observations:1       
+43 42 str43 Ok:3 I:3 gotta:3 go:3       
+44 43 str44 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+45 44 str45 um:3 bye:3       
+46 45 str46 for:1 1:1 hour:1 on:1 a:1 it:1 was:2 620:1 they:2 were:1 both:1 clear:1 tube:1 and:1 beaker:1 and:1 both:1 strips:1 were:1 green:1       
+47 46 str47 same:1 for:1 the:4 B:4 but:4 the:4 weight:4 was:2 540:4       
+48 -1 str48 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+49 48 str49 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+50 49 str50 hello:5 this:5 is:5 christian:3       
+51 50 str51 s003:5 s007:5 s011:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+52 51 str52 I:3 m:3 s011:3       
+53 52 str53 Hi:2 s003:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+54 53 str54 s007:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+55 54 str55 Ok:5 So:5 the:5 Explainer:5 is:5 s011:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+56 55 str56 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+57 56 str57 who:3 r:3 u:3 guys:3       
+58 57 str58 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:1 by:3 looking:3 over:3 pages:3 7:3 9:3 in:3 your:3 book:3 and:3 remembering:3 what:3 role:3 you:3 have:3 been:3 assigned:3     
+59 58 str59 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+60 59 str60 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+61 60 str61 when:2 we:4 put:4 in:4 the:4 glucose:4 the:4 cell:4 will:4 get:5 smaller:4       
+62 61 str62 s011:5 can:5 you:5 ask:5 s003:5 to:5 build:5 on:5 what:5 S007:5 is:5 saying:5       
+63 62 str63 s003:5 can:5 you:5 build:5 on:5 to:5 what:5 s007:5 said:5       
+64 63 str64 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+65 64 str65 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+66 65 str66 the:4 cell:4 will:4 blacken:4 when:2 it:4 comes:4 in:4 touch:4 with:4 the:4 iodine:4       
+67 66 str67 s011:5 can:5 you:5 ask:5 s003:5 to:5 build:5 on:5 what:5 s007:5 is:5 saying:5       
+68 67 str68 i:3 cannot:3 build:5 on:3       
+69 68 str69 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+70 69 str70 so:1 for:1 glucose:4 we:1 are:1 putting:1 the:1 cell:4 gets:1 smaller:1 why:1       
+71 70 str71 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+72 71 str72 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+73 72 str73 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+74 73 str74 is:3 anyone:3 in:3 here:3       
+75 74 str75 I:4 dont:4 understand:4 this:4       
+76 75 str76 we:3 gotta:3 watch:3 a:3 video:3       
+77 76 str77 who:3 is:3 11:3 and:3 7:3       
+78 77 str78 I:3 m:3 s011:3 who:3 are:3 you:3       
+79 78 str79 s003:3 lol:3       
+80 79 str80 haha:3 whos:3 number:3 07:3       
+81 80 str81 Is:3 everyone:3 back:3       
+82 81 str82 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+83 82 str83 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+84 83 str84 Ok:3 I:3 gotta:3 go:3       
+85 84 str85 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+86 85 str86 this:5 is:5 so:5 confusing:4       
+87 86 str87 And:4 stupid:4       
+88 87 str88 For:1 solution:4 B:1 what:1 did:4 we:1 say:1 for:1 prediction:1 and:1 explanation:1       
+89 88 str89 i:5 didnt:1 get:5 anything:1       
+90 89 str90 i:4 said:4 it:4 was:2 gonna:4 lose:4 weight:4 for:2 solution:4 b:4       
+91 90 str91 is:1 alex:1 a:1 real:1 person:1 or:1 a:1 computer:1       
+92 91 str92 Same:1 but:4 i:2 didnt:1 say:1 why:2 And:1 I:2 dotn:1 know:2 I:2 think:2 he:2 was:2 a:2 computer:1 thing:2       
+93 92 str93 it:2 was:2 they:2 just:3 told:2 me:2       
+94 93 str94 yeah:3 he:3 was:2 idk:3 why:3       
+95 94 str95 Why:1 what:4       
+96 95 str96 whos:3 this:3       
+97 96 str97 who:3 is:3 this:3       
+98 -1 str98 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+99 98 str99 its:3 s012:3 whos:3 this:3       
+100 99 str100 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+101 100 str101 Hi:2 s004:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+102 101 str102 s008:3 n:3 whois:3 this:3       
+103 102 str103 s008:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+104 103 str104 s012:5 i:5 didn:5 t:5 get:5 your:5 name:5 yet:5       
+105 104 str105 Ok:5 So:5 the:5 Explainer:5 is:5 s012:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+106 105 str106 oh:3 r:3 u:3 sittin:3 next:3 to:3 s009:3       
+107 106 str107 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+108 107 str108 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:1 by:3 looking:3 over:3 pages:3 7:3 9:3 in:3 your:3 book:3 and:3 remembering:3 what:3 role:3 you:3 have:3 been:3 assigned:3     
+109 108 str109 im:3 s012:3       
+110 109 str110 idk:3 who:3 s012:3 is:3       
+111 110 str111 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+112 111 str112 and:4 yes:4       
+113 112 str113 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+114 113 str114 oh:2 ok:2 and:2 hi:2 s004:2       
+115 114 str115 stop:1 typinh:1 all:1 fazt:1       
+116 115 str116 its:4 the:4 tutor:1 typein:1 that:1       
+117 116 str117 whos:3 004:1       
+118 117 str118 oh:3 ok:3 sup:3       
+119 118 str119 typin:1 wat:1 the:1 yellow:4 stuff:1 is:4 the:1 tutor:1 all:1 the:1 other:5 color:4 stuff:1 is:4 us:4       
+120 119 str120 smartness:3       
+121 120 str121 the:4 glucsoe:4 will:4 expand:4 in:4 side:4 becasue:4 of:4 the:4 sugar:4 attracts:4       
+122 121 str122 i:5 concur:5       
+123 122 str123 concur:5       
+124 123 str124 idek:1 wat:1 we:1 r:1 doin:1       
+125 124 str125 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+126 125 str126 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+127 126 str127 oh:3 yess:3 i:3 agree:2       
+128 127 str128 with:4 what:4       
+129 128 str129 i:1 hope:1 you:1 know:4 wat:1 u:1 r:1 doig:1       
+130 129 str130 doing:1       
+131 130 str131 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+132 131 str132 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+133 132 str133 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+134 133 str134 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+135 134 str135 mk:3 s008:3 Alex:3 3:3       
+136 135 str136 alrighty:4 then:4       
+137 136 str137 do:3 you:3 like:4 spongebob:3       
+138 137 str138 i:3 LOVE:3 spongebob:3       
+139 138 str139 o:3 yes:3 jk:3       
+140 139 str140 ok:1 so:1 what:1 are:1 we:1 putting:1 for:1 A:1       
+141 140 str141 yess:3 i:3 love:3 spongebob:3 3:3       
+142 141 str142 can:5 we:5 get:5 off:5 the:5 subject:5 of:5 spongebob:5       
+143 142 str143 no:1 i:1 prefer:1 not:1       
+144 143 str144 um:4 tyhay:4 it:4 loses:4 weight:4       
+145 144 str145 ok:1 so:1 what:1 u:1 put:1 for:1 A:1       
+146 145 str146 it:4 loses:4 weight:4       
+147 146 str147 right:5       
+148 147 str148 yeah:3 i:3 agreee:3       
+149 148 str149 i:4 said:4 it:4 will:4 gain:4 weight:4 2:4 will:4 lose:4 weight:4 and:4 3:4 stays:4 the:4 same:4       
+150 149 str150 it:4 will:4 lose:4 weight:4 because:4 water:4 has:4 no:4 glucose:4 in:4 it:4 and:4 the:4 glucose:4 will:4 let:4 out:4 sugar:4       
+151 150 str151 2:4 it:4 will:4 gain:4 weight:4       
+152 151 str152 watever:3       
+153 152 str153 Are:3 you:3 guys:3 back:3       
+154 153 str154 nope:3 wer:3 watching:3 iyt:3       
+155 154 str155 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+156 155 str156 does:1 ne:1 one:1 know:4 wat:1 they:2 r:1 doing:1       
+157 156 str157 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+158 157 str158 Ok:3 I:3 gotta:3 go:3       
+159 158 str159 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+160 159 str160 ok:5 this:5 video:5 made:2 no:5 sense:5 at:5 all:3 soes:3 any:3 one:5 know:3 what:5 they:2 are:3 doing:5       
+161 160 str161 maybeee:3       
+162 161 str162 well:3 then:4 tell:3 me:3       
+163 162 str163 well:3 then:4 tell:3 me:3       
+164 163 str164 well:3 A:3 is:3 retarded:3       
+165 164 str165 it:4 gained:4 twice:4 then:4 lost:4 weight:4       
+166 165 str166 well:3 i:3 only:1 got:3 the:3 1:3 hour:1 thing:1 nd:3 the:3 5:3 hour:1 one:3 i:3 dint:3 watch:3 the:3 rest:3 of:3 the:3 video:3       
+167 166 str167 s004:2 are:3 u:3 still:3 on:3       
+168 167 str168 she:3 got:3 shot:3       
+169 168 str169 ok:3 tht:3 is:3 good:5 i:3 love:3 how:5 u:3 just:3 say:3 tht:3 randomly:3       
+170 169 str170 alright:3 we:3 r:3 cheatin:3 on:3 this:3 quiz:3 wats:3 the:3 answers:3       
+171 -1 str171 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+172 171 str172 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+173 172 str173 s020:5 s022:5 s021:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+174 173 str174 Hi:2 s020:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+175 174 str175 s022:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+176 175 str176 Ok:5 So:5 the:5 Explainer:5 is:5 s021:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+177 176 str177 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+178 177 str178 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+179 178 str179 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+180 179 str180 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+181 180 str181 my:3 name:3 is:3 s020:3       
+182 181 str182 hi:4 im:4 s022:4       
+183 182 str183 i:5 dont:4 get:5 this:5       
+184 183 str184 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+185 184 str185 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+186 185 str186 i:4 think:4 that:4 it:4 will:4 let:4 water:4 in:4 but:4 not:4 glucose:4       
+187 186 str187 s020:2 do:2 you:2 agree:2 with:2 what:2 s021:2 is:2 saying:2       
+188 187 str188 i:4 think:4 that:4 the:4 liquid:4 inside:4 will:4 come:4 out:4       
+189 188 str189 s022:2 do:2 you:2 agree:2 with:2 what:2 s020:2 is:2 saying:2       
+190 189 str190 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+191 190 str191 i:4 disagree:2 with:4 s020:4 because:4 i:4 really:4 dont:4 understand:3 what:4 she:3 just:3 said:4       
+192 191 str192 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+193 192 str193 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+194 193 str194 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+195 194 str195 i:4 think:4 that:4 the:4 glucose:4 and:4 distilled:4 water:4 will:4 mix:4       
+196 195 str196 what:5 does:5 that:5 mean:5 s022:5       
+197 196 str197 s021:1 why:1 do:1 you:1 think:1 that:1 the:4 glucose:4 will:4 stay:4 inside:1       
+198 197 str198 what:5 does:5 what:5 mean:5       
+199 198 str199 Back:3 from:2 watching:3 the:3 video:3       
+200 199 str200 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+201 200 str201 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+202 201 str202 Ok:3 I:3 gotta:3 go:3       
+203 202 str203 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+204 203 str204 hi:1 every1:1       
+205 -1 str205 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+206 205 str206 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+207 206 str207 s034:5 s041:5 s027:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+208 207 str208 my:3 name:3 is:3 s034:3       
+209 208 str209 Hi:2 S034:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+210 209 str210 S041:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+211 210 str211 Ok:5 So:5 the:5 Explainer:5 is:5 S027:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+212 211 str212 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+213 212 str213 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+214 213 str214 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+215 214 str215 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+216 215 str216 who:3 is:3 27:3       
+217 216 str217 s027:3       
+218 217 str218 what:5 do:5 you:5 think:5 ds:5 going:3 to:5 happen:5       
+219 218 str219 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+220 219 str220 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+221 220 str221 the:3 world:3 is:3 going:3 to:3 end:3 in:3 2012:3       
+222 221 str222 S027:5 now:5 would:5 be:5 a:5 good:5 time:5 to:5 ask:5 S034:5 to:5 build:5 on:5 what:5 S041:5 is:5 saying:5       
+223 222 str223 im:5 so:5 confused:5       
+224 223 str224 034:3 would:3 you:3 like:4 to:3 build:5 on:3 to:3 what:3 041:3 is:3 saying:2 and:3 me:3 too:3       
+225 224 str225 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+226 225 str226 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+227 226 str227 ooh:3 hi:3       
+228 227 str228 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+229 228 str229 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+230 229 str230 idk:3 what:5 to:5 do:5       
+231 230 str231 someone:1 predict:1 something:1       
+232 231 str232 THE:3 WORLD:3 IS:3 GOING:3 TO:3 END:3 IN:3 2012:3       
+233 232 str233 oh:5 i:5 get:5 it:5 what:5 do:5 you:5 think:5 is:5 going:3 to:5 happen:5 when:2 you:5 put:4 the:4 glucose:4 in:5 the:4 distilled:4 water:4       
+234 233 str234 i:1 think:1 it:1 will:1 turn:1 a:1 different:5 color:1       
+235 234 str235 s041:3       
+236 235 str236 ok:2 dude:2 what:2 27:2 said:2       
+237 236 str237 in:2 your:2 own:2 words:2       
+238 237 str238 you:5 have:3 to:5 be:5 more:5 specific:1 27:5       
+239 238 str239 ur:2 one:2 to:2 talk:2       
+240 239 str240 the:4 answer:4 to:4 number:4 one:4 the:4 distilled:4 water:4 will:4 move:4 into:4 the:4 internal:4 envorment:4 of:4 glucose:4 solution:4       
+241 240 str241 and:4 the:4 explaination:4 is:4 glucose:4 is:4 denser:4       
+242 241 str242 just:3 write:1 what:1 she:1 s034:1 said:1       
+243 242 str243 for:1 the:1 explination:1       
+244 243 str244 2:4 the:4 distilled:4 water:4 will:4 move:4 into:4 the:4 external:4 enviroment:4       
+245 244 str245 watch:3 the:3 video:3       
+246 245 str246 Is:3 everyone:3 back:3       
+247 246 str247 we:1 have:3 to:1 do:1 all:3 the:1 prediction:1 thats:1 what:1 NACHO:1 said:1       
+248 247 str248 ok:3 but:3 where:5 do:5 i:5 click:3 to:5 watch:3 it:3       
+249 248 str249 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+250 249 str250 nevermind:3 i:3 found:3 it:3       
+251 250 str251 3:4 the:4 water:4 will:4 move:4 into:4 the:4 starch:4 because:4 starch:4 absorbs:4 it:4       
+252 251 str252 S027:5 now:5 would:5 be:5 a:5 good:5 time:5 to:5 ask:5 S041:5 to:5 build:5 on:5 what:5 S034:5 is:5 saying:5       
+253 252 str253 s034:1 are:1 these:1 s:1 all:1 of:1 the:1 predictions:1 or:1 explanations:1       
+254 253 str254 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+255 254 str255 3:5 is:5 that:5 the:5 prediction:1       
+256 255 str256 Lets:5 spend:3 the:3 rest:3 of:5 the:3 time:5 we:5 have:3 discussing:5 your:5 observations:3 from:5 all:3 the:3 three:3 conditions:5       
+257 256 str257 Discuss:1 explanations:1 of:1 what:1 you:1 observed:5 in:1 each:1 condition:5 and:1 make:3 sure:3 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets:1       
+258 257 str258 what:1 is:1 explanation:1 for:1 2:1       
+259 258 str259 its:3 both:1 the:1 first:1 part:1 is:1 the:1 prediction:1 the:1 second:1 part:1 is:1 the:1 explanation:1       
+260 259 str260 S027:5 can:5 you:5 ask:5 S041:5 to:5 build:5 on:5 what:5 S034:5 is:5 saying:5       
+261 260 str261 i:5 want:5 to:5 shoot:5 myself:5 in:5 the:5 foot:5       
+262 261 str262 this:5 is:5 so:5 stupid:5       
+263 262 str263 this:5 would:5 be:5 so:5 much:3 easier:3 just:3 in:5 a:5 group:5       
+264 263 str264 yep:1 yep:1       
+265 264 str265 S027:5 can:5 you:5 ask:5 S041:5 to:5 build:5 on:5 what:5 S034:5 is:5 saying:5       
+266 265 str266 you:3 dont:4 have:3 the:4 balls:4 to:3 do:3 it:3       
+267 266 str267 do:4 what:4       
+268 267 str268 Ok:3 I:3 gotta:3 go:3       
+269 268 str269 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+270 269 str270 our:1 tutor:1 left:1 us:1       
+271 270 str271 she:3 is:3 a:3 baad:3 tutor:3       
+272 271 str272 im:3 pretty:3 sure:3 its:3 a:3 he:3       
+273 272 str273 really:1 haah:1 oh:1 well:1 idc:1 he:1 she:1 it:1       
+274 273 str274 i:3 ddnt:3 even:3 watch:3 the:3 whole:3 video:3       
+275 274 str275 i:3 watched:3 most:3 of:3 it:3       
+276 275 str276 do:5 you:5 know:4 what:5 happened:5       
+277 276 str277 i:4 just:3 wrote:4 the:4 observations:3       
+278 277 str278 oh:2 what:2 was:2 it:2 after:4 1:2 hour:4 for:2 condition:4 A:2       
+279 278 str279 s041:5 did:4 you:5 get:5 everything:5 so:5 far:5       
+280 279 str280 condition:4 a:1 620:1 glucose:4 inside:1 635:1 glucose:4 inside:1 630:1 glucose:4 inside:1 explanation:1 the:1 membrane:4 will:1 hold:1 stuff:1 for:1 a:1 certain:1 amount:1 of:1 time:1       
+281 280 str281 condition:4 b:4 540:4 glucose:4 outside:4 525:4 glucose:4 outside:4 525:4 glucose:4 outside:4 explanation:4 the:4 glucose:4 was:2 not:4 being:2 absorbed:4 by:4 the:4 water:4       
+282 281 str282 i:4 think:4       
+283 282 str283 k:1 i:1 ll:1 fast:1 forward:1 and:1 try:1 to:1 find:1 the:1 last:1 one:1 when:1 im:1 done:1 writing:1 the:1 condition:4 b:1       
+284 283 str284 you:3 mean:3 i:3 know:4       
+285 284 str285 yea:1 sure:3 i:1 do:1 whatever:1 hahahahahha:1       
+286 285 str286 lol:3 what:3 is:3 C:3       
+287 286 str287 i:2 dont:4 even:4 think:2 there:4 was:2 one:2       
+288 287 str288 i:1 sd:1 i:1 d:1 try:1 to:1 find:1 it:1 if:1 i:1 could:1       
+289 288 str289 there:4 is:4 ok:4       
+290 289 str290 aaah:3 there:4 is:4 a:4 quiz:4       
+291 290 str291 im:1 gonna:1 fail:1       
+292 291 str292 stfu:1       
+293 292 str293 HAPPY:3 BIRTHDAAAY:3 s041:3 D:3 D:3 D:3 D:3 D:3 D:3 D:3 D:3 D:3       
+294 293 str294 lol:3 thsnks:3       
+295 294 str295 is:3 it:3 ur:3 birthday:3       
+296 295 str296 bye:1 bye:1 guys:1       
+297 -1 str297 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+298 297 str298 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+299 298 str299 s035:5 s042:5 s028:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+300 299 str300 Hi:2 S035:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+301 300 str301 S042:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+302 301 str302 Ok:5 So:5 the:5 Explainer:5 is:5 S028:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+303 302 str303 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+304 303 str304 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+305 304 str305 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+306 305 str306 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+307 306 str307 hi:3 my:3 name:3 is:3 s035:3       
+308 307 str308 W:4 ho:4 s:4 35:4       
+309 308 str309 O:5 h:5 this:5 is:5 s042:5       
+310 309 str310 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+311 310 str311 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+312 311 str312 Yeah:4 I:4 think:4 that:4 water:4 will:4 try:4 to:4 even:4 out:4 with:4 glucose:4 for:2 the:4 first:4 one:4       
+313 312 str313 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+314 313 str314 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+315 314 str315 ook:3 so:3 we:3 got:3 the:3 parts:3 who:3 else:3 is:3 in:3 the:3 group:3 and:3 i:3 have:3 no:3 clue:3 what:3 we:3 are:3 doing:3 do:3 we:3 just:3 talk:3 about:5 what:3 we:3 think:3 is:3 going:3 to:3 happen:3 to:3 the:3 egg :3      
+316 315 str316 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+317 316 str317 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+318 317 str318 oo:3 hey:3 im:3 s035:3       
+319 318 str319 ook:3 group:3 what:3 do:3 we:3 pedict:3       
+320 319 str320 I:5 think:4 that:5 the:4 water:5 will:4 seperate:4 and:4 travel:4 to:5 glucose:4 Because:4 water:5 has:4 a:5 lot:4 of:5 molecules:5 and:4 glucose:4 is:5 just:4 sugar:5 So:5 it:5 would:5 then:4 balance:4 out:5 What:5 do:5 you:5 t hink:4     
+321 320 str321 ook:4 this:4 is:4 what:4 i:4 think:4 if:4 we:4 put:4 the:4 cell:4 model:4 in:4 the:4 water:4 it:4 will:4 grow:4 like:4 the:4 egg:4 did:4 but:4 if:4 its:4 in:4 teh:4 sugar:4 it:4 will:4 shrink:4       
+322 321 str322 Oh:4 I:4 get:5 it:4 But:4 wouldn:4 t:4 it:4 still:4 expand:4 and:4 try:4 to:4 balance:4 out:4       
+323 322 str323 i:3 am:3 so:3 confused:3       
+324 323 str324 im:4 with:4 s028:4 on:4 this:4 one:4       
+325 324 str325 It:4 s:4 like:4 Osmosis:4 I:4 think:4 If:4 it:4 s:4 water:4 mixed:1 in:4 with:4 sugar:4 like:4 liquid:4 or:4 another:1 solvent:1 it:4 will:1 try:4 to:4 balance:4 out:4 Like:4 salt:4 Does:1 that:4 help:1       
+326 325 str326 thankyou:5 i:5 have:3 nothing:3 written:5 on:5 my:5 paper:5 i:5 m:5 a:5 bit:5 stupid:3       
+327 326 str327 Back:3 from:2 watching:3 the:3 video:3       
+328 327 str328 no:1 alex:1 we:1 arent:1 jeeze:1       
+329 328 str329 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+330 329 str330 alright:1 i:1 am:1 still:1 on:1 A:1 for:1 the:1 first:1 box:1 thing:1       
+331 330 str331 haha:3 its:3 cool:3 and:3 s042:3 that:3 is:3 a:3 good:5 idea:3 i:3 think:3 we:3 mite:3 have:3 to:3 watch:3 the:3 movie:3       
+332 331 str332 what:3 do:3 you:3 guys:3 think:4       
+333 332 str333 we:3 need:1 to:3 watch:3 the:1 movie:1 maybe:1       
+334 333 str334 yeah:4 i:4 think:4 we:4 should:5       
+335 334 str335 I:4 think:4 that:4 it:4 might:4 balance:4 out:4 and:4 that:4 s035:4 s:4 right:4 with:4 the:4 shrinking:4 of:4 the:4 water:4       
+336 335 str336 Yeah:3 we:3 should:3       
+337 336 str337 ook:3 were:1 do:1 we:1 go:1 lol:3       
+338 337 str338 down:1 at:1 the:1 bottom:1 of:1 the:1 screen:5       
+339 338 str339 thnx:3 found:3 it:3       
+340 339 str340 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+341 340 str341 So:4 far:4 it:4 s:4 like:4 consuing:1 and:1 growing:1       
+342 341 str342 Lets:5 spend:3 the:3 rest:3 of:5 the:3 time:5 we:5 have:3 discussing:5 your:5 observations:3 from:5 all:3 the:3 three:3 conditions:5       
+343 342 str343 Discuss:1 explanations:1 of:1 what:1 you:1 observed:5 in:1 each:1 condition:5 and:1 make:3 sure:3 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets:1       
+344 343 str344 i:4 think:4 that:4 for:1 C:4 the:4 predicted:1 change:4 would:4 be:4 that:4 the:4 water:4 will:4 move:4 into:4 the:4 starch:4       
+345 344 str345 The:4 glucose:4 weighed:1 it:1 down:1 and:1 then:4 disperssed:1       
+346 345 str346 I:2 agree:2 with:2 s028:2       
+347 346 str347 Ok:3 I:3 gotta:3 go:3       
+348 347 str348 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+349 348 str349 wooo:3 now:3 all:3 i:3 need:1 is:3 B:3 and:3 the:3 entire:3 second:1 box:3 haha:3       
+350 349 str350 i:1 still:1 hav:1 eno:1 clue:3 what:1 to:1 write:1 in:1 all:1 the:1 boxes:1       
+351 350 str351 Okay:4 I:4 think:4 that:4 when:2 the:4 distilled:4 water:4 is:4 put:4 into:4 the:4 glucose:4 the:4 glucose:4 will:4 get:5 lighter:4 and:4 then:4 well:4 I:4 don:4 t:4 know:4 what:4 then:4       
+352 351 str352 wouldnt:4 for:1 B:4 the:4 water:4 will:4 once:4 again:4 shrink:4 because:4 its:4 mixing:4 water:4 with:4 glucose:4 again:4       
+353 352 str353 oh:1 ok:3 or:1 your:1 prediction:1 haha:3       
+354 353 str354 Oh:4 I:4 think:4 it:4 would:4 but:4 it:4 might:4 expand:4 at:4 first:4 then:4 shrink:4       
+355 354 str355 that:5 makes:5 sense:5       
+356 355 str356 wouldnt:4 the:4 explanation:4 for:1 C:4 be:4 that:4 starch:4 absorbs:4 water:4 and:4 thats:4 why:4 the:4 water:4 will:4 move:4 into:4 it:4       
+357 356 str357 the:4 explanation:4 I:4 think:4 would:4 be:4 that:4 since:4 when:2 h20:1 is:4 put:4 into:4 another:1 solvent:1 it:4 expands:1 its:4 molecules:4 and:4 then:4 maybe:4 it:4 would:4 shrink:4 from:2 the:4 glucose:4       
+358 357 str358 Yeah:1 thats:1 what:1 shoud:1 happen:1 for:1 the:1 starch:1 box:1       
+359 358 str359 i:1 think:1 we:1 ahuld:3 all:3 write:1 what:1 we:1 think:1 an:1 dthen:3 talk:3 about:5 it:1       
+360 359 str360 mkkk:1 now:3 all:1 we:1 need:1 is:1 the:1 explanation:1 for:1 box:1 A:1       
+361 360 str361 Box:4 A:4 I:4 think:4 would:4 be:4 that:4 there:4 s:4 a:4 lot:4 of:4 water:4 and:4 glucose:4 is:4 sugar:4 so:4 it:4 would:4 shrink:4 and:4 like:4 balance:4       
+362 361 str362 are:1 we:1 on:1 the:1 first:1 set:1 of:1 boxes:1 of:1 the:1 seconf:1       
+363 362 str363 ok:3 now:3 we:3 have:3 to:3 watch:3 that:3 stupid:3 video:3 but:3 didnt:3 he:3 tell:3 us:3 to:3 X:3 out:3 of:3 it:3       
+364 363 str364 I:3 m:3 restarting:3 the:3 video:3 the:3 2nd:3 box:3 is:3 confusing:3       
+365 364 str365 mk:3 me:3 too:3       
+366 365 str366 ok:1 thnx:1 for:1 the:1 second:1 st:1 of:1 boxes:1 for:1 the:1 observations:1 change:1 i:1 put:1 all:1 the:1 weights:1 i:1 saw:1 in:1 the:1 movie:1       
+367 366 str367 we:3 didnt:3 even:3 take:3 the:3 quiz:3 yet:3 and:3 i:3 failed:3 hahhaha:3       
+368 367 str368 oo:3 great:3 a:3 quiz:3       
+369 368 str369 I:5 don:5 t:5 want:5 a:5 quiz:3       
+370 369 str370 I:4 think:4 the:4 glocos:4 will:4 get:5 heavier:3       
+371 370 str371 bye:3 guys:3       
+372 371 str372 bye:1 bye:1       
+373 -1 str373 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+374 373 str374 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+375 374 str375 s029:5 s036:5 s043:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+376 375 str376 Hi:2 S029:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+377 376 str377 S036:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+378 377 str378 Ok:5 So:5 the:5 Explainer:5 is:5 S043:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+379 378 str379 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+380 379 str380 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+381 380 str381 this:5 is:5 s036:5       
+382 381 str382 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+383 382 str383 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+384 383 str384 HELLO:3 who:3 is:3 there:4       
+385 384 str385 HELLO:1       
+386 385 str386 who:3 is:3 my:3 partner:3       
+387 386 str387 your:3 mom:3 s036:3       
+388 387 str388 who:3 is:3 so29:5       
+389 388 str389 s029:3 pet:3 name:3 form:3       
+390 389 str390 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+391 390 str391 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+392 391 str392 what:5 do:5 we:5 discuss:5       
+393 392 str393 who:3 are:3 you:3       
+394 393 str394 who:3 is:3 dis:3 wats:3 a:3 s029:3 pet:3 name:3 form:3       
+395 394 str395 dis:3 is:3 s043:3       
+396 395 str396 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+397 396 str397 who:3 is:3 29:3       
+398 397 str398 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+399 398 str399 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+400 399 str400 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+401 400 str401 s043:3 wat:3 are:3 we:3 doing:3       
+402 401 str402 s029:1       
+403 402 str403 BOYFRIEND:3       
+404 403 str404 haha:3 hey:3 boyfriend:3       
+405 404 str405 WHAT:1 ARE:3 WE:1 SUPPOSED:3 TO:1 WRITE:1       
+406 405 str406 ok:1 wat:1 r:1 we:1 doin:1       
+407 406 str407 i:4 think:4 the:4 water:4 will:4 travel:4 into:4 the:4 tube:4 with:4 the:4 gluecose:4 because:4 of:4 osmosis:4       
+408 407 str408 for:1 A:1       
+409 408 str409 a:2 i:2 thought:1 it:2 was:2 1:2       
+410 409 str410 water:4 will:4 mix:4 with:4 the:4 gluecose:4 to:4 try:4 and:4 balance:4 out:4 the:4 water:4 molecules:4       
+411 410 str411 yes:4 for:1 a:4       
+412 411 str412 for:1 predicted:1 change:1       
+413 412 str413 wouldn:1 t:1 that:1 be:1 the:1 same:1 for:1 B:1       
+414 413 str414 i:1 need:1 help:1       
+415 414 str415 i:4 think:4 the:4 water:4 will:4 be:4 obsorbed:4       
+416 415 str416 for:1 part:1 b:1       
+417 416 str417 i:4 think:4 the:4 glucose:4 will:4 dissolve:4       
+418 417 str418 there:4 is:4 more:4 gluecose:4 than:4 water:4 outside:4 than:4 inside:4 so:4 the:4 water:4 will:4 come:4 out:4       
+419 418 str419 Is:3 everyone:3 back:3       
+420 419 str420 ok:1 can:5 someone:1 help:1 me:1 please:1       
+421 420 str421 how:5 do:5 you:5 know:4 there:5 s:5 more:4 glucose:4 than:4 water:5 outside:4 than:4 inside:4       
+422 421 str422 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+423 422 str423 becasue:4 the:4 tube:4 of:4 water:4 is:4 siting:4 inside:4 the:4 container:4 of:4 gluecose:4       
+424 423 str424 S036:2 can:5 you:2 put:2 what:2 S043:2 said:2 in:2 your:2 own:2 words:2       
+425 424 str425 wait:1 what:1 re:1 we:1 writing:1 for:1 the:1 explanation:1 for:1 each:1 prediction:1 so:1 far:1 i:1 just:4 have:3 water:1 will:1 mix:4 with:4 glucose:4 to:1 try:1 to:1 balance:4 out:1 the:1 water:1 molecules:1 for:1 the: 1 predi cted:1 change:1 fo r:1 A :1   
+426 425 str426 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+427 426 str427 Lets:5 spend:3 the:3 rest:3 of:5 the:3 time:5 we:5 have:3 discussing:5 your:5 observations:3 from:5 all:3 the:3 three:3 conditions:5       
+428 427 str428 Discuss:1 explanations:1 of:1 what:1 you:1 observed:5 in:1 each:1 condition:5 and:1 make:3 sure:3 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets:1       
+429 428 str429 for:1 A:1 what:1 did:4 we:1 get:5 for:1 the:1 explanation:1 for:1 prediction:1 since:1 i:1 need:1 alot:1 of:1 help:1       
+430 429 str430 wait:3 s029:3 did:4 you:3 watch:3 the:3 video:3 already:3       
+431 430 str431 yea:4 dats:4 right:4 for:2 b:4 i:4 jus:4 said:4 the:4 water:4 will:4 b:4 obsorbed:4 because:4 there:4 is:4 more:4 gluecose:4 and:4 the:4 water:4 will:4 travel:4 from:2 a:4 low:4 water:4 level:4 to:4 attempt:4 to:4 go:4 to :4 a:4 higher:4 source:4 of:4 wa ter: 4 
+432 431 str432 S036:2 can:5 you:2 put:2 what:2 S043:2 said:2 in:2 your:2 own:2 words:2       
+433 432 str433 Ok:3 I:3 gotta:3 go:3       
+434 433 str434 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+435 434 str435 is:1 everybody:1 redy:1 for:1 the:1 video:1       
+436 435 str436 no:1 no:1 no:1 i:1 need:1 the:1 A:1 C:1 prediction:1       
+437 436 str437 a:4 the:4 water:4 will:4 go:4 into:4 the:4 tube:4 because:4 of:4 osmosis:4       
+438 437 str438 c:4 the:4 water:4 will:4 go:4 into:4 the:4 starch:4       
+439 438 str439 okayy:3 thankyouu:3 now:3 we:3 watch:3 the:3 video:3       
+440 439 str440 what:1 s:1 the:1 predicted:1 change:1 for:1 B:1       
+441 440 str441 noooo:1 i:1 need:1 B:1 and:1 the:1 Explanation:1 for:1 Prediction:1 of:1 each:1 one:1       
+442 441 str442 b:4 i:4 think:4 the:4 water:4 will:4 be:4 obsorbed:4       
+443 442 str443 b:4 water:4 will:4 obsorbed:4 bc:4 there:4 is:4 more:4 gluecose:4 the:4 water:4 travel:4 low:4 water:4 level:4 to:4 a:4 higher:4 source:4 ritght:4       
+444 443 str444 wait:1 would:2 osmosis:1 be:2 the:1 explanation:2 for:1 A:2       
+445 444 str445 yeah:1 the:4 A:1 the:4 water:1 will:1 go:1 into:4 the:4 tube:4 bc:1 of:1 osmois:1       
+446 445 str446 idk:3 this:3 is:3 wat:3 she:3 was:2 sayn:3       
+447 446 str447 so:1 we:1 re:1 writing:1 Osmosis:1 in:1 the:1 box:1 for:1 Explanation:1       
+448 447 str448 but:3 she:3 is:3 watching:3 the:3 video:3 we:3 are:3 soo:3 lost:3       
+449 448 str449 hahahh:5 oh:5 dear:5       
+450 449 str450 i:1 put:1 for:1 A:1 the:1 explantation:1 prediction:1 of:1 what:1 i:1 said:1 about:5 A:1 lol:1       
+451 450 str451 i:3 only:1 watched:3 a:3 couple:1 seconds:1 of:3 the:1 video:3 so:3 far:3       
+452 451 str452 WHERE:5 IS:5 THE:5 VIDEO:5       
+453 452 str453 at:3 the:3 bottom:3 next:3 to:3 start:3 it:3 says:3 combined:3 video:3       
+454 453 str454 i:3 hate:3 psp:5 idk:3 wats:3 goin:5 on:3       
+455 454 str455 for:1 the:1 explantion:1 for:1 C:4 i:4 put:1 stach:1 absorbs:4 liquid:1 and:1 water:4 is:4 a:4 liquid:1       
+456 455 str456 yea:4 i:4 put:4 like:4 the:4 same:4 thing:1 water:4 will:4 go:4 into:4 the:4 strarch:4       
+457 456 str457 well:3 im:3 going:3 to:3 watch:3 the:3 video:3 lol:3       
+458 457 str458 me:3 too:3       
+459 -1 str459 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+460 459 str460 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+461 460 str461 s044:5 s030:5 s037:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+462 461 str462 Hi:2 S044:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+463 462 str463 S030:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+464 463 str464 Ok:5 So:5 the:5 Explainer:5 is:5 S037:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+465 464 str465 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+466 465 str466 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+467 466 str467 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+468 467 str468 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+469 468 str469 this:5 is:5 s037:5       
+470 469 str470 ur:4 mom:4       
+471 470 str471 hi:3 s036:3 sic:3       
+472 471 str472 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+473 472 str473 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+474 473 str474 im:3 watching:3 you:3       
+475 474 str475 haha:3 were:3 gona:3 fail:3       
+476 475 str476 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+477 476 str477 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+478 477 str478 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+479 478 str479 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+480 479 str480 what:5 do:5 we:5 do:5       
+481 480 str481 write:1 your:1 preditions:3       
+482 481 str482 Say:3 Yes:3 to:3 let:3 me:3 know:3 you:3 are:3 back:3 from:2 watching:3 the:3 video:3       
+483 482 str483 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+484 483 str484 did:4 you:5 guys:3 get:5 it:5       
+485 484 str485 i:4 got:4 it:4       
+486 485 str486 wat:1 did:4 u:1 observe:1 for:1 5hrs:1 condition:4 c:1       
+487 486 str487 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+488 487 str488 Ok:3 I:3 gotta:3 go:3       
+489 488 str489 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+490 489 str490 i:3 love:3 you:3       
+491 490 str491 i:3 hate:3 s036:3       
+492 491 str492 condition:4 gained:4 waight:4       
+493 492 str493 lost:4 waight:4       
+494 493 str494 c:4 gained:4 weight:4 for:1 hr:4 and:4 5:4 hrs:4 then:4 lost:4 weight:4 at:4 day:4       
+495 494 str495 i:3 didnt:3 watch:3 c:3       
+496 495 str496 tell:3 so36:3 shes:3 a:3 hoe:3       
+497 496 str497 she:3 said:3 your:3 momma:3 mj:3       
+498 497 str498 how:5 much:3 does:5 c:3 weigh:3 on:3 th:3 first:1 hr:3       
+499 498 str499 and:4 the:4 5th:4 hr:4       
+500 499 str500 and:4 after:4 day:2 one:2       
+501 500 str501 6:1 55:1 for:1 both:1       
+502 501 str502 655:4 srry:4       
+503 502 str503 thats:2 wat:3 she:3 said:3       
+504 503 str504 wow:5 lol:5       
+505 504 str505 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+506 505 str506 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+507 506 str507 s045:5 s031:5 s038:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+508 507 str508 Hi:2 S045:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+509 508 str509 S031:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+510 509 str510 hi:3 my:3 name:3 is:3 s038:3       
+511 510 str511 Ok:5 So:5 the:5 Explainer:5 is:5 S038:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+512 511 str512 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+513 512 str513 hi:5 my:5 name:5 is:5 s031:5       
+514 513 str514 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+515 514 str515 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+516 515 str516 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+517 516 str517 what:1 do:1 you:1 think:1 will:1 hlappen:1       
+518 517 str518 i:4 think:4 that:4 a:4 and:4 b:4 will:4 turn:1 out:4 the:4 same:4       
+519 518 str519 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+520 519 str520 i:4 think:4 in:4 condition:4 A:4 water:4 will:4 go:4 inside:4 the:4 cell:4 and:4 b:4 will:4 be:4 the:4 oppisite:4       
+521 520 str521 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+522 521 str522 what:1 do:1 you:1 think:1 will:1 happpen:1       
+523 522 str523 ok:2 sound:2 about:5 right:2       
+524 523 str524 what:4 wil:4 happen:4 to:4 condition:4 c:4       
+525 524 str525 i:2 have:3 no:2 idea:2 either:5       
+526 525 str526 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+527 526 str527 alrighhttm:3       
+528 527 str528 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+529 528 str529 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+530 529 str530 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+531 530 str531 what:5 the:5 explanatiion:5 for:1 what:5 you:5 guys:3 said:5       
+532 531 str532 what:5 do:5 you:5 mean:5       
+533 532 str533 great:3 help:3       
+534 533 str534 it:1 says:3 whats:3 the:1 explanation:1 for:1 your:1 prediction:1       
+535 534 str535 for:2 A:4 i:4 said:4 that:4 water:4 would:4 go:4 inside:4 since:4 gloucuse:4 dissolves:4 in:4 waterr:4 and:4 the:4 membrane:4 would:4 gain:4 weight:4       
+536 535 str536 im:1 not:3 sure:3 though:1       
+537 536 str537 that:4 sounds:3 gooood:4       
+538 537 str538 ok:1 what:1 did:4 you:1 put:4 for:1 condition:4 B:1       
+539 538 str539 LETS:5 WATCH:3 THE:5 VIDEO:3 IN:3 THE:5 OTHER:5 TAB:3       
+540 539 str540 COUGH:5 COUGH:5 at:5 the:5 bottomof:5 the:5 page:5       
+541 540 str541 hahhaha:3       
+542 541 str542 waht:1 did:4 you:1 put:1 for:1 conditon:1 c:1       
+543 542 str543 Are:3 you:3 guys:3 back:3       
+544 543 str544 the:5 thing:1 s031:1 said:5       
+545 544 str545 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+546 545 str546 i:4 think:4 for:1 c:4 that:4 it:4 would:4 turn:1 purple:1 since:4 the:4 starch:4 would:4 mix:4 with:4 the:4 idione:1 or:4 is:4 it:4 the:4 other:5 way:1 around:1       
+547 546 str547 i:2 was:2 thinking:1 the:1 same:1 thing:1       
+548 547 str548 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+549 548 str549 i:5 dont:4 know:4 what:5 this:5 video:5 is:5 doing:5 i:5 cant:4 hear:4 anything:4 and:4 its:4 confusing:4 me:5       
+550 549 str550 same:4 here:4 i:4 cant:4 see:2 the:4 weighto:4 or:4 anythign:4       
+551 550 str551 Ok:3 I:3 gotta:3 go:3       
+552 551 str552 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+553 552 str553 exactly:3       
+554 553 str554 i:4 dont:4 know:4 how:5 to:4 do:4 any:4 of:4 thiss:4       
+555 554 str555 i:4 got:4 the:4 weight:4 but:4 i:4 can:5 barely:4 see:2 the:4 strips:4       
+556 555 str556 for:1 a:1 and:1 b:1 the:1 strips:1 are:1 dark:1 green:1       
+557 556 str557 yeaah:4 i:4 got:4 alll:4 confused:4 and:4 dont:4 know:4 is:4 for:2 which:2       
+558 557 str558 whats:3 the:4 weight:4       
+559 558 str559 condtion:1 A:1       
+560 559 str560 wasnt:3 one:3 like:4 60:3       
+561 560 str561 after:4 1:4 hr:4       
+562 561 str562 and:4 then:4 after:4 5:2 hours:2 it:2 was:2 635:2       
+563 562 str563 and:4 after:4 1:2 day:2 it:2 was:2 630:2       
+564 563 str564 for:1 b:2 it:2 was:2 540:2 for:1 1:2 hour:1       
+565 564 str565 525:4 for:1 5:4 hours:4       
+566 565 str566 what:1 was:2 the:1 weight:4 for:1 conditon:1 b:1       
+567 566 str567 and:4 then:4 525:4 again:4 for:1 a:4 day:4       
+568 567 str568 thankk:1 youu:1       
+569 568 str569 ok:1 whaty:1 about:5 for:1 conditon:1 c:1       
+570 569 str570 i:4 didnt:1 get:5 there:4 yet:4 in:4 the:4 videeooo:4       
+571 570 str571 neither:1 did:4 i:1 what:1 did:4 you:1 put:1 for:1 your:1 observations:1 for:1 a:1 and:1 b:1       
+572 571 str572 for:2 c:4 after:4 i:4 hour:4 it:4 was:2 black:4 on:4 the:4 tube:4 and:4 the:4 water:4 outside:4 look:4 kinda:4 yellow:4 and:4 it:4 was:2 655:4       
+573 572 str573 after:4 5:4 hours:4       
+574 573 str574 after:4 5:4 hours:4 it:4 was:2 655:4 and:4 the:4 water:4 still:4 looked:4 yellow:4       
+575 574 str575 and:4 then:4 after:4 24:2 hours:2 it:2 was:2 635:2       
+576 575 str576 ok:2 and:2 for:2 one:2 day:2       
+577 576 str577 and:4 the:4 water:4 looked:4 lighter:4 than:4 for:1 before:4       
+578 577 str578 okkaaaaayyyy:3 do:3 you:3 guys:3 know:3 why:3 this:3 stuff:1 happpned:3       
+579 578 str579 for:2 a:4 it:4 gained:4 weight:4 because:4 th:4 glucose:4 was:2 obsorbed:4       
+580 579 str580 okay:4 and:4 then:4 would:4 it:4 be:4 the:4 oppistie:4 for:1 b:4       
+581 580 str581 umm:3 im:3 not:3 so:3 sure:3       
+582 581 str582 iit:3 lost:3 weighht:3       
+583 582 str583 nevermind:2 yeah:2 it:2 would:2       
+584 583 str584 what:5 about:5 for:1 c:5       
+585 584 str585 soooo:4 it:4 lost:4 water:4 from:2 inside:4       
+586 585 str586 yeah:1 weight:1 was:2 lost:4 because:4 the:4 glucose:4 didnt:1 absord:1 all:1 the:4 way:1       
+587 586 str587 what:2 would:2 we:2 put:2 for:2 c:2       
+588 587 str588 and:4 the:4 last:4 one:4 lost:4 weight:4       
+589 588 str589 idk:3 this:5 quiz:3       
+590 589 str590 mmee:5 either:5       
+591 -1 str591 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+592 591 str592 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+593 592 str593 hi:1 alex:1       
+594 593 str594 hi:1 32:1 and:1 46:1       
+595 594 str595 s032:5 s046:5 s039:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+596 595 str596 im:1 s039:1       
+597 596 str597 Hi:2 S032:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+598 597 str598 S046:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+599 598 str599 Ok:5 So:5 the:5 Explainer:5 is:5 S039:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+600 599 str600 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+601 600 str601 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+602 601 str602 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+603 602 str603 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+604 603 str604 hi:1 i:1 am:1 s039:1       
+605 604 str605 hi:1 im:1 s046:1       
+606 605 str606 hi:1 s046:1       
+607 606 str607 hey:3 s053:3       
+608 607 str608 hey:3 s053:3 from:2 s032:3       
+609 608 str609 32:1 is:1 s032:1       
+610 609 str610 39:1 is:1 s039:1       
+611 610 str611 hi:1 s039:1       
+612 611 str612 so:4 u:4 know:4       
+613 612 str613 hi:1 s032:1       
+614 613 str614 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+615 614 str615 so:5 what:5 do:5 you:5 think:5 about:5 the:1 first:1 one:5 s039:5       
+616 615 str616 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+617 616 str617 i:3 dont:4 know:4 i:3 feel:4 stupid:4 do:3 you:3 know:4 s046:3       
+618 617 str618 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+619 618 str619 i:4 think:4 water:4 wil:4 be:4 taken:4 out:4 of:4 the:4 cell:4 because:4 the:4 glucose:4 will:4 harvest:4 the:4 water:4       
+620 619 str620 S039:2 do:2 you:2 agree:2 with:2 what:2 S032:2 is:2 saying:2       
+621 620 str621 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+622 621 str622 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+623 622 str623 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+624 623 str624 i:2 was:2 going:3 to:2 ask:5 but:3 ok:2 thats:2 sounds:3 right:2       
+625 624 str625 yea:4 alex:4       
+626 625 str626 who:1 s:1 in:1 my:1 group:1       
+627 626 str627 hahahahha:1 s046:1       
+628 627 str628 s046:4 is:4 mean:4 from:2 s039:4       
+629 628 str629 your:1 beat:1       
+630 629 str630 no:1 she:3 is:1 super:1 beat:1       
+631 630 str631 exactly:4       
+632 631 str632 okay:5 so:5 what:5 are:3 we:5 doing:3       
+633 632 str633 for:1 solution:4 a:4 i:4 think:4 water:4 will:4 be:4 added:4 to:4 the:4 cell:4       
+634 633 str634 my:4 explanation:4 is:4 that:4 the:4 glucose:4 will:4 absorb:4 the:4 water:4 causing:4 the:4 cell:4 to:4 expand:4       
+635 634 str635 i:4 think:4 the:3 exact:3 opposite:3       
+636 635 str636 lets:5 go:5 to:5 the:5 video:5       
+637 636 str637 to:4 my:4 knowledge:4 glucose:4 attractes:4 water:4 but:4 when:2 inside:4 an:4 ienvoronment:4 itll:4 push:4 out:4 water:4 but:4 i:4 could:4 be:4 wrong:4       
+638 637 str638 so:5 i:5 like:4 what:5 you:5 siad:5       
+639 638 str639 Are:3 you:3 guys:3 back:3       
+640 639 str640 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+641 640 str641 alrite:5 what:5 do:5 you:5 think:5 about:5 condition:5 B:5       
+642 641 str642 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+643 642 str643 i:4 didnt:3 watch:3 it:4 yet:4       
+644 643 str644 i:4 think:4 the:4 cell:4 would:4 lose:4 weigtt:4 to:4 because:4 the:4 glucose:4 will:4 extract:4 the:4 water:4 out:4 of:4 the:4 cell:4       
+645 644 str645 S039:2 why:1 dont:4 you:1 do:1 explain:2 the:1 reasons:1 behind:1 what:1 S032:1 is:1 saying:1       
+646 645 str646 Ok:3 I:3 gotta:3 go:3       
+647 646 str647 so:4 it:4 turns:4 out:4 i:4 was:2 right:4 according:4 to:4 the:4 video:4 the:4 cell:4 in:4 a:4 gained:4 wight:4 and:4 the:4 one:4 in:4 b:4 loses:4 wight:4       
+648 647 str648 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+649 648 str649 byeee:3       
+650 649 str650 yea:4 thats:1 what:4 i:4 was:2 thinking:1 s032:4       
+651 650 str651 i:1 need:1 helpp:1       
+652 651 str652 i:4 saw:4 the:4 video:4 condition:4 b:4 will:4 take:4 water:4 out:4       
+653 652 str653 so:2 my:2 prediction:2 was:2 right:2 from:2 the:2 start:2       
+654 653 str654 condition:4 a:2 is:2 right:2 also:2       
+655 654 str655 so:5 s039:5 what:5 you:5 doing:5 saturday:5 nght:5       
+656 655 str656 i:5 didnt:1 see:2 the:1 video:5 for:1 condition:5 a:5 though:1       
+657 656 str657 hat:4 was:2 weird:4       
+658 657 str658 he:3 says:3 idk:3 hahhahah:3 s033:3 says:3 hi:3       
+659 658 str659 never:3 do:4 that:4 again:4       
+660 659 str660 tell:3 i:3 s033:3 i:3 say:3 nothing:3       
+661 660 str661 awe:4 thats:4 mean:4       
+662 661 str662 no:3 its:3 not:3       
+663 662 str663 im:3 gonna:3 watch:3 the:3 video:3 to:3 see:2 condition:4 c:3       
+664 663 str664 im:3 gonna:3 watch:3 it:3 too:3 to:3 understand:3 whats:3 going:3 on:3       
+665 664 str665 fun:1 fact:1 from:2 dr:1 s032:1 asdfjkl:1 are:1 all:1 home:1 row:1 keys:1       
+666 665 str666 fun:1 fact:1 from:5 doctor:1 s032:1 you:1 can:5 type:1 the:1 word:1 typewriter:1 using:1 only:1 the:1 top:1 row:1       
+667 666 str667 also:1 for:1 C:1 the:4 starch:1 will:1 come:4 out:1 slowlyu:1       
+668 667 str668 slowly:1       
+669 668 str669 fun:1 fact:1 lollipop:1 is:1 the:1 longest:1 word:1 you:1 can:5 type:1 using:1 only:1 your:1 left:1 hand:1       
+670 669 str670 my:4 explanation:4 is:4 the:4 water:4 will:4 absorb:4 the:4 starch:4 causing:4 the:4 cell:4 to:4 decrease:4       
+671 670 str671 s032:2 its:3 ur:2 right:2 hand:1       
+672 671 str672 oh:3 hahahah:3 i:3 meant:3 to:3 say:3 that:3 swear:3 any:3 way:3       
+673 672 str673 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+674 673 str674 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+675 674 str675 wattup:1       
+676 675 str676 Hi:2 I:2 am:2 s040:2       
+677 676 str677 Hi:2 s040:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+678 677 str678 im:5 s047:5       
+679 678 str679 s033:5 s047:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+680 679 str680 s047:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+681 680 str681 Ok:5 So:5 the:5 Explainer:5 is:5 S033:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+682 681 str682 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+683 682 str683 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+684 683 str684 33who:1 areu:1       
+685 684 str685 who:3 is:3 33:3       
+686 685 str686 s033:3 is:3 33:3 haha:3       
+687 686 str687 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+688 687 str688 who:3 is:3 40:3       
+689 688 str689 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+690 689 str690 s040:2       
+691 690 str691 s040:2       
+692 691 str692 toast:3 nd:3 cereal:4 all:3 day:3       
+693 692 str693 s047:5 do:5 you:5 know:4 what:5 to:5 do:5       
+694 693 str694 what:5 s047:5       
+695 694 str695 nope:3 i:3 left:3 the:3 room:3 cuz:3 i:3 cut:3 my:3 finger:3 on:3 the:3 chair:3       
+696 695 str696 S033:5 now:5 would:5 be:5 a:5 good:5 time:5 to:5 ask:5 s040:5 to:5 build:5 on:5 what:5 s047:5 is:5 saying:5       
+697 696 str697 s033:3       
+698 697 str698 you:2 are:2 supposedtoask:2 mesomething:2       
+699 698 str699 what:4 do:4 u:4 think:4 will:4 happen:4 to:4 the:4 glucose:4 in:4 the:4 distilled:4 water:4       
+700 699 str700 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+701 700 str701 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+702 701 str702 s047:3 you:3 have:3 no:3 clue:3 what:3 we:3 are:3 doing:3       
+703 702 str703 do:3 u:3       
+704 703 str704 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+705 704 str705 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+706 705 str706 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+707 706 str707 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+708 707 str708 i:3 cant:4 find:4 the:4 video:3 toast:3       
+709 708 str709 on:3 the:3 desktop:3 there:4 is:3 a:3 folder:3 videos:3       
+710 709 str710 go:4 there:4       
+711 710 str711 you:3 will:1 findthe:3 video:3       
+712 711 str712 wait:1 what:1 is:1 it:1 called:1       
+713 712 str713 combined:3 video:3       
+714 713 str714 but:4 it:4 wouldnt:4 work:1 before:4       
+715 714 str715 thats:2 y:2 i:2 asked:2 which:2 one:2 it:2 was:2       
+716 715 str716 so:3 what:3 do:3 you:3 guys:3 predict:1       
+717 716 str717 idk:3 my:3 viseo:3 still:3 isnt:3 working:3       
+718 717 str718 Back:3 from:2 watching:3 the:3 video:3       
+719 718 str719 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+720 719 str720 well:3 tht:3 lady:3 took:3 my:3 paper:3 yinz:3 guys:3 lol:3       
+721 720 str721 why:3 did:4 she:3 take:3 your:3 paper:3       
+722 721 str722 so:1 how:5 are:3 u:1 going:3 to:1 work:1       
+723 722 str723 i:3 watched:3 the:3 video:3 and:3 i:3 have:3 no:3 idea:2 what:3 we:3 ater:3 supposed:3 to:3 do:3       
+724 723 str724 well:3 first:1 we:3 should:3 makesome:3 predictions:3       
+725 724 str725 S033:5 can:5 you:5 ask:5 s047:5 to:5 build:5 on:5 what:5 s040:5 is:5 saying:5       
+726 725 str726 i:4 wrote:4 the:4 wieght:4 and:4 color:4 of:4 the:4 little:4 strips:4       
+727 726 str727 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+728 727 str728 ok:1 well:3 cn:1 sumbody:5 write:1 my:1 name:5 on:1 their:2 papaer:5 bcuz:5 mines:5 is:1 gone:5       
+729 728 str729 s047:5 please:3 build:5 on:5 what:5 s040:5 is:5 sayin:3 haha:3       
+730 729 str730 shut:4 up:4 cereal:4       
+731 730 str731 ewww:3 ur:3 doggy:3 toast:3 ha:3 ha:3       
+732 731 str732 did:4 you:3 guys:3 writethe:3 observations:3       
+733 732 str733 Ok:3 I:3 gotta:3 go:3       
+734 733 str734 i:4 wrote:4 what:4 i:4 could:4 this:4 is:4 so:4 weird:4       
+735 734 str735 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+736 735 str736 i:4 dnt:4 hav:4 a:4 paper:4 i:4 cnt:4       
+737 736 str737 aaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh:4       
+738 737 str738 the:3 lady:3 took:3 it:3 a:3 while:3 ago:3 idk:3 y:3       
+739 738 str739 what:1 is:1 the:1 observation:1 for:1 the:1 third:1 one:1       
+740 739 str740 well:3 if:3 ik:3 wat:3 it:3 was:2 id:3 tell:3 u:3 but:3 no:3 paper:3 lol:3       
+741 740 str741 u:3 dont:4 need:1 a:3 paper:3 look:4 at:3 the:4 video:3       
+742 741 str742 ur:3 killin:3 me:3 toast:3       
+743 742 str743 ok:4 il:4 look:4 cereal:4       
+744 743 str744 asdfjkl:1       
+745 744 str745 homerow:1 keys:1       
+746 745 str746 lol:3 ms:3 pfifer:3 tought:3 u:3 tht:3       
+747 746 str747 s040:2 help:5 me:5 out:5 here:3 buddy:3 what:5 did:4 u:5 get:5 for:1 the:4 third:1 one:5       
+748 747 str748 the:1 strips:1 turned:1 green:1 the:1 first:1 time:1       
+749 748 str749 happy:4 birthday:4 s040:2 form:4 s049:4       
+750 749 str750 o:1 wait:1 wat:1 was:2 the:1 third:1 1:1       
+751 750 str751 ok:4 i:4 am:4 back:4 with:4 all:3 the:3 answers:3       
+752 751 str752 i:4 think:4       
+753 752 str753 happy:3 birthday:3 111:3       
+754 753 str754 ok:3 thanks:3       
+755 754 str755 s033:1 what:1 are:1 you:1 talking:1 about:5       
+756 755 str756 on:1 third:1 one:1 predictions:1 or:1 observations:1       
+757 756 str757 observations:1       
+758 757 str758 after:4 what:5 hour:4       
+759 758 str759 ok:4 655:4 grams:4 color:4 of:4 the:4 tube:4 got:4 darker:4       
+760 759 str760 imma:3 fail:3 tht:3 lil:3 test:3       
+761 760 str761 bye:3 u:3 guys:3       
+762 -1 str762 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+763 762 str763 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+764 763 str764 who:3 is:3 this:3       
+765 764 str765 62:3 is:3 s062:3       
+766 765 str766 s056:5 s059:5 s062:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+767 766 str767 who:3 is:3 s062:3       
+768 767 str768 Hi:2 S056:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+769 768 str769 S059:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+770 769 str770 it:3 is:3 goin:5 2:3 get:5 heavier:3       
+771 770 str771 Ok:5 So:5 the:5 Explainer:5 is:5 S062:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+772 771 str772 kid:4 in:4 the:4 grey:4 hood:4       
+773 772 str773 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+774 773 str774 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+775 774 str775 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+776 775 str776 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+777 776 str777 okay:5 now:5 what:5 do:5 we:5 do:5       
+778 777 str778 somthing:4 about:5 the:4 egg:4       
+779 778 str779 okay:5 i:5 am:5 about:5 to:5 ask:5 them:2 for:2 more:5 information:5 on:5 this:5       
+780 779 str780 would:1 you:1 stop:1 saying:1 the:1 same:1 thing:1 ovae:1 and:1 over:1 omqq:1       
+781 780 str781 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+782 781 str782 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+783 782 str783 i:1 think:1 were:1 suppose:1 to:1 work:1 on:1 our:1 prediction:1       
+784 783 str784 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+785 784 str785 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+786 785 str786 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+787 786 str787 umm:3 a:1 you:1 can:5 say:3 that:1 when:1 you:1 mix:1 them:2 together:3 the:1 colors:3 will:1 change:1 and:1 something:1 may:3 happen:1 okay:1       
+788 787 str788 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+789 788 str789 wacth:3 the:3 video:3       
+790 789 str790 okay:5 so:5 do:5 you:5 want:5 to:5 put:1 that:5 down:1       
+791 790 str791 who:3 is:3 this:3 anyway:3       
+792 791 str792 Is:3 everyone:3 back:3       
+793 792 str793 s059:3 and:3 we:3 can:5 say:3 when:2 you:3 mix:4 them:2 together:3 the:3 color:4 changes:3 and:3 they:2 have:3 different:5 weight:4       
+794 793 str794 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+795 794 str795 glucose:4 will:4 dissolve:4 in:4 the:4 distilled:4 water:4       
+796 795 str796 put:1 in:1 what:1 box:1       
+797 796 str797 predicted:1 change:1       
+798 797 str798 umm:3 or:3 you:3 going:3 to:3 say:3 somthinq:3 back:3       
+799 798 str799 thanks:3       
+800 799 str800 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+801 800 str801 iin:3 thee:3 ontha:3 box:3 ii:4 put:4 when:2 they:2 are:3 put:4 together:3 they:2 will:4 dissolve:3 in:4 the:3 distilled:4 water:4 okay:4       
+802 801 str802 s059:3 guess:3 who:3 this:3 is:3       
+803 802 str803 Ok:3 I:3 gotta:3 go:3       
+804 803 str804 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+805 804 str805 come:4 on:4       
+806 805 str806 for:1 explanation:4 for:1 prediction:4 box:1 it:4 is:4 we:4 cant:4 see:2 glucose:4 once:4 it:4 goes:4 into:4 water:4       
+807 806 str807 who:3 is:3 s062:3       
+808 807 str808 s062:3       
+809 808 str809 hey:3 buddy:3       
+810 809 str810 whos:3 56:3       
+811 810 str811 put:2 iin:3 thee:3 otha:3 box:3 they:2 dunt:3 dissolve:3 in:3 thee:3 water:3       
+812 811 str812 who:3 iis:3 56:3       
+813 812 str813 have:3 u:1 heaard:1 about:5 the:1 word:1       
+814 813 str814 who:3 iis:3 56:3       
+815 814 str815 y:3 u:3 wanna:3 kno:3       
+816 815 str816 bjus:4 yuee:4 are:3 twalkinq:4 tew:4 me:4       
+817 816 str817 i:1 will:1 give:1 u:1 a:1 hint:1 im:1 in:1 ur:1 class:1       
+818 817 str818 i:2 would:2 never:3 guessed:3       
+819 818 str819 yessssssssss:3 southside:3 sabers:3       
+820 -1 str820 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+821 820 str821 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+822 821 str822 IM:3 s060:3       
+823 822 str823 Hi:2 s060:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+824 823 str824 s063:5 s057:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+825 824 str825 im:3 s063:3       
+826 825 str826 s063:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+827 826 str827 I:4 think:4 it:4 is:4 going:3 to:4 get:5 heavier:3       
+828 827 str828 Ok:5 So:5 the:5 Explainer:5 is:5 S057:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+829 828 str829 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+830 829 str830 WHO:3 IS:3 IN:3 MY:3 GROUPP:3       
+831 830 str831 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+832 831 str832 s057:3 who:3 is:3 in:3 my:3 group:3       
+833 832 str833 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+834 833 str834 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+835 834 str835 s063:2 do:2 you:2 agree:2 with:2 what:2 S057:2 is:2 saying:2       
+836 835 str836 Wait:3 I:3 m:3 confusedd:2 please:2 explain:2 this:3 again:3       
+837 836 str837 the:4 egg:4 will:4 get:5 bigger:4       
+838 837 str838 heavier:3       
+839 838 str839 i:2 agree:2 with:2 s057:2       
+840 839 str840 s060:2 do:2 you:2 agree:2 with:2 what:2 S057:2 is:2 saying:2       
+841 840 str841 i:4 cant:4 understand:4       
+842 841 str842 wait:1 so:1 it:1 s:1 me:1 s063:1 and:1 s057:1 why:1 are:1 we:1 talking:1 about:5 eggs:1       
+843 842 str843 oo:4 ok:4 i:4 got:4 it:4       
+844 843 str844 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+845 844 str845 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+846 845 str846 this:5 guy:1 is:5 smart:3       
+847 846 str847 he:3 may:3 be:3 smart:3 but:3 I:3 am:3 lost:3       
+848 847 str848 YO:4 ALEX:4 HELP:4 ME:4 OUT:4 HERE:4       
+849 848 str849 Im:3 lost:3       
+850 849 str850 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+851 850 str851 S057:1 why:1 dont:4 you:1 do:1 explain:2 the:1 reasons:1 behind:1 what:1 s060:1 is:1 saying:1       
+852 851 str852 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+853 852 str853 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+854 853 str854 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+855 854 str855 s060:5 is:5 very:5 confused:5       
+856 855 str856 Video:4 with:4 no:4 sound:5       
+857 856 str857 Is:3 everyone:3 back:3       
+858 857 str858 hi:1 alex:1       
+859 858 str859 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+860 859 str860 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+861 860 str861 guess:3 what:3 guys:3       
+862 861 str862 Ok:3 I:3 gotta:3 go:3       
+863 862 str863 I:3 m:3 confused:3 and:3 annnnddd:3 I:3 have:3 no:3 idea:2 whats:3 going:3 onn:3       
+864 863 str864 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+865 864 str865 bluecost:4 can:5 go:4 anywere:4 and:4 strach:4 cant:4 go:4 everywere:4       
+866 865 str866 ok:1 bye:1       
+867 866 str867 byee:5 alex:5       
+868 867 str868 love:3 youu:3 3:3       
+869 868 str869 wait:4 who:3 is:4 the:1 yellow:4 person:1       
+870 869 str870 wht:4 u:4 mean:4 by:4 yellow:4 perosn:4       
+871 870 str871 like:4 who:3 is:4 the:4 person:4 who:3 has:5 the:4 yellow:4 font:4 lol:4       
+872 871 str872 well:3 then:4 can:5 you:3 please:2 explain:2 to:3 me:3 what:3 is:3 going:3 onn:3       
+873 872 str873 idk:3 either:3       
+874 873 str874 aww:3 poop:3       
+875 874 str875 Hi:1 all:1 Today:1 each:1 of:1 you:1 will:1 be:1 both:1 the:1 instructor:1 and:1 the:1 student:1 Each:1 of:1 you:1 will:1 be:1 responsible:1 for:1 looking:1 for:1 opportunities:1 for:1 a:1 specific:1 discussion:1 strategy :1 to:1 be:1 used:1 in:1 the:1 c onve rsat ion:1
+876 875 str876 Lets:5 get:5 started:5 by:5 introducing:5 ourselves:5 I:5 am:5 Alex:5       
+877 876 str877 who:3 is:3 in:3 my:3 group:3       
+878 877 str878 s058:5 s061:5 s064:5 i:5 didn:5 t:5 get:5 your:5 names:5 yet:5       
+879 878 str879 Hi:2 S058:2 you:2 are:2 the:2 Revoicer:2 When:2 an:2 explanation:2 or:2 idea:2 is:2 given:2 which:2 would:2 benefit:2 from:2 revoicing:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 for:2 example:2 by:2 a sking:2 them:2 to: 2 exp la in:2 wha t:2 was:2 said:2 in:2 their:2 own:2 words:2
+880 879 str880 S061:2 you:2 are:2 the:2 Challenger:2 When:2 you:2 see:2 a:2 statement:2 being:2 made:2 whether:2 it:2 is:2 right:2 or:2 wrong:2 which:2 would:2 benefit:2 from:2 being:2 challenged:2 please:2 encourage:2 one:2 of:2 your:2 team:2 mates:2 to:2 do:2 so:2 f or:2 exa mple:2 by:2 asking:2 them:2 whether:2 they:2 agree:2 or:2 disagree:2 with:2 what:2 was:2 said:2 and:2 why:2
+881 880 str881 Ok:5 So:5 the:5 Explainer:5 is:5 S064:5 When:2 you:5 see:2 a:5 place:5 where:5 it:5 would:5 be:5 good:5 to:5 get:5 more:5 explanation:5 you:5 can:5 encourage:2 one:5 of:5 your:5 team:2 mates:2 to:5 do:5 that:5 for:2 examp le:2 by :5 inviting:5 that :5 pe rs on:5 to: 5 add:5 on:5 to:5 what:5 the:5 other:5 student:5 has:5 already:5 said:5
+882 881 str882 You:3 should:3 probably:3 all:3 mark:3 an:3 X:3 opposite:3 your:3 role:3 in:3 the:3 book:3 so:3 you:3 won:3 t:3 forget:3       
+883 882 str883 Its:3 nice:3 to:3 meet:3 you:3 all:3 Please:3 make:3 sure:3 you:3 have:3 understood:3 what:3 you:3 are:3 responsible:3 for:3       
+884 883 str884 In:4 condition:4 A:4 we:4 placed:4 a:4 glucose:4 solution:4 inside:4 the:4 cell:4 model:4 and:4 immerse:4 it:4 in:4 distilled:4 water:4 In:4 condition:4 B:4 we:4 did:4 the:4 opposite:4       
+885 884 str885 Please:1 discuss:1 what:1 you:1 predict:1 will:1 happen:1 in:1 these:1 two:1 conditions:1       
+886 885 str886 need:1 help:1       
+887 886 str887 Who:3 is:3 s058:3       
+888 887 str888 the:4 guy:1 over:1 there:4 in:4 the:4 grey:4 hoody:1       
+889 888 str889 S061:2 can:5 you:5 check:5 if:5 S058:5 agrees:5 with:2 S064:5       
+890 889 str890 need:1 help:1       
+891 890 str891 hello:3 do:3 you:3 argee:3       
+892 891 str892 WHO:3 NEEDS:3 HELP:3       
+893 892 str893 who:3 is:3 s064:3       
+894 893 str894 do:3 you:3 understand:3       
+895 894 str895 In:4 condition:4 C:4 we:4 made:4 a:4 modification:4 to:4 condition:4 A:4 We:4 replace:4 the:4 glucose:4 solution:4 with:4 a:4 starch:4 suspension:4 In:4 order:4 to:4 detect:4 the:4 presence:4 of:4 starch:4 we:4 replace:4 the:4 d istilled:4 water:4 with :4 Lug ol:4 s:4 Iodine:4 solution:4
+896 895 str896 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 will:1 happen:5 in:5 Condition:5 C:5 and:5 your:5 explanation:5 for:1 this:5 change:5       
+897 896 str897 i:3 am:3 lost:3 to:3 what:3 is:3 going:3 on:3 here:3 im:3 so:3 confused:3       
+898 897 str898 When:1 you:1 are:1 in:1 agreement:1 write:1 down:1 your:1 predictions:1 and:1 explanations:1 for:1 Conditions:1 A:1 B:1 and:1 C:1 on:1 your:1 worksheet:1       
+899 898 str899 same:1 here:3 s064:1       
+900 899 str900 i:4 mean:4 61:4       
+901 900 str901 You:3 are:3 now:3 going:3 to:3 watch:3 a:3 video:3 showing:3 the:3 cell:3 in:3 Conditions:3 A:3 B:3 and:3 C:3       
+902 901 str902 As:1 you:1 watch:3 the:1 video:1 write:1 down:1 your:1 observations:1 on:1 your:1 worksheet:1       
+903 902 str903 Go:3 to:3 the:3 Videos:3 folder:3 on:3 the:3 Desktop:3 and:3 watch:3 the:3 video:3 which:3 is:3 there:3       
+904 903 str904 descuss:4 what:4 will:4 happen:4 with:4 a:4 b:4 c:4       
+905 904 str905 what:5 about:5 61:5       
+906 905 str906 iz:4 that:4 all:3 we:4 gonna:3 do:4       
+907 906 str907 idk:3 who:3 is:3 sayin:3 61:3       
+908 907 str908 who:3 are:3       
+909 908 str909 watch:3 the:3 video:3       
+910 909 str910 who:3 is:3 s058:3       
+911 910 str911 oh:3 thanks:3       
+912 911 str912 who:3 iz:3 that:3 64:3       
+913 912 str913 who:3 is:3 s064:3       
+914 913 str914 s064:3       
+915 914 str915 who:3 is:3 the:3 revoicer:1       
+916 915 str916 Are:3 you:3 guys:3 back:3       
+917 916 str917 yes:4 i:4 am:4 back:4 thanks:3       
+918 917 str918 Now:5 discuss:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 conditions:5 A:5 and:5 B:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5       
+919 918 str919 so:4 wht:4 do:4 u:4 think:4 0s64:4       
+920 919 str920 who:3 said:3 hi:3 alex:3       
+921 920 str921 You:5 should:5 now:5 move:5 on:5 to:5 discussing:5 what:5 you:5 observed:5 in:5 the:5 video:5 about:5 condition:5 C:5 Compare:5 what:5 you:5 observed:5 to:5 your:5 predictions:5 How:5 is:5 this:5 different:5 from:5 what:5 happen ed:5 in:5 conditio n:5 A :5   
+922 921 str922 Questions:3 S058:3       
+923 922 str923 in:4 Condition:4 a:4 the:4 glucose:4 was:2 inside:4 and:4 the:4 water:4 was:2 outside:4       
+924 923 str924 Lets:5 spend:3 the:3 rest:3 of:5 the:3 time:5 we:5 have:3 discussing:5 your:5 observations:3 from:5 all:3 the:3 three:3 conditions:5       
+925 924 str925 Discuss:1 explanations:1 of:1 what:1 you:1 observed:5 in:1 each:1 condition:5 and:1 make:3 sure:3 you:1 fill:1 in:1 your:1 explanations:1 on:1 your:1 worksheets:1       
+926 925 str926 S064:5 now:5 would:5 be:5 a:5 good:5 time:5 to:5 ask:5 S061:5 to:5 build:5 on:5 what:5 S058:5 is:5 saying:5       
+927 926 str927 s058:4 yes:4       
+928 927 str928 who:3 is:3 challenger:3       
+929 928 str929 ya:5 leave:5 people:5 alone:5       
+930 929 str930 who:3 care:3       
+931 930 str931 how:5 rude:5       
+932 931 str932 common:3 guys:3       
+933 932 str933 i:1 did:4 not:1 type:1 yene:1       
+934 933 str934 discuss:5 abt:5 this:5 topic:5       
+935 934 str935 Ok:3 I:3 gotta:3 go:3       
+936 935 str936 It:3 was:2 nice:3 talking:1 to:3 you:3 all:3       
+937 936 str937 yup:1 same:1 to:1 u:1 alex:1       
+938 937 str938 no:3 you:3 guy:1 need:1 to:3 watch:3 the:3 video:3 and:1 than:4 talk:3 about:5 it:3       
+939 938 str939 you:1 guy:1 huh:1       
+940 939 str940 criticize:4       
+941 940 str941 stop:1 critisizeing:1 me:1 and:1 work:1       
+942 941 str942 ok:3 thanks:3 s064:3       
+943 942 str943 and:1 help:1       
+944 943 str944 do:3 u:3 have:3 any:3 questions:3       
+945 944 str945 yes:4 what:4 is:4 c:4       
+946 945 str946 For:1 what:1 hour:1       
+947 946 str947 It:1 loses:4 weight:4 and:4 color:4 sir:4 thank:4 you:1       
+948 947 str948 who:3 is:3 S063:3       
+949 948 str949 numbers:2 please:2       
+950 949 str950 who:3 did:4 those:3 empty:3 lines:3 what:3 s:3 wrong:3 with:4 your:3 brain:3       
+951 950 str951 english:3       
+952 951 str952 just:3 playing:3 s064:3       
+953 952 str953 wats:3 ur:3 obesrvation:4 for:1 Condition:4 B:3       
+954 953 str954 It:4 loses:4 weight:4 colors:3 are:3 different:5       
+955 954 str955 hw:5 abt:5 c:5       
+956 955 str956 who:3 is:3 S058:3       
+957 956 str957 unknown:1 guy:1       
+958 957 str958 58:1 put:1 your:1 hand:1 up:1       
+959 958 str959 you:3 have:3 a:3 dumb:3 alias:3       
+960 959 str960 i:2 see:2 you:2       
+961 960 str961 who:3 is:3 it:3 s064:3       
+962 961 str962 i:4 think:4 its:4 s056:4       
+963 962 str963 you:3 are:3 next:3 to:3 s057:3       
+964 963 str964 who:3 is:3 s057:3       

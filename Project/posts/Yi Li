@@ -1,0 +1,3 @@
+Tuesday October 1st 2013 7:14 pm -04:00,using len(), Resolved,0
+Tuesday October 1st 2013 9:31 pm -04:00,def read_board(board_file):    list_of_str=    list_of_list_of_str=    for str in read_words(board_file):        for char in str:            list_of_str.append(char)        list_of_list_of_str.append(list_of_str)    return list_of_list_of_str, Resolved,0
+Tuesday October 1st 2013 9:55 pm -04:00,Thank you so much! I move list_of_str= in the for loop and it works now., Resolved,0

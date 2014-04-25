@@ -1,0 +1,31 @@
+Monday August 19th 2013 6:59 pm -04:00,i used Chrome for all lectures and it worked fine for me..., Resolved,0
+Monday August 26th 2013 3:18 pm -04:00,I dont understand the solution to the last quiz..can anyone explain it to me?the way i am doing it is:def con_to_celsius(temp1):      return (temp1 -32)*5 /9def usa_city_temp(city_name)      return con_to_celsius(city_name)Am i doing this right?, Unresolved,0
+Monday August 26th 2013 4:00 pm -04:00,can you please elaborate? I am clear with this concept, Unresolved,0
+Monday August 26th 2013 4:00 pm -04:00,I meant I am not clear with this concept, Unresolved,0
+Tuesday August 27th 2013 7:35 am -04:00,Thanks guys. , Unresolved,0
+Wednesday August 28th 2013 1:00 pm -04:00,you need to write a function like convert_to_celsius(usa_city_temprature(seattle)...what this does is: first it finds temprature of seattle in farenheit and then it is converted to celsius using convert_to_celsius function, Unresolved,1
+Wednesday August 28th 2013 1:14 pm -04:00,I completely agree with Micheal Karras. I am a newbie to programming too and it becomes difficult to understand, Unresolved,0
+Wednesday August 28th 2013 2:23 pm -04:00,I submitted my assigment by adding get_hours function but i dont understand the grading..was it successful or is it wrong?, Resolved,0
+Wednesday August 28th 2013 5:35 pm -04:00,ok.Thankyou..will repost it....I really appreciate everyone including instructors being so helpful., Resolved,0
+Wednesday August 28th 2013 8:19 pm -04:00,I think grading is not working correctly. first i submitted the file and got a score. then i made a change which i knew wasnt correct and submitted the change...it didnot lower my score., Resolved,0
+Monday September 2nd 2013 12:05 pm -04:00,why does amy assignment score say 42/41? What does that mean?, Resolved,0
+Monday September 2nd 2013 12:10 pm -04:00,Thank you , Resolved,0
+Wednesday August 28th 2013 1:06 pm -04:00,Can the instructors please post the answers to the quizzes in the videos...I am completely new to programming and that will  help. Sometimes by looking by the answer its easy to understand., Unresolved,1
+Wednesday September 4th 2013 7:00 pm -04:00,in such cases you always refer it as module.funtion.....recall the  videos where you to had find square root of a number...the way that was done it:import mathmath.sqrt(8)i hope this helps u in understanding., Resolved,2
+Thursday September 5th 2013 1:16 pm -04:00,No they want the factorial of 8 not any other number.if u look at video to find sqrt of no:Sqrt of 4 is 2. Output shd be 2.First u need to import math module.Math module has many functions like tansinsqrt  factorial etc.U need to import the function as math.sqrt(4)... o/p wil be 2, Resolved,0
+Wednesday September 11th 2013 1:00 pm -04:00,I didnt know sqrt(25) works with from math import *....Thanks for this additional information. This definetly helps beginners like me., Resolved,0
+Wednesday September 4th 2013 7:01 pm -04:00,if you want to call functions defined in another file you need to import it excluding .py extension.., Unresolved,3
+Wednesday September 4th 2013 7:04 pm -04:00,Can it be possible to give out the correct solution in the quizzes along with the explanation. Posting the right answer will really help in understanding.Sometimes i do understand what you are trying to say ; but i dont get the correct expression or the answer..., Resolved,0
+Wednesday September 4th 2013 7:26 pm -04:00,Thank you, Resolved,0
+Friday September 13th 2013 6:31 pm -04:00,if i run my code ; it shows me the right output; am i doing something wrong here???the way i m thinking is :s1 = abcs2=axyfor ch in s1:     if ch in s2:        res = res + chwat am i doing wrong here?, Unresolved,0
+Friday September 13th 2013 6:40 pm -04:00,I got my mistake...., Unresolved,0
+Friday September 13th 2013 8:30 pm -04:00,should the output be in this order only ATGC  Or can be in any order like TACG..also can there be multiple A or T or G or C in it..like AATGCTC, Unresolved,0
+Friday September 13th 2013 8:33 pm -04:00,ok.Thankyou., Unresolved,0
+Friday September 13th 2013 11:53 pm -04:00,Can anyone please explain me how can we do this?I am trying this:def v(s):    num  = False    for var in s:        if var in ATGC or len(var) == 0:            num = True    return numnow if i execute v()..it shows no output, Unresolved,0
+Sunday September 15th 2013 5:24 pm -04:00,Can the weekly lecture videos be posted on Saturday or Sunday instead of Monday? That will be definetly easier specially for working people., Unresolved,5
+Sunday September 15th 2013 9:43 pm -04:00,I completely agree with Jimmy., Unresolved,1
+Wednesday September 25th 2013 6:33 pm -04:00,The question here is not of time management..Its about the difficulty level. As the weeks are progressing the lectures are become more difficult. For beginners like me  we need time to understand the lectures first and then go to the exercises and assignments..the goal is not just to finish exercise and assignment; its to understand concepts clearly first and then do the exercises. Everyone dont have the same pace., Unresolved,2
+Friday September 27th 2013 12:15 pm -04:00,when i run :count_grades_ranges([77.537.5........79.5])... i get the correct outputbut when i am trying to run histogram_grade.py ( the same program as professor ; nothing changed)...tk always hangs...any idea when am i going wrong?, Resolved,0
+Friday September 27th 2013 6:24 pm -04:00,, Resolved,0
+Friday September 27th 2013 6:25 pm -04:00,Just copy pasted the code given in the lecture for grade.py and grade_histogram.py and only made one change: in grade_histogram there was a typo error...i changed read_grade to read_grades..and still this doesnt work for me...What is this issue? I have spent like 5 hours on this. Can anyone please help me?, Resolved,0
+Friday September 27th 2013 9:58 pm -04:00,Thanks guys...I think there is some problem with python . when i added encoding to  this:a1_file = open(a1_filename r encoding=utf-8); it worked..., Resolved,0

@@ -1,0 +1,2 @@
+Saturday September 14th 2013 9:38 am -04:00,So what should we return in the cases like empty string or invalid cases?Flase(return False) or an empty string(return )?, Pinned Approved Unresolved,0
+Monday September 16th 2013 3:08 pm -04:00,In case of any invalidity return  if str is to be returned and return False if bool is to be returned., Pinned Approved Unresolved,0

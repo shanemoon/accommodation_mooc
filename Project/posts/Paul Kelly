@@ -1,0 +1,1 @@
+Friday September 27th 2013 9:08 am -04:00,I got tripped up by thinking that a computation was called for as well. I entered: len(numbers[0]) + len(numbers[2]) which evaluates to 4 and was marked as incorrect. I thought by evaluating to 4 they were looking to total the items in each list of the lists rather than return a specific item from one of the lists., Resolved,3

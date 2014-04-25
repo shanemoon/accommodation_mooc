@@ -1,0 +1,16 @@
+Sunday September 1st 2013 12:19 pm -04:00,ya i also had this problem..i submitted my assign n didnt gt my grades...i hope autograder gt well i need to see whether i have done my assignment wrong or right, Resolved Locked,1
+Thursday September 12th 2013 1:25 pm -04:00,solved tht bt still not getting my ans, Resolved,0
+Thursday September 12th 2013 1:27 pm -04:00,how to get whole string complementary?, Resolved,0
+Thursday September 12th 2013 1:41 pm -04:00,ya my get_compliment is working properly...identation isnt a prblem here , Resolved,0
+Thursday September 12th 2013 2:12 pm -04:00,yup thanx gt the result , Resolved,0
+Thursday October 3rd 2013 9:32 am -04:00,IN BOARD CONTAIN WORD IN COLUMN PLZ TELL WHATS WRNG!  for column_index in range(len(board)):        if word in make_str_from_column(board column_index):            return True    return False THE EROR IS Message:FAILURE: AssertionErrorFalse != True : Wrong result returned for a non-square board., Resolved,0
+Thursday October 3rd 2013 9:50 am -04:00,i m not getting..what to do here?, Resolved,0
+Thursday October 3rd 2013 10:05 am -04:00,it fixed my prblem n i understood now thanx krishnan and our TA  :), Resolved,0
+Thursday October 3rd 2013 11:29 am -04:00,i m stuck at tht read board n read word..n update score stuck in 30/37 , Resolved,0
+Thursday October 3rd 2013 11:52 am -04:00,no not tht i have done tht stuck only at tht read board n word filewith thisMethod Description:NoneMessage:ERROR: DisabledBuiltinErrorCalling the open built-in is not permitted., Resolved,0
+Thursday October 3rd 2013 1:43 pm -04:00,ya corrected tht one..just doing board file now stuck at 33/37 :P, Resolved,0
+Thursday October 3rd 2013 4:26 pm -04:00,FINALLY GT 37/37 :), Resolved,0
+Thursday October 3rd 2013 2:50 pm -04:00,  list2 =     for line in board_file:        list2.append(line.rstrip())        list3 =         for i in line:             list3.append(i)             list2.append(list3)                 return list2 cant get ryt result!!wts wrng here?, Resolved,0
+Thursday October 3rd 2013 3:34 pm -04:00,i tried still gt same result :(, Resolved,0
+Thursday October 3rd 2013 3:44 pm -04:00,   list2 =     for line in board_file:        list2.append(line)        line=line.rstrip()        for i in line:            list3=            list3.append(i)    list2.append(list3)                 return list2, Resolved,0
+Thursday October 3rd 2013 4:23 pm -04:00,yayy!! finalyy m done gt 37/37 thankyou very much FOR YOUR HELP !:D, Resolved,0

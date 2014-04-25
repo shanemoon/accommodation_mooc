@@ -1,0 +1,21 @@
+Monday August 19th 2013 1:04 am -04:00,i want to understand how the exponentiation calculation happen  how we get the result for 2 ** 5 = 32 , Resolved,0
+Monday August 19th 2013 1:14 am -04:00,thanks a lot for your Support so its Work like X Power N in which X is Number and N is the power Number thanks again, Resolved,0
+Monday August 19th 2013 1:18 am -04:00,yeah Mate  Thanks a lot for your support  i have question will be there any Study Group in this Course , Resolved,0
+Monday August 19th 2013 1:17 am -04:00,Yeah and i wish i can Join Group Study its make the study more effected ,None,0
+Monday August 19th 2013 1:21 am -04:00,Hi Dennis  i m just Like you but i think later when we start to work in projects or practice it will be much great to have group study to active each other and sharing the ideas  isnt you agree with me,None,0
+Monday August 19th 2013 6:17 am -04:00,Hi Saint- Clair  i agree with your idea  so what idea you have ??,None,0
+Monday August 19th 2013 1:23 am -04:00,i send join request,None,0
+Thursday August 22nd 2013 10:35 am -04:00,i want to know how many time i should Attempts the Exercise  one times is enough or i have to do the 5 times ,None,0
+Thursday August 22nd 2013 12:50 pm -04:00,Thanks Lori for your Answer,None,0
+Sunday September 15th 2013 4:50 am -04:00,student: test_a2.TestInsertSequence.test_insert_sequence_at_beginningERROR[x]Method Description:Have you tested your function where you insert at the beginning of dna1?Message:ERROR: AttributeErrorReplacerModule object has no attribute insert_sequencestudent: test_a2.TestInsertSequence.test_insert_sequence_at_endERROR[x]Method Description:Have you tested your function where you insert at the end of dna1?Message:ERROR: AttributeErrorReplacerModule object has no attribute insert_sequencestudent: test_a2.TestInsertSequence.test_insert_sequence_example_from_handoutERROR[x]Method Description:Have you tested your function on the example in the handout?Message:ERROR: AttributeErrorReplacerModule object has no attribute insert_sequencestudent: test_a2.TestGetComplement.test_get_complementERROR[x]Method Description:Have you tested your function with all 4 nucleotides?Message:ERROR: AttributeErrorReplacerModule object has no attribute get_complementi really dont know because when i test the function its get me the values right but when i submit i get this result so please help, Resolved,0
+Sunday September 15th 2013 4:51 am -04:00,>>> insert_squence(CCGGAT2)CCATGG>>> insert_squence(AACCTT1)ATTACC, Resolved,0
+Sunday September 15th 2013 4:51 am -04:00,>>> get_complementary(A)T>>> get_complementary(C)G, Resolved,0
+Sunday September 15th 2013 4:45 am -04:00,Guys i try all of this ways and when i submit the to the assignment 2 and i get that the function is not work even when i test it it work problemy so please help me what i have to do  , Unresolved,0
+Sunday September 15th 2013 6:34 am -04:00,like this z=x[:index]+y+x[index:]return z, Unresolved,0
+Sunday September 15th 2013 4:32 am -04:00,i didnt understand can you explain to me because i still have the same problem and i cant finish even i complete every thing else except the insert_sequence_function , Unresolved,0
+Sunday September 15th 2013 6:30 am -04:00,you want to say let Image that x =TTAA and Y = TTCC  Index = Numberso if i want to add y to x i will do thisz=x[:index]+y+x[index:]	return z, Unresolved,1
+Thursday September 19th 2013 5:43 am -04:00,What i should do i dont know they need the function use or need the result of the sum , Resolved,0
+Thursday September 19th 2013 6:27 am -04:00,so when i give the answer it keep give me wrong result  even i use the two way mention in the question  , Resolved,0
+Thursday September 19th 2013 12:50 pm -04:00,i will give exmapleSum = 0for i in range(30010002):   sum = sum + i***************************************************** other solution waySum = 0i = 300While i < 1000: sum = sum + ii = i + 2, Resolved,7
+Thursday September 19th 2013 1:33 pm -04:00,i full understand your point but this is example that all  so the question is until number 10503 so i have to make it unitl 10505 or what , Resolved,0
+Thursday September 19th 2013 2:40 pm -04:00,you are right thanks a lot , Resolved,1

@@ -1,0 +1,3 @@
+Friday August 30th 2013 6:59 pm -04:00,HiIve got the same errors - student: test_get_seconds.TestGetSeconds.test_example_from_handout    FAILUREstudent: test_get_seconds.TestGetSeconds.test_greater_than_60    FAILUREMy test cases:    >>> get_seconds(3800)    20    >>> get_seconds(50)    50        >>> get_seconds(3600)    0It seems that the grader has a bug in test_get_second script, Resolved,0
+Saturday August 31st 2013 3:07 pm -04:00,Youre right with  test_get_seconds.TestGetSeconds.test_example_from_handout case its my mistake. How about  test_get_seconds.TestGetSeconds.test_greater_than_60 case?, Resolved,0
+Monday September 2nd 2013 4:21 am -04:00,Hiyou could try run IDLE directly from python directory C:\Python32\Lib\idlelib -> idle.bat or idle.py, Resolved,0

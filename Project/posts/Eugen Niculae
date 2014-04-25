@@ -1,0 +1,1 @@
+Thursday September 12th 2013 3:16 pm -04:00,Hi allIf you want to check if your functions work without copy and paste the examples in idle add the following lines at the end of your script:if __name__ == __main__:    import doctest    print(doctest.testmod(verbose=True))Enjoy!,None,0

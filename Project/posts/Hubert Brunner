@@ -1,0 +1,6 @@
+Monday August 19th 2013 1:59 pm -04:00,i had the same problem - i used the python command line because python IDLE is not running (due to firewall message), Resolved,1
+Monday August 19th 2013 1:38 pm -04:00,I have the same probelm - i was able to start IDLE only once - now i get the message with the firewall - does anyone know the process name of python idle?, Resolved,0
+Monday August 19th 2013 2:34 pm -04:00,it depends alway on the point of view - if the value of z would change without giving the computer the command to do that - it may be impossible to make programs running and keep them understandable, Resolved,0
+Monday August 26th 2013 2:00 pm -04:00,i did not get it in the example before we saw type contracts like this (number) -> numberwhy is (str) -> number not correct?, Resolved,2
+Monday August 26th 2013 2:12 pm -04:00,after watching the rest of the video lecture that become clear for me - thanks, Resolved,1
+Monday August 26th 2013 1:34 pm -04:00,Hello there ....I have seen that the command print(hello world) results in hello world in the output window.How many times can i overload the function print (meaning how many arguments can i pass to the functions)?regards, Unresolved,0

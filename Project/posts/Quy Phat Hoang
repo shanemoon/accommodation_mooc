@@ -1,0 +1,1 @@
+Saturday August 24th 2013 12:02 am -04:00,After defining function increment. You must press enter then you can use it.>>> def increment(x):    return x+1>>> increment(2)3, Resolved,3

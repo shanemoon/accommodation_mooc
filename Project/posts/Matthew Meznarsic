@@ -1,0 +1,4 @@
+Tuesday September 3rd 2013 9:20 pm -04:00,So Im writing out my get_minutes and Im getting back whole numbers and the correct answer when I pass it 3800. However if I pass in 7200 Im getting back 60 which while still correct should this roll back over to hours or is this acceptable for the assignment?, Unresolved,0
+Tuesday September 3rd 2013 10:39 pm -04:00,Hmm alright I need to rethink this like I said for 7200 Im getting 66 instead of the expected 6. The code seems right I think I just need to rethink the equation. (seconds - 3600) //60, Unresolved,0
+Tuesday September 3rd 2013 11:25 pm -04:00,Sorry meant 7600, Unresolved,0
+Wednesday September 4th 2013 10:44 am -04:00,Ah got it makes a lot more sense now that I slept on it. Thanks, Unresolved,1

@@ -1,0 +1,1 @@
+Monday September 2nd 2013 2:56 pm -04:00,I was also getting the same error. What I did was-------I defined get_sec(time_1) but they asked for get_seconds(time_1)..So what might be happening that they were checking assignments by some other program which is programmed to read get_seconds but not get_sec....I got full 41/41 after doing this., Unresolved,0

@@ -1,0 +1,8 @@
+Tuesday August 20th 2013 9:01 pm -04:00,None of these are working for me either Im am using windows 7. How do you highlight a comand to copy it?, Resolved,1
+Thursday August 22nd 2013 7:48 pm -04:00,I was using the GUI interface needed to be using the command line interface., Resolved,1
+Thursday August 22nd 2013 8:32 pm -04:00,In question 15 of the Excercise it talks about bigger I have no idea what this means I got the answer correct but dont know why can you help please thanks.,None,0
+Friday August 23rd 2013 7:08 pm -04:00,You give me to much credit I took a guess just so happens it was correct :),None,0
+Monday August 26th 2013 7:35 pm -04:00,I cant understand what ord means can some one explain this please.>>> help(ord)Help on built-in function ord in module builtins:ord(...)    ord(c) -> integer        Return the integer ordinal of a one-character string.,None,0
+Monday August 26th 2013 8:14 pm -04:00,Kevin thanks for the help but I must be doing something wrong because if I type:>>> ord(c)Traceback (most recent call last):  File <pyshell#18> line 1 in <module>    ord(c)NameError: name c is not defined>>> ord(f)Traceback (most recent call last):  File <pyshell#19> line 1 in <module>    ord(f)NameError: name f is not definedWhat should I get if I type ord(c) or ord(f)?,None,0
+Monday August 26th 2013 8:35 pm -04:00,Im sorry Kevin I have no experience with programming and have no idea what Im doing wrong I just tried.>>> ord cSyntaxError: invalid syntax>>> ord cSyntaxError: invalid syntax>>> Can you please give me an example of how to type this to make it work thanks.,None,0
+Monday August 26th 2013 7:14 pm -04:00,Should we do Assignment 1 before going through the week 2 material? Or is week 2 needed to understand Assignment 1?, Resolved,0

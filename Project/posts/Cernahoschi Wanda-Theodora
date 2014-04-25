@@ -1,0 +1,2 @@
+Wednesday September 11th 2013 6:25 am -04:00,Hi! In this last quiz I think that it is something wrong:s = s[:-5] + Perhapsand this -5 it repeats in all 4 statements.  I think that instead of -5 it is actually 7 if we want positive indices:s = s[:7] + PerhapsAnd if we want to write this with negatice indices is s[:-6] not -5. Try to calculate! Or am I wrong?, Resolved,0
+Wednesday September 11th 2013 7:05 am -04:00,Thank you for your answer! I tested in IDLE and I realise that I was wrong. , Resolved,0

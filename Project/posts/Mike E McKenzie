@@ -1,0 +1,3 @@
+Tuesday September 24th 2013 12:23 pm -04:00,I marked this option as correct: for line in file:        if letter in line:            matches.append(line.rstrip())because I tried it in the Python shell and used the Flanders poem txt as an example but it got marked wrong. Anybody know why thanks, Resolved,0
+Tuesday September 24th 2013 1:53 pm -04:00,thank you I got it. I didnt choose good test cases thats why I got it wrong initially, Resolved,0
+Tuesday September 24th 2013 2:59 pm -04:00,it is attached to the video lecture Reading Files in week6, Resolved,0

@@ -1,0 +1,2 @@
+Tuesday August 27th 2013 10:34 pm -04:00,Maybe that has something to do with the rule that in a single-coded string you cant have a single quote mark meaning you yoursef cant write youre with single quote marks so Python cant also return it. Just a guess., Resolved,0
+Tuesday August 27th 2013 10:51 pm -04:00,Python returned you a line which is coherent with Python Syntax rules there cant be a single quote mark in a single quoted string unless you use an escape sequence., Resolved,0

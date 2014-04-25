@@ -1,0 +1,1 @@
+Monday September 23rd 2013 1:00 am -04:00,Wayne this is the way I solved the empty string check.Since we know that an empty string has a length of 0 you could just compare the length of the sequence to 0.if len(sequence) == 0:     return TrueHope that helps., Resolved,0

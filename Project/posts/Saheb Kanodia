@@ -1,0 +1,2 @@
+Tuesday August 20th 2013 4:04 pm -04:00,For people running Ubuntu 12.04 and cant get the Python 3.3 installed .. This worked for me ..sudo apt-get install python-software-propertiessudo add-apt-repository ppa:fkrull/deadsnakessudo apt-get updatesudo apt-get install python3.3, Resolved,0
+Thursday September 26th 2013 7:09 pm -04:00,Thanx!!, Unresolved,0

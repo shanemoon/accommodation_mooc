@@ -1,0 +1,10 @@
+Tuesday September 3rd 2013 3:38 pm -04:00,Hi! My name is Sue. I submitted my assignment and got the feedback with 1 failure.(student: test_get_hours.TestGetHours.test_large_input) Ill really appreciate it if someone would help me figure out what is wrong. Below is my code for this function:def get_hours(time):    (int) -> int    get the number of hours in a time in seconds        >>> get_hours(3800)    1    >>> get_hours(7500)    2        return time // 3600Thank you very much!, Resolved,0
+Wednesday September 4th 2013 1:06 pm -04:00,Thank you!, Resolved,0
+Wednesday September 4th 2013 10:48 am -04:00,Thank you! I just tried and to_24_hour_clock(return time//3600) seemed to do the work. Is there another way to specify the range of the return value? Thanks again! :)[Edit: A1 code edited out ~ep], Resolved,0
+Wednesday September 4th 2013 1:06 pm -04:00,Got it thanks!, Resolved,0
+Wednesday September 11th 2013 2:28 pm -04:00,Hi everyone! Below is what I wrote for the function get_complement. It looks a bit wordy. Is there a more efficient way to handle this? Thanks in advance! :)def get_complement(nucle):      if      elif      elif      else, Resolved,0
+Wednesday September 11th 2013 4:50 pm -04:00,Thank you for your advice. :), Resolved,0
+Wednesday September 11th 2013 4:50 pm -04:00,Thank you! Its really neat! , Resolved,0
+Wednesday September 11th 2013 7:39 pm -04:00,Thank you Robert! Its always nice to know a much smarter way of handling problems. :), Resolved,0
+Wednesday September 11th 2013 7:43 pm -04:00,For the record I didnt use the dictionary method in my assignment. I submitted the assignment before I posted here. I apologized for posting the code here but its still nice to know smarter ways. Ill use descriptions next time., Resolved,0
+Wednesday September 11th 2013 4:50 pm -04:00,Thank you for the heads-up! I just fixed it. :), Resolved,0

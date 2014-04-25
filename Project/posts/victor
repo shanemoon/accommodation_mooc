@@ -1,0 +1,3 @@
+Friday August 23rd 2013 3:10 pm -04:00,thank you very much this problem I dont understand., Resolved,0
+Tuesday August 27th 2013 10:57 am -04:00,The function count_vowels returns the number of vowels in a given word (a str). For example:>>> count_vowels(moose)3>>> count_vowels(scratch)1The Type Contract is the line of a docstring that describes the types of the parameters and return value.  Give a Type Contract for this function., Unresolved,0
+Wednesday August 28th 2013 12:09 am -04:00,but I write:(str) -> numberI try:(str) -> int but its errorIm sorry for my english I only write a little English Thank you for you answer. , Unresolved,0

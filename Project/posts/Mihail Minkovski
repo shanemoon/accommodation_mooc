@@ -1,0 +1,9 @@
+Tuesday August 20th 2013 11:38 am -04:00,Thanks for sharing this! Great idea...., Pinned Approved Resolved,0
+Thursday September 12th 2013 4:38 pm -04:00,def has_vowel(s):    vowel_found = False    for char in s:        if char in aeiouAEIOU:            vowel_found = True            return vowel_foundThis is without the break. Basically the IF statement returns True after reaching the first vowel character. This forces the function to end so the for loop does not even go to the end of the string., Resolved,0
+Tuesday September 24th 2013 12:17 pm -04:00,You can run it in the tutor. The for loop is not executed at all because its range(11). This range is empty because end of range is not inclusive. So the function jumps straight to L[-1] = first_item.That is why you dont have the index error., Unresolved,3
+Tuesday September 24th 2013 12:10 pm -04:00,Yes this is what i initially thought when watching the video - I would never modify the list Im looping over., Unresolved,0
+Thursday September 26th 2013 12:04 pm -04:00,forward slashes worked for me, Resolved,0
+Wednesday September 25th 2013 1:48 pm -04:00,In this last example you need to loop over the items themself not their index - item[1]. This is why you dont use the range function., Resolved,0
+Saturday September 28th 2013 2:45 pm -04:00,It took me a little over 2 hours to get 37/37 but I have to admit Ive taken another python course before. The first time I had 2 sleepless nights till finish the final assignment:), Resolved,1
+Saturday September 28th 2013 3:06 pm -04:00,I did line.strip() before the for loop., Resolved,0
+Saturday September 28th 2013 2:43 pm -04:00,Yes this should be the precondition based on the sample file board1.txt and function logic. However you can play a little with max and if functions and make the make_str_from_column work independent of lists length, Resolved,0

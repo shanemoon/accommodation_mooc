@@ -1,0 +1,1 @@
+Wednesday September 4th 2013 4:02 am -04:00,This happened to me too during assignment one. When the error would pop up it would highlight the word UTC+0 in red within the time_to_utc description. However the problem was the Header had somehow been indented and was now flush with the rest of the docstring. Fixing this stopped the error from happening again.Julie, Unresolved,0

@@ -1,0 +1,1 @@
+Thursday September 26th 2013 1:47 pm -04:00,Hi i  had similar codes like those abovewords_counter = 0    for i in range(len(words)):        if  board_contains_word(board words[i]):            words_counter = words_counter + 1    return words_counter It returns 2 instead of 3 for the example.Any idea what is wrong in my case?Thanks., Resolved,0

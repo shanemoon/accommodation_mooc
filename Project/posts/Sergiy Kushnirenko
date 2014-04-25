@@ -1,0 +1,3 @@
+Monday September 30th 2013 9:53 am -04:00,def update_score(player_info word):     ([str int] list str) -> NoneType    player_info is a list with the players name and score. Update player_info    by adding the point value word earns to the players score.    >>> update_score([Jonathan 4] ANT)        return player_info[1] + word_score(word), Resolved,0
+Monday September 30th 2013 4:50 pm -04:00,But where have i collect updated value?, Resolved,0
+Monday September 30th 2013 2:15 pm -04:00,Why dont you just check in IDLE?Youre solution is good!, Resolved,0

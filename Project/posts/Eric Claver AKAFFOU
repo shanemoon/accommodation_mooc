@@ -1,0 +1,4 @@
+Thursday September 26th 2013 1:45 pm -04:00,Hi any help to undestand how to update user score?, Resolved,0
+Friday September 27th 2013 2:18 am -04:00,;-) Thanks Guy!, Resolved,0
+Sunday September 29th 2013 7:28 am -04:00,You should change your variables names. if words_file is set to be an ampty list your loop in words_file wont give expected result. Try something like words =  etc, Resolved,0
+Sunday September 29th 2013 8:08 am -04:00,Right for the board ouput but have a look on the second page of assigment handout.A board is a list of list of str such as [[A N T T] [X S O B]].A words list is a list of str such as [ANT BOX SOB TO].Do you see the difference ? :-), Resolved,0

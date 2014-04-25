@@ -1,0 +1,1 @@
+Friday September 13th 2013 2:36 pm -04:00, num_nuc =         for nuc in dna1:        if nuc in ATCG:            num_nuc = num_nuc + nuc    return num_nucthis is my code it return the answer i need but it give me a string.any hint afterward ?, Unresolved,0

@@ -1,0 +1,12 @@
+Thursday September 12th 2013 2:26 pm -04:00,Спасибо за ссылку на Codecademy. Хотелось бы курс немного интенсивнее хотя как совсем новичок в программирование на некоторые задания у меня уходит уйма времени.,None,0
+Friday August 23rd 2013 3:20 pm -04:00,I have IDLE however when I clicked on it nothing is happen. I tried double click one click right mouse click ect. anybody can help?, Resolved,0
+Wednesday August 28th 2013 4:17 pm -04:00,I encountered this syntax error. Anybody can help? functions perimeter and area work but after typing function semiperimeter and trying to execute it I am getting this error. , Resolved,0
+Wednesday August 28th 2013 4:21 pm -04:00,def semiperimeter (side1 side2 side3):     (number number number)->floatRerutn the semiperimeter of a triangle with sidesof lenght side1 side2 and side3. >>> semiperimeter(3 4 5)6.0 >>> semiperimeter(10.5 6 9.3)12.9    return perimeter(side1 side2 side3) /2This is my code., Resolved,0
+Wednesday August 28th 2013 4:24 pm -04:00,thanks Ricardo. I tried and It works! Strange for me for 2 previous functions I didnt use 4 spaces and they work just fine., Resolved,0
+Thursday August 29th 2013 10:27 pm -04:00,Thanks Jim! It exactly what I was looking for. , Resolved,1
+Friday September 27th 2013 11:57 pm -04:00,Thanks Tom for explanation!!!Alison I am not an expert but  my code works just fine without a loop for. , Resolved,0
+Sunday September 29th 2013 10:21 pm -04:00,Tom I followed your advice.But I am getting an error: integer argument expected got str, Resolved,0
+Sunday September 29th 2013 10:41 pm -04:00,but if I used as aList method readline I am getting different error:str object cannot be interpreted as an integer, Resolved,0
+Monday September 30th 2013 12:35 am -04:00,my code has 4 lines:list=loop for line in board_file:list.append(list(aString.rstrip())) - where list= list.readline aString=linereturn listI am getting an error list object has no attribute readline, Resolved,0
+Monday September 30th 2013 12:59 am -04:00,I replaced list with list1.And replaced list.readline with just list1.Now I am getting error: list object is not callable, Resolved,0
+Monday September 30th 2013 1:08 am -04:00,Well! not exactly! But it helped me understand my error! Finally I got it. Tom thank you for your time and patience!, Resolved,0

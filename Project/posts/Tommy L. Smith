@@ -1,0 +1,1 @@
+Monday September 23rd 2013 12:32 pm -04:00,Happens in Ubuntu. I was locked out of everything. Had to restart the computer. I didnt look closely at the code given. I thought it was i = i + 1 not i =i + i. This is a problem when i is set to 0. Duh...Gotta get new glasses., Resolved,0

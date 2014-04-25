@@ -1,0 +1,2 @@
+Sunday September 15th 2013 7:32 am -04:00,Me too., Resolved,-1
+Monday September 16th 2013 6:43 pm -04:00,Mine was very simple. First submission i got 16/24 and then on the next try got 0/24. I tried again another 3 or 4 times always getting zero. Then I read the error details... i had used a print statement on line 128 and because of this the whole code was rejected. Simply changed print to return resubmitted 24/24 thank you. :-) , Resolved,2

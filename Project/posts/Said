@@ -1,0 +1,3 @@
+Sunday September 1st 2013 4:50 pm -04:00,Hi there I cant open IDLE at all and this is the message i keep on receiving every time i try to run it. Anybody with a clue on what is going on with it. thnx, Unresolved,0
+Monday September 2nd 2013 2:34 am -04:00,any help on what am doing wrong that is giving me this error message?, Unresolved,0
+Saturday August 31st 2013 1:32 am -04:00,this is a function i did but i got this error after i run the function so any idea of what is wrong with it?def volume(length base height):    return length * base * heightvolume(11 15 20)print(volume)this is what I got:   <function volume at 0x10247ac20>, Unresolved,0

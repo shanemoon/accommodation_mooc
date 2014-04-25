@@ -1,0 +1,2 @@
+Monday August 19th 2013 11:14 pm -04:00,So in Python do the plus and minus signs act simultaneously as their mathematical operators and their sign indicators?For example were I to type in *4 I would get a syntax error but when I type in +5 or -6 Python spits out the number 5 or negative 6.Does this mean that + and - have dual meanings or that + and - are really always just acting as sign indicators?, Resolved,0
+Tuesday August 20th 2013 2:57 pm -04:00,Oh okay so thats how Python differentiates between negative sign and subtraction? The number of operands present?, Resolved,1

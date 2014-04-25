@@ -1,0 +1,3 @@
+Tuesday September 10th 2013 4:50 am -04:00,Hello In the for loop over str i think it would be better if we used this : for char in S:            if char.lower() in aeiou:                    count = count + 1Instead of for char in S:        if char in aeiouAEIOU:            count = count + 1, Unresolved,2
+Monday September 16th 2013 5:36 pm -04:00,because 123 is obviously all digits so this condition while s[i].isdigit() is always true and i will keep on incrementing at some point i would be 4 so when the program wants to check whether  s[3].isdigit() is a digit or not it will raise an out of range error, Resolved,1
+Monday September 16th 2013 5:51 pm -04:00,yea sorry fixed it, Resolved,0

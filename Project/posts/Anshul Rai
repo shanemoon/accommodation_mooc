@@ -1,0 +1,9 @@
+Tuesday August 27th 2013 6:46 am -04:00,I submitted my assignment and got 41/41. The assignment was complete and checked on the a1_gui.py too. But the posts here reveal that an incomplete submission is also resulting in 41/41. Is there a problem with the automated tester. Do we submit again?, Resolved,0
+Tuesday August 27th 2013 7:03 am -04:00,Thanks, Resolved,0
+Tuesday September 3rd 2013 2:47 am -04:00,Indentation is important in this question!, Resolved,0
+Monday September 2nd 2013 11:13 pm -04:00,When I single step my code in visualizer I dont get memory pointers like id1 id2 etc. It displays the value at the place where ids are displayed in the video tutorial.Do I select some option for visualizer before I press the forward button., Unresolved,0
+Tuesday September 3rd 2013 7:17 am -04:00,Thanks. It works!, Unresolved,0
+Tuesday September 3rd 2013 7:23 am -04:00,But I cannot bookmark it. So I will have to go only through the resource link. What will happen after the course gets over will the link be still alive?, Unresolved,0
+Tuesday September 3rd 2013 9:20 am -04:00,thanks, Unresolved,0
+Thursday September 26th 2013 10:26 am -04:00,I tried to check my assignment by testing with a3_driver.py but I  run a3_driver.py I get the following error:  File a3_driver.py line 1 in <module>    from tkinter.filedialog import askopenfileImportError: No module named tkinter.filedialogI then submitted my assignment and got 0/37 all with the same errors reproduced here:ERROR: IndentationErrorunindent does not match any outer indentation level(./a3.py 26 27    return word in wordlist)What does IndentationError mean. The module works fine in Idle. Can I get a hint about the error. Thanks, Unresolved,0
+Thursday September 26th 2013 11:49 am -04:00,I submitted the same file again and got 37/37. Strange!?, Unresolved,1

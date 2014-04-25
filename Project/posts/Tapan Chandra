@@ -1,0 +1,2 @@
+Wednesday September 11th 2013 12:38 pm -04:00,Well from my understanding both the string as well as math functions are the same..functions. Since string functions are most commonly used they are loaded into the python runtime by default while other modules like os math etc.. have to be explicitly loaded to be used. This ensures that python doesnt use inordinate amount of memory to load modules it wont use anyway., Resolved,0
+Wednesday September 11th 2013 12:41 pm -04:00,oh. I was wrong there is indeed a difference : http://stackoverflow.com/a/155722/1873328, Resolved,1

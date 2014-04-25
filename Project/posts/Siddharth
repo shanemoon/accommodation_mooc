@@ -1,0 +1,3 @@
+Saturday August 31st 2013 11:56 pm -04:00,Thank you Alain and Ivan .I have more clarity now on the idea of  having a heap separate from a stack., Approved Resolved,0
+Tuesday August 27th 2013 9:45 am -04:00,HelloFor example  if test=8we understand that 8 is placed in a memory location and address of this location (say x201) is stored in another memory location(say x100) which labelled/named as test.Can someone explain me the reason/advantage of doing this ?In other words why  cant 8 be  placed directly in the memory address(x100) that is labelled/named as test.Is this something which will be explained at a later stage?, Resolved,0
+Saturday August 31st 2013 11:58 pm -04:00,Thanks Alain  I went through the threadhave more clarity now., Resolved,0

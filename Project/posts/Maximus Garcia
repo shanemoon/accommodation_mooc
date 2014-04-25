@@ -1,0 +1,12 @@
+Friday August 30th 2013 1:06 pm -04:00,how do i even get to the second line? i pressed enter because when typing thats what i usually do but i forgot that executes the command., Resolved,0
+Monday September 9th 2013 12:04 pm -04:00,pygame is a game creating code. does that mean it can mod games made in python?,None,0
+Monday September 2nd 2013 10:47 am -04:00,I havent seen a thread for something like this yet and i thought it would be a good idea to make one. Im learning coding to make video games.also Im planning to learn java so i can mod because most of the games i play use java for instance Minecraft. and admins I have no idea if Minecraft is copyrighted or not so please dont delete. If you want to make games for a living then tell me here. this is just overall game talking and ideas. if you have one you can say it here. and if you make a game based off of someones idea then you have to give them credit for it.,None,0
+Monday September 2nd 2013 10:48 am -04:00,*creating. i should have checked name.,None,0
+Monday September 9th 2013 11:58 am -04:00,can an admin just delete this post please?,None,0
+Monday September 9th 2013 11:56 am -04:00,It wont let me use the function I typed into the module after i run it.And also I dont have the run button in the Python shell as it shows. only in the module. I am on windows 8. please help, Unresolved,0
+Tuesday September 10th 2013 12:50 pm -04:00,i did all that and this came up: Traceback (most recent call last):  File <pyshell#0> line 1 in <module>    double (10)NameError: name double is not defined, Unresolved,0
+Tuesday September 10th 2013 12:51 pm -04:00,oh and if anyone wants the code ill give it. its not and important one or a code for the lessons., Unresolved,0
+Tuesday September 10th 2013 12:53 pm -04:00,never mind. i clicked python shell instead of run module., Unresolved,0
+Tuesday September 10th 2013 12:56 pm -04:00,thanks for the help. i couldnt proceed without this knowledge., Unresolved,0
+Thursday September 26th 2013 2:28 pm -04:00,Sort of on the same topic is a funny code that infinite loops. here it is.>>>red = red>>>while red == red:              print (Im red!)>>>Im red!this ^ loops forever.,None,-1
+Wednesday September 25th 2013 10:01 am -04:00,When i try to run it it pops up a window saying syntax error as the title and it says unindent doesnt match any outer indentation and showsa red line either in front of num_vowels or vowels and will not run. i am on windows 8., Unresolved,0

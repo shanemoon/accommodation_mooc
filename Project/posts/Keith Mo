@@ -1,0 +1,1 @@
+Tuesday August 20th 2013 11:01 am -04:00,3.8 Exercises6. State whether each expression listed here evaluates to True or False:I dont understand the results below.The textbook seems never mentioned the comparison between strings.Could anyone kindly help? Thanks.>>> ant < abcFalse>>> ant > AntTrue>>> ant > AbcTrue>>> ant < antiTrue,None,0

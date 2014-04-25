@@ -1,0 +1,3 @@
+Tuesday October 1st 2013 2:34 am -04:00,Hellois there anyone who can explain what this error means I have submitted Assigment 3 and as for me it works fine but i have only 30 of 37 scores., Unresolved,0
+Tuesday October 1st 2013 5:26 am -04:00,Maybe something wrond with a tester. I have removed import of tk inter and have tested old version of a3 and it shows the same error with all function., Unresolved,0
+Tuesday October 1st 2013 5:30 am -04:00,I finnaly found what problem was. I have imported tkinter twice  thanks everyone:), Unresolved,0

@@ -1,0 +1,1 @@
+Saturday October 5th 2013 4:20 pm -04:00,I could not figure out the code while using the while loop but I got it using the for loop. With the for loop the answer comes to 27541388 which is correct when I submitted my exercise. But with the code above I get 27615548. What am I doing wrong? I replaced sum=524 and i<=10508, Resolved,0

@@ -1,0 +1,39 @@
+Friday August 23rd 2013 9:36 am -04:00,@daryl dear bro it is working out see i verified please see>>> ord(c)99>>> it gves the ascii value thats it if u use chr func instead of ord and give a number as input it is reverse of this, Resolved,0
+Wednesday August 28th 2013 9:48 am -04:00,i want the def and notes  and programs in videos in downloaddable format i mean pdf etc do u know any method official for that, Resolved,0
+Wednesday August 28th 2013 9:47 am -04:00,i want the def and notes  and programs in videos in downloaddable format i mean pdf etc do u know any method official for that, Resolved,0
+Friday August 23rd 2013 9:58 am -04:00,i request the community people or the instructors to kindly answer this question as to what and where is the python programming language used currently?are there any special cases where only python language should be used and no other language, Resolved,0
+Thursday August 29th 2013 5:00 am -04:00,to paul sir i think u should give it right if we type string also as it is just a help which is itself user friendly when the usage of number is accepted why not string i think we can go with string siri hope u will make the correction, Resolved,0
+Thursday August 29th 2013 5:04 am -04:00,then is number a valid datatype mr.daniel , Resolved,0
+Friday August 30th 2013 11:25 am -04:00,@Louis Xiei think u are wrong here because it can be short int too so i guess this is the answer (str) -> number, Resolved,0
+Sunday September 1st 2013 2:12 am -04:00,@etienne i am sorry i want to tell that there is long int so it must be number i argue see 5.4 in this link http://docs.python.org/2/library/stdtypes.htmli wanna say is that integer is correct but to be particular in fact pedantic use number, Resolved,0
+Tuesday September 3rd 2013 7:40 am -04:00,please upload pdfs of week 3 videos allso, Pinned Approved Resolved,0
+Thursday August 29th 2013 5:36 am -04:00,i want to know if we can use  instead of  in function description becoz i used it and got an error.if we shouldnt y we shouldnt any specific raeson or just a convenction python is following, Resolved,0
+Thursday August 29th 2013 5:44 am -04:00,kk that was helpful, Resolved,0
+Thursday August 29th 2013 5:49 am -04:00,sir i used three single quotes and it is working i want to know y it doesnt wrk with double quotes i think it is due to multilines is it?, Resolved,0
+Thursday August 29th 2013 6:24 am -04:00,yes sir that was true but i knew that before i couldnt ask my question properly what i wanted to ask was that was it designed it any specific intention?, Resolved,0
+Sunday September 1st 2013 3:56 am -04:00,i completed the assignment in one go if need any help contact me please, Unresolved,0
+Monday September 2nd 2013 1:23 am -04:00,i want to know at the end of the course will be able to understand how we are getting that clocks of assignment one i.e. with the gui how to use it?, Resolved,0
+Tuesday September 3rd 2013 12:34 am -04:00,@José Héctor Albanoso yours final answer is we are not going to learn it right?/, Resolved,0
+Tuesday September 3rd 2013 6:59 am -04:00,so friends let us request our tutors to please atleast explain the gui and the program based on that it is very interesting to use with graphics right., Resolved,0
+Tuesday September 3rd 2013 7:33 am -04:00,@kevinsir didnt get you in the last sentence we are requesting if you could add a video explaining the gui program in assignment 1, Resolved,0
+Tuesday September 3rd 2013 8:24 am -04:00,thank u sir andplaese help me out with this sir the last posthttps://class.coursera.org/programming1-002/forum/thread?thread_id=1265, Resolved,0
+Wednesday September 4th 2013 9:29 am -04:00,hey guys and one more thing the colon in the def of func is missing it wont execute, Unresolved,0
+Thursday September 12th 2013 3:48 am -04:00,@Erzin Rostislavyou should include this statement return vowel_foundotherwise it doesnt work .i want the community to correct it to complete the function using two lines and not one, Resolved,0
+Thursday September 12th 2013 9:34 am -04:00,@Erzin Rostislavyour indentation was wrong be careful with that here see i am giving the program though wat you wrote works perfectly if indented correctly in order to satisfy @pablo this is the correct onedef has_vowel(s):    vowel_found = False    for char in s:        if char in aeiouAEIOU:           vowel_found = True           break    return vowel_found, Resolved,4
+Saturday September 14th 2013 7:56 am -04:00,i dont think so it goes on till the for loop ends, Resolved,0
+Saturday September 14th 2013 9:02 am -04:00,i feel the question was not asked or is not understandable properly please elaborate the banana example, Resolved,0
+Saturday September 14th 2013 9:08 am -04:00,i completed my exercise 4 with 14/14 in 1 go if need any help ask me?, Unresolved,-1
+Saturday September 14th 2013 9:18 am -04:00,interested to do a project in python any ideas and can anyone one join me?please tell me the ideas and tell if interested to join,None,1
+Monday September 16th 2013 5:48 am -04:00,i wanna do a project like note pad or any desktop application or anything if any more ideas please let me know.the project should mostly  be on the knowledge we are learning now and i also require som more pupil to work on that please the interested please contact me my id id gowthamteja30@gmail.com.LETS MAKE IT LIKE A FIRST OPEN SOURCE PROJECT WITH KNOWLEDGE FROM  COURSERA  ,None,0
+Monday September 16th 2013 6:03 am -04:00,divide it between member we will form a group and make it out first lets decide on what to do.@Vicente Garcia Lopez dnt worry we can make it we will work with basics and move forward lets give it a try what do u say?,None,1
+Monday September 16th 2013 6:47 am -04:00,kk explain in detaill we will do,None,0
+Monday September 16th 2013 10:20 am -04:00,but andersen we are still not taught gui in python here can u expalain us or provide us with anny course which teaches that,None,0
+Monday September 16th 2013 5:42 am -04:00,remember for all other characters other than ATCG in the string it should retuen invalid string even if the nucleotides in lower case.and by the way my post says i will be helping out people as said by Andreia Sofia Oliveira Canhão and will not post answers mr.anonymous it is not only u who knows the honour code even we do, Unresolved,-2
+Monday September 16th 2013 6:38 am -04:00,try this and tell me what ur getting get_complementary_sequence(GCTDFER), Unresolved,0
+Monday September 16th 2013 6:42 am -04:00,i think u missed that if a non valid sequence is given as input it should return false, Unresolved,0
+Monday September 16th 2013 7:23 am -04:00,what anonymous said is correct please tell what is the error message ur getting, Unresolved,0
+Monday September 16th 2013 6:04 am -04:00,thats impossible i think u miased a func, Unresolved,0
+Monday September 16th 2013 7:30 am -04:00,not resolved yet, Unresolved,0
+Sunday September 29th 2013 12:39 pm -04:00,@ ctas i think the phrase needs to be corrected as it is now the option with strip is also doing the work please add the 1/4th mark plz, Resolved,0
+Sunday September 29th 2013 12:42 pm -04:00,i mean c is named as it is because it is advanced version of b language like that any specific reason for naming it as python?,None,0
+Wednesday October 2nd 2013 5:28 am -04:00,In the worst possible case i could see that even if we dont attempt the final exam if we could complete all the previous exercises and assignments we can get 70% easily.  So even in that case are we eligible for the certificate???, Resolved,0

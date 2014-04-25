@@ -1,0 +1,28 @@
+Sunday August 18th 2013 10:05 pm -04:00,Hello everyone  i am Fábio  i living in brazil  I hope to enjoy myself  learning python here  luck for all...,None,2
+Monday August 19th 2013 2:22 pm -04:00,Nice to meet too Saint-Clair da Cunha  estou em  Ribeirão preto SP Você é iniciante ou já programa,None,0
+Sunday August 18th 2013 10:18 pm -04:00,The best way to learn study and devote a lot more.,None,1
+Sunday August 18th 2013 10:33 pm -04:00,Why Must I Learn Math?,None,0
+Monday August 19th 2013 8:33 am -04:00, I believe  too,None,0
+Monday August 19th 2013 8:51 am -04:00,Thank you!,None,0
+Monday August 19th 2013 11:30 am -04:00,I will read this book  Thank you!,None,0
+Monday August 19th 2013 11:55 am -04:00,And for emulation developer   need math ?,None,0
+Sunday August 18th 2013 11:01 pm -04:00,option = input(Y for join : )if option == Y or  option  == y:    print(thx)else:    print(bye),None,2
+Monday August 19th 2013 7:57 am -04:00,yes  Im wrong,None,0
+Monday August 19th 2013 8:19 am -04:00,Thank you!....you know another language?,None,0
+Monday August 19th 2013 7:59 am -04:00,yes your code is better,None,0
+Monday August 19th 2013 11:22 am -04:00,Err:511,None,0
+Monday August 19th 2013 8:01 am -04:00,Great work,None,0
+Monday August 19th 2013 7:56 am -04:00,why this code does not work??anyone know??someone smart???well and this code makes it better###by Hamtaroimport pickletry:    load_file = open(c:/python/contactsrb)    contacts = pickle.load(load_file)    load_file.close()    save_file = open(c:/python/contactswb)        except:    contacts = {}        save_file = open(c:/python/contactswb)    print(***by.Hamtaro***)while True:    try:        a = 20 *          print(a+**********Address book Ver.1******)        print(a+**1 new contact**)        print(a+**2 see contacts****)        print(a+**3 delet contact******)        print(a+**4 Exit**)        option = int(input(a+enter an option : ))        if option == 1:            name = input(enter an Name:)            phone = str(input(enter an Phone : ))            contacts[name] = phone                    elif option ==2:            if contacts == {}:                print(you still have not added any contact)            else:               print(contacts)        elif option ==3:            while 1:                try:                    if contacts != {}:                                                delete = str(input(Enter the contact name or cancel to exit : ))                        if delete == cancelar:                            break                        else:                            del contacts[delete]                            print(%s deleted%delete)                            if contacts == {}:                                print(Contact list empty)                            break                    else:                        print(You do not have any contacts to delete)                        break                                        except:                    print(command invalid)        elif opcao == 4:            break            exit()        else:            print(invalid option)    except:        print(invalid option)pickle.dump(save_file)save_file.close(),None,-7
+Tuesday August 20th 2013 8:41 am -04:00,i will try,None,0
+Monday August 19th 2013 11:32 am -04:00,Someone program in other languages?,None,0
+Tuesday August 20th 2013 8:39 am -04:00,im beginning in html and javascript  do you know javascript ?,None,1
+Monday August 19th 2013 11:58 am -04:00,Hi  Ive programmed a little c #  What do you think about java?is better than c# or a lot different,None,0
+Tuesday August 20th 2013 8:45 am -04:00,I enrolled in Beginning Game Programming with C#  looks amazing,None,1
+Tuesday August 20th 2013 8:35 am -04:00,yes,None,0
+Tuesday August 20th 2013 9:04 am -04:00,I read the book Python for kids(not only for kids) its very good for beginners if you want to start creating games,None,0
+Saturday September 7th 2013 11:18 am -04:00,return hours + (minutes / 60) + (seconds / 59/60)what is wrong ?>>> to_float_hours(0 15 0)0.25>>> to_float_hours(2 45 9)2.752542372881356>>> to_float_hours(1 0 36)1.0101694915254238, Resolved,0
+Saturday September 7th 2013 11:23 am -04:00,return hours + (minutes / 60) + (seconds / 3600), Resolved,0
+Saturday September 7th 2013 12:33 pm -04:00,student: test_get_hours.TestGetHours.test_large_inputerror FAILURE: AssertionError 9 != 105def get_hours(seconds):    return int(seconds/3600)### Write your get_minutes function definition here:def get_minutes(seconds):    return int((seconds%3600)/60)    ### Write your get_seconds function definition here:def get_seconds(seconds):    return seconds%3600%60, Resolved,0
+Saturday September 7th 2013 1:29 pm -04:00,work thx, Resolved,0
+Monday September 16th 2013 5:53 pm -04:00,what is wrong result=0        for letter in dna:        if letter == nucleotide:            result+=1    return result-----------------------------what is wrongreturn dna.count(nucleotidedna.find(nucleotide)), Resolved,0
+Wednesday September 18th 2013 7:59 pm -04:00,Thanks, Resolved,0

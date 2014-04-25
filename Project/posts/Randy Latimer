@@ -1,0 +1,6 @@
+Monday August 19th 2013 10:27 pm -04:00,happy!day...Its not valid,None,11
+Monday August 19th 2013 11:13 pm -04:00,I think the question was to check the valid identifiers so you dont want to check it.,None,0
+Monday August 19th 2013 11:14 pm -04:00,! and ? are not considered digits,None,1
+Tuesday August 20th 2013 8:16 am -04:00,Yes 18happy_day is not a valid identifier because it starts with a number,None,0
+Tuesday August 20th 2013 8:28 am -04:00,def square(x):   return x * xHere in the function definition x is referred to as the parameterWhen you want to use the function in your code...answer= square(4)4 is the argument to the function call.Or here:val = 10.5answer= square(val)In this example val is the argument to the function call, Resolved,3
+Tuesday August 20th 2013 8:36 am -04:00,Thats correct...also arguments can be variable names too...base=10height=5answer = trianglearea(baseheight)In that example base and height are arguments in the call to your function definition.  The arguments in the function call match up by position in the argument list to b and h parameters in your function definition, Resolved,1

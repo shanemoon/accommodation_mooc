@@ -1,0 +1,1 @@
+Thursday September 19th 2013 4:59 pm -04:00,def get_complement(dn):    return dn.replace(at) and dn.replace(ta) and dn.replace(gc) and dn.replace(cg)this is not working properly please sugggest if you get anything, Unresolved,0

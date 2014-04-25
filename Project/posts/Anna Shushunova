@@ -1,0 +1,4 @@
+Friday September 13th 2013 3:05 am -04:00,Hi Anonymous! ATCD CCTCADDATTC DCTA is not a right sequences.The nucleobases are G <-> C and A <-> T - not D., Resolved,1
+Saturday September 14th 2013 5:17 pm -04:00,Hi Anne!Visualizer helps me alot with such a mistakes. Try to print out the result with valid sequence then check the position of your first else statement., Unresolved,2
+Saturday September 14th 2013 5:29 pm -04:00,Copy your functions code in here and add:is_valid_sequence(ATCGGC)as a last string, Unresolved,1
+Saturday September 14th 2013 6:09 pm -04:00,Anne Im so sorry to hear about it because its almost works. All the problem is some unnecessary spaces. And to work in vizualizer you shoud remove all empty space at the start of a string and then press tab tab tab again (tis a cause of char refers to  A and the function executes and returns True). Good luck to you with the rest of the Assignment anyway., Unresolved,1

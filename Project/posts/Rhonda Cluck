@@ -1,0 +1,2 @@
+Tuesday September 24th 2013 2:21 pm -04:00,Shifteach item in L one position to the right    and shift the last item to the firstposition.So the function should return dabc if L is abcdAm I correct because I am having the same issue, Resolved,1
+Tuesday September 24th 2013 2:53 pm -04:00,My list was [abcd]  I understood I needed a list and not a string but neglected the commas.Thanks , Resolved,0

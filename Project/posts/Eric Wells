@@ -1,0 +1,2 @@
+Friday September 6th 2013 6:37 pm -04:00,The code for minutes & seconds conversions is visible on the screen the whole time. I noticed that line 13 of the code is an example of what should be returned with the expected result on line 14. Line 13 and line 14 are:>>> convert_to_minutes(2)7200My question is should the line 13 & 14 example be:>>> convert_to_seconds(2)7200???Thanks, Resolved,0
+Friday September 6th 2013 7:07 pm -04:00,Thanks for letting me know., Resolved,0

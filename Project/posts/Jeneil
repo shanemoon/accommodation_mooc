@@ -1,0 +1,4 @@
+Tuesday September 17th 2013 10:24 am -04:00,HiWould it be possible for me to get a copy of my assignments submitted my computer crashed and I had to wipe my drive., Pinned Approved Resolved,0
+Sunday September 1st 2013 8:55 am -04:00,If you define the function in the main idle window/shell then when the shell is closed you lose those functions you have defined whereas if you define them in a file you can always rerun the modules in the .py file and have access to those functions. Not sure if this is the reason why., Resolved,1
+Sunday September 15th 2013 7:14 pm -04:00,HiCan you confirm for the function: is_valid_sequence for a null string are you expecting the function to return a value of false?, Resolved,0
+Tuesday September 17th 2013 7:11 am -04:00,Thanks!! Got it work I had assumed a null string should return false., Resolved,0

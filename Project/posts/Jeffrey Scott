@@ -1,0 +1,7 @@
+Tuesday September 10th 2013 3:00 pm -04:00,I think there may be a problem with the answer to question 14.  When I ran the code in IDLE my answer choice (and only my choice) produced the right results but the system scored my answer as incorrect.  , Resolved,0
+Friday September 27th 2013 4:53 pm -04:00,Thanks for this updated docstring.  However I am still confused as the exact output you listed but I get errors when I submit my file. student: test_a3.Test_02_ReadBoard.test_03_rectangular_assymetric_boardstudent: test_a3.Test_02_ReadBoard.test_02_square_symmetric_board, Unresolved,0
+Friday September 27th 2013 4:53 pm -04:00,sorry should say I get the exact output , Unresolved,0
+Friday September 27th 2013 7:20 pm -04:00,This is my output?[[E F J A J C O W S S] [S D G K S R F D F F] [A S R J D U S K L K] [H E A N D N D J W A] [A N S D N C N E O P] [P M S N F H H E J E] [J E P Q L Y N X D L]], Unresolved,0
+Friday September 27th 2013 7:26 pm -04:00,I submitted that and still at 33/37?  I am not sure what is wrong?, Unresolved,0
+Friday September 27th 2013 7:54 pm -04:00,Unfortunately yes, Unresolved,0
+Friday September 27th 2013 7:56 pm -04:00,I just submitted again and received the 37/37 thanks for the help....  The docstring that you submitted was really useful!!, Unresolved,1

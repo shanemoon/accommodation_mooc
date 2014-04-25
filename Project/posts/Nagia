@@ -1,0 +1,1 @@
+Sunday September 1st 2013 7:28 am -04:00,if  you are calling a function inside another one and the one being called returns a value its better that you should store that value in a variable first  , Resolved,0

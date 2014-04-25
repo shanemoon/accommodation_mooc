@@ -1,0 +1,5 @@
+Monday August 19th 2013 10:38 am -04:00,Let me in   tonyjcfly.....thanks mate,None,0
+Monday August 19th 2013 11:51 am -04:00,Rewrite the expression 3 + 4 / 2 - 7 using parentheses so that the operations are evaluated in the following order: + - /.my answer :(3 + 4) /( 2 - 7) why its wrong?,None,0
+Monday September 30th 2013 1:32 am -04:00,have you testedupdate_score([Jonathan 4] ANT)andupdate_score([[Jonathan 4][Jonathan 4]] ANT), Unresolved,0
+Monday September 30th 2013 1:26 am -04:00,Traceback (most recent call last):  File <pyshell#0> line 1 in     read_words(words_file)  File C:\Python33\a3.py line 191 in read_words    myline=myline.append(line)AttributeError: NoneType object has no attribute append    myline=flanders_file = **********    lines = **************    for line in lines:        myline=myline.append(line.******)        return mylineWhat happen ??I thought I got it loop each line in lines and append to myline, Unresolved,0
+Monday September 30th 2013 1:46 am -04:00,yes. just sovled it and thank you , Unresolved,0

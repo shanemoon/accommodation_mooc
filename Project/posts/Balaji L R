@@ -1,0 +1,9 @@
+Tuesday August 20th 2013 12:03 am -04:00,Ah.. I think you accidentally started a new Thread instead of commenting in some other thread.,None,0
+Sunday September 29th 2013 3:34 am -04:00,Contact me athttp://www.linkedin.com/pub/balaji-l-r/1a/933/505,None,0
+Tuesday September 3rd 2013 6:26 am -04:00,This is just a guess any errors when you run the file? , Unresolved,0
+Tuesday September 3rd 2013 5:48 am -04:00,Is the code mentioned inside a function? You can only return from a function. , Unresolved,0
+Tuesday September 3rd 2013 8:40 pm -04:00,Yes!import mathmath is the module name and sqrt is a function inside the module. To access such functions you need to have access to the module. , Unresolved,1
+Tuesday September 3rd 2013 5:53 am -04:00,I need a glimpse of the program to find if there is any indentation error. Make sure that every line in the body of every function is 4 space indented.  , Unresolved,0
+Tuesday September 3rd 2013 6:23 am -04:00,Expressions are evaluated from left to right.So >>> 3+-4>>> 3+(-4)>>> -1For the question of why a syntax with two different operators and no parenthesis is valid. 4*+2 is valid.try 4+*2? Valid? Hope I answered your question. , Unresolved,0
+Tuesday September 3rd 2013 10:12 am -04:00,You can submit once every 1 hour. Did you try now? See what the feedback says. , Unresolved,0
+Tuesday September 3rd 2013 8:14 pm -04:00,By no response you mean 0/41? Any errors when you run the file? , Unresolved,0

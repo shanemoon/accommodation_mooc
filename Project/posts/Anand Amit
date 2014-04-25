@@ -1,0 +1,1 @@
+Sunday September 15th 2013 1:07 am -04:00,Try to slice the dna1 till index then concatenate (string addition) dna2 then add the remaining part of the dna1 using the slicing technique. Hint:s = anands[:2]= ans[2:]= and, Resolved,2

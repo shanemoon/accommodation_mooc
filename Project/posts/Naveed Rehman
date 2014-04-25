@@ -1,0 +1,1 @@
+Sunday August 25th 2013 8:38 pm -04:00,>>> def quad_formula (abc):    x=(-b + ((b ** 2) - 4 * a * c) ** 1 / 2) / 2 * a    y=(-b - ((b ** 2) - 4 * a * c) ** 1 / 2) / 2 * a    return (xy)>>> quad_formula (123)(-3.0 1.0), Unresolved,0

@@ -1,0 +1,5 @@
+Sunday September 1st 2013 4:52 am -04:00,When I run a module i get a messege: Invalid character in indentifier This is my code saved as temperature.py:def convert_to_celsius(fahrenheit):    ´´´(number) -> number    Return the number of Celsius degrees equivalent to fahrenheit    >>> convert_to_celsius(32)    0    >>> convert_to_celsius(212)    100    ´´´    return fahrenheit - 32 * 5 / 9, Resolved,0
+Sunday September 1st 2013 5:09 am -04:00,Yes that was it. I was using IDLE but somehow typed it wrong. Thanks, Resolved,0
+Sunday September 1st 2013 7:50 am -04:00,I cant open Assignment 1 handout (HTML). I tried in Firefox end IE!, Resolved,0
+Sunday September 29th 2013 8:18 am -04:00,Ive got following message for read_board and read_words! Other parts of code were success!Message:FAILURE: AssertionError<class NoneType> != <class list> : Expected a <code>list</code> of <code>list</code> of <code>str</code>s to be returned.Can somebody help me?!, Unresolved,0
+Sunday September 29th 2013 12:25 pm -04:00,Yes I have return statements. All functions are working fine. I dont know whats the problem?, Unresolved,0

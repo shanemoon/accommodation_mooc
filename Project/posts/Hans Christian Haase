@@ -1,0 +1,2 @@
+Wednesday September 18th 2013 8:38 am -04:00,I don’t get it.when the string 0123456789 is multiplied by 2 and added to a space   why don’t it gives 01234567890123456789 ?thanks, Resolved,0
+Wednesday September 18th 2013 9:21 am -04:00,sry for my unclear question. What I dont get is why that is not what is happening when it is in:digits = 0123456789result = for digit in digits:    result = result + digit * 2print(result)To me the above looks like  + 0123456789*2but I must be overlooking something, Resolved,0

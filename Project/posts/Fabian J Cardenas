@@ -1,0 +1,5 @@
+Sunday August 25th 2013 8:12 am -04:00,I installed Python 3.3.2 on Windows 7 but I cannot find the IDLE. I can only run python.exe which look the same but in a terminal. So no Menu bar and no Argument when usind functions. How can I use IDLE on Windows?,None,0
+Sunday August 25th 2013 8:14 am -04:00,I meant no popup when using functions. Sorry,None,0
+Sunday August 25th 2013 8:34 am -04:00,Thanks :D,None,0
+Tuesday August 27th 2013 12:55 pm -04:00,Just press Enter again and it will give you the >>>If you dont press the extra Enter Python thinks youre still difining the function.,None,0
+Sunday August 25th 2013 7:57 am -04:00,I cannot get the Alt p to work. If I press Alt p it only writes a p with Alt n it only writes an n. With the Right side Alt it writes ö or ñ for p and n respectively.Im on Windows 7 64 bit. Help please., Resolved,1

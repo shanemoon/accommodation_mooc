@@ -1,0 +1,1 @@
+Tuesday September 3rd 2013 8:42 pm -04:00,I USE PYTHON 3.3.2 AND WHEN I INPUTE THE DEF BELOW I GET THE ERROR AS SHWON BELOW. SAME WITH THE AREA OF A TRIANGLE TOO....WHAT AM I DOING WRONG HERE PLEASE :(def f(x): return x ** 2f(2)SyntaxError: invalid syntax, Unresolved,0

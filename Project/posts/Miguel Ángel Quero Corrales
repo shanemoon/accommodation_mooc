@@ -1,0 +1,1 @@
+Thursday September 12th 2013 12:56 pm -04:00,I had the same problem until I found this thread. The thing I was doing wrong was that instead of returning the values I printed them out. Still the code I had before made more sense since you can make sure its getting the job done., Resolved,0

@@ -1,0 +1,11 @@
+Monday August 19th 2013 6:12 pm -04:00,There are some good explanations on this thread in the forum https://class.coursera.org/programming1-002/forum/thread?thread_id=139#post-778 by Alain Rouleau, Resolved,0
+Monday August 19th 2013 6:02 pm -04:00,The 3rd line of the code changes where the variable a points to., Resolved,1
+Monday August 19th 2013 5:51 pm -04:00,There is a builtin called int. You can use that in your function in the line with the return.def multi_int(ab):    return int(a*b)If you then input:multi_int(5.02)You will get the output:10, Resolved,5
+Monday August 19th 2013 5:44 pm -04:00,I think you can and I think the reason why has something to do with namespaces. The syllabus mentions that namespaces will be talked about in week 3., Resolved,0
+Wednesday August 28th 2013 4:05 am -04:00,That example is so great! , Unresolved,1
+Monday September 2nd 2013 4:15 pm -04:00,I took that as a test to see if we actually read the code and therefore marked that as one option that wouldnt work. :), Resolved,1
+Monday September 23rd 2013 8:32 am -04:00,I think this is the 2nd time this year that its run. I think your best bet is to put it on your watch list., Unresolved,0
+Tuesday September 24th 2013 6:17 pm -04:00,     ([str int] list str) -> NoneType    player_info is a list with the players name and score. Update player_info    by adding the point value word earns to the players score.    >>> update_score([Jonathan 4] ANT)    Maybe I have just looked too long at this. But even after looking in the a3_driver.py code I cant figure out where to update the score., Resolved,1
+Tuesday September 24th 2013 6:34 pm -04:00,Cheers George!Got it working. Time to submit and see all the holes in my solutions to the functions. :)EDIT: 33/37. Close to being done., Resolved,0
+Friday September 27th 2013 4:26 am -04:00,4-5h. 15 of those wasted on me not reading/understanding the updating_score problem correctly. The solution was quite easy I made it much more difficult for myself. 37/37., Unresolved,0
+Friday September 27th 2013 4:20 am -04:00,I had a similar error early on it turned out that I had an error in my make str_from_column function. I solved the board_contains_word with a or like you so maybe double check the row/column functions., Unresolved,1

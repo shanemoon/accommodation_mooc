@@ -1,0 +1,4 @@
+Monday August 19th 2013 3:48 pm -04:00,Why isnt pow working with 3 arguments? , Resolved,0
+Monday August 19th 2013 3:55 pm -04:00,Thank you!!, Resolved,0
+Monday August 19th 2013 3:52 pm -04:00,Yes just discovered that it works. I was actually trying pow(5 2 [ 3]) and things like that! :DThanks!, Resolved,0
+Monday August 19th 2013 4:13 pm -04:00,No imports required if you are building the program using IDLE.In IDLE pow(526) will work., Resolved,0

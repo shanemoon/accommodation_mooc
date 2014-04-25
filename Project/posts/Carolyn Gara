@@ -1,0 +1,13 @@
+Sunday September 1st 2013 6:45 am -04:00,I have 3.3.2 but no run menu and no lights at the top.. anyone know why?  :(, Unresolved,0
+Sunday September 1st 2013 6:52 am -04:00,I have the same problem..  i clicked the link above and tried that command but nothing happens..  please help!, Unresolved,0
+Sunday September 1st 2013 6:52 am -04:00,, Unresolved,0
+Sunday September 1st 2013 7:22 am -04:00,Hi Etienne :)  I was just discussing this with a friend who told me the assignment instructions should fix it for me.  I was trying to follow the triangle.py videos but I will press on until I get to the assignment and come back if I am still having problems.  Thank you :), Unresolved,0
+Wednesday September 18th 2013 9:55 am -04:00,I am calling get_compliment in get_complimentary_sequence  it works for all examples I tested but getting the following errors:  (please help!!)student: test_a2.TestGetComplementarySequence.test_get_complementary_sequence_emptyERRORstudent: test_a2.TestGetComplementarySequence.test_get_complementary_sequence_handout_exampleERRORstudent: test_a2.TestGetComplementarySequence.test_get_complementary_sequence_longERROR, Resolved,0
+Wednesday September 18th 2013 12:05 pm -04:00,wow thank you that worked :D, Resolved,0
+Friday October 4th 2013 5:46 am -04:00,LOL Ive managed to do this somehow :/read_words(wordlist1.txt)[w o r d l i s t 1 . t x t]thats not right at all!! , Unresolved,0
+Friday October 4th 2013 6:24 am -04:00,that test works fine my function however does not..  any idea why?  :/  thanks!, Unresolved,0
+Friday October 4th 2013 6:38 am -04:00,dont laugh..  ;)[w o r d s l i s t 1 . t x t], Unresolved,0
+Friday October 4th 2013 6:51 am -04:00,yes!  :)  ...  is that not right?  should there be no  maybe?thanks for replying!, Unresolved,0
+Friday October 4th 2013 6:53 am -04:00,i tried taking out   and get this error.. NameError: name wordslist1 is not defined, Unresolved,0
+Friday October 4th 2013 7:19 am -04:00,Oh I think I see..  so when I test I need to specify open in IDLE but I dont need that as part of my code?I called the function like this read_words(open(wordlist1.txt r)) and now it works :D Hope I understood correctly!  Thanks so much for the reply :), Unresolved,0
+Friday October 4th 2013 7:49 am -04:00,thank you!  yes that function is passing just need to fix a few more haha..  currently getting 32/37thanks so much for your help :D, Unresolved,0

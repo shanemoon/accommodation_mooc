@@ -1,0 +1,10 @@
+Sunday September 8th 2013 4:53 pm -04:00,I think i didnt quite get when to use elif. As it concerns else i understand that should be used as the last condition if none of the above have been met.But why should i not use just if statements?, Unresolved,0
+Sunday September 8th 2013 5:17 pm -04:00,You should get Excellent in both as the program exits when the condition is met. , Unresolved,0
+Sunday September 8th 2013 5:31 pm -04:00,Oh i guess now i got it. Thanks!, Unresolved,0
+Monday September 16th 2013 1:37 pm -04:00,ive noticed that the statement: if char is T is different than: if char == Twhy is that so??, Unresolved,0
+Monday September 16th 2013 2:01 pm -04:00,ok but in the shell both returned the expected value., Unresolved,0
+Sunday September 29th 2013 10:18 am -04:00,i have the same problem but ive been trying insted of empty_tring = empty_string + i i use empty_string = empty_string + board[row_index][i] as this last item should return the letter in the row i meant to add to the string.No go. I keep returning an error local variable i referenced before assignment, Unresolved,0
+Sunday September 29th 2013 1:51 pm -04:00,As i understand you just need to put something like:row or column == True (of course you need to replace row and column for the board_contains_word_in_xxxx function.)But in my case it keeps returning invalid values. Any hint on that?, Resolved,0
+Sunday September 29th 2013 3:09 pm -04:00,like this: word_count = 0    for word in words:        if board_contains_word_in_column(board word)== True:            word_count = word_count +1        if board_contains_word_in_column(board word)== True:            word_count = word_count +1    return word_count    the code is not working as it only returns zero. Cant see where it is wrong. please help., Resolved,1
+Sunday September 29th 2013 3:42 pm -04:00,humm...indeed. The second if shoud be calling the rows. Maybe thats the mistake., Resolved,0
+Sunday September 29th 2013 3:14 pm -04:00,ok! it worked!! thanks. But shouldnt the above code work as well?, Resolved,0

@@ -1,0 +1,7 @@
+Tuesday August 20th 2013 6:09 pm -04:00,Im having trouble finding Idle as well. When I search the taskbar I have the following options:Help?, Resolved,0
+Tuesday August 20th 2013 6:13 pm -04:00,Should have clarified: none of these opens a space for me to begin playing with Python. The highlighted file was my best bet but Windows does not know what to open it with which means it isnt any variety of .exe (I dont think). The folders listed dont have anything potentially useful in them. Just some .py and .icns files which I assume would run in Idle if I could ever get it open...., Resolved,0
+Tuesday August 20th 2013 7:57 pm -04:00,Thanks., Resolved,0
+Tuesday August 20th 2013 6:30 pm -04:00,Well this is embarrassing. I thought I was pretty computer savvy but for the life of me I cant find the install file. Ive got the entire Python 3.3.2 folder unzipped and starring at me like a box of LEGOs I cant get open. Im running Windows 7., Resolved,0
+Tuesday August 20th 2013 6:32 pm -04:00,PS: If I try and open the obvious candidate (install-sh) under the main directory Windows politely asks me to choose a program to open it with. Not helpful., Resolved,0
+Tuesday August 20th 2013 8:21 pm -04:00,Thanks! Got it to work.How do I know if I should be running 64 bit or not?, Resolved,0
+Tuesday August 20th 2013 10:03 pm -04:00,Again -- thanks!, Resolved,0

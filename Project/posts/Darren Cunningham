@@ -1,0 +1,1 @@
+Friday September 6th 2013 9:57 am -04:00,Thanks for the help - I thought that because the return value had been given the working memory for everything other than the function would have been erased but I realise now that hours_asleep would remain the same variable until assigned a different value. :), Resolved,0

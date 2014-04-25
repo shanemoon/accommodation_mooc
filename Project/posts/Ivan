@@ -1,0 +1,2 @@
+Tuesday September 10th 2013 9:27 am -04:00,I do not understand it either.If this statementif 18 < temp and temp < 26:print(A comfortable temperature)print(Lets go for a swim)is syntactically correct then how come that this statementif temp < 0:print(Its toque weather!)is not? What is difference between them? , Unresolved,0
+Wednesday September 11th 2013 9:11 am -04:00,Anton Jelle the question in the quiz was wrong then. , Unresolved,0

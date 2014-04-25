@@ -1,0 +1,8 @@
+Monday August 19th 2013 11:58 am -04:00, Hi everyone! i am trying to define a function but this is what i am getting !(  File <stdin> line2return n**2IndentationError : expected am indented block  ) is there any solution for this?thank you!, Resolved,0
+Tuesday August 20th 2013 12:02 am -04:00,Thank you! ( by the way this is my first try using python) , Resolved,0
+Thursday August 22nd 2013 4:42 am -04:00,Hi everyone!please anyone knows why my function is not returning the right largest number(100)?thank you!,None,0
+Thursday August 22nd 2013 6:24 am -04:00,thank you! ( this one uses max of an array... ),None,1
+Friday August 23rd 2013 3:10 pm -04:00,did you try  max function? ,None,0
+Friday August 23rd 2013 3:07 pm -04:00,Is there any way to clear the window like in matlab (clc)??thank you,None,0
+Wednesday August 21st 2013 11:49 am -04:00,round(XN)  returns the floating point value X  rounded to  N digitsjust type >>help(round) to know more.,None,1
+Wednesday August 21st 2013 11:59 am -04:00,the function should return 5.22,None,0

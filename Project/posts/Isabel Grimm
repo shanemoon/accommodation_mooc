@@ -1,0 +1,2 @@
+Saturday September 14th 2013 12:30 pm -04:00,To write the get_complementary_sequence you need to call the get_complement function and not repeating it like you are doing with your if statements. Try something like get_complement(char)., Unresolved,0
+Sunday September 29th 2013 4:03 pm -04:00,Thank you very much Tom Enos. I wouldnt have been able to finish assignment without your help.You are a pro. , Unresolved,0

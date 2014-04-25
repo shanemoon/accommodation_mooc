@@ -1,0 +1,1 @@
+Tuesday September 17th 2013 1:25 pm -04:00,try this list for example:[1 3 4 5]original while loop returns 4 (as a sum of numbers before even: 1 + 3)so we need the same from for loopthe second answer returns 1 + 3 + 5 = 9 couse it has no condition that uses found_even , Resolved,0

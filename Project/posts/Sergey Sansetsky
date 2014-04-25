@@ -1,0 +1,4 @@
+Monday September 2nd 2013 7:11 am -04:00,remove space between longer and bracketremove space between bracket and first get_capitalinsert space between parameters of the function (after comma), Resolved,1
+Monday September 9th 2013 5:01 am -04:00,Looks ok.Did you enter just this expression without return before or something else?, Resolved,1
+Monday September 16th 2013 3:58 am -04:00,Consider this example: Russia (Moscow) & USA (Washington)1) get_capital(longer(Russia USA))Russia is longer than USA so the answer will be Moscow.2) longer(get_capital(Russia) get_capital(USA)) -> longer(Moscow Washington)Washington is longer than Moscow so the answer in this case will be Washington.First code is wrong., Resolved,0
+Saturday October 5th 2013 5:30 am -04:00,sum = 0i = 0while i < 10:    if i % 2 == 1:        sum = sum + i        i = i + 1    else:        i = i + 1print(sum), Resolved,0

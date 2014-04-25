@@ -1,0 +1,11 @@
+Tuesday September 24th 2013 4:57 pm -04:00,Hi I am stuck in this. With the examples I get >>> board_contains_word_in_column([[A N T T] [X S O B]] NO)    False as I should and>>> board_contains_word_in_column([[A N T T] [X S O B]] AX)    Trueas I should. But for anything else like NS or TO I get false. I cant think of what I am doing wrong., Resolved,0
+Tuesday September 24th 2013 4:58 pm -04:00,oh and i did follow a similar code path that board_contains_word_in_row had, Resolved,0
+Tuesday September 24th 2013 5:03 pm -04:00,Ive checked and rechecked and my code for make_str_from_column works, Resolved,0
+Tuesday September 24th 2013 5:29 pm -04:00,i dont know if that makes sense to me. Here is my code: for column_index in range(len(board)):        if word in make_str_from_column(board column_index):            return True        else:            return False, Resolved,0
+Tuesday September 24th 2013 6:00 pm -04:00,ok but even if i do: for column_index in range(len(board)):        if word in make_str_from_column(board column_index):            return True return Falseit doesnt come up right still. TB still comes up False, Resolved,3
+Wednesday September 25th 2013 10:01 am -04:00,totally forgot that little tidbit from one of the lectures. Thanks!, Resolved,0
+Wednesday September 25th 2013 10:04 am -04:00,:), Resolved,0
+Wednesday September 25th 2013 1:16 pm -04:00,ok now i am getting this same problem... grrrrr, Unresolved,0
+Wednesday September 25th 2013 10:31 am -04:00,here is my code:board=file=open(board_file r)#above line was for testingfor line in file:    for s in line:        board.append(s.rstrip())return boardI just get one long list of the characters instead of list within list. How do I break them up by line?, Resolved,0
+Wednesday September 25th 2013 11:15 am -04:00,No that makes perfect sense. Thanks!, Resolved,0
+Monday September 30th 2013 10:33 pm -04:00,I just wanted to say I have done everything in this course and am done (happily). Thank you for all the work you put into the video lectures assignments and exercises. They were all a great learning tool for Python. Thank you!,None,9

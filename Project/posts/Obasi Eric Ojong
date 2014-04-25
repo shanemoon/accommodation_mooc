@@ -1,0 +1,6 @@
+Thursday August 29th 2013 1:54 am -04:00,The problem summary:Steps to reproduce:Screenshot:, Resolved,0
+Thursday August 29th 2013 3:52 am -04:00,round(number[ ndigits])¶Return the floating point value number rounded to ndigits digits after the decimal point. If ndigits is omitted it defaults to zero. The result is a floating point number. Values are rounded to the closest multiple of 10 to the power minus ndigits; if two multiples are equally close rounding is done away from 0 (so. for example round(0.5) is 1.0 and round(-0.5) is -1.0).http://docs.python.org/2/library/functions.html#ord, Resolved,0
+Thursday August 29th 2013 3:53 am -04:00,Thats where I read it, Resolved,0
+Thursday August 29th 2013 4:22 am -04:00,Thanks., Resolved,0
+Wednesday September 11th 2013 9:09 pm -04:00,I just got f thesame way., Unresolved,0
+Saturday September 28th 2013 2:18 am -04:00,Well  if u know what an expression is  and understanding your indexing u  will get it correct  v[1] is an expression. V[2][4] is an expression. So you dont need to go on adding anything. I know the confusion is the use of the phrase POSITIVE INDICES. , Resolved,-3

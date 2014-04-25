@@ -1,0 +1,18 @@
+Saturday August 24th 2013 7:25 am -04:00,I have installed Q Python on my Nexus 7 but Im unsure of how to run programs on it. The simplest instructions would help greatly. Thanks. , Unresolved,0
+Sunday August 25th 2013 5:14 pm -04:00,Hello Ive downloaded QPython for my Nexus 7 Google tablet but I cant figure out how to use it. Ive posted this in the editor: def area(num1 num2):    return num1 * num2 / 2I click the run button (the arrow) and when I go back into the console and type area(3 4) I get an error. Can anyone tell me what I may be doing wrong? Thank you  --Aaron, Unresolved,0
+Monday August 26th 2013 10:03 pm -04:00,But you cant save functions in the console right? I want to build functions today for use tomorrow. Is there a way to do this with QPython? , Unresolved,0
+Monday August 26th 2013 9:06 pm -04:00,Isnt there a keyboard shortcut that will bring up previously typed text? Thanks ,None,1
+Monday August 26th 2013 10:01 pm -04:00,ALT + P does the trick. Thank you! ,None,0
+Monday August 26th 2013 10:51 pm -04:00,OK No. 3 tip gets you 3 stars for today. Thanks!! Much much appreciated!,None,0
+Saturday September 14th 2013 10:41 am -04:00,I am writing code for a personal project and within this code I have this: answer = input()while answer in YNynWhat I want to do is enter the while loop if the answer response is NOT in the string YNyn. How can I do this? Thanks!,None,0
+Saturday September 14th 2013 7:18 pm -04:00,Big thanks to you! That did work.  --Aaron,None,0
+Saturday September 14th 2013 8:15 pm -04:00,I want to terminate a program. I found something online but it doesnt work for some reason. Am I doing something wrong?import sysif (answer == n) or (answer == N):        sys.exit()Any thoughts much appreciated. ,None,0
+Saturday September 14th 2013 8:47 pm -04:00,I tried that and no luck. It didnt terminate the program. But thanks.,None,0
+Saturday September 14th 2013 8:52 pm -04:00,I am starting the program with >>> menu()That how I start the program. I dont think Im doing anything weird. It runs through the processes just fine. At the end Im basically asking the user if they want to go through the program again or if they want to quit.,None,0
+Saturday September 14th 2013 8:59 pm -04:00,Not a silly question at all. My import sys is at the top of the program outside of all the def modules. And the sys.exit is in the proper block. I will play around with it more. ,None,0
+Saturday September 14th 2013 9:01 pm -04:00,What happens when the answer comes up and the user types n is that the program does not terminate. It just restarts as if the user had typed y for yes. Weird.,None,0
+Saturday September 14th 2013 9:04 pm -04:00,Heres  my code:import sysdef try_again():    print(Want to try again? (Y/N)  end=)    answer = input()    if (answer != n) or (answer != N):        menu()    else:        sys.exit(0),None,0
+Saturday September 14th 2013 9:31 pm -04:00,Hmmm.. so I should write code to the effect of something like this...s.find(Nn)Right?,None,0
+Saturday September 14th 2013 9:39 pm -04:00,This works:    print(Want to try again? (Y/N)  end=)    answer = input()    if answer.islower(n):        sys.exit(0)    else:        menu()Thank you for the help!! ,None,0
+Friday October 4th 2013 8:52 pm -04:00,I am having trouble trying to figure out how to convert an index into a string. Any assistance or hints are appreciated. Thank you  --Aaronrow = [c a t]new_string =      for item in range(len(row)):        new_string.append(row[item])            return new_string, Unresolved,0
+Friday October 4th 2013 9:35 pm -04:00,Got it! Thank you! , Unresolved,0

@@ -1,0 +1,2 @@
+Saturday August 31st 2013 3:03 pm -04:00,Hi!You are definitely on the right track! However youve overlooked this info Be sure to call to_24_hour_clock to convert the time to a time on a 24 hour clock before returning, Unresolved,0
+Saturday August 31st 2013 3:54 pm -04:00,The thing is that our submissions are graded by a computer not a human so points are deducted for any major deviation from an expected solution. Plus its more efficient to utilize the already existing function/method., Unresolved,2

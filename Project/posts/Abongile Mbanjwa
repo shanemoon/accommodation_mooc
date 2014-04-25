@@ -1,0 +1,5 @@
+Tuesday August 20th 2013 5:06 am -04:00,Thank you very much Denise, Pinned Approved Resolved,0
+Monday August 26th 2013 4:31 am -04:00,So when a new expression is written the new value is allocated to a new memory address. Does the old value get removed or does it stay in its memory address. eg. a = 5     memory address x6                                  b = 3                                 x10                                  a = 20                                x8What happens to the value 5 in memory address x6?, Resolved,0
+Monday August 26th 2013 5:00 am -04:00,Thank you sooo much. :) you are a star. , Resolved,0
+Tuesday August 27th 2013 12:05 pm -04:00,I think the word you looking for is value the value can be changed and the new value will have a new memory address, Resolved,0
+Tuesday August 27th 2013 2:00 pm -04:00,Yes you got it right... Take care, Resolved,1

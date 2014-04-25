@@ -1,0 +1,7 @@
+Tuesday September 3rd 2013 1:42 pm -04:00,I think i am officially stuck at this question i dont understand what should be the input., Unresolved,0
+Tuesday September 3rd 2013 4:22 pm -04:00,I thought youd use those three in step 5 for  the get_hours etc , Unresolved,1
+Tuesday September 3rd 2013 4:23 pm -04:00,do i write a code to convert everything in hours, Unresolved,0
+Tuesday September 3rd 2013 4:31 pm -04:00,i totally got it thanks :), Unresolved,0
+Wednesday September 4th 2013 1:10 pm -04:00,when i call it in to_utc it gives an error as hours is not defined i tried using time instead but i get wrong results, Unresolved,0
+Wednesday September 4th 2013 4:57 pm -04:00,I tried putting the formula in it too and it gave an error also, Unresolved,0
+Wednesday September 4th 2013 12:35 pm -04:00,Id like some idea as to how id assign the converted 24 hour to a variable so that i can convert the utc, Unresolved,0

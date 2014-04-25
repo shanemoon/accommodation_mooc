@@ -1,0 +1,5 @@
+Monday August 19th 2013 11:54 pm -04:00,Be welcome Dan if you are come to Rio send me a email guimotajr@hotmail.com.  Maybe we can meet each other.,None,1
+Wednesday September 4th 2013 10:38 am -04:00,Guys how about a Group in LinkedIn? My id = br.linkedin.com/pub/guilherme-ezepha-mota/50/78b/186/,None,0
+Thursday September 5th 2013 8:50 am -04:00,Ziming don´t worry you´re right if you see te function it self but forget the expression that is in the () look for it like expression 1 or expression 2 or expression 3 and you get the correct answer.  I think that´s a little trick., Unresolved,1
+Friday September 6th 2013 2:57 pm -04:00,Akmari I didn´t remenber the question but you don´t need to variable grade(user input) be higher or igual to 50? Not 50 higher than grade.  Put the question here in the post.  , Unresolved,0
+Sunday September 29th 2013 10:28 pm -04:00,Here is another answer for this question.def for_version(L):    total = 0    for num in L:        if num % 2 != 0:            total = total + num        else:            return total, Resolved,0

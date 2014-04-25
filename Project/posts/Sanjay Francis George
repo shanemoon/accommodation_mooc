@@ -1,0 +1,1 @@
+Thursday September 26th 2013 12:22 pm -04:00,the return clause exits the function after the checking the first character itself. that is why his code is not working.Ramons existing code will work correctly for this example if he moves the B to the front.is_valid_sequence(BATCG), Unresolved,0

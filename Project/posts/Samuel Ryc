@@ -1,0 +1,1 @@
+Friday August 30th 2013 10:48 am -04:00,Alright basically what the method get_minutes gives you in the parameter is a given number of seconds since midnight. The next thing you want to know is how many minutes do you have in that number. Then you have one last thing to do and its to make it so that the result is between 0 and 59. , Resolved,0

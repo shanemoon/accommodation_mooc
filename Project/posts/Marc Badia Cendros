@@ -1,0 +1,4 @@
+Saturday August 31st 2013 4:11 pm -04:00,Tadeusz try to think in the other way. Convert hours to seconds :), Unresolved,0
+Saturday August 31st 2013 4:26 pm -04:00,check it in the IDLE also you can check the spelling maybe you did it wrong or maybe the operation was not correct., Unresolved,0
+Saturday August 31st 2013 6:13 pm -04:00,The basis is the same as the get_hour(seconds) and get_seconds(seconds).3800 sec are 1 hour 3 minuntes 20 seconds = 3600 seconds + 180 + 207180 seconds are 2 hours 3 minutes 0 seconds., Unresolved,0
+Saturday August 31st 2013 6:18 pm -04:00,cannot be 60 min = 1 hour.They are not asking to get the time in minutes or seconds they are asking to separate how much belong to hours how much to minutes and how much to seconds of those 7260., Unresolved,0

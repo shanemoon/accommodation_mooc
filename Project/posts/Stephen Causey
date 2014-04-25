@@ -1,0 +1,2 @@
+Friday September 20th 2013 1:57 pm -04:00,Instead of: dna_complement = Try:dna_complement = , Unresolved,0
+Friday September 20th 2013 2:02 pm -04:00,If that doesnt work perhaps the grading program is checking for an invalid sequence and you are not handling that case., Unresolved,0

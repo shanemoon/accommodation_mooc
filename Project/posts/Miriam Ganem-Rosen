@@ -1,0 +1,2 @@
+Sunday August 25th 2013 5:21 pm -04:00,Just like they do in the last video of Week 1 I am typing in the following and getting an error when I plug in a couple numbers. Why?!>>> def area(base height):	             return base * height / 2area(3 4)SyntaxError: invalid syntax, Pinned Approved Resolved,0
+Sunday August 25th 2013 5:35 pm -04:00,I have the same problem that my functions are not running like the bigger function in the last question of the Exercise., Resolved,0

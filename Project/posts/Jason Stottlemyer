@@ -1,0 +1,2 @@
+Wednesday October 2nd 2013 8:36 pm -04:00,I get this error:NameError: global name word is not definedMy code for board_contains_word(board word) works fine. How can word not be defined?, Resolved,0
+Saturday October 5th 2013 1:21 am -04:00,Ah finally figured out my problem. After hours on this code I had made some changes and was getting:Type Error: argument of type bool is not iterableI did some research and figured out that  in was not necessary in my one line of code., Resolved,0

@@ -1,0 +1,2 @@
+Saturday September 28th 2013 5:27 pm -04:00,HiI tried setting my path to a variable just as it was described in the lecture.>>> data_file = C:\Users\madi\Desktop\Learn to Program The Fundamentals\week 6\read_test.txtSyntaxError: (unicode error) unicodeescape codec cant decode bytes in position 2-3: truncated \UXXXXXXXX escape>>> I am getting the above error. how do I fix this??ThanksMadi, Resolved,0
+Sunday September 29th 2013 11:50 am -04:00,Hi TomThank you., Resolved,0

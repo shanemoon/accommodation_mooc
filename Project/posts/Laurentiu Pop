@@ -1,0 +1,26 @@
+Sunday September 1st 2013 2:45 am -04:00,In 3800 seconds you have (60 * 60) hours (3 * 60) minutes and 20(the remaining seconds) seconds.There is 1 hours 3 minutes 20 seconds.The thing is that you have to extract the exact number of hours minutes and seconds from a number x of seconds. And in the assignment there is an explanation. Good luck! , Resolved,1
+Sunday September 1st 2013 9:29 am -04:00,Put it that way :How can you get these numbers (1 3 20) from 3800 ?Still you know that 1 hour has 60 minutes and 1 minute has 60 seconds so 1 hour has 3600 seconds. So if you get 3600 from 3800 you get the first number: 1. Which mathematical operand do you use to obtain 1 from 3800 using 3600?, Resolved,0
+Sunday September 1st 2013 11:21 am -04:00,Derrick if that were incorrect then nobody should have resolve the assignment dont you think?Better focus on understanding the assignment pay more attention and if you cant maybe you should try to get some practice first doing another easy exercises first., Resolved,-1
+Sunday September 1st 2013 10:09 am -04:00,Yes autograder is down right now. Not available., Resolved Locked,6
+Sunday September 1st 2013 10:30 am -04:00,Ok its obvious that autograder is down. Please be patient and stop spamming. Thank you!, Resolved Locked,-1
+Sunday September 1st 2013 10:53 am -04:00,Its futile/redundant to type same thing over and over again. You dont show that you care being a copy-paste student you know? If you see that 100 people said above that its not working whats the point that you share the same thing(that everybody knows already) again and again? Its a matter of being smart not active. Regards, Resolved Locked,-1
+Sunday September 1st 2013 11:15 am -04:00,Yes i agree with you but in this case the staff is aware of the problem and its already trying to fix it so more reports wont do any good. Anyway do as you wish, Resolved Locked,1
+Sunday September 1st 2013 11:17 am -04:00,As i said :)Cheers all!, Resolved Locked,0
+Monday September 2nd 2013 3:55 am -04:00,1 hour = 3600 secondsYour input is a number of seconds. Your output (return) is a number of hours.Hope this helps!, Resolved,2
+Tuesday September 3rd 2013 10:58 am -04:00,Im glad that i could help.Cheers !, Resolved,0
+Monday September 2nd 2013 3:33 am -04:00,Nitish do it just by writing one line of code .>>> return ...This is it !Good luck., Unresolved,1
+Monday September 2nd 2013 3:49 am -04:00,In hours_difference your input is a number of seconds right?Well your functions output should be a number of hours ok?Now...how do you get hours from seconds? Easy!1 hour = 3600 secondsHow can you do that mathematically?, Unresolved,0
+Monday September 2nd 2013 5:47 am -04:00,The difference between / and // is the result that can be a float type number or an int type number. ( for ex  10 / 4 = 2.5  but 10 // 4 = 2).You should use / for this function because :def hours_difference(time_1 time_2):        (number number) -> float, Unresolved,0
+Monday September 2nd 2013 8:40 pm -04:00,You dont actually need to return an integer when you divide by 2 because you do it only if your number is even so your result its already an integer.Btw great job !Ill post my solution later.,None,0
+Tuesday September 3rd 2013 11:05 am -04:00,It helps you see how your program its actually working - line by line!Its a little bit tricky but i encourage you to understand whats going on there because until now all exercises had questions from a piece of code that you had to analyze with Python Visualizer.Cheers,None,1
+Tuesday September 3rd 2013 12:06 pm -04:00,Good job !I meant the exercises out of video lectures the ones that are graded.,None,0
+Tuesday September 3rd 2013 12:34 pm -04:00,Maybe youve installed the wrong version for your OS..,None,-1
+Tuesday September 3rd 2013 12:36 pm -04:00,That are his threads too..he spammed whole forum,None,0
+Tuesday September 24th 2013 9:36 am -04:00,Your output should be something like this:[[A N T T] [X S O B]]A list of a list containing all letters from evey line WITHOUT  character., Resolved,0
+Tuesday September 24th 2013 10:15 am -04:00,Run a3_driver.py and check out how your board looks., Resolved,0
+Tuesday September 24th 2013 10:31 am -04:00,Well my guess is that youre trying to delete  from every line and the problem is that the last line doesnt seem to have one so thats why you have this error. Are you using a rstrip method?, Resolved,0
+Tuesday September 24th 2013 9:28 am -04:00,Method Description:NoneMessage:FAILURE: AssertionError0 != 3 : Wrong score calculated.This is my only error from a3.py and i dont have any idea why this is happening., Resolved,0
+Tuesday September 24th 2013 10:02 am -04:00,Yes thank you. That was the problem., Resolved,0
+Tuesday September 24th 2013 10:03 am -04:00,Problem solved., Resolved,0
+Thursday September 26th 2013 8:00 pm -04:00,Win 7 here too and my a3_driver worked since the very beginning.Maybe you did some extra work on your a3.py file such as a file open statement which is useless because you have it in a3_driver already implemented., Unresolved,0
+Thursday September 26th 2013 8:06 pm -04:00,len(board[0]) ???dude...you assign a variable to the length of the first element from that list? just say numcols = 1 but i dont think that is the main idea here.besides your if statement is wrongreconsider the problem :), Unresolved,0

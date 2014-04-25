@@ -1,0 +1,4 @@
+Wednesday September 18th 2013 4:03 pm -04:00,Hi Everyone I keep getting this error message when I submit:False is not true : Have you tested your function with a valid DNA sequeunce that uses          all the nucleotides?for char in AGCTAC:        if dna in AGCTAC or :            return (True)                else:            return (False)Ive been working on this for hours and realized how much I would rather in a classroom. Any help would be appreciated!, Resolved,0
+Wednesday September 18th 2013 4:33 pm -04:00,Hi Anon! so then it would be:for char in dna, Resolved,0
+Wednesday September 18th 2013 5:14 pm -04:00,Got it! thanks for the tip it lead me in the right direction..., Resolved,1
+Wednesday September 25th 2013 6:34 am -04:00,Hello can someone please give me examples of the arguments I can runwith this Function. I keep getting a syntax error when I try to run a list.thank you!, Unresolved,0

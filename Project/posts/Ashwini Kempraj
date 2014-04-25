@@ -1,0 +1,102 @@
+Wednesday September 11th 2013 9:56 am -04:00,Hello Benoit           It means you need not write start of the index in the syntax s[:5]. So it will return from starting point of a string till end of the index ie till 5..., Resolved,0
+Wednesday September 11th 2013 10:04 am -04:00,oops sorry! My mistake.. till index 4! , Resolved,0
+Wednesday September 11th 2013 9:59 am -04:00,Hello Marcos          You need to import math before using any of its function., Unresolved,1
+Sunday September 15th 2013 9:42 am -04:00,Hello Ning in your code which you have mention before like str.count(A + T + C + G) is same as str.count(ATCG) because there is concatenation in str.count(A + T + C + G) and python takes it as a whole ATCG. In order to resolve count_nucleotide() function you need count how many times a letter occurs in a given dna. For example in ATCCGT: there are 2 Cs and therefore count_nucleotide(ATCCGT C) should return 2.Hope this helps..., Unresolved,1
+Sunday September 15th 2013 9:55 am -04:00,No its not. Please re-read the instructions. It mentioned clearly Return the number of occurrences of nucleotide in the DNA sequence. Occurences mean number of times a letter occured in a given string., Unresolved,0
+Friday September 13th 2013 10:32 am -04:00,For the assignment 2 and for question insert_sequence: are we allowed to use indexing and slicing?? i am just asking because it said that we are not allowed to use str methods.But then it did not report any error., Resolved,0
+Friday September 13th 2013 10:38 am -04:00,Oh okay! Thanks! :), Resolved,0
+Sunday September 22nd 2013 6:43 am -04:00,Sonata Have you checked the spelling of nucleotide everywhere in the code? , Resolved,0
+Saturday September 14th 2013 10:32 am -04:00,The return statement actually breaks the code. So you need to check that atleast all the characters are checked before returning a boolean. Please use Python visualizer to get better understanding how the execution goes through the code!, Unresolved,0
+Saturday September 14th 2013 10:03 am -04:00,Try to simplify it and reduce the number of lines..., Unresolved,0
+Sunday September 15th 2013 2:28 am -04:00,I actually did not set 3 possibilities for index like > 0 == 0 < 0. I did it in one line code using slicing and concatenation only., Unresolved,0
+Saturday September 14th 2013 10:38 am -04:00,what is the error message that you are getting?, Unresolved,0
+Monday September 16th 2013 10:11 am -04:00,To do it in one line use return statement with slicing and concatenation., Unresolved,0
+Monday September 16th 2013 11:59 am -04:00,Please check your parameters corresponding with the arguments... For example insert_sequence(ATGCCG AC 3).... Your function definition should be insert_sequence(dna1 dna2 index).... , Unresolved,0
+Monday September 16th 2013 12:07 pm -04:00,I am not talking about the return statement. You still have one more week left. I was talking about the parameters in function definition., Unresolved,0
+Monday September 16th 2013 12:12 pm -04:00,I think its better for you to go through lecture notes on slicing and try again., Unresolved,1
+Sunday September 15th 2013 9:52 am -04:00,For example does empty string () contain characters other than A T C or G?? No right... Therefore it returns true!, Unresolved,0
+Sunday September 15th 2013 9:47 am -04:00,Dont code for blank strings and see if it works! ;), Unresolved,0
+Sunday September 15th 2013 9:59 am -04:00,Yes I think so. Its for your own good. It might give you better understanding for coding., Resolved,0
+Sunday September 15th 2013 10:19 am -04:00,If you can code without writing the docstrings well do it. Anyways those docstrings are non-executable., Resolved,0
+Sunday September 15th 2013 10:04 am -04:00,Auto-grader gave you zero for step 2 for the 2nd/3rd time?, Unresolved,0
+Sunday September 15th 2013 10:14 am -04:00,Hmm I think the staff should comment on this. , Unresolved,0
+Sunday September 15th 2013 10:30 am -04:00,Please re-check your code step by step. You will figure it out. It returned false because the else block is executed., Resolved,0
+Tuesday September 17th 2013 2:24 am -04:00,Yes I agree with Jose. It is indentation. Make sure its like thisdef......       for.....               if       if......       else...., Resolved,0
+Monday September 16th 2013 2:46 am -04:00,As it mentioned clearly that we are not allowed to use str methods. But we can use str statement. , Resolved,0
+Monday September 16th 2013 2:55 am -04:00,oh okies! :), Resolved,0
+Friday September 20th 2013 7:57 am -04:00,I have also observed that if s = Zymurgy and if the start index and end index are of same indexes like s[2:2] or s[5:5] it represents empty string  .... I would like some explaination about this..., Unresolved,0
+Friday September 20th 2013 8:11 am -04:00,Well I have googled about it.. It says that slicing works in a way such that the indices are like pointing between the characters - with left edge of first character numbered 0 and right edge of first character numbered 1 and so on.... For example:        |  Z  |  Y  |  M  |  U  |  G  |  R  |  Y  |       0     1     2     3     4      5     6     7Therefore s[2:2] means starting from edge numbered 2 till edge numbered 2 gives empty string  , Unresolved,3
+Saturday September 21st 2013 12:06 am -04:00,Well explained!! Thanks Alain... :), Unresolved,0
+Tuesday September 17th 2013 2:13 am -04:00,Yes I agree with Roald. Thats what i thought so!!, Resolved,1
+Tuesday September 17th 2013 2:49 am -04:00,Got it! :), Resolved,0
+Tuesday September 17th 2013 12:05 pm -04:00,Have you tried inserting a dna at index 0??, Unresolved,0
+Saturday September 21st 2013 6:43 am -04:00,No I dont think both the codes are the same. Given that found_even = false (already mentioned in the code) and calling for_version([1234])In code 1:     It will return 4(1+3) because all odd numbers will go into if block and even numbers will go into else block. Even though found_even is assigned true in else block it doesnt affect the loop as there is no condition for checking found_even variable.In code 2:    It will return 1 because when num = 1 the if block is executed. But if num = 2 the else block is executed and therefore found_even = true. And if num = 3 the if block doesnt execute.... Thats because found_even = true and the condition not found_even means false and hence it returns 1...Hope this helps...., Unresolved,1
+Sunday September 22nd 2013 7:08 am -04:00,Is it really true that computer crashes when you run an infinite loop in IDLE?, Resolved,0
+Sunday September 22nd 2013 7:27 am -04:00,Oh Okies! Thanks for the warning..., Resolved,0
+Saturday September 21st 2013 12:07 am -04:00,Yes Ramon.., Unresolved,0
+Friday September 20th 2013 9:21 am -04:00,Both uses the same procedures. But the differences is get_complement applies for one letter and get_complement_sequence applies for a sequence-more than one letters., Unresolved,2
+Friday September 20th 2013 12:24 pm -04:00,Please check the spelling of nucleotide.... You have swapped e and o in word!!, Resolved,0
+Friday September 20th 2013 12:38 pm -04:00,I dont think thats very clear of summing it up.... First assign variable sum to zero. Add the two numbers and then do increment..., Unresolved,0
+Friday September 20th 2013 1:39 pm -04:00,The solution is given... Its first one - Id like to buy a a, Unresolved,0
+Saturday September 21st 2013 12:19 am -04:00,Yes kindly re-read the question..., Unresolved,0
+Saturday September 21st 2013 12:31 am -04:00,Please go through string operator in lectures once more try with examples thats is shown in lectures and then apply to the question., Resolved,0
+Saturday September 21st 2013 4:26 am -04:00,Sandy you need to put return statement after while loop..., Resolved,1
+Saturday September 21st 2013 4:33 am -04:00,And also you need to work on indention..., Resolved,1
+Saturday September 21st 2013 5:50 am -04:00,Oops I pressed deleted instead of edit! Anyways... Thats because the function is waiting for list L.. It wont execute until you call the function.. Put while_version([12345678]) after the function def.. You will be able to forward the step.., Resolved,1
+Saturday September 21st 2013 5:57 am -04:00,Yes you need to.. , Resolved,0
+Saturday September 21st 2013 12:53 pm -04:00,I dont think the quiz actually runs the code... It just tests if the answer is equal to range(2112)But yes range(2len(11111111111)2) works correctly...., Resolved,4
+Sunday September 22nd 2013 6:53 am -04:00,The return statements/code are in the docstrings..., Resolved,0
+Sunday September 22nd 2013 12:29 pm -04:00,Yes its because there is no return statement..., Resolved,0
+Sunday September 22nd 2013 12:44 pm -04:00,Please go through week 4: lecture video on str operators...., Resolved,1
+Monday September 23rd 2013 10:46 am -04:00,Tony Its not always about middle. What do you mean by middle actually?, Unresolved,1
+Monday September 23rd 2013 10:56 am -04:00,Tony I read the first post. You were asking how to find the midpoint in a string? Thats wrong way you have understood the question. For example: insert_sequence(ATCGGTC3) returns ATCTCGGIt inserts TC at index 3 where G is positioned. After it inserts the remaining letters gets shifted.Hope this helps..., Unresolved,1
+Monday September 23rd 2013 1:25 am -04:00,Wayne did you use is_valid_sequence as a parameter name for the function?? Or did you use dna?, Resolved,0
+Monday September 23rd 2013 1:29 am -04:00,Cristopher you can use one line code if you go through week 4: lecture on str operators using in, Resolved,0
+Monday September 23rd 2013 1:41 am -04:00,Please try these examples in idle and try to apply on the question... c in aeiou False cad in abracadabra True zoo in ooze False, Resolved,0
+Monday September 23rd 2013 1:12 am -04:00,You have to use same function name as mentioned in the handout.... Its is_valid_sequence(dna), Resolved,0
+Monday September 23rd 2013 8:16 am -04:00,Nothing is difficult. Its all in your mind that is telling you its difficult and you cant do it. It requires only understanding and logical thinking. And practise too! As you said believe in ur self keep calm and focused is only way that will help you to move forward. You can take your own time learn it slowly enjoy slowly and fear will fade away. :) ,None,0
+Monday September 23rd 2013 12:20 pm -04:00,I think you could minimize shell and editor and adjust it side by side..., Unresolved,0
+Monday September 23rd 2013 12:26 pm -04:00,Probably 4-5hrs from now..., Unresolved,0
+Tuesday September 24th 2013 11:30 am -04:00,Anne and Rob (to understand what is none type)when the function returns none type it means the function is not returning or printing anything... Try a function that adds up two numbers and dont use return or print statements.. Use python visualizer and you will see what none type exactly means..., Unresolved,1
+Tuesday September 24th 2013 12:14 pm -04:00,No Anne Shift_left returns none type because there is no return statement or print statement.. It does not give any output.. It just does the shifting thing.. Its not because of the list changed or did not change or whatever.. Any function which doesnt give output gives nonetype...., Unresolved,0
+Tuesday September 24th 2013 7:38 am -04:00,Jean Because there is a missing code - that is one line code... It doesnt mean there has to be a single line answer.... it can be anyway.... a single-lined code can provide many lines of answers and also vice-versa... :), Resolved,1
+Tuesday September 24th 2013 7:41 am -04:00,Kindly post your error messages here for us to help u..., Resolved,0
+Tuesday September 24th 2013 10:19 am -04:00,Mark have you coded for get_complement()?? if yes why dont you call this function within get_complementary_sequence() and use concatenation..., Resolved,0
+Tuesday September 24th 2013 11:21 am -04:00,Mark Probably you should check where you need to put return statement... Did you put it inside the loop or outside the loop?, Resolved,0
+Tuesday September 24th 2013 1:10 pm -04:00,Jose is right.. Return statements can be used only in functions... Use print statement.. print(result).... , Unresolved,0
+Tuesday September 24th 2013 11:26 am -04:00,Please use python visualizer it will give u an idea why it gave 50.. Well mystery list has got three lists.. And each inner list the numbers are being added up.. But when the execution goes to the next mystery list the total is assigned to zero..., Unresolved,1
+Sunday September 29th 2013 8:26 am -04:00,You dont have to return anything.. You need to update ONLY the score... 1-2 lines code.., Resolved,0
+Sunday September 29th 2013 8:50 am -04:00,Did you check the spellings?? , Resolved,0
+Sunday September 29th 2013 9:13 am -04:00,I am just asking if its playinfo or player_info?? or the code should work fine...., Resolved,0
+Tuesday September 24th 2013 1:53 pm -04:00,Kindly re-read the question. Its asking what does L refer to after the first iteration of the for loop is executed?, Unresolved,1
+Sunday September 29th 2013 9:22 am -04:00,you nedd to use the same paramater name as in num_words_on_board(), Resolved,0
+Monday September 30th 2013 1:53 am -04:00,in your if block board_contains_word(board word)... where does word come from? does it point to any word? it needs point to words that is defined in function paramter.., Resolved,0
+Saturday September 28th 2013 9:18 am -04:00,I hope that you are not using print statements.. , Unresolved,0
+Saturday September 28th 2013 9:31 am -04:00,you need to change ONLY the Score...., Unresolved,0
+Saturday September 28th 2013 9:40 am -04:00,why dont you try using return statement..., Unresolved,0
+Sunday September 29th 2013 8:58 am -04:00,Did you check the spellings? , Unresolved,0
+Sunday September 29th 2013 10:07 am -04:00,well actually it says so because its trying to use words_file which is not referring to something... , Unresolved,0
+Sunday September 29th 2013 9:16 am -04:00,you can find it in wordlist.txt and board.txt files mentioned in handout... and also you could use len()..., Unresolved,0
+Sunday September 29th 2013 10:14 am -04:00,you can use for line in.... to find out number of rows.. and if each row is represented as string you can use string[n] to find out the number of column....for example in a file it contains:ABCDEFGHIJKLonce you make those lines into a list.. say list1 = [ABCD EFGH IJKL] and thats what read_words() is suppose to do..You may know how to extract a letter from list1.. in that way you will know the number of columns.., Unresolved,0
+Saturday September 28th 2013 8:20 am -04:00,I agree with anonymous. it doesnt allow file operations. Anyways if you wanna test in visualizer.. you can create something like wordlist = [how are you] and using this wordlist try to make a list of list of str/characters from it. , Resolved,0
+Saturday September 28th 2013 9:15 am -04:00,Probably it cant take a list in board as a string.. you need to use other means to work out.. you could use previous functions..., Unresolved,2
+Saturday September 28th 2013 9:33 am -04:00,Please use python visualizer it will help you to find out why its not working.., Resolved,0
+Saturday September 28th 2013 9:38 am -04:00,did you check for a word not in column?, Resolved,0
+Saturday September 28th 2013 10:25 am -04:00,I suggest you to use python visualizer.. Most of us repeat this kind of mistakes.. , Resolved,0
+Saturday September 28th 2013 12:05 pm -04:00,No.. It should not.., Resolved,0
+Sunday September 29th 2013 9:26 am -04:00,Angela you are trying to create a new file?? or trying to create a newlist?? , Unresolved,0
+Sunday September 29th 2013 9:47 am -04:00,read_words()create a new listfor line in...append to new list, Unresolved,0
+Sunday September 29th 2013 8:35 am -04:00,Hope you understood what read_board() is asking for... Its asking for a list of list of string/characters.... like [[E F J] [S D G] [A S R] [H E A] so on....] P.S i took only the first three characters from each string... you need to do for the full list..., Unresolved,1
+Sunday September 29th 2013 9:18 am -04:00,Yes of course.... Its good to know where we went wrong..., Resolved,0
+Sunday September 29th 2013 9:53 am -04:00,https://class.coursera.org/programming1-002/lecture/64, Resolved,0
+Sunday September 29th 2013 10:16 am -04:00,You are not allowed to import or use tkinter or open any files in this assignment...., Unresolved,0
+Monday September 30th 2013 2:11 am -04:00,you need to update ONLY the score.... no file operations.. as you said number 4 is the score yes it is... you need to update it by adding the wordscore of ANT only..., Unresolved,0
+Monday September 30th 2013 2:01 am -04:00,I suggest you to use python visualizer it will give you clear understanding of how execution proceed throuhg your code.. , Unresolved,0
+Monday September 30th 2013 2:13 am -04:00,You can use lists instead of file... Imagine list similar to file... i did that and it helped me.., Unresolved,0
+Monday September 30th 2013 2:27 am -04:00,Kindly re-read the handout.., Unresolved,0
+Monday September 30th 2013 2:05 am -04:00,Take it simple for example myscore = 4.... i want to add 4 more points to myscore... how would you do it?, Unresolved,0
+Monday September 30th 2013 2:14 am -04:00,Great! so what is the code? , Unresolved,0
+Monday September 30th 2013 2:28 am -04:00,for what i told... it should be myscore = myscore + 4notice that you are not assigning a new score to players score..., Unresolved,0
+Monday September 30th 2013 12:26 pm -04:00,Its .upper()....., Resolved,0
+Monday September 30th 2013 12:51 pm -04:00,But thing is why are you trying to use uppercase thing for this function? I dont see any need for that.. , Resolved,0
+Monday September 30th 2013 12:54 pm -04:00,I am not sure how long this course will be open.. The solutions for assignments are/will be provided by one of TAs...,None,0

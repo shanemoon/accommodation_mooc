@@ -1,0 +1,7 @@
+Saturday August 31st 2013 8:21 am -04:00,I don´t understand problem with get_hours too...    return to_24_hour_clock(time_in_seconds/3600)>>> get_hours(90000)1>>> get_hours(93600)2>>> get_hours(5400)1>>> get_hours(7200)2>>> get_hours(82800)23But I have Assertion error on Assignment... thinking..., Resolved,0
+Saturday August 31st 2013 8:45 am -04:00,But problem says:The parameter is a number of seconds since midnight. Return the number of hours that have elapsed since midnight as seen on a 24-hour clock. (You should call to_24_hour_clock to convert the number of full hours to a time on a 24 hour clock. This means that the return value should be in the range 0 to 23 inclusive.), Resolved,2
+Saturday August 31st 2013 8:53 am -04:00,I will try. Thanks!, Resolved,0
+Saturday August 31st 2013 9:00 am -04:00,Sorry you can delete my comments I have solved it without invoking to_24_hour clock., Resolved,0
+Saturday August 31st 2013 9:02 am -04:00,I have just discovered that this W8 laptop has python 2.7... so Thanks for the comment! Python 3.3 ready for Week3.I´m sure Python 3.3 is installed at my Ubuntu machines., Resolved,0
+Saturday August 31st 2013 9:09 am -04:00,Thanks Alan for the advice!So 3 extra symbols don´t bother but I have to get used to call made-yet functions  to don´t repeat longer operations if this was more complex don´t? :D, Resolved,0
+Saturday August 31st 2013 8:39 am -04:00,douh! thanks!works  f(3800) = 1 but Aggelos take the point :D, Resolved,0

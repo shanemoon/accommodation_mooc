@@ -1,0 +1,1 @@
+Thursday September 12th 2013 8:36 am -04:00,Consider this. If we insert a sequence (X)  into another sequence (Y)  and  sequence (X) is the result of another function it could in theory be a null string.If we want to  re-use the is_valid_sequence function without further checking then we have to return true for a null string...otherwise we cant insert it., Resolved,2

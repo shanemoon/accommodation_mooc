@@ -1,0 +1,2 @@
+Tuesday August 20th 2013 2:36 pm -04:00,HelloI downloaded Python 3.2.2 on a Windows 7 machine. Ran IDLE.Was trying out functions.Here is what I did...------------------------>>>def area(lengthbreadth):             return length*breadth>>>area(34)SyntaxError: invalid syntax--------------------------Tried another function f(x). Same error.Am I doing something wrong?, Resolved,0
+Tuesday August 20th 2013 2:54 pm -04:00,Restarting Python IDLE solved the problem..., Resolved,0

@@ -1,0 +1,2 @@
+Sunday September 29th 2013 3:01 pm -04:00,Hello !Sorry to come back to this error code but I have the problem and cannot solve it. It works well at home but it is not accepted by the auto-grader.In my def read_words(words_file) code I have a line from_file = open(words_file r) and I understand that the problem may come from this instruction. In the shell I can open the file but how to pass it to the function ? not clear for me.Thanks for any helpBruno, Resolved,0
+Sunday September 29th 2013 5:35 pm -04:00,Problem solved.Thank you all for your answers., Resolved,0

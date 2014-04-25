@@ -1,0 +1,5 @@
+Tuesday August 27th 2013 1:22 pm -04:00,Is Python better than other programming languages?,None,0
+Thursday October 3rd 2013 4:18 pm -04:00,def make_str_from_row(board row_index):     (list of list of str int) -> str    Return the characters from the row of the board with index row_index    as a single string.    >>> make_str_from_row([[A N T T] [X S O B]] 0)    ANTT        for row_index in range(0len(board)-1):        board[row_index]        v = board[row_index]    total =     for i in range(0len(v)):        total = total + v[i]    return total, Resolved,0
+Friday October 4th 2013 4:22 am -04:00,Thanks sepand !, Resolved,0
+Friday October 4th 2013 4:23 am -04:00,Thanks Tom and now it works., Resolved,0
+Friday October 4th 2013 7:13 am -04:00,for row_index in range(len(board)):        c = make_str_from_row(board row_index)        for word in c:            if word in c:               return True        else:             return False, Unresolved,0

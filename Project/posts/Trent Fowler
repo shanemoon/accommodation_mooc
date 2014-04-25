@@ -1,0 +1,1 @@
+Wednesday August 28th 2013 6:45 pm -04:00,I completed all but one or two steps near the end submitted and failed everything with a score of 0/41 (despite the fact that the code worked for all my test cases and had no syntax errors).  After wrapping a single return statement with a call to the int() function I got a 32/41 while changing nothing else.  Any idea why?, Unresolved,0

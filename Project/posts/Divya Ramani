@@ -1,0 +1,3 @@
+Thursday September 19th 2013 11:05 am -04:00,My code seems to be running fine on idle.No my return type is not string.Yes it is bool.the error im getting says did u check with invalid capital letter?And i did.This is wt i got. It seems fine.O_o>>> is_valid_sequence(AGTCCV)False>>> is_valid_sequence(DFEF)FalseHELP!!, Pinned Approved Unresolved,0
+Sunday September 22nd 2013 10:06 am -04:00,>>> is_valid_sequence(AC!TG)Trueuh oh. i dunno where iv gone wrong., Pinned Approved Unresolved,0
+Sunday September 22nd 2013 10:57 am -04:00,ok i understand what the example means..iv negated the conditions n changed them. it works now :) thank you!, Pinned Approved Unresolved,0

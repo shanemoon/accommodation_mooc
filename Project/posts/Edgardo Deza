@@ -1,0 +1,1 @@
+Wednesday September 18th 2013 12:27 pm -04:00,You can press Ctrl+c to interrupt the program. Or you can restart the shell by clicking on Shell -> Restart Shell on the top. E.g. try running the program below and interrupting it:while True:   print(3), Resolved,2

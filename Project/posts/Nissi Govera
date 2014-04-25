@@ -1,0 +1,4 @@
+Friday August 30th 2013 6:14 am -04:00,hello guys  could someone tell me what problem this is?I am literally stuck help please[GCC 4.7.3] on linux2Type copyright credits or license() for more information.==== No Subprocess ====>>> input(What is your name? )What is your name? JenTraceback (most recent call last):  File <pyshell#0> line 1 in <module>    input(What is your name? )  File <string> line 1 in <module>NameError: name Jen is not defined>>> , Resolved,0
+Friday August 30th 2013 12:54 pm -04:00,It is still not working  i do not know what to do, Resolved,0
+Monday September 2nd 2013 6:11 am -04:00,If i am using idle 2.7.4 does that mean the program will not work.i tried installing the third one version but the first one pops back i am using ubuntu 13 os, Resolved,0
+Monday September 2nd 2013 7:57 am -04:00,works like a charm thank you Stephan, Resolved,0

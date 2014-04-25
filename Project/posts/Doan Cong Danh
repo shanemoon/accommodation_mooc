@@ -1,0 +1,1 @@
+Saturday August 31st 2013 1:35 am -04:00,return (seconds - (seconds // 3600) * 3600) // 60 for example: if we have 3861 secondsseconds // 3600 = 1so the number of seconds remain is seconds - (seconds // 3600) * 3600 = 3861 - 3600 = 281then we integer division by 60 we will get the number of minutes281 // 60 =4, Unresolved,2

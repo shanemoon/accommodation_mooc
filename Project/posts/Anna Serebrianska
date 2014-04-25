@@ -1,0 +1,3 @@
+Tuesday August 27th 2013 4:50 am -04:00,Ive finished my assignment downloaded a1_gui.py placed it in same directory that a1.py run it in IDLE selected Run -> Run Module... but after that Im getting error:Traceback (most recent call last):  File C:\Downloads\a1_gui.py line 1 in <module>    import tkinterImportError: No module named tkinterWhat the problem could be?, Resolved,0
+Tuesday August 27th 2013 5:01 am -04:00,Actually i have python 2.7Is this incompatibility issue?, Resolved,-1
+Tuesday August 27th 2013 5:05 am -04:00,Thank you it works now, Resolved,0

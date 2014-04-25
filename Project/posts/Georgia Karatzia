@@ -1,0 +1,2 @@
+Saturday September 21st 2013 12:21 pm -04:00,In the rangevideo last question Ive used range(2len(11111111111)2)(eleven 1s) as an input. It works when I run it so where is the mistake? Is it marked wrong because its a lengthy variation of (range(2112)?Asking just to be sure...full code part:for i in range(2len(11111111111)2):	print(i), Resolved,0
+Saturday September 21st 2013 1:59 pm -04:00,Ok thanks! :), Resolved,0

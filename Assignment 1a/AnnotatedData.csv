@@ -1,0 +1,966 @@
+line,parent,turnlabel,Session,Condition,user,content,len,Offtask,Cheating,AT,Reas,Trans,Neg,Het
+0,-1,str0,A,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,k1,m
+1,0,str1,A,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,m
+2,1,str2,A,ns,s001       ,i am {s001},0,no,no,no,no,no,k1,m
+3,2,str3,A,ns,Tutor,"Hi {s001} you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+4,3,str4,A,ns,Tutor,"{s005} you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+5,4,str5,A,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for by looking over pages 7-9 in your book and remembering what role you have been assigned.,0,no,no,no,no,no,a2,he
+6,5,str6,A,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+7,6,str7,A,ns,s001       ,Nice to meet u 2.,0,no,no,no,no,no,o,na
+8,7,str8,A,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+9,8,str9,A,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+10,9,str10,A,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+11,10,str11,A,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+12,11,str12,A,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+13,12,str13,A,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+14,13,str14,A,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+15,14,str15,A,ns,s001       ,I predict that in Condition A the cell model would gain more water and Codition b would loose the water in the cell model,0,no,no,no,reas,ex,k1,he
+16,15,str16,A,ns,Tutor,Is everyone back?,0,no,no,no,no,no,k2,na
+17,16,str17,A,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,he
+18,17,str18,A,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+19,18,str19,A,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+20,19,str20,A,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+21,20,str21,A,ns,s001       ,Nice talking to you two<,0,no,no,no,no,no,o,he
+22,21,str22,A,ns,s002       ,why isnt this working?,0,no,no,no,no,no,k2,na
+23,22,str23,A,ns,s006       ,this thing is slow,0,no,no,no,no,no,k1,m
+24,23,str24,A,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+25,24,str25,A,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+26,25,str26,A,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+27,26,str27,A,ns,s010       ,water will be able to get in but the starch wont be able to move out so the tube will expand,0,no,no,no,reas,ex,k1,m
+28,27,str28,A,ns,s010       ,thats for C,0,no,no,no,no,no,k1,m
+29,28,str29,A,ns,s006       ,what one are you talking about,0,no,no,no,no,no,k2,na
+30,29,str30,A,ns,s006       ,i see you,0,no,no,no,no,no,o,he
+31,30,str31,A,ns,s010       ,C on the chart,0,no,no,no,no,no,k1,m
+32,31,str32,A,ns,s010       ,i see you too,0,no,no,no,no,no,o,he
+33,32,str33,A,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+34,33,str34,A,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+35,34,str35,A,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+36,35,str36,A,ns,s002       ,If glucose is placed in the beaker the water in the tube will disapear,0,no,no,no,reas,ex,k1,m
+37,36,str37,A,ns,s006       ,what was the explaination for C and A,0,no,no,no,no,no,k2,na
+38,37,str38,A,ns,s006       ,never mind,0,no,no,no,no,no,o,na
+39,38,str39,A,ns,Tutor,Are you guys back?,0,no,no,no,no,no,k2,na
+40,39,str40,A,ns,s006       ,is anyone else seriously confused,0,no,no,no,no,no,k2,na
+41,40,str41,A,ns,s010       ,"{s006}, did you get any other observation other than the weight",0,no,no,no,no,no,k2,na
+42,41,str42,A,ns,s006       ,no i didnt write anything down for the observations,0,no,no,no,no,no,k1,m
+43,42,str43,A,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+44,43,str44,A,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+45,44,str45,A,ns,s010       ,um bye?,0,no,no,no,no,no,o,na
+46,45,str46,A,ns,s002       ,for 1 hour on a it was .620 they were both clear tube and beaker and both strips were green,0,no,post,no,no,no,k1,m
+47,46,str47,A,ns,s002       ,same for the B but the weight was .540,0,no,post,no,no,no,k1,m
+48,-1,str48,A,ind,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+49,48,str49,A,ind,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+50,49,str50,A,ind,s003      ,hello this is christian,0,no,no,no,no,no,k1,m
+51,50,str51,A,ind,Tutor,"s003,s007,s011... i didn't get your names yet.",0,no,no,no,no,no,k2,m
+52,51,str52,A,ind,s011       ,I'm {s011},0,no,no,no,no,no,k1,m
+53,52,str53,A,ind,Tutor,"Hi {s003} you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+54,53,str54,A,ind,Tutor,"s007, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+55,54,str55,A,ind,Tutor,"Ok... So the Explainer is s011. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+56,55,str56,A,ind,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+57,56,str57,A,ind,s003      ,who r u guys,0,pre,no,no,no,no,k2,na
+58,57,str58,A,ind,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for by looking over pages 7-9 in your book and remembering what role you have been assigned.,0,no,no,no,no,no,a2,he
+59,58,str59,A,ind,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+60,59,str60,A,ind,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+61,60,str61,A,ind,s007       ,when we put in the glucose the cell will get smaller,0,no,no,no,reas,ex,k1,m
+62,61,str62,A,ind,Tutor,"s011, can you ask {s003} to build on what S007 is saying.",0,no,no,no,no,no,a2,he
+63,62,str63,A,ind,s011       ,{s003} can you build on to what s007 said.,0,no,no,at,no,no,a2,he
+64,63,str64,A,ind,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+65,64,str65,A,ind,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+66,65,str66,A,ind,s007       ,the cell will blacken when it comes in touch with the iodine,0,no,no,no,reas,tr,k1,m
+67,66,str67,A,ind,Tutor,s011 can you ask {s003} to build on what s007 is saying.,0,no,no,no,no,no,a2,he
+68,67,str68,A,ind,s003      ,i cannot build on,0,no,no,no,no,no,o,m
+69,68,str69,A,ind,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+70,69,str70,A,ind,s003      ,so for glucose we are putting the cell gets smaller? why?,0,no,no,no,no,no,k2,na
+71,70,str71,A,ind,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+72,71,str72,A,ind,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+73,72,str73,A,ind,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+74,73,str74,A,ind,s003      ,is anyone in here,0,no,no,no,no,no,k2,na
+75,74,str75,A,ind,s011       ,I dont understand this.,0,no,no,no,no,no,k2,m
+76,75,str76,A,ind,s007       ,we gotta watch a video,0,no,no,no,no,no,a1,m
+77,76,str77,A,ind,s003      ,who is #11 and #7,0,pre,no,no,no,no,k2,na
+78,77,str78,A,ind,s011       ,"I'm {s011}, who are you",0,pre,no,no,no,no,k2,m
+79,78,str79,A,ind,s003      ,{s003} lol,0,pre,no,no,no,no,k1,m
+80,79,str80,A,ind,s011       ,haha whos number 07,0,pre,no,no,no,no,k2,na
+81,80,str81,A,ind,Tutor,Is everyone back?,0,no,no,no,no,no,k2,na
+82,81,str82,A,ind,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+83,82,str83,A,ind,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+84,83,str84,A,ind,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+85,84,str85,A,ind,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+86,85,str86,A,ind,s007       ,this is so confusing,0,no,no,no,no,no,k2,m
+87,86,str87,A,ind,s011       ,And stupid,0,no,no,no,no,no,o,m
+88,87,str88,A,ind,s011       ,For solution B what did we say for prediction and explanation,0,no,no,no,no,no,k2,na
+89,88,str89,A,ind,s003      ,i didnt get anything,0,no,no,no,no,no,o,he
+90,89,str90,A,ind,s007       ,i said it was gonna lose weight for solution b,0,no,post,no,reas,ex,k1,he
+91,90,str91,A,ind,s003      ,is alex a real person or a computer,0,post,no,no,no,no,k2,na
+92,91,str92,A,ind,s011       ,Same but i didnt say why. And I dotn know. I think he was a computer thing.,0,no,no,no,no,no,k1,he
+93,92,str93,A,ind,s003      ,it was they just told me,0,post,no,no,no,no,k1,hc
+94,93,str94,A,ind,s007       ,yeah he was & idk why,0,post,no,no,no,no,k1,m
+95,94,str95,A,ind,s011       ,Why what?,0,post,no,no,no,no,k2,na
+96,95,str96,A,ns,s004       ,whos this,0,no,no,no,no,no,k2,na
+97,96,str97,A,ns,s008       ,who is this,0,no,no,no,no,no,k2,na
+98,-1,str98,A,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+99,98,str99,A,ns,s012       ,its {s012} whos this?,0,no,no,no,no,no,k2,na
+100,99,str100,A,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+101,100,str101,A,ns,Tutor,"Hi {s004} you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+102,101,str102,A,ns,s008       ,{s008} n whois this,0,no,no,no,no,no,k2,na
+103,102,str103,A,ns,Tutor,"{s008}, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+104,103,str104,A,ns,Tutor,s012... i didn't get your name yet.,0,no,no,no,no,no,k1,m
+105,104,str105,A,ns,Tutor,"Ok... So the Explainer is s012. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+106,105,str106,A,ns,s008       ,oh r u sittin next to {s009}??,0,no,no,no,no,no,k2,na
+107,106,str107,A,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+108,107,str108,A,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for by looking over pages 7-9 in your book and remembering what role you have been assigned.,0,no,no,no,no,no,a2,he
+109,108,str109,A,ns,s012       ,im {s012},0,no,no,no,no,no,k1,m
+110,109,str110,A,ns,s008       ,idk who {s012} is,0,no,no,no,no,no,k2,m
+111,110,str111,A,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+112,111,str112,A,ns,s012       ,and yes,0,no,no,no,no,no,k1,m
+113,112,str113,A,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+114,113,str114,A,ns,s008       ,oh ok and hi {s004},0,pre,no,no,no,no,o,na
+115,114,str115,A,ns,s004       ,stop typinh all fazt,0,pre,no,no,no,no,a2,m
+116,115,str116,A,ns,s012       ,its the tutor typein that,0,pre,no,no,no,no,k1,m
+117,116,str117,A,ns,s012       ,whos 004?,0,pre,no,no,no,no,k2,na
+118,117,str118,A,ns,s012       ,oh ok sup,0,pre,no,no,no,no,k2,na
+119,118,str119,A,ns,s008       ,typin wat the yellow stuff is the tutor all the other color stuff is us,0,pre,no,no,no,no,k1,he
+120,119,str120,A,ns,s012       ,smartness,0,pre,no,no,no,no,o,na
+121,120,str121,A,ns,s004       ,the glucsoe will expand in side. becasue of the sugar attracts?,0,no,no,no,reas,ex,k2,he
+122,121,str122,A,ns,s012       ,i concur,0,no,no,no,no,no,k1,he
+123,122,str123,A,ns,s004       ,? concur,0,no,no,no,no,no,o,na
+124,123,str124,A,ns,s008       ,idek wat we r doin,0,no,no,no,no,no,k2,m
+125,124,str125,A,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,no,no,k1,m
+126,125,str126,A,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+127,126,str127,A,ns,s008       ,oh yess i agree,0,no,no,no,no,no,o,he
+128,127,str128,A,ns,s012       ,with what?,0,no,no,no,no,no,o,na
+129,128,str129,A,ns,s008       ,i hope you know wat u r doig,0,no,no,no,no,no,o,he
+130,129,str130,A,ns,s008       ,doing*****,0,no,no,no,no,no,o,na
+131,130,str131,A,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,he
+132,131,str132,A,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+133,132,str133,A,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+134,133,str134,A,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+135,134,str135,A,ns,s004       ,mk {s008/Alex}<3,0,no,no,no,no,no,o,na
+136,135,str136,A,ns,s008       ,alrighty then,0,no,no,no,no,no,o,na
+137,136,str137,A,ns,s004       ,do you like spongebob,0,pre,no,no,no,no,k2,na
+138,137,str138,A,ns,s012       ,i LOVE spongebob,0,pre,no,no,no,no,k1,he
+139,138,str139,A,ns,s012       ,o yes.jk,0,pre,no,no,no,no,o,na
+140,139,str140,A,ns,s012       ,ok so what are we putting for A?,0,no,no,no,no,no,k2,na
+141,140,str141,A,ns,s008       ,yess i love spongebob<3,0,pre,no,no,no,no,k1,he
+142,141,str142,A,ns,s012       ,can we get off the subject of spongebob?,0,pre,no,no,no,no,a1,he
+143,142,str143,A,ns,s008       ,no i prefer not,0,pre,no,no,no,no,o,hc
+144,143,str144,A,ns,s004       ,um tyhay it loses weight,0,no,no,no,no,no,k1,m
+145,144,str145,A,ns,s012       ,ok so what u put for A?,0,no,pre,no,no,no,k2,na
+146,145,str146,A,ns,s004       ,it loses weight,0,no,pre,no,no,no,k1,m
+147,146,str147,A,ns,s004       ,right?,0,no,no,no,no,no,o,na
+148,147,str148,A,ns,s012       ,yeah i agreee,0,no,no,no,no,no,o,he
+149,148,str149,A,ns,s008       ,i said it will gain weight #2 will lose weight and #3 stays the same,0,no,no,no,reas,ex,k1,he
+150,149,str150,A,ns,s012       ,it will lose weight because water has no glucose in it and the glucose will let out sugar,0,no,no,no,reas,tr,k1,m
+151,150,str151,A,ns,s012       ,#2 it will gain weight,0,no,no,no,no,no,o,m
+152,151,str152,A,ns,s008       ,watever,0,no,no,no,no,no,o,na
+153,152,str153,A,ns,Tutor,Are you guys back?,0,no,no,no,no,no,k2,na
+154,153,str154,A,ns,s004       ,nope wer watching iyt,0,no,no,no,no,no,k1,m
+155,154,str155,A,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+156,155,str156,A,ns,s008       ,does ne one know wat they r doing,0,no,no,no,no,no,k2,na
+157,156,str157,A,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+158,157,str158,A,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+159,158,str159,A,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+160,159,str160,A,ns,s008       ,ok this video made no sense at all soes any one know what they are doing,0,no,no,no,no,no,o,m
+161,160,str161,A,ns,s012       ,maybeee,0,no,no,no,no,no,o,he
+162,161,str162,A,ns,s008       ,well then tell me,0,no,no,no,no,no,k2,m
+163,162,str163,A,ns,s008       ,well then tell me,0,no,no,no,no,no,o,m
+164,163,str164,A,ns,s012       ,well A is retarded,0,no,no,no,no,no,k1,m
+165,164,str165,A,ns,s012       ,it gained twice then lost weight,0,no,no,no,no,no,k1,m
+166,165,str166,A,ns,s008       ,well i only got the 1 hour thing nd the 5 hour one i dint watch the rest of the video,0,no,no,no,no,no,o,he
+167,166,str167,A,ns,s008       ,{s004} are u still on,0,no,no,no,no,no,k2,na
+168,167,str168,A,ns,s012       ,she got shot,0,post,no,no,no,no,k1,m
+169,168,str169,A,ns,s008       ,ok tht is good i love how u just say tht randomly,0,post,no,no,no,no,o,he
+170,169,str170,A,ns,s008       ,alright we r cheatin on this quiz wats the answers,0,post,no,no,no,no,a1,m
+171,-1,str171,B,dir,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,k1,m
+172,171,str172,B,dir,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+173,172,str173,B,dir,Tutor,"s020,s022,s021... i didn't get your names yet.",0,no,no,no,no,no,k2,m
+174,173,str174,B,dir,Tutor,"Hi s020 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+175,174,str175,B,dir,Tutor,"s022, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+176,175,str176,B,dir,Tutor,"Ok... So the Explainer is s021. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+177,176,str177,B,dir,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+178,177,str178,B,dir,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+179,178,str179,B,dir,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+180,179,str180,B,dir,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+181,180,str181,B,dir,s020       ,my name is {s020},0,pre,no,no,no,no,k1,m
+182,181,str182,B,dir,s022       ,hi im {s022},0,pre,no,no,no,no,k1,m
+183,182,str183,B,dir,s021       ,i dont get this,0,no,no,no,no,no,k2,he
+184,183,str184,B,dir,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+185,184,str185,B,dir,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+186,185,str186,B,dir,s021       ,i think that it will let water in but not glucose,0,no,no,no,reas,ex,k1,he
+187,186,str187,B,dir,Tutor,"s020, do you agree with what s021 is saying?",0,no,no,at,no,no,k2,na
+188,187,str188,B,dir,s020       ,i think that the liquid inside will come out,0,no,no,no,reas,ex,k1,he
+189,188,str189,B,dir,Tutor,"s022, do you agree with what s020 is saying?",0,no,no,at,no,no,k2,na
+190,189,str190,B,dir,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+191,190,str191,B,dir,s021       ,i disagree with {s020} because i really dont understand what she just said,0,no,no,no,reas,tr,k1,he
+192,191,str192,B,dir,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+193,192,str193,B,dir,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+194,193,str194,B,dir,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+195,194,str195,B,dir,s022       ,i think that the glucose and distilled water will mix,0,no,no,no,reas,ex,k1,he
+196,195,str196,B,dir,s021       ,what does that mean s022,0,no,no,at,no,no,k2,na
+197,196,str197,B,dir,s020       ,{s021} why do you think that the glucose will stay inside,0,no,no,at,no,no,k2,na
+198,197,str198,B,dir,s022       ,what does what mean?,0,no,no,no,no,no,k2,na
+199,198,str199,B,dir,Tutor,Back from watching the video?,0,no,no,no,no,no,k2,na
+200,199,str200,B,dir,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+201,200,str201,B,dir,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+202,201,str202,B,dir,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+203,202,str203,B,dir,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+204,203,str204,B,dir,s022       ,hi every1,0,post,no,no,no,no,o,na
+205,-1,str205,C,ind,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+206,205,str206,C,ind,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+207,206,str207,C,ind,Tutor,"s034,s041,s027... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+208,207,str208,C,ind,s034       ,my name is {s034},0,no,no,no,no,no,k1,m
+209,208,str209,C,ind,Tutor,"Hi S034 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+210,209,str210,C,ind,Tutor,"S041, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+211,210,str211,C,ind,Tutor,"Ok... So the Explainer is S027. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+212,211,str212,C,ind,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+213,212,str213,C,ind,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+214,213,str214,C,ind,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+215,214,str215,C,ind,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+216,215,str216,C,ind,s041       ,who is 27,0,pre,no,no,no,no,k2,na
+217,216,str217,C,ind,s027       ,{s027},0,pre,no,no,no,no,k1,m
+218,217,str218,C,ind,s034       ,what do you think'ds going to happen?,0,no,no,at,no,no,k2,na
+219,218,str219,C,ind,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+220,219,str220,C,ind,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+221,220,str221,C,ind,s041       ,the world is going to end in 2012,0,pre,no,no,no,no,k1,m
+222,221,str222,C,ind,Tutor,"S027, now would be a good time to ask S034 to build on what S041 is saying.",0,no,no,no,no,no,k1,he
+223,222,str223,C,ind,s034       ,im so confused!,0,no,no,no,no,no,k2,m
+224,223,str224,C,ind,s027       ,"034, would you like to build on to what 041 is saying? and me too!",0,no,no,at,no,no,a2,he
+225,224,str225,C,ind,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+226,225,str226,C,ind,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+227,226,str227,C,ind,s027       ,ooh. hi,0,pre,no,no,no,no,o,na
+228,227,str228,C,ind,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+229,228,str229,C,ind,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+230,229,str230,C,ind,s027       ,idk what to do.,0,no,no,no,no,no,k2,m
+231,230,str231,C,ind,s034       ,someone predict something,0,no,no,at,no,no,a2,m
+232,231,str232,C,ind,s041       ,THE WORLD IS GOING TO END IN 2012 !,0,pre,no,no,no,no,a1,m
+233,232,str233,C,ind,s034       ,oh i get it! what do you think is going to happen when you put the glucose in the distilled water?,0,no,no,at,no,no,k2,na
+234,233,str234,C,ind,s027       ,i think it will turn a different color.,0,no,no,no,reas,ex,k1,he
+235,234,str235,C,ind,s027       ,{s041}?,0,no,no,at,no,no,a2,na
+236,235,str236,C,ind,s041       ,ok dude what 27 said,0,no,no,no,no,no,a1,he
+237,236,str237,C,ind,s027       ,in your own words,0,no,no,at,no,no,o,na
+238,237,str238,C,ind,s041       ,you have to be more specific 27,0,no,no,at,no,no,a2,hc
+239,238,str239,C,ind,s027       ,ur one to talk!!!,0,no,no,no,no,no,o,na
+240,239,str240,C,ind,s034       ,the answer to number one : the distilled water will move into the internal envorment of glucose solution,0,no,pre,no,reas,ex,k1,m
+241,240,str241,C,ind,s034       ,and the explaination is glucose is denser,0,no,pre,no,reas,tr,k1,m
+242,241,str242,C,ind,s027       ,just write what she[{s034}] said.,0,no,pre,no,no,no,a1,m
+243,242,str243,C,ind,s041       ,for the explination,0,no,pre,no,no,no,o,na
+244,243,str244,C,ind,s034       ,#2 the distilled water will move into the external enviroment,0,no,pre,no,reas,ex,k1,m
+245,244,str245,C,ind,s034       ,watch the video,0,no,no,no,no,no,a2,m
+246,245,str246,C,ind,Tutor,Is everyone back?,0,no,no,no,no,no,k2,na
+247,246,str247,C,ind,s041       ,"we have to do all the prediction , thats what NACHO said",0,no,no,no,no,no,a2,he
+248,247,str248,C,ind,s027       ,"ok, but where do i click to watch it?",0,no,no,no,no,no,o,na
+249,248,str249,C,ind,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+250,249,str250,C,ind,s027       ,nevermind i found it.,0,no,no,no,no,no,a1,m
+251,250,str251,C,ind,s034       ,#3 the water will move into the starch because starch absorbs it,0,no,pre,no,reas,ex,k1,m
+252,251,str252,C,ind,Tutor,"S027, now would be a good time to ask S041 to build on what S034 is saying.",0,no,no,no,no,no,k1,he
+253,252,str253,C,ind,s027       ,{s034} are these #'s all of the predictions or explanations?,0,no,no,no,no,no,k2,na
+254,253,str254,C,ind,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+255,254,str255,C,ind,s027       ,"#3, is that the prediction?",0,no,no,no,no,no,k2,na
+256,255,str256,C,ind,Tutor,Lets spend the rest of the time we have discussing your observations from all the three conditions.,0,no,no,no,no,no,a2,he
+257,256,str257,C,ind,Tutor,Discuss explanations of what you observed in each condition and make sure you fill in your explanations on your worksheets.,0,no,no,no,no,no,a2,m
+258,257,str258,C,ind,s041       ,what is explanation for #2,0,no,no,at,no,no,k2,na
+259,258,str259,C,ind,s034       ,"its both, the first part is the prediction the second part is the explanation",0,no,pre,no,no,no,k1,m
+260,259,str260,C,ind,Tutor,"@S027, can you ask S041 to build on what S034 is saying.",0,no,no,no,no,no,a2,he
+261,260,str261,C,ind,s034       ,i want to shoot myself in the foot -.-,0,pre,no,no,no,no,o,m
+262,261,str262,C,ind,s027       ,this is so stupid.,0,pre,no,no,no,no,o,na
+263,262,str263,C,ind,s034       ,this would be so much easier just in a group,0,pre,no,no,no,no,o,na
+264,263,str264,C,ind,s027       ,yep yep,0,pre,no,no,no,no,o,na
+265,264,str265,C,ind,Tutor,"@S027, can you ask S041 to build on what S034 is saying.",0,no,no,no,no,no,a2,he
+266,265,str266,C,ind,s041       ,you dont have the balls to do it,0,no,no,no,no,no,o,m
+267,266,str267,C,ind,s027       ,do what?,0,no,no,no,no,no,o,na
+268,267,str268,C,ind,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+269,268,str269,C,ind,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+270,269,str270,C,ind,s027       ,our tutor left us!!!,0,post,no,no,no,no,o,m
+271,270,str271,C,ind,s027       ,she is a baad tutor!!!,0,post,no,no,no,no,o,m
+272,271,str272,C,ind,s034       ,im pretty sure its a he,0,post,no,no,no,no,o,he
+273,272,str273,C,ind,s027       ,really? haah! oh well. idc. he/she/it,0,post,no,no,no,no,o,he
+274,273,str274,C,ind,s027       ,i ddnt even watch the whole video,0,no,no,no,no,no,k1,m
+275,274,str275,C,ind,s034       ,i watched most of it,0,no,no,no,no,no,k1,m
+276,275,str276,C,ind,s027       ,do you know what happened?,0,no,no,no,no,no,k2,na
+277,276,str277,C,ind,s034       ,i just wrote the observations,0,no,no,no,no,no,k1,m
+278,277,str278,C,ind,s027       ,oh. what was it after 1 hour for condition A?,0,no,post,no,no,no,k2,na
+279,278,str279,C,ind,s027       ,"{s041}, did you get everything so far?",0,no,post,no,no,no,k2,na
+280,279,str280,C,ind,s034       ,condition a: 620 glucose inside; 635 glucose inside; 630 glucose inside; explanation: the membrane will hold stuff for a certain amount of time,0,no,post,no,no,no,k1,m
+281,280,str281,C,ind,s034       ,condition b: 540 glucose outside; 525 glucose outside; 525 glucose outside; explanation: the glucose was not being absorbed by the water,0,no,post,no,no,no,k1,m
+282,281,str282,C,ind,s034       ,i think .,0,no,post,no,no,no,o,na
+283,282,str283,C,ind,s027       ,"k, i'll fast forward and try to find the last one, when im done writing the condition b.",0,no,post,no,no,no,a1,m
+284,283,str284,C,ind,s041       ,you mean i know !,0,no,post,no,no,no,o,na
+285,284,str285,C,ind,s034       ,"yea, sure i do, whatever. hahahahahha",0,no,post,no,no,no,o,na
+286,285,str286,C,ind,s041       ,lol what is C,0,no,post,no,no,no,k2,na
+287,286,str287,C,ind,s034       ,i dont even think there was one,0,no,post,no,no,no,o,he
+288,287,str288,C,ind,s027       ,i sd i'd try to find it if i could.,0,no,post,no,no,no,o,he
+289,288,str289,C,ind,s041       ,there is & ok,0,no,post,no,no,no,o,m
+290,289,str290,C,ind,s027       ,aaah there is a quiz!!!!!!!!!!!!!,0,post,no,no,no,no,k1,m
+291,290,str291,C,ind,s027       ,im gonna fail!!!!!!!!!!!!!!,0,post,no,no,no,no,k1,m
+292,291,str292,C,ind,s041       ,stfu !,0,post,no,no,no,no,o,na
+293,292,str293,C,ind,s034       ,HAPPY BIRTHDAAAY {s041} :D :D :D :D :D :D :D :D :D,0,post,no,no,no,no,o,na
+294,293,str294,C,ind,s041       ,lol thsnks,0,post,no,no,no,no,o,na
+295,294,str295,C,ind,s027       ,is it ur birthday?,0,post,no,no,no,no,k2,na
+296,295,str296,C,ind,s027       ,bye bye guys.,0,no,no,no,no,no,o,na
+297,-1,str297,C,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+298,297,str298,C,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+299,298,str299,C,ns,Tutor,"s035,s042,s028... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+300,299,str300,C,ns,Tutor,"Hi S035 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+301,300,str301,C,ns,Tutor,"S042, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+302,301,str302,C,ns,Tutor,"Ok... So the Explainer is S028. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+303,302,str303,C,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+304,303,str304,C,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+305,304,str305,C,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+306,305,str306,C,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+307,306,str307,C,ns,s035       ,"hi, my name is {s035}",0,pre,no,no,no,no,k1,m
+308,307,str308,C,ns,s042       ,W ho's 35?,0,pre,no,no,no,no,k2,na
+309,308,str309,C,ns,s042       ,O h this is {s042},0,pre,no,no,no,no,k1,m
+310,309,str310,C,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+311,310,str311,C,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+312,311,str312,C,ns,s042       ,Yeah. I think that water will try to even out with glucose for the first one,0,no,no,no,reas,ex,k1,he
+313,312,str313,C,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+314,313,str314,C,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+315,314,str315,C,ns,s035       ,ook....so we got the parts.. who else is in the group...and i have no clue what we are doing.... do we just talk about what we think is going to happen to the egg,0,no,no,no,no,no,k2,he
+316,315,str316,C,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+317,316,str317,C,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+318,317,str318,C,ns,s035       ,oo hey im {s035}!!,0,pre,no,no,no,no,k1,m
+319,318,str319,C,ns,s035       ,ook group what do we pedict,0,no,no,at,no,no,k2,na
+320,319,str320,C,ns,s042       ,I think that the water will seperate and travel to glucose. Because water has a lot of molecules and glucose is just sugar. So it would then balance out. What do you think?,0,no,no,at,reas,tr,k1,he
+321,320,str321,C,ns,s035       ,ook this is what i think...if we put the cell model in the water it will grow like the egg did....but if its in teh sugar it will shrink,0,no,no,no,reas,ex,k1,he
+322,321,str322,C,ns,s042       ,Oh I get it. But wouldn't it still expand and try to balance out?,0,no,no,no,reas,tr,k2,he
+323,322,str323,C,ns,s028       ,i am so confused,0,no,no,no,no,no,o,na
+324,323,str324,C,ns,s035       ,im with {s028} on this one....,0,no,no,no,no,no,o,na
+325,324,str325,C,ns,s042       ,It's like Osmosis I think. If it's water mixed in with sugar like liquid or another solvent it will try to balance out. Like salt. Does that help?,0,no,no,no,reas,tr,k1,he
+326,325,str326,C,ns,s028       ,"thankyou! i have nothing written on my paper, i'm a bit stupid",0,no,no,no,no,no,o,m
+327,326,str327,C,ns,Tutor,Back from watching the video?,0,no,no,no,no,no,k2,na
+328,327,str328,C,ns,s028       ,"no alex, we arent! jeeze!",0,no,no,no,no,no,k1,hc
+329,328,str329,C,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+330,329,str330,C,ns,s028       ,"alright, i am still on A, for the first box thing",0,no,no,no,no,no,a1,he
+331,330,str331,C,ns,s035       ,haha its cool and {s042} that is a good idea.... i think we mite have to watch the movie,0,no,no,no,no,no,a1,he
+332,331,str332,C,ns,s028       ,what do you guys think?,0,no,no,at,no,no,o,na
+333,332,str333,C,ns,s035       ,we need to watch the movie maybe??,0,no,no,no,no,no,o,he
+334,333,str334,C,ns,s028       ,"yeah, i think we should",0,no,no,no,no,no,a1,he
+335,334,str335,C,ns,s042       ,I think that it might balance out and that {s035}'s right with the shrinking of the water.,0,no,no,no,reas,tr,k1,he
+336,335,str336,C,ns,s042       ,Yeah we should,0,no,no,no,no,no,o,hc
+337,336,str337,C,ns,s035       ,ook were do we go lol,0,no,no,no,no,no,k2,na
+338,337,str338,C,ns,s028       ,down at the bottom of the screen,0,no,no,no,no,no,k1,m
+339,338,str339,C,ns,s035       ,thnx found it,0,no,no,no,no,no,o,m
+340,339,str340,C,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+341,340,str341,C,ns,s042       ,So far it's like consuing and growing,0,no,no,no,no,no,k1,m
+342,341,str342,C,ns,Tutor,Lets spend the rest of the time we have discussing your observations from all the three conditions.,0,no,no,no,no,no,a1,he
+343,342,str343,C,ns,Tutor,Discuss explanations of what you observed in each condition and make sure you fill in your explanations on your worksheets.,0,no,no,no,no,no,a2,hc
+344,343,str344,C,ns,s028       ,"i think that for C, the predicted change would be that the water will move into the starch",0,no,no,no,reas,ex,k1,he
+345,344,str345,C,ns,s042       ,The glucose weighed it down and then disperssed,0,no,no,no,reas,tr,k1,m
+346,345,str346,C,ns,s042       ,I agree with s028,0,no,no,no,no,no,o,na
+347,346,str347,C,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+348,347,str348,C,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+349,348,str349,C,ns,s028       ,wooo now all i need is B! and the entire second box haha,0,no,no,no,no,no,k1,he
+350,349,str350,C,ns,s035       ,i still hav eno clue what to write in all the boxes :(,0,no,no,no,no,no,k2,he
+351,350,str351,C,ns,s042       ,"Okay, I think that when the distilled water is put into the glucose the glucose will get lighter and then well I don't know what then.....",0,no,no,no,reas,ex,k1,he
+352,351,str352,C,ns,s028       ,"wouldnt for B, the water will once again shrink because its mixing water with glucose again?",0,no,no,no,reas,tr,k2,he
+353,352,str353,C,ns,s028       ,"oh ok, or your prediction haha",0,no,no,no,no,no,o,he
+354,353,str354,C,ns,s042       ,"Oh I think it would, but it might expand at first then shrink",0,no,no,no,reas,tr,k1,he
+355,354,str355,C,ns,s028       ,that makes sense,0,no,no,no,no,no,k1,he
+356,355,str356,C,ns,s028       ,"wouldnt the explanation for C be that starch absorbs water, and thats why the water will move into it?",0,no,no,no,reas,ex,k2,he
+357,356,str357,C,ns,s042       ,the explanation I think would be that since when h20 is put into another solvent it expands its molecules and then maybe it would shrink from the glucose,0,no,no,no,reas,ex,k1,he
+358,357,str358,C,ns,s042       ,Yeah thats what shoud happen for the starch box,0,no,no,no,no,no,k1,hc
+359,358,str359,C,ns,s035       ,i think we ahuld all write what we think an dthen talk about it,0,no,no,no,no,no,a1,he
+360,359,str360,C,ns,s028       ,mkkk. now all we need is the explanation for box A,0,no,no,no,no,no,k1,m
+361,360,str361,C,ns,s042       ,Box A I think would be that there's a lot of water and glucose is sugar so it would shrink and like balance,0,no,no,no,reas,ex,k1,he
+362,361,str362,C,ns,s035       ,are we on the first set of boxes of the seconf??,0,no,no,no,no,no,k2,na
+363,362,str363,C,ns,s028       ,"ok, now we have to watch that stupid video, but didnt he tell us to X out of it?",0,no,no,no,no,no,k2,he
+364,363,str364,C,ns,s042       ,I'm restarting the video the 2nd box is confusing....,0,no,no,no,no,no,a1,m
+365,364,str365,C,ns,s028       ,mk me too,0,no,no,no,no,no,o,he
+366,365,str366,C,ns,s035       ,ok thnx...for the second st of boxes for the observations change i put all the weights i saw in the movie,0,no,no,no,no,no,a1,m
+367,366,str367,C,ns,s028       ,"we didnt even take the quiz yet, and i failed hahhaha",0,no,no,no,no,no,k1,m
+368,367,str368,C,ns,s035       ,oo great a quiz,0,no,no,no,no,no,o,na
+369,368,str369,C,ns,s042       ,I don't want a quiz,0,no,no,no,no,no,o,na
+370,369,str370,C,ns,s042       ,I think the glocos will get heavier,0,no,no,no,no,no,k2,he
+371,370,str371,C,ns,s028       ,bye guys!,0,no,no,no,no,no,o,na
+372,371,str372,C,ns,s042       ,bye bye,0,no,no,no,no,no,o,na
+373,-1,str373,C,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+374,373,str374,C,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+375,374,str375,C,ns,Tutor,"s029,s036,s043... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+376,375,str376,C,ns,Tutor,"Hi S029 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+377,376,str377,C,ns,Tutor,"S036, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+378,377,str378,C,ns,Tutor,"Ok... So the Explainer is S043. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+379,378,str379,C,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+380,379,str380,C,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+381,380,str381,C,ns,s036       ,this is {s036} :),0,no,no,no,no,no,k1,m
+382,381,str382,C,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+383,382,str383,C,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+384,383,str384,C,ns,s036       ,HELLO!? who is there,0,pre,no,no,no,no,o,na
+385,384,str385,C,ns,s029       ,HELLO?,0,pre,no,no,no,no,o,na
+386,385,str386,C,ns,s043       ,who is my partner,0,pre,no,no,no,no,k2,na
+387,386,str387,C,ns,s036       ,your mom... {s036} :),0,pre,no,no,no,no,k1,m
+388,387,str388,C,ns,s043       ,who is so29,0,pre,no,no,no,no,k2,na
+389,388,str389,C,ns,s029       ,{s029[pet name form]},0,pre,no,no,no,no,k1,m
+390,389,str390,C,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+391,390,str391,C,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+392,391,str392,C,ns,s029       ,what do we discuss,0,no,no,no,no,no,k2,na
+393,392,str393,C,ns,s036       ,who are you?^,0,pre,no,no,no,no,k2,na
+394,393,str394,C,ns,s043       ,who is dis wats a {s029[pet name form]},0,pre,no,no,no,no,k2,na
+395,394,str395,C,ns,s043       ,dis is {s043},0,pre,no,no,no,no,k1,m
+396,395,str396,C,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+397,396,str397,C,ns,s036       ,who is 29,0,pre,no,no,no,no,k2,na
+398,397,str398,C,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,k1,m
+399,398,str399,C,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+400,399,str400,C,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+401,400,str401,C,ns,s036       ,{s043} wat are we doing?,0,no,no,no,no,no,k2,na
+402,401,str402,C,ns,s029       ,{s029}!,0,no,no,no,no,no,o,na
+403,402,str403,C,ns,s036       ,BOYFRIEND! :),0,pre,no,no,no,no,o,na
+404,403,str404,C,ns,s029       ,haha hey boyfriend!,0,pre,no,no,no,no,o,na
+405,404,str405,C,ns,s029       ,WHAT ARE WE SUPPOSED TO WRITE,0,no,no,no,no,no,k2,na
+406,405,str406,C,ns,s036       ,ok wat r we doin?,0,no,no,no,no,no,k2,na
+407,406,str407,C,ns,s043       ,i think the water will travel into the tube with the gluecose because of osmosis,0,no,no,no,reas,ex,k1,he
+408,407,str408,C,ns,s029       ,for A?,0,no,no,no,no,no,o,na
+409,408,str409,C,ns,s036       ,a? i thought it was #1?,0,no,no,no,no,no,o,he
+410,409,str410,C,ns,s043       ,water will mix with the gluecose to try and balance out the water molecules,0,no,no,no,reas,ex,k1,m
+411,410,str411,C,ns,s043       ,yes for a,0,no,no,no,no,no,o,hc
+412,411,str412,C,ns,s036       ,for predicted change?,0,no,no,no,no,no,o,na
+413,412,str413,C,ns,s029       ,wouldn't that be the same for B?,0,no,no,no,reas,tr,k2,he
+414,413,str414,C,ns,s036       ,i need help! ;(,0,no,no,no,no,no,k2,m
+415,414,str415,C,ns,s043       ,i think the water will be obsorbed,0,no,no,no,reas,tr,k1,he
+416,415,str416,C,ns,s043       ,for part b,0,no,no,no,no,no,o,m
+417,416,str417,C,ns,s029       ,i think the glucose will dissolve,0,no,no,no,reas,ex,k1,he
+418,417,str418,C,ns,s043       ,there is more gluecose than water outside than inside so the water will come out,0,no,no,no,no,no,k1,m
+419,418,str419,C,ns,Tutor,Is everyone back?,0,no,no,no,reas,tr,k2,na
+420,419,str420,C,ns,s036       ,ok can someone help me please!,0,no,no,no,no,no,a2,he
+421,420,str421,C,ns,s029       ,how do you know there's more glucose than water outside than inside?,0,no,no,at,no,no,k2,na
+422,421,str422,C,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+423,422,str423,C,ns,s043       ,becasue the tube of water is siting inside the container of gluecose,0,no,no,no,reas,tr,k1,m
+424,423,str424,C,ns,Tutor,"S036, can you put what S043 said in your own words?",0,no,no,at,no,no,a2,he
+425,424,str425,C,ns,s029       ,"wait what're we writing for the explanation for each prediction? so far i just have ""water will mix with glucose to try to balance out the water molecules"" for the predicted change for A",0,no,no,no,no,no,k2,he
+426,425,str426,C,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+427,426,str427,C,ns,Tutor,Lets spend the rest of the time we have discussing your observations from all the three conditions.,0,no,no,no,no,no,a1,he
+428,427,str428,C,ns,Tutor,Discuss explanations of what you observed in each condition and make sure you fill in your explanations on your worksheets.,0,no,no,no,no,no,a2,hc
+429,428,str429,C,ns,s036       ,for A what did we get for the explanation for prediction.. since i need alot of help!,0,no,no,no,no,no,k2,na
+430,429,str430,C,ns,s036       ,wait {s029} did you watch the video already?,0,no,no,no,no,no,k2,na
+431,430,str431,C,ns,s043       ,yea dats right for b i jus said the water will b obsorbed because there is more gluecose and the water will travel from a low water level to attempt to go to a higher source of water,0,no,no,no,no,no,k1,he
+432,431,str432,C,ns,Tutor,"S036, can you put what S043 said in your own words?",0,no,no,at,no,no,a2,he
+433,432,str433,C,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+434,433,str434,C,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+435,434,str435,C,ns,s043       ,is everybody redy for the video?????,0,no,no,no,no,no,k2,na
+436,435,str436,C,ns,s036       ,no no no ! i need the A & C prediction.....,0,no,post,no,no,no,k1,hc
+437,436,str437,C,ns,s043       ,a-the water will go into the tube because of osmosis,0,no,post,no,no,no,k1,m
+438,437,str438,C,ns,s043       ,c-the water will go into the starch,0,no,post,no,no,no,k1,m
+439,438,str439,C,ns,s036       ,okayy thankyouu :) now we watch the video?,0,no,no,no,no,no,k2,he
+440,439,str440,C,ns,s029       ,what's the predicted change for B?,0,no,post,no,no,no,k2,na
+441,440,str441,C,ns,s029       ,noooo!!! i need B and the Explanation for Prediction of each one,0,no,post,no,no,no,k1,he
+442,441,str442,C,ns,s043       ,b-i think the water will be obsorbed,0,no,post,no,no,no,k1,he
+443,442,str443,C,ns,s036       ,b- water will obsorbed bc there is more gluecose/ the water travel low water level to a higher source? ritght?,0,no,post,no,no,no,k2,he
+444,443,str444,C,ns,s029       ,"wait, would osmosis be the explanation for A?",0,no,post,no,no,no,k2,he
+445,444,str445,C,ns,s036       ,"yeah the A ""the water will go into the tube bc of osmois""",0,no,post,no,reas,tr,k1,m
+446,445,str446,C,ns,s036       ,idk this is wat she was sayn,0,no,post,no,no,no,k1,he
+447,446,str447,C,ns,s029       ,"so we're writing ""Osmosis"" in the box for Explanation?!",0,no,post,no,no,no,k2,he
+448,447,str448,C,ns,s036       ,but she is watching the video we are soo lost :(,0,no,no,no,no,no,k1,m
+449,448,str449,C,ns,s029       ,hahahh oh dear,0,no,no,no,no,no,o,na
+450,449,str450,C,ns,s036       ,i put for A the explantation prediction of what i said about A lol!,0,no,no,no,no,no,k1,he
+451,450,str451,C,ns,s029       ,i only watched a couple seconds of the video so far,0,no,no,no,no,no,k1,m
+452,451,str452,C,ns,s036       ,WHERE IS THE VIDEO!?,0,no,no,no,no,no,k2,na
+453,452,str453,C,ns,s029       ,"at the bottom, next to start it says ""combined video""",0,no,no,no,no,no,k1,m
+454,453,str454,C,ns,s036       ,i hate psp :'( idk wats goin on,0,no,no,no,no,no,k2,na
+455,454,str455,C,ns,s029       ,"for the explantion for C i put ""stach absorbs liquid and water is a liquid""",0,no,post,no,reas,ex,k1,he
+456,455,str456,C,ns,s036       ,"yea i put like the same thing "" water will go into the strarch""",0,no,post,no,reas,tr,k1,he
+457,456,str457,C,ns,s036       ,well im going to watch the video lol,0,no,no,no,no,no,a1,m
+458,457,str458,C,ns,s029       ,me too!,0,no,no,no,no,no,a1,m
+459,-1,str459,C,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+460,459,str460,C,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+461,460,str461,C,ns,Tutor,"s044,s030,s037... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+462,461,str462,C,ns,Tutor,"Hi S044 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+463,462,str463,C,ns,Tutor,"S030, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+464,463,str464,C,ns,Tutor,"Ok... So the Explainer is S037. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+465,464,str465,C,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+466,465,str466,C,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+467,466,str467,C,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+468,467,str468,C,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+469,468,str469,C,ns,s037       ,this is {s037},0,pre,no,no,no,no,k1,m
+470,469,str470,C,ns,s044       ,ur mom,0,pre,no,no,no,no,o,na
+471,470,str471,C,ns,s044       ,hi {s036[sic]},0,pre,no,no,no,no,o,na
+472,471,str472,C,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,pre,no,no,reas,ex,k1,m
+473,472,str473,C,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+474,473,str474,C,ns,s044       ,im watching you,0,no,no,no,no,no,a1,na
+475,474,str475,C,ns,s037       ,haha..were gona fail,0,pre,no,no,no,no,o,na
+476,475,str476,C,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,pre,no,no,no,no,a2,m
+477,476,str477,C,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,k1,m
+478,477,str478,C,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+479,478,str479,C,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+480,479,str480,C,ns,s037       ,what do we do,0,no,no,no,no,no,k2,na
+481,480,str481,C,ns,s030       ,write your preditions,0,no,no,no,no,no,a2,m
+482,481,str482,C,ns,Tutor,"Say ""Yes"" to let me know you are back from watching the video.",0,pre,no,no,no,no,a2,m
+483,482,str483,C,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+484,483,str484,C,ns,s037       ,did you guys get it,0,no,no,no,no,no,k2,na
+485,484,str485,C,ns,s044       ,i got it,0,no,no,no,no,no,k1,he
+486,485,str486,C,ns,s044       ,wat did u observe for 5hrs condition c,0,no,no,no,no,no,k2,na
+487,486,str487,C,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+488,487,str488,C,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+489,488,str489,C,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+490,489,str490,C,ns,s044       ,i love you,0,no,no,no,no,no,o,na
+491,490,str491,C,ns,s044       ,i hate {s036},0,post,no,no,no,no,o,na
+492,491,str492,C,ns,s037       ,condition gained waight',0,no,post,no,no,no,k1,m
+493,492,str493,C,ns,s037       ,lost waight',0,no,post,no,no,no,k1,m
+494,493,str494,C,ns,s044       ,c gained weight for hr and 5 hrs then lost weight at day,0,no,post,no,no,no,k1,m
+495,494,str495,C,ns,s030       ,i didnt watch c,0,no,no,no,no,no,k1,hc
+496,495,str496,C,ns,s044       ,tell {so36} shes a hoe,0,post,no,no,no,no,o,m
+497,496,str497,C,ns,s037       ,she said your momma mj!,0,post,no,no,no,no,o,he
+498,497,str498,C,ns,s037       ,how much does (c) weigh on th first hr,0,no,post,no,no,no,k2,na
+499,498,str499,C,ns,s037       ,and the 5th hr,0,no,post,no,no,no,o,na
+500,499,str500,C,ns,s037       ,and after day one,0,no,post,no,no,no,o,na
+501,500,str501,C,ns,s030       ,6.55 for both,0,no,post,no,no,no,k1,m
+502,501,str502,C,ns,s030       ,.655 srry,0,no,post,no,no,no,o,m
+503,502,str503,C,ns,s044       ,thats wat she said,0,no,no,no,no,no,o,he
+504,503,str504,C,ns,s037       ,wow..lol,0,no,no,no,no,no,o,na
+505,504,str505,C,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+506,505,str506,C,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+507,506,str507,C,ns,Tutor,"s045,s031,s038... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+508,507,str508,C,ns,Tutor,"Hi S045 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+509,508,str509,C,ns,Tutor,"S031, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+510,509,str510,C,ns,s038       ,hi my name is {s038},0,no,no,no,no,no,k1,m
+511,510,str511,C,ns,Tutor,"Ok... So the Explainer is S038. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+512,511,str512,C,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+513,512,str513,C,ns,s031       ,hi my name is {s031},0,no,no,no,no,no,k1,m
+514,513,str514,C,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+515,514,str515,C,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+516,515,str516,C,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+517,516,str517,C,ns,s038       ,what do you think will hlappen?,0,no,no,at,no,no,k2,na
+518,517,str518,C,ns,s045       ,i think that a and b will turn out the same.,0,no,no,no,reas,ex,k1,he
+519,518,str519,C,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,no,no,k1,m
+520,519,str520,C,ns,s031       ,i think in condition A water will go inside the cell and b will be the oppisite,0,no,no,no,reas,ex,k1,he
+521,520,str521,C,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+522,521,str522,C,ns,s045       ,what do you think will happpen?,0,no,no,at,no,no,k2,na
+523,522,str523,C,ns,s038       ,ok..sound about right,0,no,no,no,no,no,o,he
+524,523,str524,C,ns,s038       ,what wil happen to condition c./,0,no,no,at,no,no,k2,na
+525,524,str525,C,ns,s031       ,i have no idea either,0,no,no,no,no,no,o,na
+526,525,str526,C,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+527,526,str527,C,ns,s045       ,alrighhttm,0,no,no,no,no,no,o,na
+528,527,str528,C,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,k1,m
+529,528,str529,C,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+530,529,str530,C,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+531,530,str531,C,ns,s038       ,what the explanatiion for what you guys said?,0,no,no,at,no,no,k2,na
+532,531,str532,C,ns,s045       ,what do you mean ?,0,no,no,no,no,no,k2,na
+533,532,str533,C,ns,s045       ,great help..,0,no,no,no,no,no,o,na
+534,533,str534,C,ns,s038       ,it says whats the explanation for your prediction,0,no,no,no,no,no,k1,he
+535,534,str535,C,ns,s031       ,for A i said that water would go inside since gloucuse dissolves in waterr and the membrane would gain weight,0,no,no,no,no,no,k1,he
+536,535,str536,C,ns,s031       ,im not sure though,0,no,no,no,no,no,k2,na
+537,536,str537,C,ns,s045       ,that sounds gooood.,0,no,no,no,no,no,k1,he
+538,537,str538,C,ns,s038       ,ok..what did you put for condition B,0,no,no,no,no,no,k2,na
+539,538,str539,C,ns,s038       ,LETS WATCH THE VIDEO IN THE OTHER TAB..,0,no,no,no,no,no,a1,he
+540,539,str540,C,ns,s038       ,COUGH COUGH at the bottomof the page,0,no,no,no,no,no,o,m
+541,540,str541,C,ns,s045       ,hahhaha,0,no,no,no,no,no,o,na
+542,541,str542,C,ns,s038       ,waht did you put for conditon c?,0,no,no,no,no,no,k2,na
+543,542,str543,C,ns,Tutor,Are you guys back?,0,no,no,no,no,no,k2,na
+544,543,str544,C,ns,s045       ,the thing {s031} said?\,0,no,no,no,no,no,k2,na
+545,544,str545,C,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+546,545,str546,C,ns,s031       ,i think for c that it would turn purple since the starch would mix with the idione or is it the other way around,0,no,no,no,reas,ex,k1,he
+547,546,str547,C,ns,s045       ,i was thinking the same thing,0,no,no,no,no,no,o,he
+548,547,str548,C,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+549,548,str549,C,ns,s045       ,i dont know what this video is doing i cant hear anything and its confusing me,0,no,no,no,no,no,k2,he
+550,549,str550,C,ns,s038       ,same here..i cant see the weighto=or anythign,0,no,no,no,no,no,o,he
+551,550,str551,C,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+552,551,str552,C,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+553,552,str553,C,ns,s045       ,"exactly,",0,no,no,no,no,no,o,na
+554,553,str554,C,ns,s045       ,i dont know how to do any of thiss.,0,no,no,no,no,no,k2,na
+555,554,str555,C,ns,s031       ,i got the weight but i can barely see the strips,0,no,no,no,no,no,k1,he
+556,555,str556,C,ns,s038       ,for a and b the strips are dark green,0,no,post,no,no,no,k1,m
+557,556,str557,C,ns,s045       ,"yeaah, i got alll confused and dont know is for which",0,no,no,no,no,no,k2,na
+558,557,str558,C,ns,s038       ,whats the weight,0,no,post,no,no,no,k2,na
+559,558,str559,C,ns,s031       ,condtion A,0,no,post,no,no,no,o,na
+560,559,str560,C,ns,s045       ,wasnt one like .60,0,no,post,no,no,no,k2,he
+561,560,str561,C,ns,s045       ,after 1 hr?,0,no,post,no,no,no,o,na
+562,561,str562,C,ns,s031       ,and then after 5 hours it was .635,0,no,post,no,no,no,k1,m
+563,562,str563,C,ns,s031       ,and after 1 day it was .630,0,no,post,no,no,no,k1,m
+564,563,str564,C,ns,s031       ,for b it was .540 for 1 hour,0,no,post,no,no,no,k1,m
+565,564,str565,C,ns,s031       ,.525 for 5 hours,0,no,post,no,no,no,k1,m
+566,565,str566,C,ns,s038       ,what was the weight for conditon b?,0,no,post,no,no,no,k2,na
+567,566,str567,C,ns,s031       ,and then .525 again for a day,0,no,post,no,no,no,k1,m
+568,567,str568,C,ns,s045       ,thankk youu,0,no,post,no,no,no,o,na
+569,568,str569,C,ns,s038       ,ok..whaty about for conditon c?,0,no,post,no,no,no,k2,na
+570,569,str570,C,ns,s045       ,i didnt get there yet in the videeooo,0,no,no,no,no,no,o,na
+571,570,str571,C,ns,s038       ,neither did i...what did you put for your observations for a and b,0,no,post,no,no,no,k2,na
+572,571,str572,C,ns,s031       ,for c after i hour it was black on the tube and the water outside look kinda yellow and it was .655,0,no,post,no,no,no,k1,m
+573,572,str573,C,ns,s038       ,after 5 hours?,0,no,post,no,no,no,k2,na
+574,573,str574,C,ns,s031       ,after 5 hours it was .655 and the water still looked yellow,0,no,post,no,no,no,k1,m
+575,574,str575,C,ns,s031       ,and then after 24 hours it was .635,0,no,post,no,no,no,k1,m
+576,575,str576,C,ns,s038       ,ok and for one day?,0,no,post,no,no,no,k2,na
+577,576,str577,C,ns,s031       ,and the water looked lighter than for before,0,no,post,no,no,no,k1,he
+578,577,str578,C,ns,s045       ,okkaaaaayyyy. do you guys know why this stuff happpned,0,no,post,at,no,no,k2,na
+579,578,str579,C,ns,s038       ,for a....it gained weight because th glucose was obsorbed,0,no,post,no,reas,ex,k1,m
+580,579,str580,C,ns,s031       ,okay and then would it be the oppistie for b,0,no,post,no,reas,tr,k1,m
+581,580,str581,C,ns,s038       ,umm...im not so sure,0,no,post,no,no,no,o,na
+582,581,str582,C,ns,s045       ,iit lost weighht,0,no,post,no,no,no,k1,m
+583,582,str583,C,ns,s038       ,nevermind....yeah it would,0,no,post,no,no,no,o,m
+584,583,str584,C,ns,s038       ,what about for c?,0,no,post,at,no,no,k2,na
+585,584,str585,C,ns,s045       ,soooo it lost water from inside?,0,no,post,no,no,no,k2,he
+586,585,str586,C,ns,s038       ,yeah..weight was lost because the glucose didnt absord all the way,0,no,post,no,reas,ex,k1,m
+587,586,str587,C,ns,s031       ,what would we put for c,0,no,post,no,no,no,k2,na
+588,587,str588,C,ns,s045       ,and the last one lost weight,0,no,post,no,no,no,k1,m
+589,588,str589,C,ns,s038       ,idk this quiz :(,0,no,post,no,no,no,o,na
+590,589,str590,C,ns,s045       ,mmee either,0,no,no,no,no,no,o,na
+591,-1,str591,C,dir,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+592,591,str592,C,dir,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+593,592,str593,C,dir,s039       ,hi alex,0,no,no,no,no,no,o,na
+594,593,str594,C,dir,s039       ,hi 32 and 46,0,no,no,no,no,no,o,na
+595,594,str595,C,dir,Tutor,"s032,s046,s039... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+596,595,str596,C,dir,s039       ,im {s039},0,no,no,no,no,no,k1,m
+597,596,str597,C,dir,Tutor,"Hi S032 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+598,597,str598,C,dir,Tutor,"S046, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+599,598,str599,C,dir,Tutor,"Ok... So the Explainer is S039. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+600,599,str600,C,dir,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+601,600,str601,C,dir,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+602,601,str602,C,dir,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+603,602,str603,C,dir,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+604,603,str604,C,dir,s039       ,hi i am {s039},0,pre,no,no,no,no,k1,na
+605,604,str605,C,dir,s046       ,hi im {s046},0,pre,no,no,no,no,k1,na
+606,605,str606,C,dir,s039       ,hi {s046},0,pre,no,no,no,no,o,na
+607,606,str607,C,dir,s032       ,hey {s053},0,pre,no,no,no,no,o,na
+608,607,str608,C,dir,s032       ,hey {s053} from {s032},0,pre,no,no,no,no,o,na
+609,608,str609,C,dir,s032       ,32 is {s032},0,pre,no,no,no,no,k1,m
+610,609,str610,C,dir,s039       ,39 is {s039},0,pre,no,no,no,no,k1,m
+611,610,str611,C,dir,s032       ,hi {s039},0,pre,no,no,no,no,o,na
+612,611,str612,C,dir,s039       ,so u know,0,pre,no,no,no,no,o,na
+613,612,str613,C,dir,s039       ,hi {s032},0,pre,no,no,no,no,o,na
+614,613,str614,C,dir,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+615,614,str615,C,dir,s032       ,so what do you think about the first one {s039},0,no,no,at,no,no,k2,na
+616,615,str616,C,dir,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+617,616,str617,C,dir,s039       ,i dont know i feel stupid do you know {s046}?,0,no,no,at,no,no,k2,na
+618,617,str618,C,dir,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+619,618,str619,C,dir,s032       ,i think water wil be taken out of the cell because the glucose will harvest the water,0,no,no,no,reas,ex,k1,he
+620,619,str620,C,dir,Tutor,"S039, do you agree with what S032 is saying?",0,no,no,at,no,no,k2,na
+621,620,str621,C,dir,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+622,621,str622,C,dir,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+623,622,str623,C,dir,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+624,623,str624,C,dir,s039       ,i was going to ask but ok thats sounds right,0,no,no,no,no,no,k1,he
+625,624,str625,C,dir,s039       ,yea alex,0,no,no,no,no,no,o,na
+626,625,str626,C,dir,s046       ,who's in my group?,0,pre,no,no,no,no,k2,na
+627,626,str627,C,dir,s032       ,hahahahha {s046},0,pre,no,no,no,no,k1,na
+628,627,str628,C,dir,s039       ,{s046} is mean from {s039},0,pre,no,no,no,no,o,na
+629,628,str629,C,dir,s032       ,your beat,0,pre,no,no,no,no,o,na
+630,629,str630,C,dir,s039       ,no she is super beat,0,pre,no,no,no,no,o,na
+631,630,str631,C,dir,s032       ,exactly,0,pre,no,no,no,no,o,na
+632,631,str632,C,dir,s046       ,okay so what are we doing?,0,no,no,no,no,no,k2,na
+633,632,str633,C,dir,s039       ,for solution a i think water will be added to the cell,0,no,no,no,reas,ex,k1,he
+634,633,str634,C,dir,s039       ,my explanation is that the glucose will absorb the water causing the cell to expand,0,no,no,no,reas,tr,k1,he
+635,634,str635,C,dir,s032       ,i think the exact opposite,0,no,no,no,reas,ex,k1,he
+636,635,str636,C,dir,s039       ,lets go to the video,0,no,no,no,no,no,a1,he
+637,636,str637,C,dir,s032       ,to my knowledge glucose attractes water but when inside an ienvoronment itll push out water but i could be wrong,0,no,no,no,reas,tr,k1,he
+638,637,str638,C,dir,s032       ,so i like what you siad,0,no,no,no,no,no,o,he
+639,638,str639,C,dir,Tutor,Are you guys back?,0,no,no,no,no,no,k2,na
+640,639,str640,C,dir,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+641,640,str641,C,dir,s039       ,alrite what do you think about condition B?,0,no,no,at,no,no,k2,na
+642,641,str642,C,dir,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,m
+643,642,str643,C,dir,s046       ,i didnt watch it yet,0,no,no,no,no,no,o,m
+644,643,str644,C,dir,s032       ,i think the cell would lose weigtt to because the glucose will extract the water out of the cell,0,no,no,no,reas,ex,k1,he
+645,644,str645,C,dir,Tutor,"S039, why dont you do explain the reasons behind what S032 is saying.",0,no,no,at,no,no,a2,he
+646,645,str646,C,dir,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+647,646,str647,C,dir,s032       ,so it turns out i was right according to the video the cell in (a) gained wight and the one in (b) loses wight,0,no,no,no,reas,tr,k1,he
+648,647,str648,C,dir,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+649,648,str649,C,dir,s046       ,byeee(:,0,no,no,no,no,no,o,na
+650,649,str650,C,dir,s039       ,yea thats what i was thinking {s032},0,no,no,no,no,no,o,he
+651,650,str651,C,dir,s046       ,i need helpp,0,no,no,no,no,no,k2,na
+652,651,str652,C,dir,s039       ,i saw the video condition b will take water out,0,no,no,no,no,no,k1,m
+653,652,str653,C,dir,s032       ,so my prediction was right from the start,0,no,no,no,reas,tr,k1,m
+654,653,str654,C,dir,s039       ,condition a is right also.,0,no,no,no,no,no,k1,m
+655,654,str655,C,dir,s032       ,so {s039} what you doing saturday nght,0,post,no,no,no,no,o,na
+656,655,str656,C,dir,s039       ,i didnt see the video for condition a though,0,no,no,no,no,no,o,m
+657,656,str657,C,dir,s039       ,hat was weird,0,no,no,no,no,no,o,na
+658,657,str658,C,dir,s032       ,he says idk hahhahah {s033} says hi,0,post,no,no,no,no,o,na
+659,658,str659,C,dir,s039       ,never do that again,0,post,no,no,no,no,o,na
+660,659,str660,C,dir,s039       ,tell i {s033} i say nothing,0,post,no,no,no,no,o,na
+661,660,str661,C,dir,s032       ,awe thats mean,0,post,no,no,no,no,o,na
+662,661,str662,C,dir,s039       ,no its not,0,post,no,no,no,no,o,na
+663,662,str663,C,dir,s039       ,im gonna watch the video to see condition c,0,no,no,no,no,no,a1,m
+664,663,str664,C,dir,s046       ,im gonna watch it too to understand whats going on,0,no,no,no,no,no,a1,m
+665,664,str665,C,dir,s032       ,fun fact from dr {s032} asdfjkl; are all home row keys,0,post,no,no,no,no,o,na
+666,665,str666,C,dir,s032       ,fun fact from doctor {s032} you can type the word typewriter using only the top row,0,post,no,no,no,no,o,na
+667,666,str667,C,dir,s039       ,"also for ""C"" the starch will come out slowlyu",0,no,post,no,no,no,k1,m
+668,667,str668,C,dir,s039       ,slowly,0,no,post,no,no,no,o,na
+669,668,str669,C,dir,s032       ,fun fact lollipop is the longest word you can type using only your left hand,0,post,no,no,no,no,o,na
+670,669,str670,C,dir,s039       ,"my explanation is the water will ""absorb"" the starch causing the cell to decrease",0,post,no,no,reas,tr,k1,he
+671,670,str671,C,dir,s039       ,{s032} its ur right hand,0,post,no,no,no,no,o,na
+672,671,str672,C,dir,s032       ,oh hahahah i meant to say that swear any way,0,post,no,no,no,no,o,na
+673,672,str673,C,ind,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+674,673,str674,C,ind,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+675,674,str675,C,ind,s047       ,wattup,0,no,no,no,no,no,o,na
+676,675,str676,C,ind,s040       ,Hi I am {s040},0,no,no,no,no,no,k1,m
+677,676,str677,C,ind,Tutor,"Hi {s040} you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+678,677,str678,C,ind,s047       ,im {s047},0,no,no,no,no,no,k1,m
+679,678,str679,C,ind,Tutor,"s033,s047... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+680,679,str680,C,ind,Tutor,"{s047}, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+681,680,str681,C,ind,Tutor,"Ok... So the Explainer is S033. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+682,681,str682,C,ind,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+683,682,str683,C,ind,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+684,683,str684,C,ind,s040       ,33who areu,0,no,no,no,no,no,k2,na
+685,684,str685,C,ind,s047       ,who is 33,0,no,no,no,no,no,k2,na
+686,685,str686,C,ind,s033       ,{s033} is 33 haha,0,no,no,no,no,no,k1,m
+687,686,str687,C,ind,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+688,687,str688,C,ind,s033       ,who is 40,0,no,no,no,no,no,k1,na
+689,688,str689,C,ind,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+690,689,str690,C,ind,s040       ,{s040},0,pre,no,no,no,no,k1,m
+691,690,str691,C,ind,s040       ,{s040},0,pre,no,no,no,no,k1,m
+692,691,str692,C,ind,s047       ,toast nd cereal all day,0,pre,no,no,no,no,o,na
+693,692,str693,C,ind,s040       ,{s047} do you know what to do,0,no,no,no,no,no,k2,na
+694,693,str694,C,ind,s040       ,what {s047},0,no,no,no,no,no,o,na
+695,694,str695,C,ind,s047       ,nope i left the room cuz i cut my finger on the chair,0,pre,no,no,no,no,o,m
+696,695,str696,C,ind,Tutor,"S033, now would be a good time to ask {s040} to build on what {s047} is saying.",0,no,no,no,no,no,a2,he
+697,696,str697,C,ind,s040       ,{s033},0,no,no,no,no,no,o,m
+698,697,str698,C,ind,s040       ,you are supposedtoask mesomething,0,no,no,no,no,no,o,m
+699,698,str699,C,ind,s033       ,what do u think will happen to the glucose in the distilled water,0,no,no,at,no,no,k2,na
+700,699,str700,C,ind,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+701,700,str701,C,ind,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+702,701,str702,C,ind,s040       ,{s047} you have no clue what we are doing,0,no,no,no,no,no,k1,m
+703,702,str703,C,ind,s047       ,do u???,0,no,no,no,no,no,k2,na
+704,703,str704,C,ind,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+705,704,str705,C,ind,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+706,705,str706,C,ind,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+707,706,str707,C,ind,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+708,707,str708,C,ind,s033       ,i cant find the video toast!!!,0,no,no,no,no,no,k1,he
+709,708,str709,C,ind,s040       ,on the desktop there is a folder videos,0,no,no,no,no,no,k1,m
+710,709,str710,C,ind,s040       ,go there,0,no,no,no,no,no,a2,m
+711,710,str711,C,ind,s040       ,you will findthe video,0,no,no,no,no,no,k1,m
+712,711,str712,C,ind,s033       ,wait what is it called,0,no,no,no,no,no,k2,na
+713,712,str713,C,ind,s040       ,combined video,0,no,no,no,no,no,k1,m
+714,713,str714,C,ind,s033       ,but it wouldnt work before,0,no,no,no,no,no,o,m
+715,714,str715,C,ind,s033       ,thats y i asked which one it was,0,no,no,no,no,no,o,m
+716,715,str716,C,ind,s040       ,so what do you guys predict,0,no,no,at,no,no,k2,na
+717,716,str717,C,ind,s033       ,idk my viseo still isnt working,0,no,no,no,no,no,o,na
+718,717,str718,C,ind,Tutor,Back from watching the video?,0,no,no,no,no,no,k2,na
+719,718,str719,C,ind,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+720,719,str720,C,ind,s047       ,well tht lady took my paper yinz guys lol,0,no,no,no,no,no,o,na
+721,720,str721,C,ind,s040       ,why did she take your paper,0,no,no,no,no,no,k2,na
+722,721,str722,C,ind,s040       ,so how are u going to work,0,no,no,no,no,no,k2,na
+723,722,str723,C,ind,s033       ,i watched the video and i have no idea what we ater supposed to do,0,no,no,no,no,no,k2,he
+724,723,str724,C,ind,s040       ,well first we should makesome predictions,0,no,no,at,no,no,k2,he
+725,724,str725,C,ind,Tutor,"S033, can you ask {s047} to build on what {s040} is saying.",0,no,no,no,no,no,a2,he
+726,725,str726,C,ind,s033       ,i wrote the wieght and color of the little strips,0,no,no,no,no,no,k1,m
+727,726,str727,C,ind,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+728,727,str728,C,ind,s047       ,ok well cn sumbody write my name on their papaer bcuz mines is gone,0,no,no,no,no,no,o,he
+729,728,str729,C,ind,s033       ,{s047} please build on what {s040} is sayin haha,0,no,no,at,no,no,a2,he
+730,729,str730,C,ind,s047       ,shut up cereal,0,pre,no,no,no,no,o,na
+731,730,str731,C,ind,s033       ,ewww ur doggy toast ha ha,0,pre,no,no,no,no,o,na
+732,731,str732,C,ind,s040       ,did you guys writethe observations,0,no,no,no,no,no,k2,na
+733,732,str733,C,ind,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+734,733,str734,C,ind,s033       ,i wrote what i could this is so weird,0,no,no,no,no,no,k1,na
+735,734,str735,C,ind,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+736,735,str736,C,ind,s047       ,i dnt hav a paper i cnt,0,no,no,no,no,no,o,na
+737,736,str737,C,ind,s033       ,aaaaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,0,no,no,no,no,no,o,na
+738,737,str738,C,ind,s047       ,the lady took it a while ago idk y,0,no,no,no,no,no,o,na
+739,738,str739,C,ind,s033       ,what is the observation for the third one?,0,no,post,no,no,no,k2,na
+740,739,str740,C,ind,s047       ,well if ik wat it was id tell u but. . .no paper lol,0,no,post,no,no,no,o,na
+741,740,str741,C,ind,s033       ,u dont need a paper look at the video,0,no,no,no,no,no,o,m
+742,741,str742,C,ind,s033       ,ur killin me toast!,0,post,no,no,no,no,o,na
+743,742,str743,C,ind,s047       ,ok il look cereal,0,post,no,no,no,no,o,na
+744,743,str744,C,ind,s033       ,asdfjkl;,0,post,no,no,no,no,o,na
+745,744,str745,C,ind,s033       ,homerow keys,0,post,no,no,no,no,o,na
+746,745,str746,C,ind,s047       ,lol ms pfifer tought u tht,0,post,no,no,no,no,o,na
+747,746,str747,C,ind,s033       ,{s040} help me out here buddy what did u get for the third one,0,no,post,no,no,no,k2,m
+748,747,str748,C,ind,s047       ,the strips turned green the first time,0,no,post,no,no,no,k1,m
+749,748,str749,C,ind,s033       ,happy birthday {s040} form {s049},0,post,no,no,no,no,o,na
+750,749,str750,C,ind,s047       ,o wait wat was the third 1,0,no,post,no,no,no,k2,na
+751,750,str751,C,ind,s040       ,ok i am back with all the answers,0,no,post,no,no,no,o,m
+752,751,str752,C,ind,s040       ,i think,0,no,post,no,no,no,o,na
+753,752,str753,C,ind,s033       ,happy birthday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111,0,post,no,no,no,no,o,na
+754,753,str754,C,ind,s040       ,ok thanks,0,post,no,no,no,no,o,na
+755,754,str755,C,ind,s040       ,"{s033}, what are you talking about",0,no,no,at,no,no,k2,na
+756,755,str756,C,ind,s040       ,"on third one predictions, or observations",0,no,post,no,no,no,o,na
+757,756,str757,C,ind,s033       ,observations,0,no,post,no,no,no,o,na
+758,757,str758,C,ind,s040       ,after what hour,0,no,post,no,no,no,k2,na
+759,758,str759,C,ind,s040       ,"ok .655 grams,color of the tube got darker",0,no,post,no,no,no,k1,m
+760,759,str760,C,ind,s047       ,imma fail tht lil test,0,post,no,no,no,no,o,na
+761,760,str761,C,ind,s047       ,bye u guys,0,no,no,no,no,no,o,na
+762,-1,str762,D,ns,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+763,762,str763,D,ns,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a2,he
+764,763,str764,D,ns,s059       ,who is this,0,no,no,no,no,no,k2,na
+765,764,str765,D,ns,s062       ,62 is {s062},0,no,no,no,no,no,k1,m
+766,765,str766,D,ns,Tutor,"s056,s059,s062... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+767,766,str767,D,ns,s059       ,who is {s062},0,no,no,no,no,no,k2,na
+768,767,str768,D,ns,Tutor,"Hi S056 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+769,768,str769,D,ns,Tutor,"S059, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+770,769,str770,D,ns,s056       ,it is goin 2 get heavier,0,no,no,no,reas,ex,k1,m
+771,770,str771,D,ns,Tutor,"Ok... So the Explainer is S062. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+772,771,str772,D,ns,s062       ,kid in the grey hood,0,no,no,no,no,no,k1,m
+773,772,str773,D,ns,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+774,773,str774,D,ns,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+775,774,str775,D,ns,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+776,775,str776,D,ns,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+777,776,str777,D,ns,s059       ,okay now what do we do?,0,no,no,no,no,no,k2,na
+778,777,str778,D,ns,s062       ,somthing about the egg,0,no,no,no,no,no,k1,m
+779,778,str779,D,ns,s059       ,okay i am about to ask them for more information on this,0,no,no,no,no,no,a1,m
+780,779,str780,D,ns,s059       ,would you stop saying the same thing ovae and over omqq,0,no,no,no,no,no,a2,he
+781,780,str781,D,ns,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+782,781,str782,D,ns,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+783,782,str783,D,ns,s062       ,i think were suppose to work on our prediction,0,no,no,at,no,no,a1,he
+784,783,str784,D,ns,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+785,784,str785,D,ns,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+786,785,str786,D,ns,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+787,786,str787,D,ns,s059       ,umm a you can say that when you mix them together the colors will change and something may happen..okay,0,no,no,no,reas,ex,k1,he
+788,787,str788,D,ns,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+789,788,str789,D,ns,s062       ,wacth the video,0,no,no,no,no,no,a2,m
+790,789,str790,D,ns,s059       ,okay so do you want to put that down,0,no,no,no,no,no,a2,he
+791,790,str791,D,ns,s056       ,who is this anyway,0,no,no,no,no,no,k2,na
+792,791,str792,D,ns,Tutor,Is everyone back?,0,no,no,no,no,no,k2,na
+793,792,str793,D,ns,s059       ,{s059}...and we can say when you mix them together the color changes and they have different weight,0,no,no,no,reas,tr,k1,he
+794,793,str794,D,ns,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+795,794,str795,D,ns,s062       ,glucose will dissolve in the distilled water,0,no,no,no,reas,ex,k1,m
+796,795,str796,D,ns,s059       ,put in what box,0,no,no,no,no,no,o,na
+797,796,str797,D,ns,s062       ,predicted change,0,no,no,no,no,no,o,na
+798,797,str798,D,ns,s059       ,umm or you going to say somthinq back,0,no,no,no,no,no,o,na
+799,798,str799,D,ns,s059       ,thanks,0,no,no,no,no,no,o,na
+800,799,str800,D,ns,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+801,800,str801,D,ns,s059       ,iin thee ontha box ii put when they are put together they will dissolve in the distilled water....okay,0,no,no,no,no,no,k1,m
+802,801,str802,D,ns,s056       ,{s059} guess who this is,0,pre,no,no,no,no,a2,na
+803,802,str803,D,ns,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,m
+804,803,str804,D,ns,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,he
+805,804,str805,D,ns,s056       ,come on,0,no,no,no,no,no,o,na
+806,805,str806,D,ns,s062       ,for explanation for prediction box it is we cant see glucose once it goes into water,0,no,no,no,no,no,k1,m
+807,806,str807,D,ns,s056       ,who is s062,0,post,no,no,no,no,k2,na
+808,807,str808,D,ns,s062       ,{s062},0,post,no,no,no,no,k1,m
+809,808,str809,D,ns,s056       ,hey buddy,0,post,no,no,no,no,o,na
+810,809,str810,D,ns,s062       ,whos 56,0,post,no,no,no,no,k2,na
+811,810,str811,D,ns,s059       ,put iin thee otha box they dunt dissolve in thee water...,0,no,post,no,no,no,a2,m
+812,811,str812,D,ns,s059       ,who iis 56,0,post,no,no,no,no,k2,na
+813,812,str813,D,ns,s056       ,have u heaard about the word,0,post,no,no,no,no,k2,na
+814,813,str814,D,ns,s059       ,who iis 56,0,post,no,no,no,no,k2,na
+815,814,str815,D,ns,s056       ,y u wanna kno,0,post,no,no,no,no,k2,na
+816,815,str816,D,ns,s059       ,bjus yuee are twalkinq tew me,0,post,no,no,no,no,o,m
+817,816,str817,D,ns,s056       ,i will give u a hint im in ur class,0,post,no,no,no,no,o,m
+818,817,str818,D,ns,s062       ,i would never guessed,0,post,no,no,no,no,o,he
+819,818,str819,D,ns,s056       ,yessssssssss southside sabers,0,post,no,no,no,no,o,na
+820,-1,str820,D,dir,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,m
+821,820,str821,D,dir,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+822,821,str822,D,dir,S060       ,IM {s060}!!!:),0,no,no,no,no,no,k1,m
+823,822,str823,D,dir,Tutor,"Hi {s060} you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+824,823,str824,D,dir,Tutor,"s063,s057... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+825,824,str825,D,dir,s063       ,im {s063},0,no,no,no,no,no,k1,m
+826,825,str826,D,dir,Tutor,"{s063}, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+827,826,str827,D,dir,s057       ,I think it is going to get heavier,0,no,no,no,reas,ex,k1,he
+828,827,str828,D,dir,Tutor,"Ok... So the Explainer is S057. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+829,828,str829,D,dir,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+830,829,str830,D,dir,S060       ,WHO IS IN MY GROUPP??,0,no,no,no,no,no,k2,na
+831,830,str831,D,dir,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+832,831,str832,D,dir,s057       ,{s057} who is in my group,0,no,no,no,no,no,k2,na
+833,832,str833,D,dir,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+834,833,str834,D,dir,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+835,834,str835,D,dir,Tutor,"{s063}, do you agree with what S057 is saying?",0,no,no,at,no,no,k2,na
+836,835,str836,D,dir,S060       ,Wait I'm confusedd please explain this again,0,no,no,at,no,no,k2,he
+837,836,str837,D,dir,s057       ,the egg will get bigger,0,no,no,no,reas,ex,k1,m
+838,837,str838,D,dir,s057       ,heavier,0,no,no,no,no,no,k1,m
+839,838,str839,D,dir,s063       ,i agree with s057,0,no,no,no,no,no,o,he
+840,839,str840,D,dir,Tutor,"{s060}, do you agree with what S057 is saying?",0,no,no,at,no,no,k2,na
+841,840,str841,D,dir,s063       ,i cant understand.,0,no,no,no,no,no,o,he
+842,841,str842,D,dir,S060       ,"wait so it's me,{s063},and {s057}?? why are we talking about eggs?",0,no,no,no,no,no,k2,he
+843,842,str843,D,dir,s063       ,oo ok. i got it,0,no,no,no,no,no,k1,m
+844,843,str844,D,dir,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+845,844,str845,D,dir,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+846,845,str846,D,dir,s057       ,this guy is smart,0,pre,no,no,no,no,o,m
+847,846,str847,D,dir,S060       ,he may be smart but I am lost!!!,0,no,no,no,no,no,o,he
+848,847,str848,D,dir,S060       ,YO ALEX HELP ME OUT HERE!!!,0,no,no,no,no,no,a2,m
+849,848,str849,D,dir,s063       ,Im lost!!!!!!!,0,no,no,no,no,no,k2,m
+850,849,str850,D,dir,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+851,850,str851,D,dir,Tutor,"S057, why dont you do explain the reasons behind what {s060} is saying.",0,no,no,at,no,no,a2,he
+852,851,str852,D,dir,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+853,852,str853,D,dir,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+854,853,str854,D,dir,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+855,854,str855,D,dir,S060       ,{s060} is very confused!,0,no,no,no,no,no,k1,m
+856,855,str856,D,dir,s063       ,Video with no sound,0,no,no,no,no,no,k1,m
+857,856,str857,D,dir,Tutor,Is everyone back?,0,no,no,no,no,no,k2,na
+858,857,str858,D,dir,s057       ,hi alex,0,no,no,no,no,no,o,na
+859,858,str859,D,dir,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+860,859,str860,D,dir,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,he
+861,860,str861,D,dir,S060       ,guess what guys!,0,no,no,no,no,no,o,na
+862,861,str862,D,dir,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+863,862,str863,D,dir,S060       ,I'm confused and annnnddd I have no idea whats going onn!!!,0,no,no,no,no,no,k2,m
+864,863,str864,D,dir,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+865,864,str865,D,dir,s057       ,bluecost can go anywere and strach cant go everywere,0,no,no,no,no,no,k1,m
+866,865,str866,D,dir,s063       ,ok bye,0,no,no,no,no,no,o,na
+867,866,str867,D,dir,S060       ,byee alex!!!,0,no,no,no,no,no,o,na
+868,867,str868,D,dir,S060       ,love youu!!<3,0,no,no,no,no,no,o,na
+869,868,str869,D,dir,S060       ,wait who is the yellow person?,0,post,no,no,no,no,k2,na
+870,869,str870,D,dir,s063       ,wht u mean by yellow perosn?,0,post,no,no,no,no,o,na
+871,870,str871,D,dir,S060       ,like who is the person who has the yellow font!lol,0,post,no,no,no,no,o,na
+872,871,str872,D,dir,S060       ,well then can you please explain to me what is going onn!,0,no,no,no,no,no,a2,he
+873,872,str873,D,dir,s063       ,idk either!!!!!!,0,no,no,no,no,no,o,na
+874,873,str874,D,dir,S060       ,aww poop!,0,no,no,no,no,no,o,na
+875,874,str875,D,ind,Tutor,"Hi all! Today, each of you will be both the instructor and the student. Each of you will be responsible for looking for opportunities for a specific discussion strategy to be used in the conversation.",0,no,no,no,no,no,a2,he
+876,875,str876,D,ind,Tutor,Lets get started by introducing ourselves. I am Alex.,0,no,no,no,no,no,a1,he
+877,876,str877,D,ind,s064       ,who is in my group,0,no,no,no,no,no,k2,na
+878,877,str878,D,ind,Tutor,"s058,s061,s064... i didn't get your names yet.",0,no,no,no,no,no,k1,m
+879,878,str879,D,ind,Tutor,"Hi S058 you are the Revoicer. When an explanation or idea is given which would benefit from revoicing, please encourage one of your team mates to do so, for example, by asking them to explain what was said in their own words.",0,no,no,no,no,no,a2,he
+880,879,str880,D,ind,Tutor,"S061, you are the Challenger. When you see a statement being made (whether it is right or wrong) which would benefit from being challenged, please encourage one of your team mates to do so, for example, by asking them whether they agree or disagree with what was said, and why.",0,no,no,no,no,no,a2,he
+881,880,str881,D,ind,Tutor,"Ok... So the Explainer is S064. When you see a place where it would be good to get more explanation, you can encourage one of your team mates to do that, for example, by inviting that person to add on to what the other student has already said.",0,no,no,no,no,no,a2,he
+882,881,str882,D,ind,Tutor,"You should probably all mark an X opposite your role in the book, so you won't forget.",0,no,no,no,no,no,a2,he
+883,882,str883,D,ind,Tutor,Its nice to meet you all. :) Please make sure you have understood what you are responsible for.,0,no,no,no,no,no,a2,he
+884,883,str884,D,ind,Tutor,"In condition A, we placed a glucose solution inside the cell model and immerse it in distilled water. In condition B, we did the opposite.",0,no,no,no,no,no,k1,m
+885,884,str885,D,ind,Tutor,Please discuss what you predict will happen in these two conditions.,0,no,no,no,no,no,a2,he
+886,885,str886,D,ind,s064       ,need help,0,no,no,no,no,no,a2,m
+887,886,str887,D,ind,s061       ,Who is s058,0,pre,no,no,no,no,k2,na
+888,887,str888,D,ind,s064       ,the guy over there in the grey hoody,0,pre,no,no,no,no,k1,m
+889,888,str889,D,ind,Tutor,"S061, can you check if S058 agrees with S064.",0,no,no,no,no,no,a2,he
+890,889,str890,D,ind,s058       ,need help,0,no,no,no,no,no,a2,m
+891,890,str891,D,ind,s064       ,hello do you argee,0,no,no,at,no,no,k2,na
+892,891,str892,D,ind,s061       ,WHO NEEDS HELP?,0,no,no,no,no,no,k2,na
+893,892,str893,D,ind,s058       ,who is s064,0,pre,no,no,no,no,k2,na
+894,893,str894,D,ind,s064       ,do you understand,0,no,no,at,no,no,k2,na
+895,894,str895,D,ind,Tutor,"In condition C, we made a modification to condition A. We replace the glucose solution with a starch suspension. In order to detect the presence of starch, we replace the distilled water with Lugol's Iodine solution.",0,no,no,no,reas,ex,k1,m
+896,895,str896,D,ind,Tutor,You should now move on to discussing what will happen in Condition C and your explanation for this change.,0,no,no,no,no,no,a2,he
+897,896,str897,D,ind,s061       ,i am lost to what is going on here im so confused,0,no,no,no,no,no,k2,na
+898,897,str898,D,ind,Tutor,"When you are in agreement, write down your predictions and explanations for Conditions A, B and C on your worksheet.",0,no,no,no,no,no,a2,m
+899,898,str899,D,ind,s058       ,same here s064,0,no,no,no,no,no,o,na
+900,899,str900,D,ind,s058       ,i mean 61,0,no,no,no,no,no,o,he
+901,900,str901,D,ind,Tutor,"You are now going to watch a video showing the cell in Conditions A, B and C.",0,no,no,no,no,no,a2,m
+902,901,str902,D,ind,Tutor,"As you watch the video, write down your observations on your worksheet.",0,no,no,no,no,no,a2,m
+903,902,str903,D,ind,Tutor,"Go to the Videos folder on the Desktop, and watch the video which is there.",0,no,no,no,no,no,a2,m
+904,903,str904,D,ind,s064       ,descuss what will happen with a b c,0,no,no,no,no,no,a2,m
+905,904,str905,D,ind,s061       ,what about 61,0,pre,no,no,no,no,k2,na
+906,905,str906,D,ind,s058       ,iz that all we gonna do,0,pre,no,no,no,no,k2,na
+907,906,str907,D,ind,s061       ,idk who is sayin 61,0,pre,no,no,no,no,k2,na
+908,907,str908,D,ind,s058       ,who are,0,pre,no,no,no,no,k2,na
+909,908,str909,D,ind,s064       ,watch the video,0,no,no,no,no,no,a2,m
+910,909,str910,D,ind,s061       ,who is s058???,0,pre,no,no,no,no,k2,na
+911,910,str911,D,ind,s061       ,oh thanks,0,pre,no,no,no,no,o,na
+912,911,str912,D,ind,s058       ,who iz that 64,0,pre,no,no,no,no,k2,na
+913,912,str913,D,ind,s061       ,who is s064,0,pre,no,no,no,no,k2,na
+914,913,str914,D,ind,s064       ,{s064},0,pre,no,no,no,no,k1,m
+915,914,str915,D,ind,s061       ,who is the revoicer???,0,pre,no,no,no,no,k2,na
+916,915,str916,D,ind,Tutor,Are you guys back?,0,no,no,no,no,no,k2,na
+917,916,str917,D,ind,s061       ,yes i am back thanks,0,no,no,no,no,no,k1,m
+918,917,str918,D,ind,Tutor,Now discuss what you observed in the video about conditions A and B. Compare what you observed to your predictions.,0,no,no,no,no,no,a2,m
+919,918,str919,D,ind,s058       ,so wht do u think 0s64,0,no,no,at,no,no,k2,na
+920,919,str920,D,ind,s061       ,who said hi alex?,0,pre,no,no,no,no,k2,na
+921,920,str921,D,ind,Tutor,You should now move on to discussing what you observed in the video about condition C. Compare what you observed to your predictions. How is this different from what happened in condition A?,0,no,no,no,no,no,a2,m
+922,921,str922,D,ind,s061       ,Questions S058?,0,no,no,no,no,no,k2,na
+923,922,str923,D,ind,s058       ,in Condition a the glucose was inside and the water was outside,0,no,no,no,no,no,k1,m
+924,923,str924,D,ind,Tutor,Lets spend the rest of the time we have discussing your observations from all the three conditions.,0,no,no,no,no,no,a2,he
+925,924,str925,D,ind,Tutor,Discuss explanations of what you observed in each condition and make sure you fill in your explanations on your worksheets.,0,no,no,no,no,no,a2,m
+926,925,str926,D,ind,Tutor,"S064, now would be a good time to ask S061 to build on what S058 is saying.",0,no,no,no,no,no,a2,he
+927,926,str927,D,ind,s061       ,s058 yes,0,no,no,no,no,no,k1,m
+928,927,str928,D,ind,s058       ,who is challenger,0,no,no,no,no,no,k2,na
+929,928,str929,D,ind,s061       ,ya leave people alone,0,pre,no,no,no,no,o,na
+930,929,str930,D,ind,s064       ,who care,0,pre,no,no,no,no,o,na
+931,930,str931,D,ind,s061       ,how rude,0,pre,no,no,no,no,o,na
+932,931,str932,D,ind,s058       ,common guys,0,pre,no,no,no,no,o,na
+933,932,str933,D,ind,s064       ,i did not type yene,0,pre,no,no,no,no,o,m
+934,933,str934,D,ind,s058       ,discuss abt this topic,0,no,no,at,no,no,a2,m
+935,934,str935,D,ind,Tutor,"Ok, I gotta go.",0,no,no,no,no,no,o,na
+936,935,str936,D,ind,Tutor,It was nice talking to you all. :-),0,no,no,no,no,no,o,na
+937,936,str937,D,ind,s061       ,yup same to u alex,0,no,no,no,no,no,o,na
+938,937,str938,D,ind,s064       ,no you guy need to watch the video and than talk about it,0,no,no,no,no,no,a2,m
+939,938,str939,D,ind,s061       ,you guy huh,0,post,no,no,no,no,o,na
+940,939,str940,D,ind,s061       ,criticize,0,post,no,no,no,no,o,na
+941,940,str941,D,ind,s064       ,stop critisizeing me and work,0,post,no,no,no,no,a2,m
+942,941,str942,D,ind,s061       ,ok thanks {s064},0,post,no,no,no,no,o,na
+943,942,str943,D,ind,s064       ,.and help,0,no,no,no,no,no,a2,m
+944,943,str944,D,ind,s061       ,do u have any questions?,0,no,no,no,no,no,k2,na
+945,944,str945,D,ind,s064       ,yes what is c!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,post,post,no,no,no,o,na
+946,945,str946,D,ind,s061       ,For what hour!!!!!!!!!!!!!!!!!!!!!!!!!,0,no,post,no,no,no,o,na
+947,946,str947,D,ind,s061       ,It loses weight and color sir thank you,0,no,post,no,no,no,k1,m
+948,947,str948,D,ind,s061       ,who is S063,0,post,no,no,no,no,k2,na
+949,948,str949,D,ind,s064       ,numbers please,0,no,post,no,no,no,o,na
+950,949,str950,D,ind,s061       ,who did those empty lines what's wrong with your brain?,0,post,no,no,no,no,k2,na
+951,950,str951,D,ind,s064       ,english,0,post,no,no,no,no,o,na
+952,951,str952,D,ind,s061       ,just playing {s064},0,post,no,no,no,no,o,na
+953,952,str953,D,ind,s058       ,wats ur obesrvation for Condition B,0,no,post,no,no,no,k2,na
+954,953,str954,D,ind,s061       ,It loses weight colors are different,0,no,post,no,no,no,k1,m
+955,954,str955,D,ind,s058       ,hw abt c,0,no,post,no,no,no,k2,na
+956,955,str956,D,ind,s061       ,who is S058,0,post,no,no,no,no,k2,na
+957,956,str957,D,ind,s058       ,unknown guy,0,post,no,no,no,no,k1,na
+958,957,str958,D,ind,s064       ,58 put your hand up,0,post,no,no,no,no,a2,m
+959,958,str959,D,ind,s061       ,you have a dumb alias,0,post,no,no,no,no,o,m
+960,959,str960,D,ind,s064       ,i see you,0,post,no,no,no,no,o,he
+961,960,str961,D,ind,s061       ,who is it {s064},0,post,no,no,no,no,k2,na
+962,961,str962,D,ind,s061       ,i think its {s056},0,post,no,no,no,no,k1,he
+963,962,str963,D,ind,s064       ,you are next to {s057},0,post,no,no,no,no,k1,m
+964,963,str964,D,ind,s058       ,who is {s057}?,0,post,no,no,no,no,k1,na

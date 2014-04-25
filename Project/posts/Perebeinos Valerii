@@ -1,0 +1,2 @@
+Saturday August 31st 2013 1:55 pm -04:00,In the example says>>> to_float_hours(2 45 9)    2.7525But if I understand correctly the result should be 2.7515. I created this function but Autotesting failed function:Message:FAILURE: AssertionError2.7525 != 2.7515 within 7 placesBug?, Unresolved,0
+Saturday August 31st 2013 1:58 pm -04:00,Oh. Everything is reduced to hours... Sorry false alarm:), Unresolved,0

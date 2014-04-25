@@ -1,0 +1,12 @@
+Thursday September 12th 2013 4:36 pm -04:00,Thanks a lot Fabio! That was the problem!, Resolved,0
+Thursday September 26th 2013 5:17 pm -04:00,When your file is empty first close the file and you will see the text. I had the same., Resolved,0
+Thursday September 26th 2013 5:21 pm -04:00,I have this error too. Must be a string  not a list????????Dont understand it anymore., Resolved,0
+Friday September 27th 2013 5:59 am -04:00,Thanks but it works now. Probably I made some typing mistakes., Resolved,0
+Saturday September 28th 2013 12:16 pm -04:00,It works after a printing statement. But not if I try it out in Shell and call the list after the function to see if it has been updated., Unresolved,0
+Saturday September 28th 2013 11:24 am -04:00,I still dont understand this list.Should I see it this way:[albert 3 jona 5 chris 6]or:[[albert 3] jona 5] [chris 6]]I thought that you need to find first the right name in the list to change the score related to this person????, Resolved,0
+Saturday September 28th 2013 12:19 pm -04:00,Ok thanks, Resolved,0
+Sunday September 29th 2013 9:12 am -04:00,How can we know how many rows and how many columns the board must contain? I can not find this information?, Unresolved,0
+Sunday September 29th 2013 9:58 am -04:00,Thanks for your answer.But I am sorry  I still cant find it. I see some examples here with 9 letters in one row and some with 10. Maybe it doesnt matter I dont know. I want to use len()  but I still need to know how many letters on the first line., Unresolved,0
+Sunday September 29th 2013 10:26 am -04:00,Thanks again Ashwiwni I got it., Unresolved,0
+Sunday September 29th 2013 8:26 am -04:00,Ive got an empty space in between:[CRUNCHY   COWS   EAT   GRASS]How to get rid of these spaces?, Resolved,0
+Sunday September 29th 2013 8:27 am -04:00,To be more specific:I use rstrip(/n), Resolved,0

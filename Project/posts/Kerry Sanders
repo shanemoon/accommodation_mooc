@@ -1,0 +1,5 @@
+Tuesday September 3rd 2013 9:35 am -04:00,tell the code where ceil is located., Resolved,0
+Tuesday September 10th 2013 10:26 am -04:00,Are you checking the whole sequence against ATCG one at a time?, Unresolved,0
+Thursday September 12th 2013 10:01 pm -04:00,you just wrote get_complement(nucleotide) why not use this function in get_complementary_sequence(dna)...use something like the following...get_complementary_sequence(dna)[code removed], Unresolved,0
+Tuesday September 17th 2013 6:44 am -04:00,Keep in mind you can use functions you created earlier in the assignment and tested good to help with creating follow on functions. You could use the get_length() function to help you in coding the is_longer() function instead of rewriting code you have already created and tested., Unresolved,0
+Thursday September 19th 2013 6:16 am -04:00,iterate through list a and collect each item into a string and then print the string., Resolved,1

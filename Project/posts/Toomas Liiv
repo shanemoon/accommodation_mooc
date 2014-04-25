@@ -1,0 +1,1 @@
+Tuesday October 1st 2013 3:17 am -04:00,The second exercise is Given numbers = [[1 2] 3 [4 5]] give an expression using indexing (with positive indices) on numbers that evaluates to 4.Of course what is meant is numbers[2][0]. However 0 is not positive it is merely non-negative. , Unresolved,0

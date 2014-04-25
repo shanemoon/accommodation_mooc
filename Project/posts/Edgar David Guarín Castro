@@ -1,0 +1,3 @@
+Monday September 30th 2013 11:38 pm -04:00,HiI had the same problem but I realized that I had left the lines with print command without comment after comment these I ran the code and it worked creating the file with the histogram., Unresolved,0
+Monday September 30th 2013 10:39 am -04:00,I have the same problem but the code doesn´t work although I put the file extension at the end. I´m working in W7 and when I write the line code >>> flanders_filename = C:\Users\UserPC\Desktop\flanders_fields.txtPython returns thisSyntaxError: (unicode error) unicodeescape codec cant decode bytes in position 2-4: truncated \UXXXXXXXX escapeWhat is wrong? I appreciate if you can help me., Resolved,0
+Monday September 30th 2013 9:46 pm -04:00,Thank you!!!, Resolved,1

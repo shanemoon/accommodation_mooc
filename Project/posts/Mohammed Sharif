@@ -1,0 +1,3 @@
+Thursday August 29th 2013 4:35 pm -04:00,in Step 4: to_float_hours we got some examples and the result in the example isnt right. example:>>> to_float_hours(2 45 9)    2.7525its not 2.7525 it is 2.7515and also in the last example: >>> to_float_hours(1 0 36)    1.01the result should be 1.006can you fix it please ?, Resolved,0
+Thursday August 29th 2013 4:57 pm -04:00, i calculated it like this:one hours equals 100%  which is like 1.0 since there are 2 hours we got 2.0the 45 minutes equals 75 % of the full 60 minutes which is 0.75 in decimalsand the 9 seconds equals 15% of the full 60 second which is 0.0015 in decimalsif we add all the values together we get = 2.7515, Resolved,0
+Thursday August 29th 2013 7:16 pm -04:00,All right thank you for the help :), Resolved,0

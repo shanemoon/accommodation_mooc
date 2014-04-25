@@ -1,0 +1,2 @@
+Monday September 9th 2013 7:41 pm -04:00,Ok I am sure I am missing something obvious here but if I run this snippet in python by itself in IDLE on 2 i get 3 thats fine that makes sense but when I run it on 0 I get 1.>>> (int(2) + 1) % 103>>> (int(0) + 1) % 101So how through the iterations of the loop is 29 becoming 30 not 31?, Resolved,0
+Monday September 9th 2013 7:45 pm -04:00,Oh Boy now I feel silly! Thanks!, Resolved,0

@@ -1,0 +1,4 @@
+Sunday September 1st 2013 7:17 am -04:00,placing 60*60 in a parenthesis would work as well, Resolved,0
+Sunday September 1st 2013 12:20 am -04:00,how is it possible i got a score of 42.00 / 41                    , Unresolved,4
+Sunday September 1st 2013 6:51 am -04:00,try using the to_24_hour_clock function, Resolved,2
+Sunday September 1st 2013 7:02 am -04:00,the return value of the get_hours function must be in the range of 0 to 23 thats why you need to use the to_24_hour_clock function cause when the test program tries a large number with your code the return value will be higher than 23.sorry if that explanation is bad but i;ve been awake for 35 hours now :P, Resolved,2

@@ -1,0 +1,6 @@
+Sunday September 15th 2013 3:44 am -04:00,Can someone help my get_complement is working fine on its own but when I call it in get_complementary_sequence it starts producing a None and I get a type error when I run my  get_complementary_sequence  code., Resolved,0
+Sunday September 15th 2013 4:32 am -04:00,When I run the function in visualizer I notice that the get_compliment function points to  the full string in get_complementary_sequence (dna) and does not evaluate in the if statement hence producing a None., Resolved,0
+Sunday September 15th 2013 1:59 pm -04:00,Finally got it. Thanks for the helpful posts., Resolved,0
+Sunday September 15th 2013 1:01 am -04:00,Review the string indexing and slicing video. You just need one line of code., Resolved,1
+Sunday September 29th 2013 2:49 am -04:00,The code looks fine you could use a print statement to test the result, Unresolved,0
+Sunday September 29th 2013 3:13 am -04:00,What is assertionError, Unresolved,0

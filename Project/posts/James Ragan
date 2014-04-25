@@ -1,0 +1,2 @@
+Tuesday September 10th 2013 5:50 pm -04:00,Your solution does not find the second occurrence of anything. It doesnt return an index; it returns the content at an index. And what if what you are supposed to find a multi-character string?, Unresolved,0
+Tuesday September 10th 2013 5:45 pm -04:00,When you submitted were you given any indication of what the problem is? Since the find method returns an integer the int conversion is unnecessary. , Unresolved,5

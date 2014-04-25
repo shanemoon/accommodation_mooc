@@ -1,0 +1,4 @@
+Sunday September 1st 2013 12:06 pm -04:00,Read the post on the home tab it explains it there., Resolved,0
+Monday September 2nd 2013 11:56 am -04:00,Try calling the file a1.py instead of a1sec.py. Did you test the examples given in the docstring? Did these return the expected value? You should just have to edit the existing a1.py file and then upload that., Unresolved,1
+Tuesday September 3rd 2013 1:06 pm -04:00,You could try using a different browser. I found that chrome wouldnt play the videos online., Unresolved,0
+Wednesday September 11th 2013 4:25 pm -04:00,One way is to use a dictionary which avoids all the ifs and elifs for example:[~ep], Resolved,0

@@ -1,0 +1,2 @@
+Saturday September 14th 2013 6:39 pm -04:00,Although I understand why there might be an empty string in any string what is the logic for the following:>>> s = >>> s.count()1 ok so theres an empty string in the empty string.but.... >>> s = hello>>> s.count()6I interpret this as the string contains 5 characters plus 1 empty string but what does that mean?, Unresolved,0
+Saturday September 14th 2013 6:45 pm -04:00,Makes sense. Thank you!, Unresolved,0

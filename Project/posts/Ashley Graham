@@ -1,0 +1,5 @@
+Friday September 13th 2013 2:58 pm -04:00,My answer is the following:return temp>20 or temp<12The quiz marks it incorrect but in Idle is appears to work.  What am I not getting?, Resolved,0
+Friday September 13th 2013 3:15 pm -04:00,><...  Silly silly me=).  thanks!, Resolved,0
+Tuesday September 17th 2013 10:44 pm -04:00,Im not sure what Im missing.  This is my code:nucleotide=0        for char in dna:        if char == nucleotide:            nucleotide=nucleotide+1    return nucleotidethe code runs but doesnt count the assigned nucleotide occurrence., Unresolved,0
+Wednesday September 18th 2013 9:42 pm -04:00,I must be silly!!  I have used in before and the code doesnt work.  I get this error:Traceback (most recent call last):  File <pyshell#1> line 1 in <module>    count_nucleotides(ATCGGC G)  File C:\Python33\a2 (1).py line 41 in count_nucleotides    if char in nucleotide:TypeError: argument of type int is not iterable, Unresolved,0
+Wednesday September 18th 2013 9:47 pm -04:00,My thinking is I gave nucleotide the value of 0 so the code goes through each char of the DNA and if the char equals the nucleotide it would add one to the total...right?, Unresolved,0

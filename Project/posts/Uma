@@ -1,0 +1,5 @@
+Monday September 2nd 2013 10:26 am -04:00,I am trying to watch input/output and str formatting lecture and I am stuck as I try to run the module in the shell as shown in the video. It gives me a syntax error although I am doing the same thing as the instructor. This is what I tried to type and save my file as:def square_return(num):	return num**2>>> def square_print (num):	print (The square of num is num**2)Why cant I run the module?Thanks!, Resolved,0
+Monday September 2nd 2013 10:45 am -04:00,I have indents in my file but it still gave an error when I run the module.It only says invalid syntax....not sure what exactly I am doing wrong, Resolved,0
+Monday September 2nd 2013 10:49 am -04:00,, Resolved,0
+Monday September 2nd 2013 10:57 am -04:00,Ok cool so that worked but what was I doing that was wrong?Thanks so much for your help, Resolved,0
+Monday September 2nd 2013 10:59 am -04:00,I did run the module (when I posted the Q first time) but I still got that syntax error so I am confused about what was wrong.When I did it as you suggested it worked, Resolved,0

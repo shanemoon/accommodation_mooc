@@ -1,0 +1,1 @@
+Sunday September 1st 2013 5:27 pm -04:00,i dont understand this answer either.  the question asks what the value of return is at the CURRENT LINE 9 with the red arrow pointing to it.  At line 9 lines 10 and on have no been executed yet.  so how can result refer to 300?, Unresolved,0

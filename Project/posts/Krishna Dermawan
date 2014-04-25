@@ -1,0 +1,1 @@
+Monday September 9th 2013 10:38 pm -04:00,Is it not redundant to have to call the module name again (module_name.function_name) since the module name has been imported at the top? , Unresolved,0

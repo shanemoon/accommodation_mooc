@@ -1,0 +1,2 @@
+Friday August 23rd 2013 8:34 am -04:00,Hi folksI get the following error when I try to use the help function e.g.>>> help(round)more is not recognized as an internal or external commandoperable program or batch file.Im using Windows 7 Python v3.2.2Anybody else experience this / know how to solve it?Thanks, Resolved,0
+Thursday August 29th 2013 8:29 am -04:00,Thanks everybody awesome and rapid help!As suggested adding C:\Windows\System32 into my PATH solved it., Resolved,0

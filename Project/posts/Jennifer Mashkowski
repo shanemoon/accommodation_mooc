@@ -1,0 +1,8 @@
+Thursday September 5th 2013 6:39 pm -04:00,The problem summary:I have tried several times and verified internet connection but I am unable to download greeting.py. Steps to reproduce:Open week 3 homework assignmenton question 14 click the link for downloadScreenshot:, Resolved,0
+Friday September 6th 2013 12:29 pm -04:00,hmmmm appears to load the visualizer this morning whereas all day yesterday zip. I am unblocked. thx, Resolved,1
+Wednesday September 11th 2013 11:54 am -04:00,The videos are not working. Internet connection is fine. Is anyone else having trouble?, Resolved,0
+Monday September 16th 2013 7:58 pm -04:00,it resolved itself the next day, Resolved,0
+Sunday September 29th 2013 8:24 pm -04:00,I dont understand why the grade returned was 0 my code worked., Unresolved,0
+Monday September 30th 2013 10:31 am -04:00,Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a3.py 214 27         return (line end = )), Unresolved,0
+Monday September 30th 2013 10:32 am -04:00,I get this same error for every line. Is it to say this assignment was an all or nothing grade? does this error mean I have a new line character at so the program is invalid?, Unresolved,0
+Monday September 30th 2013 5:35 pm -04:00,I guess it is too late now. I am really bummed about this, Unresolved,0

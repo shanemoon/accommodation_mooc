@@ -1,0 +1,17 @@
+Friday August 30th 2013 12:51 pm -04:00,Try importing module math and using the .floor function. Here is an example:import mathdef squarerootint(num)):    return math.floor(num)Hope I helped!, Resolved,0
+Friday August 30th 2013 12:42 pm -04:00,At the end of your a1.py input this code:if __name__ == __main__:    import doctest    doctest.testmod()This will test your examples automatically. It is EXTREMELY useful. When you submit you may have to erase it but I havent tested it. Do not put it inside of a function. , Unresolved,0
+Friday August 30th 2013 1:00 pm -04:00,Im not sure what that has to do with the post., Unresolved,0
+Friday August 30th 2013 2:23 pm -04:00,I understand now., Unresolved,0
+Friday August 30th 2013 2:26 pm -04:00,student: test_hours_difference.TestHoursDifference.test_time_1_much_larger_than_time_2FAILUREstudent: test_hours_difference.TestHoursDifference.test_time_1_much_smaller_than_time_2FAILUREstudent: test_hours_difference.TestHoursDifference.test_time_1_slightly_larger_than_time_2FAILUREstudent: test_hours_difference.TestHoursDifference.test_time_1_slightly_smaller_than_time_2FAILUREIm not sure why these failed. They work in my code but I dont think I can post my code here. For example if I do hours_difference(600060) I get -1.7 like I should.  Explanation please?, Resolved,0
+Friday August 30th 2013 8:31 pm -04:00,Thanks so much guys! I was using the round function O_O. Now I have a perfect score!, Resolved,0
+Thursday September 26th 2013 1:19 pm -04:00,oh my god you saved my life please marry me, Resolved,0
+Wednesday September 25th 2013 9:04 pm -04:00,Can i have some help? My code always returns the answer as one less than it should be., Resolved,0
+Thursday September 26th 2013 1:26 pm -04:00,Thanks guys I fixed it!, Resolved,0
+Thursday September 26th 2013 9:25 am -04:00,Will the board be already open or do we have to open it in the function?, Resolved,0
+Thursday September 26th 2013 9:44 am -04:00,Thank you!#resolved, Resolved,0
+Thursday September 26th 2013 9:43 am -04:00,WHen i call my function on wordlist1.txt this is what prints:[[C R U N C H Y] [E A T]]help please!, Resolved,0
+Thursday September 26th 2013 10:06 am -04:00,Exactly., Resolved,0
+Thursday September 26th 2013 12:47 pm -04:00,Okay...1. Create a list2. Create a variable that reads lines and strips .3. Make a for loop that goes over the characters in words_file            4. append character to the list in step 1            5.  repeat step 2 inside of the for loop6. return list from step 1, Resolved,0
+Thursday September 26th 2013 7:42 pm -04:00,Well thats progress. Heres my code:lst =     for line in words_file:        words_file.readline().rstrip()        lst.append(line)    return lstIt returns:[CRUNCHY EAT], Resolved,0
+Friday September 27th 2013 9:55 am -04:00,THANK YOU SO MUCH EVERYONE! My code is working right now!, Resolved,0
+Tuesday October 1st 2013 4:49 pm -04:00,If I cant please just say so.(how long question-wise), Resolved,1

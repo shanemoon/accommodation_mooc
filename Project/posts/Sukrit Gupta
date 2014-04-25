@@ -1,0 +1,11 @@
+Monday August 19th 2013 12:45 pm -04:00,explain your error and ill try to help you as best as i can.., Resolved,0
+Monday August 19th 2013 4:47 am -04:00,This is an open Study group. Anybody can help anybody So lets make this an effective and cooperative way of learning.,None,6
+Monday August 19th 2013 6:36 am -04:00,yea so your Type error is giving you the reason for the error expected string of length 1 but int foundwhich means you have to pass a string of length 1 instead of a digit like 3so try doing the following:ord(c)and you will get your answerfor further info refer to http://docs.python.org/3/library/functions.html#ord, Resolved,2
+Monday August 19th 2013 12:43 pm -04:00,Im using by raspberry pi for this course as well..!!,None,0
+Monday August 19th 2013 12:51 pm -04:00,yes.. im using vnc to access the gui instead of ssh because i want to use idle for the beginning weeks of this course. ,None,0
+Monday August 19th 2013 1:36 pm -04:00,The question asks for the choice that would result in a syntax error:as 8 / ( 3 / (2 / 3)))has an extra parenthesis this will result in a syntax errorwhich is why this is the correct answer., Resolved,2
+Friday August 30th 2013 7:14 am -04:00,the GUI time is off by 30 minutes. im in the +5:30 time zone and its 16:30 whereas the clock is showing 16:00 , Resolved,0
+Friday August 30th 2013 7:09 am -04:00,im in  ill help as much as i can. , Approved,1
+Friday August 30th 2013 7:25 am -04:00,your error is because of the wrong indentation.. there is nothing wrong with the code..check your indentation..and the error should be fixed, Unresolved,2
+Friday August 30th 2013 8:52 am -04:00,happy to help!, Unresolved,0
+Friday August 30th 2013 7:31 am -04:00,in IDLE goto file --> new window, Resolved,2

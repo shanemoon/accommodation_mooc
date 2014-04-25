@@ -1,0 +1,1 @@
+Monday September 23rd 2013 12:48 am -04:00,you are writing return statement in for loop it is only checking the first letter.Try this;def is_valid_sequence(dna):      is_valid_sequence = True      for char in dna:           if char not in ATCG:              is_valid_sequence = False      return is_valid_sequence, Resolved,1

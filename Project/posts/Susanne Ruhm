@@ -1,0 +1,4 @@
+Friday August 30th 2013 9:54 am -04:00,Hi Jamesthe return value should be in the range 0 to 59 inclusive. That means you have to get rid of full hours and full minutes.Hope that helps., Resolved,0
+Friday August 30th 2013 11:36 am -04:00,You get a float which means an approximation to the real number., Resolved,0
+Saturday August 31st 2013 8:35 am -04:00,As far as I can see your function wouldnt work for something like>>>get_hours(3800)which should give you 1.You need to get rid of additional seconds which dont amount to a full hour., Resolved,2
+Saturday September 14th 2013 3:17 am -04:00,Please consider that the return type of the function is_valid_sequence should be bool. That leaves us with only one possibility for non-valid-outputs as far as I can see., Unresolved,0

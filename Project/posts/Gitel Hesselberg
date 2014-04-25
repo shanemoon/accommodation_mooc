@@ -1,0 +1,14 @@
+Tuesday September 24th 2013 4:35 pm -04:00,Are either of you in Haifa?,None,0
+Tuesday September 24th 2013 5:15 pm -04:00,For some reason when I use a for statement with a range I get an extra iteration.  It doesnt happen anywhere else.  Any ideas?, Resolved,0
+Tuesday September 24th 2013 6:07 pm -04:00,Where is the newline ?  I dont see it., Resolved,0
+Tuesday September 24th 2013 6:39 pm -04:00,What does readline have to do with anything?  Its totally irrelevant.  Were talking about for and range., Resolved,1
+Wednesday September 25th 2013 2:12 am -04:00,Im not sure how to answer that as I have more than on for-loop going on.  I basically took the code from board_contains_word and adapted it.  Without disclosing the code (Courseras honor code and all that) I have the following:for    for        if        else            for                ifreturnThe problem is that it counts the word TO twice.  I cant figure out why., Resolved,0
+Wednesday September 25th 2013 4:54 am -04:00,Im trying.  Its not working.  :(, Resolved,0
+Wednesday September 25th 2013 2:57 am -04:00,I think thats what I tried originally but it didnt work.  Ill give it another shot., Resolved,0
+Wednesday September 25th 2013 3:01 am -04:00,Okay.  I tried.  This is what I got:TypeError: argument of type function is not iterableIm obviously still doing something wrong., Resolved,0
+Wednesday September 25th 2013 3:10 am -04:00,Progress!  I got rid of the TypeError but it still isnt working.  Now it is counting BOX as a valid word., Resolved,0
+Wednesday September 25th 2013 4:44 am -04:00,Now you see the problem.  NOOOOOO!!!!  It is NOT supposed to see BOX as a valid word. Thats why I said . . . it still isnt working.Im sorry about the tone but I[m just SO frustrated.  Nothing I do seems to work.  Either it doesnt run or it runs and gives me a wrong answer., Resolved,0
+Wednesday September 25th 2013 4:39 am -04:00,Yes I tested each one before I went on to the next., Resolved,0
+Wednesday September 25th 2013 5:24 am -04:00,Thank you all!  Its finally working.  I can stop pulling out my hair now.  :), Resolved,0
+Thursday September 26th 2013 1:02 pm -04:00,Dont forget the index., Resolved,0
+Thursday September 26th 2013 3:09 pm -04:00,This thread can be deleted., Resolved,0

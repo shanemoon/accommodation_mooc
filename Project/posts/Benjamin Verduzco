@@ -1,0 +1,2 @@
+Saturday August 31st 2013 9:06 pm -04:00,Could you also use a full name in the function design recipe?  For example:(string) -> integer  instead of (str) -> int and why use number in the description instead of just num?, Resolved,0
+Monday September 2nd 2013 2:12 pm -04:00,My point is that it already seems inconsistent.  Why abbreviate string and not number?    I understand convention but perhaps theres more to it than thats the way its done., Resolved,0

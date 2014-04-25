@@ -1,0 +1,11 @@
+Monday September 2nd 2013 1:42 pm -04:00,remember the return statement!,None,0
+Wednesday September 11th 2013 3:23 am -04:00,Ok i have the right solution for this exercizebut i still don`t understand it.I came for the right solution trough trial and error.s1 = hippopotamuses and octopuses and cuttlefishs2 = usesWhy is this giving me  the number 24?Note:If you can`t explain it simplyyou don`t understand it well enough.-Albert Enstein, Unresolved,0
+Wednesday September 11th 2013 3:30 am -04:00,Ok i just counted the s1 from 0 to 24and the second occurrence of uses is at 24.Aha!, Unresolved,0
+Wednesday September 11th 2013 4:03 am -04:00,Something is still wrongresubmitted the homework and still 13 out of 14.In the shell it`s giving me the right values:s1 = bananas2 = ana3s1 = apples2 = p2s1 = hippopotamuses and octopuses and cuttlefishs2 = uses24, Unresolved,0
+Wednesday September 11th 2013 4:06 am -04:00,If i change  s2 = pop it gives me -1.What`s wrong?, Unresolved,0
+Wednesday September 11th 2013 4:33 am -04:00,Oh my faulti just used one more + operatorit wasn`t needed.But the code worked that way too.Finally i get 14 out of 14., Unresolved,0
+Thursday September 12th 2013 6:33 am -04:00,There is no need for for loops or if statementsyou can do it with a single line expression.i made it with 2 len() functionsan and and an in operator and some parenthesis., Unresolved,0
+Thursday September 12th 2013 8:26 am -04:00,I was not rightyou will need a for loop and an if statement.The wrong code I used was this:return (len(ATCG) == len(dna)) and ATCG in dna  - it worked fine until i changed the order of characters from ATCG to CTAG or GTAC etc., Unresolved,0
+Thursday September 12th 2013 8:37 am -04:00,I have one question.A dna sequence has to be 4 character long (ATCGCTAGGATC)or it can be longerlike(CTGACA AACCTTGG) or shorter like(AT CT AG)?, Unresolved,0
+Thursday September 12th 2013 5:47 am -04:00,Try to explain itbut don`t give the answer because it`s cheating., Resolved,0
+Saturday September 14th 2013 3:51 am -04:00,Do i have to reuse the get_complement function?Because my code is working as expectedbut i get score 21 out of 24and i don`t know what`s the problem. , Resolved,0

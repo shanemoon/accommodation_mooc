@@ -1,0 +1,3 @@
+Thursday September 19th 2013 11:38 pm -04:00,I also have the same problem. Please can somebody review the following and tell me what I am doing wrong:https://dl.dropboxusercontent.com/u/39242693/countries_problem.pyMany thanks, Unresolved,0
+Wednesday September 25th 2013 7:15 am -04:00,Hi allWhat does this error mean (https://db.tt/SWC8FkvZ). I have tried multiple iterations but none seem to work. Please help!Charlotte, Unresolved,0
+Wednesday September 25th 2013 7:46 am -04:00,>>> file = /Python33/Lib/idlelib/*.txt>>> open(file r) Traceback (most recent call last):   File <pyshell#12> line 1 in <module>     open(file r) OSError: [Errno 22] Invalid argument: /Python33/Lib/idlelib/*.txt>>>  , Unresolved,0

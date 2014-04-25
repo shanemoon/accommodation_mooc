@@ -1,0 +1,4 @@
+Tuesday August 27th 2013 8:36 am -04:00,click on FAILURE link and get some details on your tests the type of error may help you to figure out what is wrong, Resolved,3
+Tuesday August 27th 2013 8:24 am -04:00,you have TypeErrormay be you use print() in your functions, Unresolved,0
+Tuesday August 27th 2013 8:40 am -04:00,I dont see your function but I see that you have Type error think in this directionthe common mistake is print() instead of return, Unresolved,1
+Tuesday August 27th 2013 9:39 am -04:00,agree with Janine try to submit again maybe you somehow sent unsaved or wrong version, Unresolved,1

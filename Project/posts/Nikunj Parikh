@@ -1,0 +1,3 @@
+Saturday August 31st 2013 3:14 pm -04:00,HiSo when I run this code def sum(number1 number2):    print(number1 + number2)    result = sum(1 3)And type sum(13) The code gets into a loop and I get a series of 4 printed on screen.Finally the code ends with a runtime error: Maximum Recursion Depth Exceeded while calling a python object.I am not sure what is wrong. I am using Python 3.3.2. Please help, Resolved,0
+Saturday August 31st 2013 3:32 pm -04:00,Oh....ok. You are right!I was just running the code in video quiz. Btw any idea after how many iteration did I get an error? Just for out of curiosity, Resolved,0
+Saturday August 31st 2013 3:37 pm -04:00,Thanks a lot man!! Guess I ll be a proper programmer soon! :), Resolved,0

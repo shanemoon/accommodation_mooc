@@ -1,0 +1,2 @@
+Tuesday September 3rd 2013 5:57 am -04:00,Hey guys I had a doubt in the question asked at the end of the video The code contains print( g(3) ) ... my question is since print is a builtin FUNCTION  doesnt it have a stack frame ???If yes then shouldnt there be 3 stack frames instead of 2 ... viz - main program print function  g(x), Unresolved,0
+Wednesday September 4th 2013 12:58 am -04:00,Since max did not produce a stack frame .... does it imply that builtin functions do not produce a stack frame ? and only user defined functions produce stack frames?, Unresolved,0

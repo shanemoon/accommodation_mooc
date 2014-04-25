@@ -1,0 +1,9 @@
+Wednesday September 4th 2013 2:06 am -04:00,IDLE creates a loopback server (which it needs; it doesnt actually connect to the internet). You need to create an exception in your firewall that allows python to act as a server.,None,0
+Wednesday September 4th 2013 2:23 am -04:00,The key-combinations work fine. But is there any way to make the features permanent as long as I use idle?, Unresolved,0
+Wednesday September 4th 2013 4:23 am -04:00,The auto completion feature is permanent. But Show call tip and Show Completion works only once.I am using the idle in Windows 7.Thanks, Unresolved,1
+Wednesday September 4th 2013 7:06 am -04:00,It is not the case. If I press ctrl+backlash the tool-tip is visible. But only once. Next time it doesnt appear. And ctrl-5 is not an option.auto completion and show completion is different. show completion is enabled with ctrl+space. But works only once.Bye, Unresolved,0
+Wednesday September 4th 2013 7:51 am -04:00,Thats not the point. I can use other editors but I want to know if this behavior of idle is normal and if we can make the features permanent., Unresolved,0
+Sunday September 15th 2013 7:21 am -04:00,Can you please share your test cases for is_valid_sequence? Only test cases... Thanks a lot, Unresolved,0
+Monday September 16th 2013 1:25 am -04:00,student: test_a2.TestIsValidSequence.test_is_valid_sequence_invalid_capital_letterMethod Description:Have you tested your function with an invalid capital letter?Message:FAILURE: AssertionErrorTrue is not false : Have you tested your function with an invalid capital letter?What can be the problem? All the tests are working fine. also I tried it at visualizer works for all the test cases., Resolved,0
+Monday September 16th 2013 1:55 am -04:00,Thanks a lot, Resolved,0
+Wednesday October 2nd 2013 6:38 am -04:00,I got the same error. It means the func is not evaluated due to error if previuos functions, Unresolved,0

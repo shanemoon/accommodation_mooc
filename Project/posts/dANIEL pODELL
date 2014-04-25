@@ -1,0 +1,12 @@
+Wednesday September 18th 2013 11:23 pm -04:00,oops spoke to soon got join to work forgot the dot thanks!, Unresolved,0
+Friday September 20th 2013 3:22 pm -04:00,ReplacerModule object has no attribute get_complement, Resolved,0
+Friday September 20th 2013 3:31 pm -04:00,I copied and pasted I know its right...The logic works in Idle but the gradder marks it error?, Resolved,0
+Friday September 20th 2013 3:36 pm -04:00,I did not use any docstrings could that be it?, Resolved,0
+Friday September 20th 2013 3:49 pm -04:00,OMG I Got It Thanks!, Resolved,0
+Friday September 20th 2013 4:31 pm -04:00,I could not figure out what was wrong all my problems worked in Idle but the grader still gave me errors...BE SURE TO PUT ALL ANSWERS IN THE a2.py WINDOW!!!!I had made a file named tesy.py for the latter problems... and was submitting both files...You must have ALL answers in the a2.py file!I hope this helps!, Unresolved,1
+Sunday September 29th 2013 6:28 pm -04:00,I dont understand this error message?Calling the open built-in is not permitted, Resolved,0
+Sunday September 29th 2013 6:34 pm -04:00,Does it want you to return or print the answer?, Resolved,0
+Sunday September 29th 2013 6:36 pm -04:00,ie : for line in wordlist1:        return (line), Resolved,0
+Sunday September 29th 2013 7:00 pm -04:00,I think Im returning in the wrong formatdoes it want a return statement or just read file?, Resolved,0
+Sunday September 29th 2013 7:47 pm -04:00,With your help I get read wordfile to work but on board file I get these error...False is not true : Board not loaded correctly. Did you get rows and columns mixed up?False is not true : Non-square board not loaded correctly.False is not true : Board not loaded correctly.<class str> != <class list> : Expected a <code>list</code> of <code>list</code> of <code>str</code>s to be returned.I admit I am just recycling code from the word file problem I dont understand do you think I should use readline? , Resolved,0
+Sunday September 29th 2013 8:05 pm -04:00,Weeeeeeeeeeeeee!Thanks!, Resolved,0

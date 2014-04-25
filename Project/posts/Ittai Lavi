@@ -1,0 +1,4 @@
+Monday August 19th 2013 9:26 am -04:00,1. when trying to define a function I typed in :def f(x) and when pressed enter in order to type returnI got ... why is that ? 2. Im using Python on Windows [I did not see any Idle app] I dont see the various tabs such as File in order to save or open shells nor Run to run modules. What should I do ?, Resolved,0
+Monday August 19th 2013 9:52 am -04:00,Thank you both.After correctly defining f(x):                                     return x**2How can I use it to calculate say 4 in the power of 2 ?, Resolved,0
+Monday August 19th 2013 9:56 am -04:00,Thanks., Resolved,0
+Monday August 19th 2013 11:32 am -04:00,Im trying to define a function for area. This is what I get>>> def area (base height):	return (base*height)/2>>> base=5>>> height=2>>> area<function area at 0x02B3F390>Why is it it can not calculate the area ?, Resolved,0

@@ -1,0 +1,3 @@
+Thursday August 22nd 2013 12:32 am -04:00,You can add the#! PATH versionas the first line in your scripts. , Resolved,0
+Saturday August 24th 2013 5:53 am -04:00,The language has changed from 2.x to 3.x. For example in 3.X Which is what this class uses. print (print is now used like a function)In 2.x the same statement. print Notice the missing ()The projects I believe are the same in each book. If this is your first attempt at programming I suggest you at least use a book that covers python 3.3.,None,0
+Sunday August 25th 2013 5:52 am -04:00,http://pragprog.com/book/gwpy2/practical-programmingIt comes with multiple format downloads and answers for the exercises. ,None,0

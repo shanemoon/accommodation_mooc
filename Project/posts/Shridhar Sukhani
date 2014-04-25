@@ -1,0 +1,10 @@
+Monday August 19th 2013 10:07 am -04:00,nor am i...!! :P,None,1
+Monday August 19th 2013 7:44 am -04:00,option = input(Y for join : ) x = Yyif option in y:     print(thx) else:     print(bye) ,None,0
+Thursday August 22nd 2013 10:26 am -04:00,Hey! I am from Mumbai too. I live in goregaon(west)...!!,None,0
+Thursday August 22nd 2013 10:23 am -04:00,Hey NitishPlease send an invitation to shridhar.sukhani@yahoo.in,None,0
+Monday August 19th 2013 7:12 am -04:00,Woah!! You must be really smart... IIT-B!! I live in Bombay too...its really nnice seeing the kind of people who are taking up this course...!! :D,None,0
+Monday August 19th 2013 7:14 am -04:00,*nice,None,0
+Monday August 19th 2013 11:32 pm -04:00,Yeah sure as long as you guys dont have a problem in studying with a 10th grade student...! :P,None,0
+Monday August 19th 2013 11:34 pm -04:00,I believe Java is sort of easier and I speak from personal experience...!! ,None,-9
+Tuesday August 20th 2013 1:42 am -04:00,@Alexander:totally agreed that it is just personal experience that makes on comfortable with a particular programming language...n I only know to code in Java till now so cant really speak about C/C++...!,None,1
+Monday August 19th 2013 11:28 pm -04:00,@Charles Platt: You will have to do that as you arent running a loop wherein the value of area will change with change in the height or base. The value of area will refer only to the product of base and length divided by two (in this case only the ones that you have assigned to base and height before assigning the variable area) and it is not related to the variable length and breadth as such....use the python visualiser to gain a better understanding of this code...!!,None,0

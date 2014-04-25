@@ -1,0 +1,3 @@
+Thursday August 22nd 2013 3:59 pm -04:00,I had the same issue... Im betting youre using the Python (command line)...Try this: Start -> All Programs -> Python 3.3 -> IDLE (Python GUI), Resolved,5
+Tuesday September 3rd 2013 4:01 pm -04:00,Yes. If youre slow and steady with it youll be rewarded., Resolved,0
+Saturday September 28th 2013 12:52 pm -04:00,Just something to note...I was passing in the fully pathed filename:c:\python33\board1.txt... and having problems opening the file to read. Long story short I was escaping the b in board. Im pretty sure \b gets interpreted as a backspace. I was able to use c:\\python33\\board1.txt without an issue.If I save one person some time posting this was worth it. :)-Paul, Unresolved,1

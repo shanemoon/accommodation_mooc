@@ -1,0 +1,2 @@
+Saturday September 14th 2013 11:50 am -04:00,Thanks for the suggestion is_valid_sequence(ACTG!). I created a test condition for this scenario and keep getting a True result even though I am checking for chars not in the valid set of characters. It should return False and I cant figure out why. Do you have any suggestions?, Resolved,0
+Saturday September 14th 2013 12:57 pm -04:00,Got it...incorrect return stmt indent. Bad indent Bad!, Resolved,0

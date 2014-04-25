@@ -1,0 +1,1 @@
+Tuesday September 3rd 2013 1:05 pm -04:00,The precondition for to_float_hours in a1.py states:Precondition: 0 <= minutes < 60  and  0 <= seconds < 60Shouldnt it be:Precondition: 0 <= minutes <= 60  and  0 <= seconds <= 60Since you cannot reach a full minute until you hit 60 seconds (as opposed to 59 seconds) and same for an hour (60 minutes as opposed to 59 minutes), Unresolved,0

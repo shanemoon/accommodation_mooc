@@ -1,0 +1,4 @@
+Friday September 20th 2013 8:40 am -04:00,The code looks perfect....i dont think u need to do anything more.....but if you still cannot solve it you can always use while. Plus if you want to use range you can use it with sum like nick has mentioned...:), Unresolved,0
+Friday September 20th 2013 8:42 am -04:00,Oh....i just copy pasted your code....it gave the answer....., Unresolved,0
+Friday September 20th 2013 1:34 pm -04:00,Why are you trying to increment by 3? between any two consecutive odd (or even) numbers there is always a difference of 2....[e.g 9-7=2]Plus if u have to include 33 in the sum write 34 in the range function instead of 33., Unresolved,0
+Friday September 20th 2013 1:29 pm -04:00,Oh no....i am done with my exercise long back......i was checking his code if it was correct......was not trying to solve my question!, Unresolved,0

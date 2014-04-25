@@ -1,0 +1,10 @@
+Saturday September 14th 2013 11:21 am -04:00,I assume youve already completed the  coding for the previous function get_complement. Why not use that function to compose the code for this function?, Unresolved,0
+Tuesday September 17th 2013 12:52 pm -04:00,The instructions say that only one of the 4 possible answers is correct. Thats my problem!!, Resolved,0
+Tuesday September 17th 2013 4:41 pm -04:00,Finally figured it out. Looks like some more typos on my part. Thanks for the help!!, Resolved,0
+Thursday September 26th 2013 2:08 pm -04:00,does your suggestion apply to my Mac or just Windows?This is what I got on my Mac:>>> myFile = open(C:/Users/billhatfield/Documents/idletest.rtf r)Traceback (most recent call last):  File <pyshell#34> line 1 in <module>    myFile = open(C:/Users/billhatfield/Documents/idletest.rtf r)FileNotFoundError: [Errno 2] No such file or directory: C:/Users/billhatfield/Documents/idletest.rtf, Resolved,0
+Thursday September 26th 2013 3:11 pm -04:00,I just tried your suggestion to Sandy on my PC. Worked perfectly. But Id like to be able to work with my Mac. Im sure it has something to do with the path Im using., Resolved,0
+Thursday September 26th 2013 4:03 pm -04:00,Got my first line on the Mac!!!! Problem was the path as suggested. Many thanks for the help!!>>> myfile = open(/Users/billhatfield/Documents/idletest.rtf r)>>> myfile.readline(){\\rtf1\\ansi\\ansicpg1252\\cocoartf1187\\cocoasubrtf390, Resolved,0
+Sunday September 29th 2013 12:41 pm -04:00,the final function (read_board) produces a list of list str. I have no problem dealing with a list of lists that already exists but cant manage to compile one. Can anyone direct me to a video that covers this?, Resolved,0
+Sunday September 29th 2013 12:50 pm -04:00,Never mind. I finally figured it out!! Thanks anyway!!, Resolved,0
+Monday September 30th 2013 9:17 am -04:00,when I run the a2_driver.py it prompts me for the location of the word list and the board list. Where do I get these?, Resolved,0
+Monday September 30th 2013 10:12 am -04:00,Thanks Neil. Finally got it figured out how to save the two files to my drive. Thanks again for the prompt response., Resolved,0

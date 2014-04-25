@@ -1,0 +1,4 @@
+Friday September 13th 2013 10:05 am -04:00,def count_vowels(s):    num_vowels = 0    for char in s:        if char in aeiouAEIOU:            Num_vowels = num_vowels + 1    return Num_vowels            It does not give me the answer.why???, Resolved,0
+Friday September 13th 2013 10:27 am -04:00,Thanks, Resolved,0
+Saturday September 14th 2013 12:34 pm -04:00,But why isnt it excepted?, Unresolved,0
+Saturday September 14th 2013 12:54 pm -04:00,it is excepted now.বুঝি না মাজে মাজে যে এদের কি হয়?, Unresolved,0

@@ -1,0 +1,2 @@
+Thursday October 3rd 2013 1:43 pm -04:00,here to similar problem faced when run a3_driver following error cameEnter player 1 name: Traceback (most recent call last):  File C:\Python33\a3_driver.py line 98 in <module>    players = get_players_list()  File C:\Python33\a3_driver.py line 23 in get_players_list    player = input(Enter player 1 name: )  File C:\Python33\lib\idlelib\PyShell.py line 1365 in readline    size = len(line)NameError: global name line is not defined, Unresolved,0
+Friday October 4th 2013 1:32 pm -04:00,found my mistake  now working good... , Unresolved,0

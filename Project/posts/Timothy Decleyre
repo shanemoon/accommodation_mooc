@@ -1,0 +1,2 @@
+Monday September 2nd 2013 12:50 pm -04:00,Try using a different function instead of to_24_hour_clock and it should come out simpler/shorter., Resolved,0
+Monday September 2nd 2013 12:48 pm -04:00,You most likely dont have your get_hours in a 24-hour format by which I mean that a time in seconds which is above 24 hours does not get translated into the 24 hour clock. For instance get_hours(100000) should yield 3 and not 27., Resolved,4

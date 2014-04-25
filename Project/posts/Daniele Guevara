@@ -1,0 +1,7 @@
+Friday August 30th 2013 11:57 am -04:00,Is it really not possible to catch up from week 1?  This is sad...., Unresolved,0
+Friday August 30th 2013 2:48 pm -04:00,Please help! Im so close to getting a perfect score but! I get zero division errors when I call my to_float function- any tips student: test_to_float_hours.TestToFloatHours.test_hours_nonzero_minutes_seconds_zerostudent: test_to_float_hours.TestToFloatHours.test_hours_minutes_seconds_all_zeroand also!I get the following error message in my evaluation for my test get_seconds:student: test_get_seconds.TestGetSeconds.test_greater_than_60student: test_get_seconds.TestGetSeconds.test_example_from_handoutMessage:FAILURE: AssertionError20 != 0, Unresolved,0
+Friday August 30th 2013 8:15 pm -04:00,Ive run my code with the example:to_float_hours(0 15 0)I get 0.25 just like its supposed to!  BIZARRE :(, Unresolved,0
+Friday August 30th 2013 8:17 pm -04:00,And I did NOT get errors running your first and last examples either!, Unresolved,0
+Friday August 30th 2013 8:18 pm -04:00,btw.. 1st and last are the same- i tried with 0 hours 1 min and 1 sec and got NO errors..., Unresolved,0
+Saturday August 31st 2013 4:47 pm -04:00,Ha! No way!  No offence taken at all- I figured it all out-  I tend to over think at first its my greatest struggle when coding. Guess there could be worse problems though!, Unresolved,0
+Monday September 9th 2013 3:50 pm -04:00,Thanks guys knew I was right- totally misinterpreted my results though- HAHAHAHA!!!, Resolved,0

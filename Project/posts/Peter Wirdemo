@@ -1,0 +1,1 @@
+Wednesday August 28th 2013 4:21 pm -04:00,num_hours is a parameter in the function convert_to_minutes.If you do convert_to_minutes(10) num_hours is set to 10Since the variable hours_asleep is set to 5 num_hours will be set to 5 when line 12 is executed.But since it has not been executed yet num_hours has not been created yet., Resolved,0

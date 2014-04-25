@@ -1,0 +1,1 @@
+Friday September 20th 2013 10:05 am -04:00,Are we supposed to handle exceptions in insert_sequence function(dna1dna2index) or assume that they are correct? For example; should we check whether dna1 and dna2 are valid sequences or not?                      should we check whether index is non-negative and less than the size of string?, Pinned Approved Unresolved,0

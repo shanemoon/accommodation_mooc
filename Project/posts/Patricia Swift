@@ -1,0 +1,1 @@
+Sunday September 15th 2013 3:19 pm -04:00,Im not sure what the rest of your code looks like but a zero-length sequence is an empty string and if thats the argument thats passed to the get_complementary_sequence function it should return an empty string.  It looks like your code would instead return Invalid input., Resolved,0

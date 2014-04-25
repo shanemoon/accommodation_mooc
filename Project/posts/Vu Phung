@@ -1,0 +1,7 @@
+Monday August 19th 2013 12:18 am -04:00,During the lecture of variable. I ran the code for the area of triangle.My issue was that the area variable didnt refer to the new values I assigned to the base and height variablesExample>>>base = 20>>>height = 12>>>area = base * height/2>>>area>>>120.0>>>base = 2.5>>>height = 7>>>area>>>120.0The variable area still points to base = 20 and  height =12. Unless I rewrite this line >>>area = base * height/2 after I assigned the new values to the base and height, Resolved,0
+Monday August 19th 2013 12:23 am -04:00,never mind this post I figure out that the area never really points to the new memory address of base and height so you have have to rewrite area = base * height /2, Resolved,0
+Sunday August 25th 2013 11:05 pm -04:00,Thank You, Pinned Approved Resolved,0
+Wednesday August 28th 2013 2:41 am -04:00,is None same thing as NULL in other programming language like C++ for example?, Resolved,2
+Wednesday August 28th 2013 6:48 am -04:00,I was wondering how the mode operator works when you have a negative number mod by a positive numberfor example:-5 % 4 or -1% 23, Resolved,0
+Thursday August 29th 2013 5:28 pm -04:00,Thank you, Resolved,1
+Thursday August 29th 2013 5:30 pm -04:00,I understand much better now from kevin eugensson link above, Resolved,0

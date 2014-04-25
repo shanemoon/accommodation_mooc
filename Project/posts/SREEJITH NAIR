@@ -1,0 +1,13 @@
+Saturday August 24th 2013 4:37 am -04:00,Since this post is about memory locations i would like to know what is max memory available in phython.......because when i tried to find out the memory address of one of my variable it came 505910864...., Resolved,0
+Saturday August 31st 2013 11:25 am -04:00,def sum(number1 number2):    print(number1 + number2)result = sum(13)The ans should have been 4 i suppose...Please suggest, Unresolved,0
+Monday September 2nd 2013 7:14 am -04:00,Abdella n Yergali  please look into the comments below for a clear explanation, Unresolved,0
+Sunday September 1st 2013 3:04 am -04:00,Yes true ..but when we make function call like result = sum(1 3) then when we press enter shouldnt we get 4 as it qould be just executing the Print stmnt irrespective of the fact that if there is a return statement or not??, Unresolved,0
+Sunday September 1st 2013 10:23 am -04:00,Thanks... I got it now, Unresolved,0
+Monday September 2nd 2013 12:50 am -04:00,yes true...the get part used by Michael was really helpful .........Thanks a lot !!!!!!, Unresolved,0
+Monday September 9th 2013 3:45 am -04:00,The problem summary:The ans to quiz 2 in type bool video is true .When i  typed true it gave me a incorrect ans & when in  wrote True it gave me correct.So is it that it was expecting the ans as in phython idle or what??please help, Resolved,1
+Tuesday September 10th 2013 2:21 am -04:00,Thanks a lot Alain...., Resolved,0
+Sunday September 15th 2013 3:54 am -04:00,                  def count_vowels(s):(str)-> int>>>count_vowels(Hi there)>>>3     num_vowels=0     for char in s:          if char in aeiouAEIOU:               num_vowels=num_vowels+1                    return num_vowels                    I am continuously getting expect an indent block error. Please help, Unresolved,0
+Sunday September 15th 2013 7:48 am -04:00,Thanks a lot Nick........just skipped of my mind...thanks , Unresolved,0
+Wednesday October 2nd 2013 3:03 am -04:00,does in pyhton every variable is automatically initialized to 0??, Unresolved,0
+Wednesday October 2nd 2013 9:33 am -04:00,well Nick thanks... I know the variable has to be created before initialization comes into picture.......i was asking about initialization in a context like>>>for i in range(10):       print(i) 0 1 2 3 4 5 6 7 8 9where i starts with 0..........it does happen in case of for loop I suppose, Unresolved,0
+Thursday October 3rd 2013 12:16 am -04:00,Thanks  Adrian!!!! i got it  know, Unresolved,0

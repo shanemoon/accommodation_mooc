@@ -1,0 +1,1 @@
+Monday September 9th 2013 3:04 pm -04:00,Hi bothI think you need to re-read the question more carefully; Your answer must be a single expression that does not use square brackets (string indexing and slicing) and you can only call method str.find and use the arithmetic operators (+ - etc.).Hope this helps!, Resolved,4

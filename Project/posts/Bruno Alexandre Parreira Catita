@@ -1,0 +1,6 @@
+Thursday September 5th 2013 7:07 pm -04:00,bruno.catita93@gmail.comThank you :), Pinned Approved,0
+Tuesday September 3rd 2013 9:13 am -04:00,Hey guys I got the equation to solve the problem but no matter what I do I cant get the minutes to stay  <=0 and <=59If I choose 3661 seconds this is what happens:    >>>get_minutes(3661)    61Instead of giving me 1 minute it gives me 61!Help please? Thank you!  , Unresolved,0
+Tuesday September 3rd 2013 9:28 am -04:00,hm... imagine that you are given this number of seconds:2548562457852156985632478963214how do you play around with // and % in this particulary case?, Unresolved,0
+Tuesday September 3rd 2013 9:59 am -04:00,Already got it to work thanks Francis ;), Unresolved,1
+Tuesday September 3rd 2013 9:33 am -04:00,Francis I got it! thank you ;D, Unresolved,0
+Tuesday September 3rd 2013 9:34 am -04:00,But it still dont give me the full score -.-, Unresolved,0

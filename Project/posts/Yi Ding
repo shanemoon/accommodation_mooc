@@ -1,0 +1,5 @@
+Tuesday September 10th 2013 6:39 pm -04:00,The for look in python char will be defined in memory.Also python is not like other language like C or Java you dont need to define it first you just need to make it exist in memory before you read it., Resolved,0
+Tuesday September 10th 2013 3:26 pm -04:00,I think for this assignment as long as you know two facts:1 Any DNA sequence is composed of A G T C only. (Case-sensitive)2 A and G are complementary to each other C and G are complementary to each other., Resolved,0
+Tuesday September 10th 2013 3:29 pm -04:00,Thanks for your correction., Resolved,0
+Tuesday September 10th 2013 3:23 pm -04:00,Have you define your function get_complementary_sequence(sequence)?, Resolved,0
+Tuesday September 10th 2013 6:45 pm -04:00,If s1 = bcaade s2 = aThe correct answer would be 3 yours will be -1 which means Not Found, Unresolved,1

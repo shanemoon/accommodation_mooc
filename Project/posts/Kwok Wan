@@ -1,0 +1,2 @@
+Sunday September 1st 2013 10:10 pm -04:00,Thats exactly the same error I get for my get_hours function and Ive tested it out with large inputs also. If it is a coding error I have no idea how else to alter the code that would get the same thing. , Resolved,0
+Monday September 2nd 2013 6:57 am -04:00,Ah! I just read the assignment again the table says the hours needs to be seen as seen on a 24-hour clock. I missed that part thanks!, Resolved,1

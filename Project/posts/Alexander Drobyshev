@@ -1,0 +1,2 @@
+Saturday September 7th 2013 3:12 pm -04:00,Have a similar magic:)>>> def add(v1v2):	sum= v1+v2	return sum>>>  add(12) SyntaxError: unexpected indentAnd next attempt(it was a copy-paste of code only add(xy) i was typing manually):>>> def add(v1v2):	sum= v1+v2	return sum>>> add(13)4I dont know why its so?, Unresolved,0
+Sunday September 8th 2013 1:16 am -04:00,Today its works without any problems.Placing <space> before add(12) will return unexpected indent.Maybe yesterday i did something wrong., Unresolved,0

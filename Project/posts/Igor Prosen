@@ -1,0 +1,8 @@
+Sunday September 1st 2013 6:39 pm -04:00,Pozdrav svima.. evo tek sada sam vidio ovaj postI ja sam iz Hrvatske...,None,1
+Sunday September 1st 2013 6:57 pm -04:00,Jeste li predali prvi assigment ??meni je dao 38/41...  prijavljuje mi neke greske.. i uopce ne razumijem u cemu je fora..sve sto mi je napisao da mi je greska.. kada testiram meni radi ok..,None,0
+Sunday September 1st 2013 7:22 pm -04:00,Summary: test_hours_difference (student)tu mi prijavljuje neke greskeostalo je sve tocno,None,0
+Sunday September 1st 2013 7:24 pm -04:00,student: test_hours_difference.TestHoursDifference.test_time_1_much_larger_than_time_2student: test_hours_difference.TestHoursDifference.test_time_1_much_smaller_than_time_2student: test_hours_difference.TestHoursDifference.test_time_1_slightly_larger_than_time_2student: test_hours_difference.TestHoursDifference.test_time_1_slightly_smaller_than_time_2Ove 4...,None,0
+Sunday September 1st 2013 8:22 pm -04:00,>>> hours_difference(1800.0 1800.00001)0.0>>> hours_difference(1800.0 860000000000.0)238888888.4>>> ovo mi izbaci,None,0
+Sunday September 1st 2013 8:34 pm -04:00,Pa ja sam mislio da i jest fora da ubacimo round funkciju unutra.. I gledam.. sve mi savrseno radi ( na jednu decimalu jer sam koristio round(hours 1))skinuo sam round i sada je 42/41Hvala ti puno na pomoci..,None,2
+Monday September 2nd 2013 3:43 am -04:00,Ako netko hoce.. nek me doda na skypeuvijek si mozemo pomoci medjusobno oko assigmentamislim da ce sljedeci biti malo veseliji :)moj skype je  : iprosen,None,1
+Sunday September 1st 2013 7:47 pm -04:00,I can test that.. it works fine....>>> >>> get_hours(300800)11>>> , Resolved,0

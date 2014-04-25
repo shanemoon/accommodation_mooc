@@ -1,0 +1,7 @@
+Tuesday September 10th 2013 4:31 pm -04:00,we cannot use minus in strings? Python replys TypeError: unsupported operand type(s) for -: str and str to this., Resolved,0
+Tuesday September 10th 2013 5:00 pm -04:00,Thanks your illustration is helpful for me., Resolved,0
+Monday September 23rd 2013 8:52 pm -04:00,In the shif_left() function the stop value should be len(L) or len(L)-1?Why i in the for loop wouldl not go to the value 4 since len(L) == 4?, Resolved,1
+Monday September 23rd 2013 8:57 pm -04:00,I got to know why...Sorry for bother the others.=), Resolved,0
+Monday September 23rd 2013 11:26 pm -04:00,Hi range will not run the stop value. It will stop just before len (L) so i would be 3 in this case., Resolved,1
+Tuesday September 24th 2013 2:31 pm -04:00,It does help me Thanks!=), Resolved,1
+Tuesday September 24th 2013 2:34 pm -04:00,Thanks a lot! Its good to know len(L)-1 will also provent an Error in Phthon. I really appreciate your help.=), Resolved,0

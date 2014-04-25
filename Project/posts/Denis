@@ -1,0 +1,14 @@
+Saturday September 28th 2013 6:27 pm -04:00,1. When you return new_variable it is the same as it was in the beginning of the code;2. Looks like you are trying to modify elements of the list of lists (which are lists them selves) in some weird way (by adding str with int);3. The number of lines in your code is correct though (for operator you are using);Imagine how would assemble a word out of letters. The word in this case is obviously the return value of your function you just need understand how to represent letters in your code. Or you can just use method suggested above. , Resolved,0
+Saturday September 28th 2013 6:30 pm -04:00,Open IDLE Ctrl+O -> choose your file.Be more specific about your problem please., Unresolved,0
+Saturday September 28th 2013 7:19 pm -04:00,I am assuming you have difficulties with the last two functions of the assignment?One of the ways to deal with read_words function would be to read its parameter line by line and append those lines to an initially empty list discarding the last character of each line () along the way. Then return resulting list.read_board is different in sense that you need to represent each line as a list of characters (again without new_line character) and then append that list to the list your function will return., Unresolved,0
+Saturday September 28th 2013 7:47 pm -04:00,You dont need to open the file but you need to reed it. You can read it in the loop., Unresolved,0
+Saturday September 28th 2013 6:37 pm -04:00,Check your last two functions., Unresolved,0
+Saturday September 28th 2013 6:32 pm -04:00,Guys you need to describe those error messages., Resolved,0
+Saturday September 28th 2013 7:30 pm -04:00,What are the error messages you r getting?, Resolved,0
+Saturday September 28th 2013 7:58 pm -04:00,@RyanWhat are your conditions in the loop? Note index of last char in string/list is less then the length of that string/list.@Agni check what you return when you assess if the word is in a row and in column functions. That should be either True or False (in proper cases)., Resolved,0
+Saturday September 28th 2013 8:18 pm -04:00,What do you return in update score?, Resolved,0
+Saturday September 28th 2013 8:37 pm -04:00,#56 - print len of your result and see if that makes sense., Resolved,0
+Saturday September 28th 2013 8:38 pm -04:00,4 Should NOT return any values only modify the list.Regarding read_board check you variables in the loop.I dont know if it is a violation to post a not working code in a question..?, Resolved,0
+Saturday September 28th 2013 9:05 pm -04:00,@Ryan Glad you fixed it., Resolved,0
+Saturday September 28th 2013 10:31 pm -04:00,Whats the length of the list you return in read_words with wordlist1.txt?, Resolved,0
+Saturday September 28th 2013 6:59 pm -04:00,Can you describe how youve imlemented that function?, Unresolved,0

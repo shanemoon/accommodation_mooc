@@ -1,0 +1,1 @@
+Monday September 9th 2013 12:55 pm -04:00,Another vote for this happened to me too! Seems someone defined the function as:def late_assignment(time_submitted deadline):    (number number) -> Str    Return pass if time_submitted < deadline and late if time_submitted >= deadline    deadline = 8:59:00deadline should be 9:00:00 !!!, Resolved,0

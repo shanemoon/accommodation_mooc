@@ -1,0 +1,5 @@
+Sunday September 22nd 2013 6:51 pm -04:00,use the count method of a string to fix it, Resolved,0
+Monday September 23rd 2013 12:33 pm -04:00,resolved, Unresolved,0
+Monday September 23rd 2013 11:30 am -04:00,GuysI still get only 23/24 failing an empty string check in my get_complementary function. This is my error check for empty strings:    if s ==   or s == :        print (Empty sequence. Please enter a valid dna sequence)        return    else:        <RUN deleted FUNCTION CODE>        return seqWhere do I go wrong?  It works just fine in IDLE.PS: I also tried return   return False return .Thank you for your cooperation!, Unresolved,1
+Monday September 23rd 2013 11:40 am -04:00,Im thinking that over... but I dont yet understand why return does not resolve this matter?, Unresolved,0
+Monday September 23rd 2013 11:57 am -04:00,I changed it to:    if s ==   or s == :        seq=        return seqand I got 24/24.... but Im still wondering..., Unresolved,0

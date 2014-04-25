@@ -1,0 +1,1 @@
+Saturday August 31st 2013 2:02 am -04:00,def even_bigger(x):    return (2 * x) ** xeven_bigger(12)when i execute this one in idle i got syntax error...anybody help me with this..., Resolved,0

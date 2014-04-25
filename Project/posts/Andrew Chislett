@@ -1,0 +1,1 @@
+Wednesday August 28th 2013 4:57 pm -04:00,The function is named seconds_difference. But when you say...return seconds_difference(time_2 - time_1)...you are trying to call a function inside itself which doesnt make sense! Try dropping that part and simply return some math based on the parameters only... , Unresolved,2

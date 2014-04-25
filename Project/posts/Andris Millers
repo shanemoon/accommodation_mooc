@@ -1,0 +1,1 @@
+Sunday September 8th 2013 2:23 pm -04:00,Guys! I  really cant figure out how to define x correctly on Python Shell. Just want to make some practical testing. Here is what I get when I just copy and paste it:>>> 3 <= x < 10Traceback (most recent call last):  File  line 1 in     3 <= x < 10NameError: name x is not defined, Resolved,0

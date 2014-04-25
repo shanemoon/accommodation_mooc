@@ -1,0 +1,12 @@
+Sunday September 1st 2013 1:16 pm -04:00,41 on Saturday 42 on Sunday. Yay!!!, Resolved,0
+Sunday September 1st 2013 1:22 pm -04:00,I absolutely love how you can post partial code and get instant feedback all along. Jennifer and Paul brilliant idea!!!!!!!!, Resolved,2
+Sunday September 15th 2013 12:35 pm -04:00,Leya Rennert-May You have misused == Also if you set dna =   there are are no chars so it never goes into the loop.try a different variable name as in complement =    then for char in dna ...complement = compliment + A etc.... return complement, Resolved,0
+Sunday September 15th 2013 1:12 pm -04:00,You have an if statement but no code to execute when if condition is met.Did you mean  if char in... then is_valid is trueelse is_valid is  false ?, Unresolved,0
+Sunday September 15th 2013 12:44 pm -04:00,You dont need an if statement at allnew =  for char in dna;    new = new + get_complement(char) , Unresolved,1
+Sunday September 15th 2013 1:14 pm -04:00,The one hour thing has now been lifted. After you submit hit the back button on your browser. The submit page will be there again with your score details., Unresolved,0
+Sunday September 15th 2013 12:40 pm -04:00,error because should be print(A)but you should return A not print it, Resolved,0
+Sunday September 15th 2013 1:03 pm -04:00,Print is DEFINITELY not the same as return, Resolved,0
+Sunday September 15th 2013 12:38 pm -04:00,why dont you return false and exit the loop as soon as you the very first char thats not valid?, Resolved,0
+Wednesday September 18th 2013 11:35 pm -04:00,The auto grader is NOT look for any function call get_complementary.You must write name them get_complement() and get_complementary_sequence().Make sure your get_complement() shows SUCCESS in your feedback details, Unresolved,0
+Saturday September 28th 2013 10:52 am -04:00,I am getting corrected immediately. After submitting I hit the back button on my browser and the score and details are there.I submit after ever function definition.If you have 27 then you are almost there. Are you at update_score?For the last 2 function defs be sure to read the type contract.J, Unresolved,0
+Saturday September 28th 2013 11:00 am -04:00,Yes your code returns False if the word is not in the first column.I am confused about the syntax len(board). Did you mean len(board[0])?, Resolved,0

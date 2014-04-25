@@ -1,0 +1,3 @@
+Tuesday August 27th 2013 11:09 am -04:00,def sum(number1 number2):    print(number1 + number2)result = sum(1 3)It should print nothing. But on my computer it prints 4......Thats so werid..The editon of my python is 3.2.3., Resolved,2
+Tuesday August 27th 2013 12:08 pm -04:00,Thank you so much~~, Resolved,0
+Tuesday August 27th 2013 12:36 pm -04:00,>>> def sum(number1 number2):	return number1 + number2>>> result = sum(1 3)>>> new_result = result + 1>>> new_result5>>> Its correct. , Resolved,0

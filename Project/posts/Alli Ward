@@ -1,0 +1,3 @@
+Friday October 4th 2013 5:41 pm -04:00,I was having trouble with this too because the autograder was giving me 0/37 for using tkinter stuff in my a3.py file. I just deleted that part. Dont worry about opening a file just write the code as if you have a file open for reading. , Unresolved,0
+Friday October 4th 2013 5:19 pm -04:00,I tested all my functions in the shell and they all work. When I submit my a3.py file I still get a score of 0/37. What am I missing?, Resolved,0
+Friday October 4th 2013 6:14 pm -04:00,Ah I see those are already in a3_driver. Thanks., Resolved,0

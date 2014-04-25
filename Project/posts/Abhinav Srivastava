@@ -1,0 +1,3 @@
+Sunday September 22nd 2013 1:05 am -04:00,HiI scored 18 in Assignment 2 could someone please let me know how to check for my errors in the code?It will help me better my self for later assignments.RegardsAbhinav, Unresolved,0
+Wednesday September 25th 2013 3:25 pm -04:00,But I am not able to understand how can we update without knowing the players name. I did was:for i in player_info:          if i[0]==<something>:                   i[1]+=word_score(word)what to do with <something> or am I understanding it in a wrong fashion???, Unresolved,1
+Wednesday September 25th 2013 3:36 pm -04:00,I misunderstood it totally...thanks for helping guys..:), Unresolved,0

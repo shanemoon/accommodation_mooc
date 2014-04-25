@@ -1,0 +1,2 @@
+Wednesday August 21st 2013 11:29 pm -04:00,The problem summary:Whenever I try to use the divide function it rounds to the nearest whole number. Running windows 8 64bit with 32bit IDLE Steps to reproduce:Type 7 / 3 It reponds with 2Screenshot:, Resolved,1
+Thursday August 22nd 2013 12:16 am -04:00,Yep I had 2.73 installed for a program for my physics class. Upgraded and now it worked. Thanks for the quick response!, Resolved,0

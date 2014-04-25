@@ -1,0 +1,2 @@
+Saturday August 31st 2013 7:29 am -04:00,Thank you for giving advice. , Pinned Resolved,2
+Sunday September 15th 2013 3:02 am -04:00,My code for get_complement is p=    if s is A:        p = T    elif s is T:        p= A    elif s is C:        p = G    elif s is G:        p = C    return p , Unresolved,0

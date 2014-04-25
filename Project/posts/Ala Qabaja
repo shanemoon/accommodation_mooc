@@ -1,0 +1,2 @@
+Monday September 16th 2013 1:21 am -04:00,Can you please post your code so that people might be able to help you !, Unresolved,0
+Sunday September 29th 2013 1:29 am -04:00,I guess you are making more complicated than it should be. What do you need is to define an empty list at the beginning iterate over lines in the file and append each line to your list. Try doing this in your code:List_words=        for line in words_file:        List_words.append(line.strip())    return List_words , Unresolved,1

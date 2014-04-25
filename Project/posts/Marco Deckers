@@ -1,0 +1,4 @@
+Sunday September 1st 2013 1:26 pm -04:00,Hallo allenLes 1 & 2 zitten erop.De opbouw van de cursus ziet er strak uit !Op naar les 3... suc6 iedereen.,None,0
+Saturday August 31st 2013 1:13 pm -04:00,Using single quotes 2 times at the beginning and again 2 times at the end gives this error.When using IDLE you see if the syntax is ok this is done by different colors.sunny_greetings =           -> should have a black colorWhat a beautiful day!   -> this part has the color greenSo always check the colors when typing a line in IDLE :)  Grtz., Resolved,1
+Sunday September 1st 2013 1:16 pm -04:00,It takes up to 4 hours after a submit.You have to be patient it works ;) , Resolved Locked,0
+Sunday September 1st 2013 1:13 pm -04:00,You forgot the  at the beginning and at the end !!!def seconds_difference(time_1 time_2): (number number)-> number<bla...bla...bla... - type here the doc-strings>return xxxxxxxxxxxxx, Resolved,1

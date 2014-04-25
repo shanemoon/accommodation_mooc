@@ -1,0 +1,2 @@
+Monday September 30th 2013 1:30 pm -04:00,I get the same result. Im sure Im overlooking something but Im ready to  punch my monitor., Resolved,0
+Monday September 30th 2013 2:20 pm -04:00,James I found that my problem was that I was writing the code for readwords into idle then trying to run it in the shell.If you run it just in the shell you should be able to figure out the code and then write it in idle.I feel like an idiot and being sick at the moment is not helping., Resolved,0

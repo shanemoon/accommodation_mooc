@@ -1,0 +1,1 @@
+Tuesday September 24th 2013 4:07 pm -04:00,Can I assume that words from the wordlist occur on the board at most once? What should num_words_on_board([[AN][NA]][AN])return? (1 or 2), Resolved,1

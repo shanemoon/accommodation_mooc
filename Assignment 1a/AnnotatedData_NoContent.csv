@@ -1,0 +1,966 @@
+line,parent,turnlabel,Session,Condition,user,len,Offtask,Cheating,AT,Reas,Trans,Neg,Het
+0,-1,str0,A,ns,Tutor,0,no,no,no,no,no,k1,m
+1,0,str1,A,ns,Tutor,0,no,no,no,no,no,a1,m
+2,1,str2,A,ns,s001       ,0,no,no,no,no,no,k1,m
+3,2,str3,A,ns,Tutor,0,no,no,no,no,no,a2,he
+4,3,str4,A,ns,Tutor,0,no,no,no,no,no,a2,he
+5,4,str5,A,ns,Tutor,0,no,no,no,no,no,a2,he
+6,5,str6,A,ns,Tutor,0,no,no,no,no,no,k1,m
+7,6,str7,A,ns,s001       ,0,no,no,no,no,no,o,na
+8,7,str8,A,ns,Tutor,0,no,no,no,no,no,a2,he
+9,8,str9,A,ns,Tutor,0,no,no,no,reas,ex,k1,m
+10,9,str10,A,ns,Tutor,0,no,no,no,no,no,a2,he
+11,10,str11,A,ns,Tutor,0,no,no,no,no,no,a2,m
+12,11,str12,A,ns,Tutor,0,no,no,no,no,no,a2,m
+13,12,str13,A,ns,Tutor,0,no,no,no,no,no,a2,m
+14,13,str14,A,ns,Tutor,0,no,no,no,no,no,a2,m
+15,14,str15,A,ns,s001       ,0,no,no,no,reas,ex,k1,he
+16,15,str16,A,ns,Tutor,0,no,no,no,no,no,k2,na
+17,16,str17,A,ns,Tutor,0,no,no,no,no,no,a2,he
+18,17,str18,A,ns,Tutor,0,no,no,no,no,no,a2,he
+19,18,str19,A,ns,Tutor,0,no,no,no,no,no,o,m
+20,19,str20,A,ns,Tutor,0,no,no,no,no,no,o,he
+21,20,str21,A,ns,s001       ,0,no,no,no,no,no,o,he
+22,21,str22,A,ns,s002       ,0,no,no,no,no,no,k2,na
+23,22,str23,A,ns,s006       ,0,no,no,no,no,no,k1,m
+24,23,str24,A,ns,Tutor,0,no,no,no,reas,ex,k1,m
+25,24,str25,A,ns,Tutor,0,no,no,no,no,no,a2,he
+26,25,str26,A,ns,Tutor,0,no,no,no,no,no,a2,m
+27,26,str27,A,ns,s010       ,0,no,no,no,reas,ex,k1,m
+28,27,str28,A,ns,s010       ,0,no,no,no,no,no,k1,m
+29,28,str29,A,ns,s006       ,0,no,no,no,no,no,k2,na
+30,29,str30,A,ns,s006       ,0,no,no,no,no,no,o,he
+31,30,str31,A,ns,s010       ,0,no,no,no,no,no,k1,m
+32,31,str32,A,ns,s010       ,0,no,no,no,no,no,o,he
+33,32,str33,A,ns,Tutor,0,no,no,no,no,no,a2,m
+34,33,str34,A,ns,Tutor,0,no,no,no,no,no,a2,m
+35,34,str35,A,ns,Tutor,0,no,no,no,no,no,a2,m
+36,35,str36,A,ns,s002       ,0,no,no,no,reas,ex,k1,m
+37,36,str37,A,ns,s006       ,0,no,no,no,no,no,k2,na
+38,37,str38,A,ns,s006       ,0,no,no,no,no,no,o,na
+39,38,str39,A,ns,Tutor,0,no,no,no,no,no,k2,na
+40,39,str40,A,ns,s006       ,0,no,no,no,no,no,k2,na
+41,40,str41,A,ns,s010       ,0,no,no,no,no,no,k2,na
+42,41,str42,A,ns,s006       ,0,no,no,no,no,no,k1,m
+43,42,str43,A,ns,Tutor,0,no,no,no,no,no,o,m
+44,43,str44,A,ns,Tutor,0,no,no,no,no,no,o,he
+45,44,str45,A,ns,s010       ,0,no,no,no,no,no,o,na
+46,45,str46,A,ns,s002       ,0,no,post,no,no,no,k1,m
+47,46,str47,A,ns,s002       ,0,no,post,no,no,no,k1,m
+48,-1,str48,A,ind,Tutor,0,no,no,no,no,no,a2,m
+49,48,str49,A,ind,Tutor,0,no,no,no,no,no,a1,he
+50,49,str50,A,ind,s003      ,0,no,no,no,no,no,k1,m
+51,50,str51,A,ind,Tutor,0,no,no,no,no,no,k2,m
+52,51,str52,A,ind,s011       ,0,no,no,no,no,no,k1,m
+53,52,str53,A,ind,Tutor,0,no,no,no,no,no,a2,he
+54,53,str54,A,ind,Tutor,0,no,no,no,no,no,a2,he
+55,54,str55,A,ind,Tutor,0,no,no,no,no,no,a2,he
+56,55,str56,A,ind,Tutor,0,no,no,no,no,no,a2,he
+57,56,str57,A,ind,s003      ,0,pre,no,no,no,no,k2,na
+58,57,str58,A,ind,Tutor,0,no,no,no,no,no,a2,he
+59,58,str59,A,ind,Tutor,0,no,no,no,no,no,k1,m
+60,59,str60,A,ind,Tutor,0,no,no,no,no,no,a2,he
+61,60,str61,A,ind,s007       ,0,no,no,no,reas,ex,k1,m
+62,61,str62,A,ind,Tutor,0,no,no,no,no,no,a2,he
+63,62,str63,A,ind,s011       ,0,no,no,at,no,no,a2,he
+64,63,str64,A,ind,Tutor,0,no,no,no,reas,ex,k1,m
+65,64,str65,A,ind,Tutor,0,no,no,no,no,no,a2,he
+66,65,str66,A,ind,s007       ,0,no,no,no,reas,tr,k1,m
+67,66,str67,A,ind,Tutor,0,no,no,no,no,no,a2,he
+68,67,str68,A,ind,s003      ,0,no,no,no,no,no,o,m
+69,68,str69,A,ind,Tutor,0,no,no,no,no,no,a2,m
+70,69,str70,A,ind,s003      ,0,no,no,no,no,no,k2,na
+71,70,str71,A,ind,Tutor,0,no,no,no,no,no,a2,m
+72,71,str72,A,ind,Tutor,0,no,no,no,no,no,a2,m
+73,72,str73,A,ind,Tutor,0,no,no,no,no,no,a2,m
+74,73,str74,A,ind,s003      ,0,no,no,no,no,no,k2,na
+75,74,str75,A,ind,s011       ,0,no,no,no,no,no,k2,m
+76,75,str76,A,ind,s007       ,0,no,no,no,no,no,a1,m
+77,76,str77,A,ind,s003      ,0,pre,no,no,no,no,k2,na
+78,77,str78,A,ind,s011       ,0,pre,no,no,no,no,k2,m
+79,78,str79,A,ind,s003      ,0,pre,no,no,no,no,k1,m
+80,79,str80,A,ind,s011       ,0,pre,no,no,no,no,k2,na
+81,80,str81,A,ind,Tutor,0,no,no,no,no,no,k2,na
+82,81,str82,A,ind,Tutor,0,no,no,no,no,no,a2,m
+83,82,str83,A,ind,Tutor,0,no,no,no,no,no,a2,he
+84,83,str84,A,ind,Tutor,0,no,no,no,no,no,o,m
+85,84,str85,A,ind,Tutor,0,no,no,no,no,no,o,he
+86,85,str86,A,ind,s007       ,0,no,no,no,no,no,k2,m
+87,86,str87,A,ind,s011       ,0,no,no,no,no,no,o,m
+88,87,str88,A,ind,s011       ,0,no,no,no,no,no,k2,na
+89,88,str89,A,ind,s003      ,0,no,no,no,no,no,o,he
+90,89,str90,A,ind,s007       ,0,no,post,no,reas,ex,k1,he
+91,90,str91,A,ind,s003      ,0,post,no,no,no,no,k2,na
+92,91,str92,A,ind,s011       ,0,no,no,no,no,no,k1,he
+93,92,str93,A,ind,s003      ,0,post,no,no,no,no,k1,hc
+94,93,str94,A,ind,s007       ,0,post,no,no,no,no,k1,m
+95,94,str95,A,ind,s011       ,0,post,no,no,no,no,k2,na
+96,95,str96,A,ns,s004       ,0,no,no,no,no,no,k2,na
+97,96,str97,A,ns,s008       ,0,no,no,no,no,no,k2,na
+98,-1,str98,A,ns,Tutor,0,no,no,no,no,no,a2,m
+99,98,str99,A,ns,s012       ,0,no,no,no,no,no,k2,na
+100,99,str100,A,ns,Tutor,0,no,no,no,no,no,a1,he
+101,100,str101,A,ns,Tutor,0,no,no,no,no,no,a2,he
+102,101,str102,A,ns,s008       ,0,no,no,no,no,no,k2,na
+103,102,str103,A,ns,Tutor,0,no,no,no,no,no,a2,he
+104,103,str104,A,ns,Tutor,0,no,no,no,no,no,k1,m
+105,104,str105,A,ns,Tutor,0,no,no,no,no,no,a2,he
+106,105,str106,A,ns,s008       ,0,no,no,no,no,no,k2,na
+107,106,str107,A,ns,Tutor,0,no,no,no,no,no,a2,he
+108,107,str108,A,ns,Tutor,0,no,no,no,no,no,a2,he
+109,108,str109,A,ns,s012       ,0,no,no,no,no,no,k1,m
+110,109,str110,A,ns,s008       ,0,no,no,no,no,no,k2,m
+111,110,str111,A,ns,Tutor,0,no,no,no,no,no,k1,m
+112,111,str112,A,ns,s012       ,0,no,no,no,no,no,k1,m
+113,112,str113,A,ns,Tutor,0,no,no,no,no,no,a2,he
+114,113,str114,A,ns,s008       ,0,pre,no,no,no,no,o,na
+115,114,str115,A,ns,s004       ,0,pre,no,no,no,no,a2,m
+116,115,str116,A,ns,s012       ,0,pre,no,no,no,no,k1,m
+117,116,str117,A,ns,s012       ,0,pre,no,no,no,no,k2,na
+118,117,str118,A,ns,s012       ,0,pre,no,no,no,no,k2,na
+119,118,str119,A,ns,s008       ,0,pre,no,no,no,no,k1,he
+120,119,str120,A,ns,s012       ,0,pre,no,no,no,no,o,na
+121,120,str121,A,ns,s004       ,0,no,no,no,reas,ex,k2,he
+122,121,str122,A,ns,s012       ,0,no,no,no,no,no,k1,he
+123,122,str123,A,ns,s004       ,0,no,no,no,no,no,o,na
+124,123,str124,A,ns,s008       ,0,no,no,no,no,no,k2,m
+125,124,str125,A,ns,Tutor,0,no,no,no,no,no,k1,m
+126,125,str126,A,ns,Tutor,0,no,no,no,no,no,a2,he
+127,126,str127,A,ns,s008       ,0,no,no,no,no,no,o,he
+128,127,str128,A,ns,s012       ,0,no,no,no,no,no,o,na
+129,128,str129,A,ns,s008       ,0,no,no,no,no,no,o,he
+130,129,str130,A,ns,s008       ,0,no,no,no,no,no,o,na
+131,130,str131,A,ns,Tutor,0,no,no,no,no,no,a2,he
+132,131,str132,A,ns,Tutor,0,no,no,no,no,no,a2,m
+133,132,str133,A,ns,Tutor,0,no,no,no,no,no,a2,m
+134,133,str134,A,ns,Tutor,0,no,no,no,no,no,a2,m
+135,134,str135,A,ns,s004       ,0,no,no,no,no,no,o,na
+136,135,str136,A,ns,s008       ,0,no,no,no,no,no,o,na
+137,136,str137,A,ns,s004       ,0,pre,no,no,no,no,k2,na
+138,137,str138,A,ns,s012       ,0,pre,no,no,no,no,k1,he
+139,138,str139,A,ns,s012       ,0,pre,no,no,no,no,o,na
+140,139,str140,A,ns,s012       ,0,no,no,no,no,no,k2,na
+141,140,str141,A,ns,s008       ,0,pre,no,no,no,no,k1,he
+142,141,str142,A,ns,s012       ,0,pre,no,no,no,no,a1,he
+143,142,str143,A,ns,s008       ,0,pre,no,no,no,no,o,hc
+144,143,str144,A,ns,s004       ,0,no,no,no,no,no,k1,m
+145,144,str145,A,ns,s012       ,0,no,pre,no,no,no,k2,na
+146,145,str146,A,ns,s004       ,0,no,pre,no,no,no,k1,m
+147,146,str147,A,ns,s004       ,0,no,no,no,no,no,o,na
+148,147,str148,A,ns,s012       ,0,no,no,no,no,no,o,he
+149,148,str149,A,ns,s008       ,0,no,no,no,reas,ex,k1,he
+150,149,str150,A,ns,s012       ,0,no,no,no,reas,tr,k1,m
+151,150,str151,A,ns,s012       ,0,no,no,no,no,no,o,m
+152,151,str152,A,ns,s008       ,0,no,no,no,no,no,o,na
+153,152,str153,A,ns,Tutor,0,no,no,no,no,no,k2,na
+154,153,str154,A,ns,s004       ,0,no,no,no,no,no,k1,m
+155,154,str155,A,ns,Tutor,0,no,no,no,no,no,a2,m
+156,155,str156,A,ns,s008       ,0,no,no,no,no,no,k2,na
+157,156,str157,A,ns,Tutor,0,no,no,no,no,no,a2,he
+158,157,str158,A,ns,Tutor,0,no,no,no,no,no,o,m
+159,158,str159,A,ns,Tutor,0,no,no,no,no,no,o,he
+160,159,str160,A,ns,s008       ,0,no,no,no,no,no,o,m
+161,160,str161,A,ns,s012       ,0,no,no,no,no,no,o,he
+162,161,str162,A,ns,s008       ,0,no,no,no,no,no,k2,m
+163,162,str163,A,ns,s008       ,0,no,no,no,no,no,o,m
+164,163,str164,A,ns,s012       ,0,no,no,no,no,no,k1,m
+165,164,str165,A,ns,s012       ,0,no,no,no,no,no,k1,m
+166,165,str166,A,ns,s008       ,0,no,no,no,no,no,o,he
+167,166,str167,A,ns,s008       ,0,no,no,no,no,no,k2,na
+168,167,str168,A,ns,s012       ,0,post,no,no,no,no,k1,m
+169,168,str169,A,ns,s008       ,0,post,no,no,no,no,o,he
+170,169,str170,A,ns,s008       ,0,post,no,no,no,no,a1,m
+171,-1,str171,B,dir,Tutor,0,no,no,no,no,no,k1,m
+172,171,str172,B,dir,Tutor,0,no,no,no,no,no,a1,he
+173,172,str173,B,dir,Tutor,0,no,no,no,no,no,k2,m
+174,173,str174,B,dir,Tutor,0,no,no,no,no,no,a2,he
+175,174,str175,B,dir,Tutor,0,no,no,no,no,no,a2,he
+176,175,str176,B,dir,Tutor,0,no,no,no,no,no,a2,he
+177,176,str177,B,dir,Tutor,0,no,no,no,no,no,a2,he
+178,177,str178,B,dir,Tutor,0,no,no,no,no,no,a2,he
+179,178,str179,B,dir,Tutor,0,no,no,no,no,no,k1,m
+180,179,str180,B,dir,Tutor,0,no,no,no,no,no,a2,he
+181,180,str181,B,dir,s020       ,0,pre,no,no,no,no,k1,m
+182,181,str182,B,dir,s022       ,0,pre,no,no,no,no,k1,m
+183,182,str183,B,dir,s021       ,0,no,no,no,no,no,k2,he
+184,183,str184,B,dir,Tutor,0,no,no,no,reas,ex,k1,m
+185,184,str185,B,dir,Tutor,0,no,no,no,no,no,a2,he
+186,185,str186,B,dir,s021       ,0,no,no,no,reas,ex,k1,he
+187,186,str187,B,dir,Tutor,0,no,no,at,no,no,k2,na
+188,187,str188,B,dir,s020       ,0,no,no,no,reas,ex,k1,he
+189,188,str189,B,dir,Tutor,0,no,no,at,no,no,k2,na
+190,189,str190,B,dir,Tutor,0,no,no,no,no,no,a2,m
+191,190,str191,B,dir,s021       ,0,no,no,no,reas,tr,k1,he
+192,191,str192,B,dir,Tutor,0,no,no,no,no,no,a2,m
+193,192,str193,B,dir,Tutor,0,no,no,no,no,no,a2,m
+194,193,str194,B,dir,Tutor,0,no,no,no,no,no,a2,m
+195,194,str195,B,dir,s022       ,0,no,no,no,reas,ex,k1,he
+196,195,str196,B,dir,s021       ,0,no,no,at,no,no,k2,na
+197,196,str197,B,dir,s020       ,0,no,no,at,no,no,k2,na
+198,197,str198,B,dir,s022       ,0,no,no,no,no,no,k2,na
+199,198,str199,B,dir,Tutor,0,no,no,no,no,no,k2,na
+200,199,str200,B,dir,Tutor,0,no,no,no,no,no,a2,m
+201,200,str201,B,dir,Tutor,0,no,no,no,no,no,a2,he
+202,201,str202,B,dir,Tutor,0,no,no,no,no,no,o,m
+203,202,str203,B,dir,Tutor,0,no,no,no,no,no,o,he
+204,203,str204,B,dir,s022       ,0,post,no,no,no,no,o,na
+205,-1,str205,C,ind,Tutor,0,no,no,no,no,no,a2,m
+206,205,str206,C,ind,Tutor,0,no,no,no,no,no,a1,he
+207,206,str207,C,ind,Tutor,0,no,no,no,no,no,k1,m
+208,207,str208,C,ind,s034       ,0,no,no,no,no,no,k1,m
+209,208,str209,C,ind,Tutor,0,no,no,no,no,no,a2,he
+210,209,str210,C,ind,Tutor,0,no,no,no,no,no,a2,he
+211,210,str211,C,ind,Tutor,0,no,no,no,no,no,a2,he
+212,211,str212,C,ind,Tutor,0,no,no,no,no,no,a2,he
+213,212,str213,C,ind,Tutor,0,no,no,no,no,no,a2,he
+214,213,str214,C,ind,Tutor,0,no,no,no,no,no,k1,m
+215,214,str215,C,ind,Tutor,0,no,no,no,no,no,a2,he
+216,215,str216,C,ind,s041       ,0,pre,no,no,no,no,k2,na
+217,216,str217,C,ind,s027       ,0,pre,no,no,no,no,k1,m
+218,217,str218,C,ind,s034       ,0,no,no,at,no,no,k2,na
+219,218,str219,C,ind,Tutor,0,no,no,no,reas,ex,k1,m
+220,219,str220,C,ind,Tutor,0,no,no,no,no,no,a2,he
+221,220,str221,C,ind,s041       ,0,pre,no,no,no,no,k1,m
+222,221,str222,C,ind,Tutor,0,no,no,no,no,no,k1,he
+223,222,str223,C,ind,s034       ,0,no,no,no,no,no,k2,m
+224,223,str224,C,ind,s027       ,0,no,no,at,no,no,a2,he
+225,224,str225,C,ind,Tutor,0,no,no,no,no,no,a2,m
+226,225,str226,C,ind,Tutor,0,no,no,no,no,no,a2,m
+227,226,str227,C,ind,s027       ,0,pre,no,no,no,no,o,na
+228,227,str228,C,ind,Tutor,0,no,no,no,no,no,a2,m
+229,228,str229,C,ind,Tutor,0,no,no,no,no,no,a2,m
+230,229,str230,C,ind,s027       ,0,no,no,no,no,no,k2,m
+231,230,str231,C,ind,s034       ,0,no,no,at,no,no,a2,m
+232,231,str232,C,ind,s041       ,0,pre,no,no,no,no,a1,m
+233,232,str233,C,ind,s034       ,0,no,no,at,no,no,k2,na
+234,233,str234,C,ind,s027       ,0,no,no,no,reas,ex,k1,he
+235,234,str235,C,ind,s027       ,0,no,no,at,no,no,a2,na
+236,235,str236,C,ind,s041       ,0,no,no,no,no,no,a1,he
+237,236,str237,C,ind,s027       ,0,no,no,at,no,no,o,na
+238,237,str238,C,ind,s041       ,0,no,no,at,no,no,a2,hc
+239,238,str239,C,ind,s027       ,0,no,no,no,no,no,o,na
+240,239,str240,C,ind,s034       ,0,no,pre,no,reas,ex,k1,m
+241,240,str241,C,ind,s034       ,0,no,pre,no,reas,tr,k1,m
+242,241,str242,C,ind,s027       ,0,no,pre,no,no,no,a1,m
+243,242,str243,C,ind,s041       ,0,no,pre,no,no,no,o,na
+244,243,str244,C,ind,s034       ,0,no,pre,no,reas,ex,k1,m
+245,244,str245,C,ind,s034       ,0,no,no,no,no,no,a2,m
+246,245,str246,C,ind,Tutor,0,no,no,no,no,no,k2,na
+247,246,str247,C,ind,s041       ,0,no,no,no,no,no,a2,he
+248,247,str248,C,ind,s027       ,0,no,no,no,no,no,o,na
+249,248,str249,C,ind,Tutor,0,no,no,no,no,no,a2,m
+250,249,str250,C,ind,s027       ,0,no,no,no,no,no,a1,m
+251,250,str251,C,ind,s034       ,0,no,pre,no,reas,ex,k1,m
+252,251,str252,C,ind,Tutor,0,no,no,no,no,no,k1,he
+253,252,str253,C,ind,s027       ,0,no,no,no,no,no,k2,na
+254,253,str254,C,ind,Tutor,0,no,no,no,no,no,a2,he
+255,254,str255,C,ind,s027       ,0,no,no,no,no,no,k2,na
+256,255,str256,C,ind,Tutor,0,no,no,no,no,no,a2,he
+257,256,str257,C,ind,Tutor,0,no,no,no,no,no,a2,m
+258,257,str258,C,ind,s041       ,0,no,no,at,no,no,k2,na
+259,258,str259,C,ind,s034       ,0,no,pre,no,no,no,k1,m
+260,259,str260,C,ind,Tutor,0,no,no,no,no,no,a2,he
+261,260,str261,C,ind,s034       ,0,pre,no,no,no,no,o,m
+262,261,str262,C,ind,s027       ,0,pre,no,no,no,no,o,na
+263,262,str263,C,ind,s034       ,0,pre,no,no,no,no,o,na
+264,263,str264,C,ind,s027       ,0,pre,no,no,no,no,o,na
+265,264,str265,C,ind,Tutor,0,no,no,no,no,no,a2,he
+266,265,str266,C,ind,s041       ,0,no,no,no,no,no,o,m
+267,266,str267,C,ind,s027       ,0,no,no,no,no,no,o,na
+268,267,str268,C,ind,Tutor,0,no,no,no,no,no,o,na
+269,268,str269,C,ind,Tutor,0,no,no,no,no,no,o,na
+270,269,str270,C,ind,s027       ,0,post,no,no,no,no,o,m
+271,270,str271,C,ind,s027       ,0,post,no,no,no,no,o,m
+272,271,str272,C,ind,s034       ,0,post,no,no,no,no,o,he
+273,272,str273,C,ind,s027       ,0,post,no,no,no,no,o,he
+274,273,str274,C,ind,s027       ,0,no,no,no,no,no,k1,m
+275,274,str275,C,ind,s034       ,0,no,no,no,no,no,k1,m
+276,275,str276,C,ind,s027       ,0,no,no,no,no,no,k2,na
+277,276,str277,C,ind,s034       ,0,no,no,no,no,no,k1,m
+278,277,str278,C,ind,s027       ,0,no,post,no,no,no,k2,na
+279,278,str279,C,ind,s027       ,0,no,post,no,no,no,k2,na
+280,279,str280,C,ind,s034       ,0,no,post,no,no,no,k1,m
+281,280,str281,C,ind,s034       ,0,no,post,no,no,no,k1,m
+282,281,str282,C,ind,s034       ,0,no,post,no,no,no,o,na
+283,282,str283,C,ind,s027       ,0,no,post,no,no,no,a1,m
+284,283,str284,C,ind,s041       ,0,no,post,no,no,no,o,na
+285,284,str285,C,ind,s034       ,0,no,post,no,no,no,o,na
+286,285,str286,C,ind,s041       ,0,no,post,no,no,no,k2,na
+287,286,str287,C,ind,s034       ,0,no,post,no,no,no,o,he
+288,287,str288,C,ind,s027       ,0,no,post,no,no,no,o,he
+289,288,str289,C,ind,s041       ,0,no,post,no,no,no,o,m
+290,289,str290,C,ind,s027       ,0,post,no,no,no,no,k1,m
+291,290,str291,C,ind,s027       ,0,post,no,no,no,no,k1,m
+292,291,str292,C,ind,s041       ,0,post,no,no,no,no,o,na
+293,292,str293,C,ind,s034       ,0,post,no,no,no,no,o,na
+294,293,str294,C,ind,s041       ,0,post,no,no,no,no,o,na
+295,294,str295,C,ind,s027       ,0,post,no,no,no,no,k2,na
+296,295,str296,C,ind,s027       ,0,no,no,no,no,no,o,na
+297,-1,str297,C,ns,Tutor,0,no,no,no,no,no,a2,m
+298,297,str298,C,ns,Tutor,0,no,no,no,no,no,a1,he
+299,298,str299,C,ns,Tutor,0,no,no,no,no,no,k1,m
+300,299,str300,C,ns,Tutor,0,no,no,no,no,no,a2,he
+301,300,str301,C,ns,Tutor,0,no,no,no,no,no,a2,he
+302,301,str302,C,ns,Tutor,0,no,no,no,no,no,a2,he
+303,302,str303,C,ns,Tutor,0,no,no,no,no,no,a2,he
+304,303,str304,C,ns,Tutor,0,no,no,no,no,no,a2,he
+305,304,str305,C,ns,Tutor,0,no,no,no,no,no,k1,m
+306,305,str306,C,ns,Tutor,0,no,no,no,no,no,a2,he
+307,306,str307,C,ns,s035       ,0,pre,no,no,no,no,k1,m
+308,307,str308,C,ns,s042       ,0,pre,no,no,no,no,k2,na
+309,308,str309,C,ns,s042       ,0,pre,no,no,no,no,k1,m
+310,309,str310,C,ns,Tutor,0,no,no,no,reas,ex,k1,m
+311,310,str311,C,ns,Tutor,0,no,no,no,no,no,a2,he
+312,311,str312,C,ns,s042       ,0,no,no,no,reas,ex,k1,he
+313,312,str313,C,ns,Tutor,0,no,no,no,no,no,a2,m
+314,313,str314,C,ns,Tutor,0,no,no,no,no,no,a2,m
+315,314,str315,C,ns,s035       ,0,no,no,no,no,no,k2,he
+316,315,str316,C,ns,Tutor,0,no,no,no,no,no,a2,m
+317,316,str317,C,ns,Tutor,0,no,no,no,no,no,a2,m
+318,317,str318,C,ns,s035       ,0,pre,no,no,no,no,k1,m
+319,318,str319,C,ns,s035       ,0,no,no,at,no,no,k2,na
+320,319,str320,C,ns,s042       ,0,no,no,at,reas,tr,k1,he
+321,320,str321,C,ns,s035       ,0,no,no,no,reas,ex,k1,he
+322,321,str322,C,ns,s042       ,0,no,no,no,reas,tr,k2,he
+323,322,str323,C,ns,s028       ,0,no,no,no,no,no,o,na
+324,323,str324,C,ns,s035       ,0,no,no,no,no,no,o,na
+325,324,str325,C,ns,s042       ,0,no,no,no,reas,tr,k1,he
+326,325,str326,C,ns,s028       ,0,no,no,no,no,no,o,m
+327,326,str327,C,ns,Tutor,0,no,no,no,no,no,k2,na
+328,327,str328,C,ns,s028       ,0,no,no,no,no,no,k1,hc
+329,328,str329,C,ns,Tutor,0,no,no,no,no,no,a2,m
+330,329,str330,C,ns,s028       ,0,no,no,no,no,no,a1,he
+331,330,str331,C,ns,s035       ,0,no,no,no,no,no,a1,he
+332,331,str332,C,ns,s028       ,0,no,no,at,no,no,o,na
+333,332,str333,C,ns,s035       ,0,no,no,no,no,no,o,he
+334,333,str334,C,ns,s028       ,0,no,no,no,no,no,a1,he
+335,334,str335,C,ns,s042       ,0,no,no,no,reas,tr,k1,he
+336,335,str336,C,ns,s042       ,0,no,no,no,no,no,o,hc
+337,336,str337,C,ns,s035       ,0,no,no,no,no,no,k2,na
+338,337,str338,C,ns,s028       ,0,no,no,no,no,no,k1,m
+339,338,str339,C,ns,s035       ,0,no,no,no,no,no,o,m
+340,339,str340,C,ns,Tutor,0,no,no,no,no,no,a2,he
+341,340,str341,C,ns,s042       ,0,no,no,no,no,no,k1,m
+342,341,str342,C,ns,Tutor,0,no,no,no,no,no,a1,he
+343,342,str343,C,ns,Tutor,0,no,no,no,no,no,a2,hc
+344,343,str344,C,ns,s028       ,0,no,no,no,reas,ex,k1,he
+345,344,str345,C,ns,s042       ,0,no,no,no,reas,tr,k1,m
+346,345,str346,C,ns,s042       ,0,no,no,no,no,no,o,na
+347,346,str347,C,ns,Tutor,0,no,no,no,no,no,o,na
+348,347,str348,C,ns,Tutor,0,no,no,no,no,no,o,na
+349,348,str349,C,ns,s028       ,0,no,no,no,no,no,k1,he
+350,349,str350,C,ns,s035       ,0,no,no,no,no,no,k2,he
+351,350,str351,C,ns,s042       ,0,no,no,no,reas,ex,k1,he
+352,351,str352,C,ns,s028       ,0,no,no,no,reas,tr,k2,he
+353,352,str353,C,ns,s028       ,0,no,no,no,no,no,o,he
+354,353,str354,C,ns,s042       ,0,no,no,no,reas,tr,k1,he
+355,354,str355,C,ns,s028       ,0,no,no,no,no,no,k1,he
+356,355,str356,C,ns,s028       ,0,no,no,no,reas,ex,k2,he
+357,356,str357,C,ns,s042       ,0,no,no,no,reas,ex,k1,he
+358,357,str358,C,ns,s042       ,0,no,no,no,no,no,k1,hc
+359,358,str359,C,ns,s035       ,0,no,no,no,no,no,a1,he
+360,359,str360,C,ns,s028       ,0,no,no,no,no,no,k1,m
+361,360,str361,C,ns,s042       ,0,no,no,no,reas,ex,k1,he
+362,361,str362,C,ns,s035       ,0,no,no,no,no,no,k2,na
+363,362,str363,C,ns,s028       ,0,no,no,no,no,no,k2,he
+364,363,str364,C,ns,s042       ,0,no,no,no,no,no,a1,m
+365,364,str365,C,ns,s028       ,0,no,no,no,no,no,o,he
+366,365,str366,C,ns,s035       ,0,no,no,no,no,no,a1,m
+367,366,str367,C,ns,s028       ,0,no,no,no,no,no,k1,m
+368,367,str368,C,ns,s035       ,0,no,no,no,no,no,o,na
+369,368,str369,C,ns,s042       ,0,no,no,no,no,no,o,na
+370,369,str370,C,ns,s042       ,0,no,no,no,no,no,k2,he
+371,370,str371,C,ns,s028       ,0,no,no,no,no,no,o,na
+372,371,str372,C,ns,s042       ,0,no,no,no,no,no,o,na
+373,-1,str373,C,ns,Tutor,0,no,no,no,no,no,a2,m
+374,373,str374,C,ns,Tutor,0,no,no,no,no,no,a1,he
+375,374,str375,C,ns,Tutor,0,no,no,no,no,no,k1,m
+376,375,str376,C,ns,Tutor,0,no,no,no,no,no,a2,he
+377,376,str377,C,ns,Tutor,0,no,no,no,no,no,a2,he
+378,377,str378,C,ns,Tutor,0,no,no,no,no,no,a2,he
+379,378,str379,C,ns,Tutor,0,no,no,no,no,no,a2,he
+380,379,str380,C,ns,Tutor,0,no,no,no,no,no,a2,he
+381,380,str381,C,ns,s036       ,0,no,no,no,no,no,k1,m
+382,381,str382,C,ns,Tutor,0,no,no,no,no,no,k1,m
+383,382,str383,C,ns,Tutor,0,no,no,no,no,no,a2,he
+384,383,str384,C,ns,s036       ,0,pre,no,no,no,no,o,na
+385,384,str385,C,ns,s029       ,0,pre,no,no,no,no,o,na
+386,385,str386,C,ns,s043       ,0,pre,no,no,no,no,k2,na
+387,386,str387,C,ns,s036       ,0,pre,no,no,no,no,k1,m
+388,387,str388,C,ns,s043       ,0,pre,no,no,no,no,k2,na
+389,388,str389,C,ns,s029       ,0,pre,no,no,no,no,k1,m
+390,389,str390,C,ns,Tutor,0,no,no,no,reas,ex,k1,m
+391,390,str391,C,ns,Tutor,0,no,no,no,no,no,a2,he
+392,391,str392,C,ns,s029       ,0,no,no,no,no,no,k2,na
+393,392,str393,C,ns,s036       ,0,pre,no,no,no,no,k2,na
+394,393,str394,C,ns,s043       ,0,pre,no,no,no,no,k2,na
+395,394,str395,C,ns,s043       ,0,pre,no,no,no,no,k1,m
+396,395,str396,C,ns,Tutor,0,no,no,no,no,no,a2,m
+397,396,str397,C,ns,s036       ,0,pre,no,no,no,no,k2,na
+398,397,str398,C,ns,Tutor,0,no,no,no,no,no,k1,m
+399,398,str399,C,ns,Tutor,0,no,no,no,no,no,a2,m
+400,399,str400,C,ns,Tutor,0,no,no,no,no,no,a2,m
+401,400,str401,C,ns,s036       ,0,no,no,no,no,no,k2,na
+402,401,str402,C,ns,s029       ,0,no,no,no,no,no,o,na
+403,402,str403,C,ns,s036       ,0,pre,no,no,no,no,o,na
+404,403,str404,C,ns,s029       ,0,pre,no,no,no,no,o,na
+405,404,str405,C,ns,s029       ,0,no,no,no,no,no,k2,na
+406,405,str406,C,ns,s036       ,0,no,no,no,no,no,k2,na
+407,406,str407,C,ns,s043       ,0,no,no,no,reas,ex,k1,he
+408,407,str408,C,ns,s029       ,0,no,no,no,no,no,o,na
+409,408,str409,C,ns,s036       ,0,no,no,no,no,no,o,he
+410,409,str410,C,ns,s043       ,0,no,no,no,reas,ex,k1,m
+411,410,str411,C,ns,s043       ,0,no,no,no,no,no,o,hc
+412,411,str412,C,ns,s036       ,0,no,no,no,no,no,o,na
+413,412,str413,C,ns,s029       ,0,no,no,no,reas,tr,k2,he
+414,413,str414,C,ns,s036       ,0,no,no,no,no,no,k2,m
+415,414,str415,C,ns,s043       ,0,no,no,no,reas,tr,k1,he
+416,415,str416,C,ns,s043       ,0,no,no,no,no,no,o,m
+417,416,str417,C,ns,s029       ,0,no,no,no,reas,ex,k1,he
+418,417,str418,C,ns,s043       ,0,no,no,no,no,no,k1,m
+419,418,str419,C,ns,Tutor,0,no,no,no,reas,tr,k2,na
+420,419,str420,C,ns,s036       ,0,no,no,no,no,no,a2,he
+421,420,str421,C,ns,s029       ,0,no,no,at,no,no,k2,na
+422,421,str422,C,ns,Tutor,0,no,no,no,no,no,a2,m
+423,422,str423,C,ns,s043       ,0,no,no,no,reas,tr,k1,m
+424,423,str424,C,ns,Tutor,0,no,no,at,no,no,a2,he
+425,424,str425,C,ns,s029       ,0,no,no,no,no,no,k2,he
+426,425,str426,C,ns,Tutor,0,no,no,no,no,no,a2,he
+427,426,str427,C,ns,Tutor,0,no,no,no,no,no,a1,he
+428,427,str428,C,ns,Tutor,0,no,no,no,no,no,a2,hc
+429,428,str429,C,ns,s036       ,0,no,no,no,no,no,k2,na
+430,429,str430,C,ns,s036       ,0,no,no,no,no,no,k2,na
+431,430,str431,C,ns,s043       ,0,no,no,no,no,no,k1,he
+432,431,str432,C,ns,Tutor,0,no,no,at,no,no,a2,he
+433,432,str433,C,ns,Tutor,0,no,no,no,no,no,o,na
+434,433,str434,C,ns,Tutor,0,no,no,no,no,no,o,na
+435,434,str435,C,ns,s043       ,0,no,no,no,no,no,k2,na
+436,435,str436,C,ns,s036       ,0,no,post,no,no,no,k1,hc
+437,436,str437,C,ns,s043       ,0,no,post,no,no,no,k1,m
+438,437,str438,C,ns,s043       ,0,no,post,no,no,no,k1,m
+439,438,str439,C,ns,s036       ,0,no,no,no,no,no,k2,he
+440,439,str440,C,ns,s029       ,0,no,post,no,no,no,k2,na
+441,440,str441,C,ns,s029       ,0,no,post,no,no,no,k1,he
+442,441,str442,C,ns,s043       ,0,no,post,no,no,no,k1,he
+443,442,str443,C,ns,s036       ,0,no,post,no,no,no,k2,he
+444,443,str444,C,ns,s029       ,0,no,post,no,no,no,k2,he
+445,444,str445,C,ns,s036       ,0,no,post,no,reas,tr,k1,m
+446,445,str446,C,ns,s036       ,0,no,post,no,no,no,k1,he
+447,446,str447,C,ns,s029       ,0,no,post,no,no,no,k2,he
+448,447,str448,C,ns,s036       ,0,no,no,no,no,no,k1,m
+449,448,str449,C,ns,s029       ,0,no,no,no,no,no,o,na
+450,449,str450,C,ns,s036       ,0,no,no,no,no,no,k1,he
+451,450,str451,C,ns,s029       ,0,no,no,no,no,no,k1,m
+452,451,str452,C,ns,s036       ,0,no,no,no,no,no,k2,na
+453,452,str453,C,ns,s029       ,0,no,no,no,no,no,k1,m
+454,453,str454,C,ns,s036       ,0,no,no,no,no,no,k2,na
+455,454,str455,C,ns,s029       ,0,no,post,no,reas,ex,k1,he
+456,455,str456,C,ns,s036       ,0,no,post,no,reas,tr,k1,he
+457,456,str457,C,ns,s036       ,0,no,no,no,no,no,a1,m
+458,457,str458,C,ns,s029       ,0,no,no,no,no,no,a1,m
+459,-1,str459,C,ns,Tutor,0,no,no,no,no,no,a2,m
+460,459,str460,C,ns,Tutor,0,no,no,no,no,no,a1,he
+461,460,str461,C,ns,Tutor,0,no,no,no,no,no,k1,m
+462,461,str462,C,ns,Tutor,0,no,no,no,no,no,a2,he
+463,462,str463,C,ns,Tutor,0,no,no,no,no,no,a2,he
+464,463,str464,C,ns,Tutor,0,no,no,no,no,no,a2,he
+465,464,str465,C,ns,Tutor,0,no,no,no,no,no,a2,he
+466,465,str466,C,ns,Tutor,0,no,no,no,no,no,a2,he
+467,466,str467,C,ns,Tutor,0,no,no,no,no,no,k1,m
+468,467,str468,C,ns,Tutor,0,no,no,no,no,no,a2,he
+469,468,str469,C,ns,s037       ,0,pre,no,no,no,no,k1,m
+470,469,str470,C,ns,s044       ,0,pre,no,no,no,no,o,na
+471,470,str471,C,ns,s044       ,0,pre,no,no,no,no,o,na
+472,471,str472,C,ns,Tutor,0,pre,no,no,reas,ex,k1,m
+473,472,str473,C,ns,Tutor,0,no,no,no,no,no,a2,he
+474,473,str474,C,ns,s044       ,0,no,no,no,no,no,a1,na
+475,474,str475,C,ns,s037       ,0,pre,no,no,no,no,o,na
+476,475,str476,C,ns,Tutor,0,pre,no,no,no,no,a2,m
+477,476,str477,C,ns,Tutor,0,no,no,no,no,no,k1,m
+478,477,str478,C,ns,Tutor,0,no,no,no,no,no,a2,m
+479,478,str479,C,ns,Tutor,0,no,no,no,no,no,a2,m
+480,479,str480,C,ns,s037       ,0,no,no,no,no,no,k2,na
+481,480,str481,C,ns,s030       ,0,no,no,no,no,no,a2,m
+482,481,str482,C,ns,Tutor,0,pre,no,no,no,no,a2,m
+483,482,str483,C,ns,Tutor,0,no,no,no,no,no,a2,m
+484,483,str484,C,ns,s037       ,0,no,no,no,no,no,k2,na
+485,484,str485,C,ns,s044       ,0,no,no,no,no,no,k1,he
+486,485,str486,C,ns,s044       ,0,no,no,no,no,no,k2,na
+487,486,str487,C,ns,Tutor,0,no,no,no,no,no,a2,he
+488,487,str488,C,ns,Tutor,0,no,no,no,no,no,o,na
+489,488,str489,C,ns,Tutor,0,no,no,no,no,no,o,na
+490,489,str490,C,ns,s044       ,0,no,no,no,no,no,o,na
+491,490,str491,C,ns,s044       ,0,post,no,no,no,no,o,na
+492,491,str492,C,ns,s037       ,0,no,post,no,no,no,k1,m
+493,492,str493,C,ns,s037       ,0,no,post,no,no,no,k1,m
+494,493,str494,C,ns,s044       ,0,no,post,no,no,no,k1,m
+495,494,str495,C,ns,s030       ,0,no,no,no,no,no,k1,hc
+496,495,str496,C,ns,s044       ,0,post,no,no,no,no,o,m
+497,496,str497,C,ns,s037       ,0,post,no,no,no,no,o,he
+498,497,str498,C,ns,s037       ,0,no,post,no,no,no,k2,na
+499,498,str499,C,ns,s037       ,0,no,post,no,no,no,o,na
+500,499,str500,C,ns,s037       ,0,no,post,no,no,no,o,na
+501,500,str501,C,ns,s030       ,0,no,post,no,no,no,k1,m
+502,501,str502,C,ns,s030       ,0,no,post,no,no,no,o,m
+503,502,str503,C,ns,s044       ,0,no,no,no,no,no,o,he
+504,503,str504,C,ns,s037       ,0,no,no,no,no,no,o,na
+505,504,str505,C,ns,Tutor,0,no,no,no,no,no,a2,m
+506,505,str506,C,ns,Tutor,0,no,no,no,no,no,a1,he
+507,506,str507,C,ns,Tutor,0,no,no,no,no,no,k1,m
+508,507,str508,C,ns,Tutor,0,no,no,no,no,no,a2,he
+509,508,str509,C,ns,Tutor,0,no,no,no,no,no,a2,he
+510,509,str510,C,ns,s038       ,0,no,no,no,no,no,k1,m
+511,510,str511,C,ns,Tutor,0,no,no,no,no,no,a2,he
+512,511,str512,C,ns,Tutor,0,no,no,no,no,no,a2,he
+513,512,str513,C,ns,s031       ,0,no,no,no,no,no,k1,m
+514,513,str514,C,ns,Tutor,0,no,no,no,no,no,a2,he
+515,514,str515,C,ns,Tutor,0,no,no,no,no,no,k1,m
+516,515,str516,C,ns,Tutor,0,no,no,no,no,no,a2,he
+517,516,str517,C,ns,s038       ,0,no,no,at,no,no,k2,na
+518,517,str518,C,ns,s045       ,0,no,no,no,reas,ex,k1,he
+519,518,str519,C,ns,Tutor,0,no,no,no,no,no,k1,m
+520,519,str520,C,ns,s031       ,0,no,no,no,reas,ex,k1,he
+521,520,str521,C,ns,Tutor,0,no,no,no,no,no,a2,he
+522,521,str522,C,ns,s045       ,0,no,no,at,no,no,k2,na
+523,522,str523,C,ns,s038       ,0,no,no,no,no,no,o,he
+524,523,str524,C,ns,s038       ,0,no,no,at,no,no,k2,na
+525,524,str525,C,ns,s031       ,0,no,no,no,no,no,o,na
+526,525,str526,C,ns,Tutor,0,no,no,no,no,no,a2,m
+527,526,str527,C,ns,s045       ,0,no,no,no,no,no,o,na
+528,527,str528,C,ns,Tutor,0,no,no,no,no,no,k1,m
+529,528,str529,C,ns,Tutor,0,no,no,no,no,no,a2,m
+530,529,str530,C,ns,Tutor,0,no,no,no,no,no,a2,m
+531,530,str531,C,ns,s038       ,0,no,no,at,no,no,k2,na
+532,531,str532,C,ns,s045       ,0,no,no,no,no,no,k2,na
+533,532,str533,C,ns,s045       ,0,no,no,no,no,no,o,na
+534,533,str534,C,ns,s038       ,0,no,no,no,no,no,k1,he
+535,534,str535,C,ns,s031       ,0,no,no,no,no,no,k1,he
+536,535,str536,C,ns,s031       ,0,no,no,no,no,no,k2,na
+537,536,str537,C,ns,s045       ,0,no,no,no,no,no,k1,he
+538,537,str538,C,ns,s038       ,0,no,no,no,no,no,k2,na
+539,538,str539,C,ns,s038       ,0,no,no,no,no,no,a1,he
+540,539,str540,C,ns,s038       ,0,no,no,no,no,no,o,m
+541,540,str541,C,ns,s045       ,0,no,no,no,no,no,o,na
+542,541,str542,C,ns,s038       ,0,no,no,no,no,no,k2,na
+543,542,str543,C,ns,Tutor,0,no,no,no,no,no,k2,na
+544,543,str544,C,ns,s045       ,0,no,no,no,no,no,k2,na
+545,544,str545,C,ns,Tutor,0,no,no,no,no,no,a2,m
+546,545,str546,C,ns,s031       ,0,no,no,no,reas,ex,k1,he
+547,546,str547,C,ns,s045       ,0,no,no,no,no,no,o,he
+548,547,str548,C,ns,Tutor,0,no,no,no,no,no,a2,he
+549,548,str549,C,ns,s045       ,0,no,no,no,no,no,k2,he
+550,549,str550,C,ns,s038       ,0,no,no,no,no,no,o,he
+551,550,str551,C,ns,Tutor,0,no,no,no,no,no,o,na
+552,551,str552,C,ns,Tutor,0,no,no,no,no,no,o,na
+553,552,str553,C,ns,s045       ,0,no,no,no,no,no,o,na
+554,553,str554,C,ns,s045       ,0,no,no,no,no,no,k2,na
+555,554,str555,C,ns,s031       ,0,no,no,no,no,no,k1,he
+556,555,str556,C,ns,s038       ,0,no,post,no,no,no,k1,m
+557,556,str557,C,ns,s045       ,0,no,no,no,no,no,k2,na
+558,557,str558,C,ns,s038       ,0,no,post,no,no,no,k2,na
+559,558,str559,C,ns,s031       ,0,no,post,no,no,no,o,na
+560,559,str560,C,ns,s045       ,0,no,post,no,no,no,k2,he
+561,560,str561,C,ns,s045       ,0,no,post,no,no,no,o,na
+562,561,str562,C,ns,s031       ,0,no,post,no,no,no,k1,m
+563,562,str563,C,ns,s031       ,0,no,post,no,no,no,k1,m
+564,563,str564,C,ns,s031       ,0,no,post,no,no,no,k1,m
+565,564,str565,C,ns,s031       ,0,no,post,no,no,no,k1,m
+566,565,str566,C,ns,s038       ,0,no,post,no,no,no,k2,na
+567,566,str567,C,ns,s031       ,0,no,post,no,no,no,k1,m
+568,567,str568,C,ns,s045       ,0,no,post,no,no,no,o,na
+569,568,str569,C,ns,s038       ,0,no,post,no,no,no,k2,na
+570,569,str570,C,ns,s045       ,0,no,no,no,no,no,o,na
+571,570,str571,C,ns,s038       ,0,no,post,no,no,no,k2,na
+572,571,str572,C,ns,s031       ,0,no,post,no,no,no,k1,m
+573,572,str573,C,ns,s038       ,0,no,post,no,no,no,k2,na
+574,573,str574,C,ns,s031       ,0,no,post,no,no,no,k1,m
+575,574,str575,C,ns,s031       ,0,no,post,no,no,no,k1,m
+576,575,str576,C,ns,s038       ,0,no,post,no,no,no,k2,na
+577,576,str577,C,ns,s031       ,0,no,post,no,no,no,k1,he
+578,577,str578,C,ns,s045       ,0,no,post,at,no,no,k2,na
+579,578,str579,C,ns,s038       ,0,no,post,no,reas,ex,k1,m
+580,579,str580,C,ns,s031       ,0,no,post,no,reas,tr,k1,m
+581,580,str581,C,ns,s038       ,0,no,post,no,no,no,o,na
+582,581,str582,C,ns,s045       ,0,no,post,no,no,no,k1,m
+583,582,str583,C,ns,s038       ,0,no,post,no,no,no,o,m
+584,583,str584,C,ns,s038       ,0,no,post,at,no,no,k2,na
+585,584,str585,C,ns,s045       ,0,no,post,no,no,no,k2,he
+586,585,str586,C,ns,s038       ,0,no,post,no,reas,ex,k1,m
+587,586,str587,C,ns,s031       ,0,no,post,no,no,no,k2,na
+588,587,str588,C,ns,s045       ,0,no,post,no,no,no,k1,m
+589,588,str589,C,ns,s038       ,0,no,post,no,no,no,o,na
+590,589,str590,C,ns,s045       ,0,no,no,no,no,no,o,na
+591,-1,str591,C,dir,Tutor,0,no,no,no,no,no,a2,m
+592,591,str592,C,dir,Tutor,0,no,no,no,no,no,a1,he
+593,592,str593,C,dir,s039       ,0,no,no,no,no,no,o,na
+594,593,str594,C,dir,s039       ,0,no,no,no,no,no,o,na
+595,594,str595,C,dir,Tutor,0,no,no,no,no,no,k1,m
+596,595,str596,C,dir,s039       ,0,no,no,no,no,no,k1,m
+597,596,str597,C,dir,Tutor,0,no,no,no,no,no,a2,he
+598,597,str598,C,dir,Tutor,0,no,no,no,no,no,a2,he
+599,598,str599,C,dir,Tutor,0,no,no,no,no,no,a2,he
+600,599,str600,C,dir,Tutor,0,no,no,no,no,no,a2,he
+601,600,str601,C,dir,Tutor,0,no,no,no,no,no,a2,he
+602,601,str602,C,dir,Tutor,0,no,no,no,no,no,k1,m
+603,602,str603,C,dir,Tutor,0,no,no,no,no,no,a2,he
+604,603,str604,C,dir,s039       ,0,pre,no,no,no,no,k1,na
+605,604,str605,C,dir,s046       ,0,pre,no,no,no,no,k1,na
+606,605,str606,C,dir,s039       ,0,pre,no,no,no,no,o,na
+607,606,str607,C,dir,s032       ,0,pre,no,no,no,no,o,na
+608,607,str608,C,dir,s032       ,0,pre,no,no,no,no,o,na
+609,608,str609,C,dir,s032       ,0,pre,no,no,no,no,k1,m
+610,609,str610,C,dir,s039       ,0,pre,no,no,no,no,k1,m
+611,610,str611,C,dir,s032       ,0,pre,no,no,no,no,o,na
+612,611,str612,C,dir,s039       ,0,pre,no,no,no,no,o,na
+613,612,str613,C,dir,s039       ,0,pre,no,no,no,no,o,na
+614,613,str614,C,dir,Tutor,0,no,no,no,reas,ex,k1,m
+615,614,str615,C,dir,s032       ,0,no,no,at,no,no,k2,na
+616,615,str616,C,dir,Tutor,0,no,no,no,no,no,a2,he
+617,616,str617,C,dir,s039       ,0,no,no,at,no,no,k2,na
+618,617,str618,C,dir,Tutor,0,no,no,no,no,no,a2,m
+619,618,str619,C,dir,s032       ,0,no,no,no,reas,ex,k1,he
+620,619,str620,C,dir,Tutor,0,no,no,at,no,no,k2,na
+621,620,str621,C,dir,Tutor,0,no,no,no,no,no,a2,m
+622,621,str622,C,dir,Tutor,0,no,no,no,no,no,a2,m
+623,622,str623,C,dir,Tutor,0,no,no,no,no,no,a2,m
+624,623,str624,C,dir,s039       ,0,no,no,no,no,no,k1,he
+625,624,str625,C,dir,s039       ,0,no,no,no,no,no,o,na
+626,625,str626,C,dir,s046       ,0,pre,no,no,no,no,k2,na
+627,626,str627,C,dir,s032       ,0,pre,no,no,no,no,k1,na
+628,627,str628,C,dir,s039       ,0,pre,no,no,no,no,o,na
+629,628,str629,C,dir,s032       ,0,pre,no,no,no,no,o,na
+630,629,str630,C,dir,s039       ,0,pre,no,no,no,no,o,na
+631,630,str631,C,dir,s032       ,0,pre,no,no,no,no,o,na
+632,631,str632,C,dir,s046       ,0,no,no,no,no,no,k2,na
+633,632,str633,C,dir,s039       ,0,no,no,no,reas,ex,k1,he
+634,633,str634,C,dir,s039       ,0,no,no,no,reas,tr,k1,he
+635,634,str635,C,dir,s032       ,0,no,no,no,reas,ex,k1,he
+636,635,str636,C,dir,s039       ,0,no,no,no,no,no,a1,he
+637,636,str637,C,dir,s032       ,0,no,no,no,reas,tr,k1,he
+638,637,str638,C,dir,s032       ,0,no,no,no,no,no,o,he
+639,638,str639,C,dir,Tutor,0,no,no,no,no,no,k2,na
+640,639,str640,C,dir,Tutor,0,no,no,no,no,no,a2,m
+641,640,str641,C,dir,s039       ,0,no,no,at,no,no,k2,na
+642,641,str642,C,dir,Tutor,0,no,no,no,no,no,a2,m
+643,642,str643,C,dir,s046       ,0,no,no,no,no,no,o,m
+644,643,str644,C,dir,s032       ,0,no,no,no,reas,ex,k1,he
+645,644,str645,C,dir,Tutor,0,no,no,at,no,no,a2,he
+646,645,str646,C,dir,Tutor,0,no,no,no,no,no,o,na
+647,646,str647,C,dir,s032       ,0,no,no,no,reas,tr,k1,he
+648,647,str648,C,dir,Tutor,0,no,no,no,no,no,o,na
+649,648,str649,C,dir,s046       ,0,no,no,no,no,no,o,na
+650,649,str650,C,dir,s039       ,0,no,no,no,no,no,o,he
+651,650,str651,C,dir,s046       ,0,no,no,no,no,no,k2,na
+652,651,str652,C,dir,s039       ,0,no,no,no,no,no,k1,m
+653,652,str653,C,dir,s032       ,0,no,no,no,reas,tr,k1,m
+654,653,str654,C,dir,s039       ,0,no,no,no,no,no,k1,m
+655,654,str655,C,dir,s032       ,0,post,no,no,no,no,o,na
+656,655,str656,C,dir,s039       ,0,no,no,no,no,no,o,m
+657,656,str657,C,dir,s039       ,0,no,no,no,no,no,o,na
+658,657,str658,C,dir,s032       ,0,post,no,no,no,no,o,na
+659,658,str659,C,dir,s039       ,0,post,no,no,no,no,o,na
+660,659,str660,C,dir,s039       ,0,post,no,no,no,no,o,na
+661,660,str661,C,dir,s032       ,0,post,no,no,no,no,o,na
+662,661,str662,C,dir,s039       ,0,post,no,no,no,no,o,na
+663,662,str663,C,dir,s039       ,0,no,no,no,no,no,a1,m
+664,663,str664,C,dir,s046       ,0,no,no,no,no,no,a1,m
+665,664,str665,C,dir,s032       ,0,post,no,no,no,no,o,na
+666,665,str666,C,dir,s032       ,0,post,no,no,no,no,o,na
+667,666,str667,C,dir,s039       ,0,no,post,no,no,no,k1,m
+668,667,str668,C,dir,s039       ,0,no,post,no,no,no,o,na
+669,668,str669,C,dir,s032       ,0,post,no,no,no,no,o,na
+670,669,str670,C,dir,s039       ,0,post,no,no,reas,tr,k1,he
+671,670,str671,C,dir,s039       ,0,post,no,no,no,no,o,na
+672,671,str672,C,dir,s032       ,0,post,no,no,no,no,o,na
+673,672,str673,C,ind,Tutor,0,no,no,no,no,no,a2,m
+674,673,str674,C,ind,Tutor,0,no,no,no,no,no,a1,he
+675,674,str675,C,ind,s047       ,0,no,no,no,no,no,o,na
+676,675,str676,C,ind,s040       ,0,no,no,no,no,no,k1,m
+677,676,str677,C,ind,Tutor,0,no,no,no,no,no,a2,he
+678,677,str678,C,ind,s047       ,0,no,no,no,no,no,k1,m
+679,678,str679,C,ind,Tutor,0,no,no,no,no,no,k1,m
+680,679,str680,C,ind,Tutor,0,no,no,no,no,no,a2,he
+681,680,str681,C,ind,Tutor,0,no,no,no,no,no,a2,he
+682,681,str682,C,ind,Tutor,0,no,no,no,no,no,a2,he
+683,682,str683,C,ind,Tutor,0,no,no,no,no,no,a2,he
+684,683,str684,C,ind,s040       ,0,no,no,no,no,no,k2,na
+685,684,str685,C,ind,s047       ,0,no,no,no,no,no,k2,na
+686,685,str686,C,ind,s033       ,0,no,no,no,no,no,k1,m
+687,686,str687,C,ind,Tutor,0,no,no,no,no,no,k1,m
+688,687,str688,C,ind,s033       ,0,no,no,no,no,no,k1,na
+689,688,str689,C,ind,Tutor,0,no,no,no,no,no,a2,he
+690,689,str690,C,ind,s040       ,0,pre,no,no,no,no,k1,m
+691,690,str691,C,ind,s040       ,0,pre,no,no,no,no,k1,m
+692,691,str692,C,ind,s047       ,0,pre,no,no,no,no,o,na
+693,692,str693,C,ind,s040       ,0,no,no,no,no,no,k2,na
+694,693,str694,C,ind,s040       ,0,no,no,no,no,no,o,na
+695,694,str695,C,ind,s047       ,0,pre,no,no,no,no,o,m
+696,695,str696,C,ind,Tutor,0,no,no,no,no,no,a2,he
+697,696,str697,C,ind,s040       ,0,no,no,no,no,no,o,m
+698,697,str698,C,ind,s040       ,0,no,no,no,no,no,o,m
+699,698,str699,C,ind,s033       ,0,no,no,at,no,no,k2,na
+700,699,str700,C,ind,Tutor,0,no,no,no,reas,ex,k1,m
+701,700,str701,C,ind,Tutor,0,no,no,no,no,no,a2,he
+702,701,str702,C,ind,s040       ,0,no,no,no,no,no,k1,m
+703,702,str703,C,ind,s047       ,0,no,no,no,no,no,k2,na
+704,703,str704,C,ind,Tutor,0,no,no,no,no,no,a2,m
+705,704,str705,C,ind,Tutor,0,no,no,no,no,no,a2,m
+706,705,str706,C,ind,Tutor,0,no,no,no,no,no,a2,m
+707,706,str707,C,ind,Tutor,0,no,no,no,no,no,a2,m
+708,707,str708,C,ind,s033       ,0,no,no,no,no,no,k1,he
+709,708,str709,C,ind,s040       ,0,no,no,no,no,no,k1,m
+710,709,str710,C,ind,s040       ,0,no,no,no,no,no,a2,m
+711,710,str711,C,ind,s040       ,0,no,no,no,no,no,k1,m
+712,711,str712,C,ind,s033       ,0,no,no,no,no,no,k2,na
+713,712,str713,C,ind,s040       ,0,no,no,no,no,no,k1,m
+714,713,str714,C,ind,s033       ,0,no,no,no,no,no,o,m
+715,714,str715,C,ind,s033       ,0,no,no,no,no,no,o,m
+716,715,str716,C,ind,s040       ,0,no,no,at,no,no,k2,na
+717,716,str717,C,ind,s033       ,0,no,no,no,no,no,o,na
+718,717,str718,C,ind,Tutor,0,no,no,no,no,no,k2,na
+719,718,str719,C,ind,Tutor,0,no,no,no,no,no,a2,m
+720,719,str720,C,ind,s047       ,0,no,no,no,no,no,o,na
+721,720,str721,C,ind,s040       ,0,no,no,no,no,no,k2,na
+722,721,str722,C,ind,s040       ,0,no,no,no,no,no,k2,na
+723,722,str723,C,ind,s033       ,0,no,no,no,no,no,k2,he
+724,723,str724,C,ind,s040       ,0,no,no,at,no,no,k2,he
+725,724,str725,C,ind,Tutor,0,no,no,no,no,no,a2,he
+726,725,str726,C,ind,s033       ,0,no,no,no,no,no,k1,m
+727,726,str727,C,ind,Tutor,0,no,no,no,no,no,a2,he
+728,727,str728,C,ind,s047       ,0,no,no,no,no,no,o,he
+729,728,str729,C,ind,s033       ,0,no,no,at,no,no,a2,he
+730,729,str730,C,ind,s047       ,0,pre,no,no,no,no,o,na
+731,730,str731,C,ind,s033       ,0,pre,no,no,no,no,o,na
+732,731,str732,C,ind,s040       ,0,no,no,no,no,no,k2,na
+733,732,str733,C,ind,Tutor,0,no,no,no,no,no,o,na
+734,733,str734,C,ind,s033       ,0,no,no,no,no,no,k1,na
+735,734,str735,C,ind,Tutor,0,no,no,no,no,no,o,na
+736,735,str736,C,ind,s047       ,0,no,no,no,no,no,o,na
+737,736,str737,C,ind,s033       ,0,no,no,no,no,no,o,na
+738,737,str738,C,ind,s047       ,0,no,no,no,no,no,o,na
+739,738,str739,C,ind,s033       ,0,no,post,no,no,no,k2,na
+740,739,str740,C,ind,s047       ,0,no,post,no,no,no,o,na
+741,740,str741,C,ind,s033       ,0,no,no,no,no,no,o,m
+742,741,str742,C,ind,s033       ,0,post,no,no,no,no,o,na
+743,742,str743,C,ind,s047       ,0,post,no,no,no,no,o,na
+744,743,str744,C,ind,s033       ,0,post,no,no,no,no,o,na
+745,744,str745,C,ind,s033       ,0,post,no,no,no,no,o,na
+746,745,str746,C,ind,s047       ,0,post,no,no,no,no,o,na
+747,746,str747,C,ind,s033       ,0,no,post,no,no,no,k2,m
+748,747,str748,C,ind,s047       ,0,no,post,no,no,no,k1,m
+749,748,str749,C,ind,s033       ,0,post,no,no,no,no,o,na
+750,749,str750,C,ind,s047       ,0,no,post,no,no,no,k2,na
+751,750,str751,C,ind,s040       ,0,no,post,no,no,no,o,m
+752,751,str752,C,ind,s040       ,0,no,post,no,no,no,o,na
+753,752,str753,C,ind,s033       ,0,post,no,no,no,no,o,na
+754,753,str754,C,ind,s040       ,0,post,no,no,no,no,o,na
+755,754,str755,C,ind,s040       ,0,no,no,at,no,no,k2,na
+756,755,str756,C,ind,s040       ,0,no,post,no,no,no,o,na
+757,756,str757,C,ind,s033       ,0,no,post,no,no,no,o,na
+758,757,str758,C,ind,s040       ,0,no,post,no,no,no,k2,na
+759,758,str759,C,ind,s040       ,0,no,post,no,no,no,k1,m
+760,759,str760,C,ind,s047       ,0,post,no,no,no,no,o,na
+761,760,str761,C,ind,s047       ,0,no,no,no,no,no,o,na
+762,-1,str762,D,ns,Tutor,0,no,no,no,no,no,a2,m
+763,762,str763,D,ns,Tutor,0,no,no,no,no,no,a2,he
+764,763,str764,D,ns,s059       ,0,no,no,no,no,no,k2,na
+765,764,str765,D,ns,s062       ,0,no,no,no,no,no,k1,m
+766,765,str766,D,ns,Tutor,0,no,no,no,no,no,k1,m
+767,766,str767,D,ns,s059       ,0,no,no,no,no,no,k2,na
+768,767,str768,D,ns,Tutor,0,no,no,no,no,no,a2,he
+769,768,str769,D,ns,Tutor,0,no,no,no,no,no,a2,he
+770,769,str770,D,ns,s056       ,0,no,no,no,reas,ex,k1,m
+771,770,str771,D,ns,Tutor,0,no,no,no,no,no,a2,he
+772,771,str772,D,ns,s062       ,0,no,no,no,no,no,k1,m
+773,772,str773,D,ns,Tutor,0,no,no,no,no,no,a2,he
+774,773,str774,D,ns,Tutor,0,no,no,no,no,no,a2,he
+775,774,str775,D,ns,Tutor,0,no,no,no,no,no,k1,m
+776,775,str776,D,ns,Tutor,0,no,no,no,no,no,a2,he
+777,776,str777,D,ns,s059       ,0,no,no,no,no,no,k2,na
+778,777,str778,D,ns,s062       ,0,no,no,no,no,no,k1,m
+779,778,str779,D,ns,s059       ,0,no,no,no,no,no,a1,m
+780,779,str780,D,ns,s059       ,0,no,no,no,no,no,a2,he
+781,780,str781,D,ns,Tutor,0,no,no,no,reas,ex,k1,m
+782,781,str782,D,ns,Tutor,0,no,no,no,no,no,a2,he
+783,782,str783,D,ns,s062       ,0,no,no,at,no,no,a1,he
+784,783,str784,D,ns,Tutor,0,no,no,no,no,no,a2,m
+785,784,str785,D,ns,Tutor,0,no,no,no,no,no,a2,m
+786,785,str786,D,ns,Tutor,0,no,no,no,no,no,a2,m
+787,786,str787,D,ns,s059       ,0,no,no,no,reas,ex,k1,he
+788,787,str788,D,ns,Tutor,0,no,no,no,no,no,a2,m
+789,788,str789,D,ns,s062       ,0,no,no,no,no,no,a2,m
+790,789,str790,D,ns,s059       ,0,no,no,no,no,no,a2,he
+791,790,str791,D,ns,s056       ,0,no,no,no,no,no,k2,na
+792,791,str792,D,ns,Tutor,0,no,no,no,no,no,k2,na
+793,792,str793,D,ns,s059       ,0,no,no,no,reas,tr,k1,he
+794,793,str794,D,ns,Tutor,0,no,no,no,no,no,a2,m
+795,794,str795,D,ns,s062       ,0,no,no,no,reas,ex,k1,m
+796,795,str796,D,ns,s059       ,0,no,no,no,no,no,o,na
+797,796,str797,D,ns,s062       ,0,no,no,no,no,no,o,na
+798,797,str798,D,ns,s059       ,0,no,no,no,no,no,o,na
+799,798,str799,D,ns,s059       ,0,no,no,no,no,no,o,na
+800,799,str800,D,ns,Tutor,0,no,no,no,no,no,a2,he
+801,800,str801,D,ns,s059       ,0,no,no,no,no,no,k1,m
+802,801,str802,D,ns,s056       ,0,pre,no,no,no,no,a2,na
+803,802,str803,D,ns,Tutor,0,no,no,no,no,no,o,m
+804,803,str804,D,ns,Tutor,0,no,no,no,no,no,o,he
+805,804,str805,D,ns,s056       ,0,no,no,no,no,no,o,na
+806,805,str806,D,ns,s062       ,0,no,no,no,no,no,k1,m
+807,806,str807,D,ns,s056       ,0,post,no,no,no,no,k2,na
+808,807,str808,D,ns,s062       ,0,post,no,no,no,no,k1,m
+809,808,str809,D,ns,s056       ,0,post,no,no,no,no,o,na
+810,809,str810,D,ns,s062       ,0,post,no,no,no,no,k2,na
+811,810,str811,D,ns,s059       ,0,no,post,no,no,no,a2,m
+812,811,str812,D,ns,s059       ,0,post,no,no,no,no,k2,na
+813,812,str813,D,ns,s056       ,0,post,no,no,no,no,k2,na
+814,813,str814,D,ns,s059       ,0,post,no,no,no,no,k2,na
+815,814,str815,D,ns,s056       ,0,post,no,no,no,no,k2,na
+816,815,str816,D,ns,s059       ,0,post,no,no,no,no,o,m
+817,816,str817,D,ns,s056       ,0,post,no,no,no,no,o,m
+818,817,str818,D,ns,s062       ,0,post,no,no,no,no,o,he
+819,818,str819,D,ns,s056       ,0,post,no,no,no,no,o,na
+820,-1,str820,D,dir,Tutor,0,no,no,no,no,no,a2,m
+821,820,str821,D,dir,Tutor,0,no,no,no,no,no,a1,he
+822,821,str822,D,dir,S060       ,0,no,no,no,no,no,k1,m
+823,822,str823,D,dir,Tutor,0,no,no,no,no,no,a2,he
+824,823,str824,D,dir,Tutor,0,no,no,no,no,no,k1,m
+825,824,str825,D,dir,s063       ,0,no,no,no,no,no,k1,m
+826,825,str826,D,dir,Tutor,0,no,no,no,no,no,a2,he
+827,826,str827,D,dir,s057       ,0,no,no,no,reas,ex,k1,he
+828,827,str828,D,dir,Tutor,0,no,no,no,no,no,a2,he
+829,828,str829,D,dir,Tutor,0,no,no,no,no,no,a2,he
+830,829,str830,D,dir,S060       ,0,no,no,no,no,no,k2,na
+831,830,str831,D,dir,Tutor,0,no,no,no,no,no,a2,he
+832,831,str832,D,dir,s057       ,0,no,no,no,no,no,k2,na
+833,832,str833,D,dir,Tutor,0,no,no,no,no,no,k1,m
+834,833,str834,D,dir,Tutor,0,no,no,no,no,no,a2,he
+835,834,str835,D,dir,Tutor,0,no,no,at,no,no,k2,na
+836,835,str836,D,dir,S060       ,0,no,no,at,no,no,k2,he
+837,836,str837,D,dir,s057       ,0,no,no,no,reas,ex,k1,m
+838,837,str838,D,dir,s057       ,0,no,no,no,no,no,k1,m
+839,838,str839,D,dir,s063       ,0,no,no,no,no,no,o,he
+840,839,str840,D,dir,Tutor,0,no,no,at,no,no,k2,na
+841,840,str841,D,dir,s063       ,0,no,no,no,no,no,o,he
+842,841,str842,D,dir,S060       ,0,no,no,no,no,no,k2,he
+843,842,str843,D,dir,s063       ,0,no,no,no,no,no,k1,m
+844,843,str844,D,dir,Tutor,0,no,no,no,reas,ex,k1,m
+845,844,str845,D,dir,Tutor,0,no,no,no,no,no,a2,he
+846,845,str846,D,dir,s057       ,0,pre,no,no,no,no,o,m
+847,846,str847,D,dir,S060       ,0,no,no,no,no,no,o,he
+848,847,str848,D,dir,S060       ,0,no,no,no,no,no,a2,m
+849,848,str849,D,dir,s063       ,0,no,no,no,no,no,k2,m
+850,849,str850,D,dir,Tutor,0,no,no,no,no,no,a2,m
+851,850,str851,D,dir,Tutor,0,no,no,at,no,no,a2,he
+852,851,str852,D,dir,Tutor,0,no,no,no,no,no,a2,m
+853,852,str853,D,dir,Tutor,0,no,no,no,no,no,a2,m
+854,853,str854,D,dir,Tutor,0,no,no,no,no,no,a2,m
+855,854,str855,D,dir,S060       ,0,no,no,no,no,no,k1,m
+856,855,str856,D,dir,s063       ,0,no,no,no,no,no,k1,m
+857,856,str857,D,dir,Tutor,0,no,no,no,no,no,k2,na
+858,857,str858,D,dir,s057       ,0,no,no,no,no,no,o,na
+859,858,str859,D,dir,Tutor,0,no,no,no,no,no,a2,m
+860,859,str860,D,dir,Tutor,0,no,no,no,no,no,a2,he
+861,860,str861,D,dir,S060       ,0,no,no,no,no,no,o,na
+862,861,str862,D,dir,Tutor,0,no,no,no,no,no,o,na
+863,862,str863,D,dir,S060       ,0,no,no,no,no,no,k2,m
+864,863,str864,D,dir,Tutor,0,no,no,no,no,no,o,na
+865,864,str865,D,dir,s057       ,0,no,no,no,no,no,k1,m
+866,865,str866,D,dir,s063       ,0,no,no,no,no,no,o,na
+867,866,str867,D,dir,S060       ,0,no,no,no,no,no,o,na
+868,867,str868,D,dir,S060       ,0,no,no,no,no,no,o,na
+869,868,str869,D,dir,S060       ,0,post,no,no,no,no,k2,na
+870,869,str870,D,dir,s063       ,0,post,no,no,no,no,o,na
+871,870,str871,D,dir,S060       ,0,post,no,no,no,no,o,na
+872,871,str872,D,dir,S060       ,0,no,no,no,no,no,a2,he
+873,872,str873,D,dir,s063       ,0,no,no,no,no,no,o,na
+874,873,str874,D,dir,S060       ,0,no,no,no,no,no,o,na
+875,874,str875,D,ind,Tutor,0,no,no,no,no,no,a2,he
+876,875,str876,D,ind,Tutor,0,no,no,no,no,no,a1,he
+877,876,str877,D,ind,s064       ,0,no,no,no,no,no,k2,na
+878,877,str878,D,ind,Tutor,0,no,no,no,no,no,k1,m
+879,878,str879,D,ind,Tutor,0,no,no,no,no,no,a2,he
+880,879,str880,D,ind,Tutor,0,no,no,no,no,no,a2,he
+881,880,str881,D,ind,Tutor,0,no,no,no,no,no,a2,he
+882,881,str882,D,ind,Tutor,0,no,no,no,no,no,a2,he
+883,882,str883,D,ind,Tutor,0,no,no,no,no,no,a2,he
+884,883,str884,D,ind,Tutor,0,no,no,no,no,no,k1,m
+885,884,str885,D,ind,Tutor,0,no,no,no,no,no,a2,he
+886,885,str886,D,ind,s064       ,0,no,no,no,no,no,a2,m
+887,886,str887,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+888,887,str888,D,ind,s064       ,0,pre,no,no,no,no,k1,m
+889,888,str889,D,ind,Tutor,0,no,no,no,no,no,a2,he
+890,889,str890,D,ind,s058       ,0,no,no,no,no,no,a2,m
+891,890,str891,D,ind,s064       ,0,no,no,at,no,no,k2,na
+892,891,str892,D,ind,s061       ,0,no,no,no,no,no,k2,na
+893,892,str893,D,ind,s058       ,0,pre,no,no,no,no,k2,na
+894,893,str894,D,ind,s064       ,0,no,no,at,no,no,k2,na
+895,894,str895,D,ind,Tutor,0,no,no,no,reas,ex,k1,m
+896,895,str896,D,ind,Tutor,0,no,no,no,no,no,a2,he
+897,896,str897,D,ind,s061       ,0,no,no,no,no,no,k2,na
+898,897,str898,D,ind,Tutor,0,no,no,no,no,no,a2,m
+899,898,str899,D,ind,s058       ,0,no,no,no,no,no,o,na
+900,899,str900,D,ind,s058       ,0,no,no,no,no,no,o,he
+901,900,str901,D,ind,Tutor,0,no,no,no,no,no,a2,m
+902,901,str902,D,ind,Tutor,0,no,no,no,no,no,a2,m
+903,902,str903,D,ind,Tutor,0,no,no,no,no,no,a2,m
+904,903,str904,D,ind,s064       ,0,no,no,no,no,no,a2,m
+905,904,str905,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+906,905,str906,D,ind,s058       ,0,pre,no,no,no,no,k2,na
+907,906,str907,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+908,907,str908,D,ind,s058       ,0,pre,no,no,no,no,k2,na
+909,908,str909,D,ind,s064       ,0,no,no,no,no,no,a2,m
+910,909,str910,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+911,910,str911,D,ind,s061       ,0,pre,no,no,no,no,o,na
+912,911,str912,D,ind,s058       ,0,pre,no,no,no,no,k2,na
+913,912,str913,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+914,913,str914,D,ind,s064       ,0,pre,no,no,no,no,k1,m
+915,914,str915,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+916,915,str916,D,ind,Tutor,0,no,no,no,no,no,k2,na
+917,916,str917,D,ind,s061       ,0,no,no,no,no,no,k1,m
+918,917,str918,D,ind,Tutor,0,no,no,no,no,no,a2,m
+919,918,str919,D,ind,s058       ,0,no,no,at,no,no,k2,na
+920,919,str920,D,ind,s061       ,0,pre,no,no,no,no,k2,na
+921,920,str921,D,ind,Tutor,0,no,no,no,no,no,a2,m
+922,921,str922,D,ind,s061       ,0,no,no,no,no,no,k2,na
+923,922,str923,D,ind,s058       ,0,no,no,no,no,no,k1,m
+924,923,str924,D,ind,Tutor,0,no,no,no,no,no,a2,he
+925,924,str925,D,ind,Tutor,0,no,no,no,no,no,a2,m
+926,925,str926,D,ind,Tutor,0,no,no,no,no,no,a2,he
+927,926,str927,D,ind,s061       ,0,no,no,no,no,no,k1,m
+928,927,str928,D,ind,s058       ,0,no,no,no,no,no,k2,na
+929,928,str929,D,ind,s061       ,0,pre,no,no,no,no,o,na
+930,929,str930,D,ind,s064       ,0,pre,no,no,no,no,o,na
+931,930,str931,D,ind,s061       ,0,pre,no,no,no,no,o,na
+932,931,str932,D,ind,s058       ,0,pre,no,no,no,no,o,na
+933,932,str933,D,ind,s064       ,0,pre,no,no,no,no,o,m
+934,933,str934,D,ind,s058       ,0,no,no,at,no,no,a2,m
+935,934,str935,D,ind,Tutor,0,no,no,no,no,no,o,na
+936,935,str936,D,ind,Tutor,0,no,no,no,no,no,o,na
+937,936,str937,D,ind,s061       ,0,no,no,no,no,no,o,na
+938,937,str938,D,ind,s064       ,0,no,no,no,no,no,a2,m
+939,938,str939,D,ind,s061       ,0,post,no,no,no,no,o,na
+940,939,str940,D,ind,s061       ,0,post,no,no,no,no,o,na
+941,940,str941,D,ind,s064       ,0,post,no,no,no,no,a2,m
+942,941,str942,D,ind,s061       ,0,post,no,no,no,no,o,na
+943,942,str943,D,ind,s064       ,0,no,no,no,no,no,a2,m
+944,943,str944,D,ind,s061       ,0,no,no,no,no,no,k2,na
+945,944,str945,D,ind,s064       ,0,post,post,no,no,no,o,na
+946,945,str946,D,ind,s061       ,0,no,post,no,no,no,o,na
+947,946,str947,D,ind,s061       ,0,no,post,no,no,no,k1,m
+948,947,str948,D,ind,s061       ,0,post,no,no,no,no,k2,na
+949,948,str949,D,ind,s064       ,0,no,post,no,no,no,o,na
+950,949,str950,D,ind,s061       ,0,post,no,no,no,no,k2,na
+951,950,str951,D,ind,s064       ,0,post,no,no,no,no,o,na
+952,951,str952,D,ind,s061       ,0,post,no,no,no,no,o,na
+953,952,str953,D,ind,s058       ,0,no,post,no,no,no,k2,na
+954,953,str954,D,ind,s061       ,0,no,post,no,no,no,k1,m
+955,954,str955,D,ind,s058       ,0,no,post,no,no,no,k2,na
+956,955,str956,D,ind,s061       ,0,post,no,no,no,no,k2,na
+957,956,str957,D,ind,s058       ,0,post,no,no,no,no,k1,na
+958,957,str958,D,ind,s064       ,0,post,no,no,no,no,a2,m
+959,958,str959,D,ind,s061       ,0,post,no,no,no,no,o,m
+960,959,str960,D,ind,s064       ,0,post,no,no,no,no,o,he
+961,960,str961,D,ind,s061       ,0,post,no,no,no,no,k2,na
+962,961,str962,D,ind,s061       ,0,post,no,no,no,no,k1,he
+963,962,str963,D,ind,s064       ,0,post,no,no,no,no,k1,m
+964,963,str964,D,ind,s058       ,0,post,no,no,no,no,k1,na

@@ -1,0 +1,4 @@
+Sunday September 22nd 2013 7:52 pm -04:00,I am getting this error on submission. I have tested it on multiple occurrences. Dont understand when it works in IDLE...student: test_a2.TestGetComplementarySequence.test_get_complementary_sequence_longERROR[x]Method Description:Have you tested your function on a sequence with multiple occurrences        of each nucleotide?Message:ERROR: AttributeErrorReplacerModule object has no attribute get_complementary_sequence, Unresolved,0
+Sunday September 22nd 2013 8:01 pm -04:00,I am using complementary, Unresolved,0
+Sunday September 22nd 2013 8:13 pm -04:00,def get_complementary_seq(dna):    complementary =     for char in dna:        complementary = complementary + get_complement(char)        return complementarywhat am I doing wrong?? UGGGHHH!, Unresolved,0
+Sunday September 22nd 2013 8:14 pm -04:00,I just realized I didnt spell out sequence all the way! Sorry to take up space here!!, Unresolved,0

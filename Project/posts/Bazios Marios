@@ -1,0 +1,4 @@
+Monday September 9th 2013 2:45 pm -04:00,i typed s1.find(s2s1.find(s2)+1len(s1)) and i cant get why it tells me its wrong?, Resolved,-1
+Tuesday September 10th 2013 8:14 pm -04:00,do not use am or pm.... 3am=03:00  3pm=15:00, Resolved,0
+Wednesday September 25th 2013 11:30 pm -04:00,from a quick view of your code im pretty sure you ve got 2 functions wrong...At first the is_valid_sequence function does not do what it is supposed to do...test it for example with  is_valid_sequence(ACGATT) which is a valid sequence...The second function is get_complementary_sequence...get_complementary_sequence(G) is valid and should return C. , Unresolved,0
+Wednesday September 25th 2013 11:02 pm -04:00,just type help(str.strip), Resolved,1

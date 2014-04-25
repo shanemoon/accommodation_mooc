@@ -1,0 +1,3 @@
+Wednesday August 21st 2013 3:53 pm -04:00,it is due to indentation. if statement should be indented, Resolved,1
+Wednesday August 21st 2013 3:18 pm -04:00,Dear Danina I believe there is no error in the system.[Edit: please do not post questions or answers from the graded exercises on the course forums. ~ep]\color{red}{ext{[Edit: please do not post questions or answers from the graded exercises on the course forums. ~ep]}}, Resolved,0
+Thursday August 22nd 2013 2:31 am -04:00,You should type underscore twice before and after builtins in dir. It should be dir(__builtins__), Resolved,2

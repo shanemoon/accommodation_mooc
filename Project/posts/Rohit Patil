@@ -1,0 +1,4 @@
+Saturday August 31st 2013 12:32 pm -04:00,The answer to the question is (str) -> int.However is this valid too? : (str) -> number.I got this answer as incorrect in the quiz though number is used in type contract of many functions. Please help!, Resolved,0
+Saturday August 31st 2013 4:15 pm -04:00,Thank You!, Resolved,0
+Saturday August 31st 2013 4:16 pm -04:00,It was really helpful in solving the exercise., Resolved,0
+Monday September 2nd 2013 9:25 am -04:00,This error occurs when you dont run the module. You may have defined the function properly but you should run the module before giving a call to the convert_to_celsius(32)., Resolved,0

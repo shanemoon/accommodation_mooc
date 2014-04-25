@@ -1,0 +1,2 @@
+Monday September 16th 2013 11:39 pm -04:00,There is one more condition to be satisfied i believe They did mention DNA sequence should be uppercase letters only.. Just check if you add that condition it works.., Resolved,0
+Tuesday September 17th 2013 12:35 am -04:00,I am not sure this may also be the reason  but if automatic testing tool looks at the function name which is provided in the details as it is  you have provided  Is_valid_sequence(dna) instead of is_valid_sequence just try this once.. , Resolved,2

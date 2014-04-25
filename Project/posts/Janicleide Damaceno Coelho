@@ -1,0 +1,8 @@
+Tuesday August 20th 2013 12:30 am -04:00,The problem summary:Steps to reproduce:Screenshot:,None,0
+Tuesday August 20th 2013 1:18 am -04:00,Thank you,None,0
+Sunday August 25th 2013 12:42 pm -04:00,The problem summary:Steps to reproduce:Screenshot:, Unresolved,0
+Sunday September 1st 2013 11:54 am -04:00,Because you are putting the answer with a quote at the beginning and two at the end.eg bananamuffin This case gives SyntaxError.And if you put bananamuffin or bananamuffin  will be correct., Resolved,0
+Sunday September 1st 2013 11:55 am -04:00,Because you are putting the answer with a quote at the beginning and two at the end.eg bananamuffin This case gives SyntaxError.And if you put  bananamuffin  or  bananamuffin      will be correct., Resolved,0
+Sunday September 1st 2013 12:22 pm -04:00,The problem summary:Steps to reproduce:Screenshot:, Unresolved,0
+Sunday September 1st 2013 2:07 pm -04:00,The function count_vowels returns the number of vowels in a given word (a str). For example:>>> count_vowels(moose)3>>> count_vowels(scratch)1The Type Contract is the line of a docstring that describes the types of the parameters and return value. Give a Type Contract for this function., Resolved,0
+Sunday September 1st 2013 9:05 pm -04:00,Ok! , Resolved,0

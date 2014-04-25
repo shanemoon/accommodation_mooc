@@ -1,0 +1,5 @@
+Saturday September 14th 2013 2:02 am -04:00,I get this error on all even on ones I have not written code for yet.Any ideas whats wrong?Also no print statements are being used in my code.Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a2.py 46 13     print dna.count(nucleotide)), Resolved,0
+Saturday September 14th 2013 2:19 am -04:00,I am pretty sure. Maybe Ill re-download and start a new file., Resolved,0
+Sunday September 15th 2013 4:35 pm -04:00,started a new file added the same code and now it scores correctly., Resolved,0
+Sunday September 15th 2013 4:36 pm -04:00,:), Resolved,0
+Sunday September 15th 2013 4:37 pm -04:00,Its resolved., Resolved,0

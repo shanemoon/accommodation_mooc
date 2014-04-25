@@ -1,0 +1,2 @@
+Tuesday August 20th 2013 4:33 pm -04:00,When I put in 2 arguments Python says there is a syntax error. ex:>>> round(54.6665[5])Traceback (most recent call last):  File <pyshell#10> line 1 in <module>    round(54.6665[5])TypeError: float object is not subscriptablewhat is going on here? I tried it with a comma before the second argument and that didnt work either, Resolved,0
+Sunday September 8th 2013 2:47 pm -04:00,I wrote for my answer:return temp > 28 or temp < 12And it came up as incorrect what was the correct answer? It doesnt say, Resolved,0

@@ -1,0 +1,5 @@
+Sunday September 29th 2013 3:00 pm -04:00,def read_words(words_file):            words_file = (C:\Python33\wordlist1.txt)    file = open(words_file r)    file.readline()    words_list =     for line in file:         words_list.append(line.rstrip())            return words_list    file.close()Method Description:NoneMessage:ERROR: DisabledBuiltinErrorCalling the open built-in is not permitted., Unresolved,0
+Sunday September 29th 2013 3:30 pm -04:00,theres no file open when called, Unresolved,0
+Sunday September 29th 2013 3:32 pm -04:00,I suppose thats what was done in my code, Unresolved,0
+Sunday September 29th 2013 6:06 pm -04:00,it run very well with a3----> Python but not on the grader, Unresolved,0
+Sunday September 29th 2013 6:24 pm -04:00,words_file = (C:\Python33\wordlist1.txt)       words_list =     for line in words_file:      words_list.append(line.rstrip())    return words_listits not working yet.    , Unresolved,1

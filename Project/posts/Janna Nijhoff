@@ -1,0 +1,3 @@
+Wednesday September 25th 2013 1:48 pm -04:00,student: test_a3.Test_02_ReadBoard.test_02_square_symmetric_boardFAILURE[x]Method Description:NoneMessage:FAILURE: AssertionErrorFalse is not true : Note that the last line of the input file for a board does not have a newline character.student: test_a3.Test_02_ReadBoard.test_03_rectangular_assymetric_boardFAILUREstudent: test_a3.Test_02_ReadBoard.test_03_square_assymetric_boardFAILUREI am getting these failures can anybody help my find my problem!!! , Resolved,0
+Wednesday September 25th 2013 2:02 pm -04:00,So what do you have to do to fix that?, Resolved,0
+Wednesday September 25th 2013 2:43 pm -04:00,Used an if statement like if letter!= in the function now it works!!! , Resolved,0

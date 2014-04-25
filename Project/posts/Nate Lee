@@ -1,0 +1,1 @@
+Tuesday October 1st 2013 12:16 am -04:00,I ran into this earlier today.  Make sure you arent iterating multiple times per run ie. with a for loop and then readline within the for loops., Unresolved,0

@@ -1,0 +1,1 @@
+Saturday September 14th 2013 3:25 pm -04:00,very frustrated ... I guess I have to use s.find (even though I cant figure it out).But why doesnt this work?:     Return dna2 in dna1>>> GG in ATCGGCTrue>>> GT in ATCGGCFalseBut when I run it as return dna2 in dna1 I get False, Unresolved,0

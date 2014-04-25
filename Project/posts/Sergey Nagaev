@@ -1,0 +1,6 @@
+Sunday September 15th 2013 9:32 am -04:00,You can glue final sequence from 3 pieces1st - original seq from 0 to index2nd - inserted seq3rd - remaining seq from index to endjust translate all three to python code and try, Resolved,2
+Sunday September 15th 2013 9:56 am -04:00,look. for example you have got string AACCGGTT and index 5it will looks like >>> zzz = AACCGGTT>>> pos = 5>>> zzz[0:pos]AACCG>>> zzz[pos:]GTT>>> , Resolved,0
+Sunday September 15th 2013 11:25 am -04:00,OK. I understand. it should looks like insert_sequence(TTAGCTCC GGG 2) instead insert_sequence(TTAGCTCC GGG 2) third parameter must be the int not str. so just remove quotes around last parameter., Resolved,3
+Sunday September 15th 2013 12:10 pm -04:00,You already welcome., Resolved,0
+Sunday September 15th 2013 9:35 am -04:00,I think it should looks like def convert_to_minutes(num_hours):              (int) -> int, Unresolved,1
+Sunday September 15th 2013 9:36 am -04:00,OopsMarc F was faster than me :), Unresolved,0

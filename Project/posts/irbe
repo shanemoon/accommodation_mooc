@@ -1,0 +1,1 @@
+Monday September 9th 2013 11:15 am -04:00,Your example would be wrong because division of 2 integers can also result in an integer.Mathematically yes but in Python when you use \ for division (rather than \\ ) it would always be float e.g. 9 \ 3 would give 3.0 which is a float., Unresolved,1

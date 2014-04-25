@@ -1,0 +1,4 @@
+Saturday September 14th 2013 1:13 pm -04:00,I need some help on the standard code for the insert_sequence function body., Resolved,0
+Saturday September 14th 2013 1:24 pm -04:00,Done. Thank you., Resolved,0
+Saturday September 14th 2013 2:15 pm -04:00,Is it possible to use a for loop in function get_complement?, Unresolved,0
+Saturday September 14th 2013 6:10 pm -04:00,You can only have one if on the same if statement. On the 2nd 3rd and 4th you must use elif., Unresolved,0

@@ -1,0 +1,2 @@
+Friday October 4th 2013 2:02 pm -04:00,I run that function with print(line.strip()) and it worked. the help says:strip(...) |      S.strip([chars]) -> str |       |      Return a copy of the string S with leading and trailing |      whitespace removed. |      If chars is given and not None remove characters in chars instead., Resolved,0
+Friday October 4th 2013 3:28 pm -04:00,thank you so much! -_-, Resolved,0

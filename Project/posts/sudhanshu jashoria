@@ -1,0 +1,7 @@
+Monday September 2nd 2013 10:39 am -04:00,i am getting a failure message as student: test_time_to_utc.TestTimeToUTC.test_day_behindwhat does it mean?can someone guide me?, Resolved,0
+Monday September 2nd 2013 10:56 am -04:00,thnx Byrne for replying. yes i tried all the examples in that function and i got the correct results., Resolved,0
+Monday September 2nd 2013 11:03 am -04:00,ariane: what should i include? the examples??, Resolved,0
+Monday September 2nd 2013 12:16 pm -04:00,thanx a lot Byrne. I have got it now. i did not think in that way but your example helped a lot. , Resolved,0
+Monday September 2nd 2013 12:27 pm -04:00,Byrne- i tried your example and I got -1 as the answer  and then I reconstructed my code and i got the desired result i.e. 23.0 but after the re-submission i am still getting the same problem., Resolved,0
+Tuesday September 3rd 2013 12:16 pm -04:00,this is the description of the error which i am getting:can anybody try to help me out and let me know what kind of error is this?Method Description:Test the values where time in time zone UTC+0 is just before midnight        but time in time zone utc_offset is just after midnight.        (This means that UTC+0 is earlier than time zone utc_offset.)Message:FAILURE: AssertionError1.0 != 25.0 within 7 places, Resolved,0
+Wednesday September 4th 2013 1:01 pm -04:00,thnx a lot paul i did not call the function earlier but everything seems fine now. , Resolved,0

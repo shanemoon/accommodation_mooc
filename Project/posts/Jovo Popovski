@@ -1,0 +1,2 @@
+Monday September 16th 2013 5:39 pm -04:00,s[3] not s[4]. You start with s[0], Resolved,0
+Monday September 16th 2013 5:48 pm -04:00,while (i < len(s)) and s[i].isdigit():    ...., Resolved,2

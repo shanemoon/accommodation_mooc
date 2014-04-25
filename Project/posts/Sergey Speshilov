@@ -1,0 +1,5 @@
+Saturday September 14th 2013 2:44 am -04:00,Hi there!Why 7/3 = 2.3333333333333335?Why not 7/3 = 2.3333333333333333?Even if round up last digit there must be 2.3333333333333334.I am confused and my world is crushed,None,2
+Sunday September 15th 2013 4:30 am -04:00,Hi Nick!I understand this but why not 2.3333333333333334? Why it must be 5?,None,0
+Sunday September 15th 2013 1:19 pm -04:00,Alain thank you!,None,0
+Sunday September 15th 2013 4:18 pm -04:00,:-oanother magic: >>> Decimal.from_float(2.3333333333333335)Decimal(2.333333333333333481363069950020872056484222412109375)Python not so simply as i can see now :)Fractions very interesting thing: http://www.python.org/doc//current/library/fractions.html,None,1
+Wednesday September 18th 2013 3:54 pm -04:00,student: test_a2.TestIsValidSequence.test_is_valid_sequence_zero_lengthFAILUREmy code:def is_valid_sequence(dna):    for c in dna:        if not contains_sequence(ACTG c):            return False            return get_length(dna) > 0and then i see A2 FAQ^ https://class.coursera.org/programming1-002/forum/thread?thread_id=1872#post-10972:(This must be in Instruction i think. 23/24 for now in A2., Unresolved,0

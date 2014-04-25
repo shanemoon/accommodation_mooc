@@ -1,0 +1,8 @@
+Tuesday August 27th 2013 6:43 am -04:00,Hi I`m trying to solve this assignment.When I submit the code I found the errata in my code. So I modified my answer. and resubmitted. But result still shows fail in test_get_minutes.I just insert the one-line simple code of Integer division to get minute. Like this.def get_minutes(seconds):     (int) -> int    The parameter is a number of seconds since midnight.    Return the number of minutes that have elapsed since midnight as seen on a clock.    (This means that the return value should be in the range 0 to 59 inclusive.)        return (integer division)Is my approach wrong about something? or is this a bug?Thanks., Resolved,0
+Tuesday August 27th 2013 7:27 am -04:00,Thanks for the reply. But I didn`t get the success message yet :(Can I ask what`s the test case of test_just_after_minute and another thing?, Resolved,0
+Tuesday August 27th 2013 10:21 am -04:00,Oh I see Thanks anyway!, Resolved,0
+Tuesday August 27th 2013 12:42 pm -04:00,really? but % arithmatic gives us the remainder. I think we should find the quota converting second to minute. So I choose //, Resolved,0
+Tuesday August 27th 2013 12:39 pm -04:00,I agree. That`s integer division., Resolved,0
+Tuesday August 27th 2013 12:50 pm -04:00,Not at all... When I change the code some question change to fail. I don`t know what the problem is.., Resolved,0
+Tuesday August 27th 2013 1:07 pm -04:00,Oh. I forgot to check the range of minute. So this problem must be mixing with integer division and remainder.Thanks for inspiring!, Resolved,0
+Tuesday August 27th 2013 1:10 pm -04:00,I forgot to check the range of minute. Before modifing the code I got 125. but now I got 5., Resolved,0

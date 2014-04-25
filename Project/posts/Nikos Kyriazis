@@ -1,0 +1,6 @@
+Friday August 30th 2013 5:18 am -04:00,does anybody recall the keystroke for windows?thank you, Unresolved,0
+Monday September 16th 2013 4:35 am -04:00,why is the result printed twice in the following code?for char in message:	if char.isdigit():		new_message = new_message + str((int(char) + 1) % 10)	else:		new_message = new_message + charit looks like the char variable starts over again once it reaces ! and I cannot understand why, Unresolved,0
+Monday September 16th 2013 5:10 am -04:00,to follow up with my previous post in Python visualiser I get the result printed once while when I run it in idle it gets printed twice as stated earlier, Unresolved,0
+Monday September 16th 2013 5:27 am -04:00,Hadnt thought of that it makes sense. Ill give it a try.Thanks for your answer, Unresolved,0
+Thursday October 3rd 2013 9:35 am -04:00,when I try the following to open a file to write to I get the following:filename = F:\Dropbox\code\Python\assignmentsempfile.txt>>> file = open(filename w)Traceback (most recent call last):  File <pyshell#18> line 1 in <module>    file = open(filename w)OSError: [Errno 22] Invalid argument: F:\\Dropbox\\code\\Python\x07ssignmentsempfile.txtwhat am I doing wrong?, Resolved,0
+Thursday October 3rd 2013 10:51 am -04:00,this seems to work.thx for your help!, Resolved,1

@@ -1,0 +1,7 @@
+Saturday September 28th 2013 10:43 am -04:00,deansmenso@live.com, Pinned Approved,0
+Saturday September 28th 2013 3:21 pm -04:00,Hi everyoneCan someone help me? I have made Assignment 3. When I tested my functions all of them worked except for read_words and read_board. After testing I submitted my work but it doesnt grade my work. I see 0.00/37. And Im sure that my functions arent incorrect because they work fine in IDLE except for the last two. Am I submitting my work incorrect or am I doing something else wrong?, Unresolved,0
+Saturday September 28th 2013 3:50 pm -04:00,Yes Im only using return. And I just checked the errors but I dont understand them, Unresolved,0
+Saturday September 28th 2013 4:16 pm -04:00,, Unresolved,0
+Saturday September 28th 2013 5:12 pm -04:00,Thank you for the tip, Unresolved,0
+Saturday September 28th 2013 5:29 pm -04:00,Its solved!Thank you all for putting time in this and helping me. Marek Pekarovic I want to especially thank you for solving the problem., Unresolved,0
+Tuesday October 1st 2013 7:01 pm -04:00,Hi guya. I had the same problem.If you have this in your a3.py file:from tkinter.filedialog import askopenfileimport a3delete it. I did this mistake and also recieved no points., Unresolved,0

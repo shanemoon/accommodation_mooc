@@ -1,0 +1,2 @@
+Tuesday September 3rd 2013 11:25 am -04:00,if temperature > 28:    if money > 0.99:        print(Im buying a lemonade.)    else:        print(Wheres the water fountain?)I understood it only by translating as followsIf temperature > 28 and if money >0.99 print the lemonade.Otherwise If money is <=0.99 and the temperature remains >28 (because the else is intended)print the fountain.So only the first two options are correct. Does this make any sense?, Unresolved,6
+Tuesday September 3rd 2013 11:37 am -04:00,So in case of temperature 26 the result is none., Unresolved,1

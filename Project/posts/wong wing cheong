@@ -1,0 +1,1 @@
+Friday August 30th 2013 10:01 am -04:00,hi Jamestry to use % and 3600 sec to get rid of the hour first  then you will have minutes left after that use % and 60 again to get rid of the minutes  then the remain will be seconds. hope it will give you more idea to do it., Resolved,-2

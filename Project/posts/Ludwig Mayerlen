@@ -1,0 +1,3 @@
+Tuesday August 20th 2013 6:17 pm -04:00,Helloeverytime I want to paste something into IDLE the program is like frozen. The Edit signature on top is marked and whatever button I press I cant use the program any more and have to shut it down via force quit.Does anyone has the same problem and does anyone know a solution?, Resolved,0
+Tuesday August 20th 2013 6:17 pm -04:00,I already tried reinstalling but its still the same, Resolved,0
+Tuesday August 20th 2013 6:32 pm -04:00,installing ActiveTcl 8.5 was the solutionhttp://www.python.org/download/mac/tcltk/#activetcl-8-5-14, Resolved,2

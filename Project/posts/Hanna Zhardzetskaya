@@ -1,0 +1,2 @@
+Thursday September 5th 2013 11:11 pm -04:00,Please can somebody explains why it is correct:if grade1 >= 50:    num_passed = num_passed + 1if grade2 >= 50:    num_passed = num_passed + 1Maybe someone has a whole code because I dont get how it can work. If I try this I get NameError: name num_passed is not defined in Visualizergrade1=70grade2=80if grade1 >= 50:    num_passed = num_passed + 1if grade2 >= 50:    num_passed = num_passed + 1, Resolved,0
+Friday September 6th 2013 6:04 pm -04:00,thank you for your explanation. Now I understand! , Resolved,0

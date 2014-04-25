@@ -1,0 +1,12 @@
+Saturday September 14th 2013 2:19 pm -04:00,I am stuck because I might be interpreting this incorrectly.When I have a sequence TTAATTAA and want to insert G at position -1 should the result be TTAATTAAG or TTAATTAGA?, Resolved,0
+Saturday September 14th 2013 2:24 pm -04:00,Thanks! That simplifies my work so much! I was really worried that it has to be the other solution., Resolved,0
+Saturday September 14th 2013 3:03 pm -04:00,Heywhen I submit the assignment I get zero points even though everything seems to be working well.When I click on the error descriptions I always get the same message (see below).What am I doing wrong?------Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a2.py 131 20     for char in dna), Resolved,0
+Saturday September 14th 2013 3:11 pm -04:00,yes, Resolved,0
+Saturday September 14th 2013 3:53 pm -04:00,I deleted both and scored 20/24.But they both work... well in 1 hour I will try the first one and see... I have a pretty long code for it but that shouldn´t matter no?, Resolved,0
+Saturday September 14th 2013 4:03 pm -04:00,My Get complement has 10 including the definition without examples and description. Odd. The other one has 5 (incl. definition excluding examples and description).:(, Resolved,0
+Saturday September 14th 2013 3:39 pm -04:00,My file is called a2.py this can´t be it. But thanks anyway :), Resolved,0
+Saturday September 14th 2013 3:48 pm -04:00,return answer (I have defined answer before), Resolved,0
+Saturday September 14th 2013 4:14 pm -04:00,I have a couple of these statements neither has a semicolon they have : at the end, Resolved,0
+Saturday September 14th 2013 4:33 pm -04:00,That´s what they are :), Resolved,0
+Saturday September 14th 2013 4:18 pm -04:00,I don´t get any errors. I will try with the colon - where exactly should I put it? After the return statement? Or after the last command in the loop?, Resolved,0
+Saturday September 14th 2013 4:53 pm -04:00,No idea how but suddenly the thing started to work! YAY!Thanks everyone for your support! :-), Resolved,0

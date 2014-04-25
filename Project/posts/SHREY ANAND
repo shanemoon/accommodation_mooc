@@ -1,0 +1,3 @@
+Thursday October 3rd 2013 1:20 pm -04:00,can i use slicing method to remove newline character? i used it and the shell is showing the list of words as asked but still autotesting is showing failure., Unresolved,0
+Thursday October 3rd 2013 1:36 pm -04:00,i am using it with output.append(line[:-1]) where output is an accumulator which accumulates strings of words which have newline char on -1 index which is removed if I only append till line[:-1], Unresolved,0
+Thursday October 3rd 2013 1:56 pm -04:00,please help!, Unresolved,0

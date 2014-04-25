@@ -1,0 +1,2 @@
+Tuesday August 27th 2013 2:59 pm -04:00,In some functions have preconditions for example to_float_hours. Then do we need to write the code to control these preconditions in this functions or isnt it necessary?, Resolved,0
+Tuesday August 27th 2013 3:39 pm -04:00,Thanks Angel. I saw that the examples meets the requeriments established in the precondition but I wanted to make me sure before carrying on with the task., Resolved,0

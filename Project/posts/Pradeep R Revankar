@@ -1,0 +1,15 @@
+Saturday September 14th 2013 4:12 am -04:00,You are quite close to solving the answer but you dont have to take the length of the string . You need to start looking for the next occurence from the next index from the first returned value. You can reason out why!, Resolved,1
+Saturday September 14th 2013 4:21 am -04:00,RachelPlease provide additional details on why you are getting the error and failure! No one can deduce why you are getting the error, Unresolved,1
+Saturday September 14th 2013 4:19 am -04:00,Hi IcyYour answer is right. Just see on putting the string in correct order. Append the new charechter (the complement) after the complementary and not before it.This should solve and get you your answer!, Resolved,1
+Saturday September 14th 2013 4:24 am -04:00,Thanks Icy for your appreciation.1+2=2+1  the commutative property which we learn still holds good here but only for numbers! :) We are here handling string and so ab is not the same as ba:)Hope you get the logic!Thanks, Resolved,1
+Monday September 16th 2013 6:28 am -04:00,That is because the test results would have succeeded completely, Unresolved,0
+Monday September 16th 2013 1:10 am -04:00,Hiis_valid_sequence is a function. It needs to be called like is_valid_sequence(ATGC)check whether you have called it properly , Resolved,0
+Monday September 16th 2013 6:20 am -04:00,Hi SilvieI havent added that line . And Python does not require declaration of variables!, Unresolved,0
+Monday September 16th 2013 6:15 am -04:00,Yes!!, Resolved,0
+Monday September 16th 2013 6:27 am -04:00,It means that your code failed to produce correct output for the functioncontains_sequence() :), Unresolved,0
+Thursday September 19th 2013 1:18 pm -04:00,What is the problem you are facing??, Resolved,0
+Friday September 20th 2013 12:23 pm -04:00,Hi Rickint2 is not defined at all. , Unresolved,0
+Friday September 20th 2013 12:40 pm -04:00,Hi Rickin your while loop you are keeping the value of int1 intactand addend is always getting the value of int1+2;Use i instead of int1 inside while loopThis should save it from going it to infinite loop, Unresolved,0
+Friday September 20th 2013 12:41 pm -04:00,As far as the logic is concerned Please recheck it yourself. The post here was to find out why it was getting inside an infinite loop :), Unresolved,0
+Monday September 30th 2013 11:30 am -04:00,Check your python Version , Resolved,0
+Monday September 30th 2013 11:34 am -04:00,Hi ChrisFor the same code as yours I am getting a different answerI get 27541388 Can you tell me what are you trying to get here!, Unresolved,0

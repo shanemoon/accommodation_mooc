@@ -1,0 +1,1 @@
+Friday August 30th 2013 3:50 am -04:00,Your function definition should look like this>>> def func_name(param):             return param>>>And then you can call function>>> a = func_name(param)For square_return and sqaure_print your function should look like this., Resolved,1

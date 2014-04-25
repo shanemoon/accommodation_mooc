@@ -1,0 +1,7 @@
+Wednesday October 2nd 2013 11:13 pm -04:00,I have doubt about this function:Does wordlist needs to be extracted from wordlist.txt? or simply making a statement like wordlist = ..... will be enough?I do not really get what they want., Resolved,0
+Wednesday October 2nd 2013 11:30 pm -04:00,Is this the output that we should get from read_board?, Resolved,0
+Monday September 30th 2013 9:19 pm -04:00,I have the same errorHow did you solved it?, Unresolved,0
+Tuesday October 1st 2013 6:03 pm -04:00,yes That is what I did, Unresolved,0
+Tuesday October 1st 2013 8:43 pm -04:00,Yey! now it works! My problem wasnt on the code I compared it with the one posted with the lecture but I also checked the text on the file with open.I just copied and pasted and it worked. The only thing that I remember was different I had one more line on the header. Do you think that it is why I had the error?, Unresolved,0
+Sunday September 29th 2013 8:15 pm -04:00,As you can see on the picture highlighted. I really do not get why need to repeat line = flanders_file.readline() at the end of the loop.What is the purpose of this? , Resolved,0
+Monday September 30th 2013 5:53 pm -04:00,thanks!, Resolved,0

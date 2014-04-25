@@ -1,0 +1,2 @@
+Wednesday October 2nd 2013 10:29 pm -04:00,this is my result: make_string_from_row([[A N T T][X S O B]] 0)Im gettingANTLoop exits before last string. is picked up., Unresolved,0
+Friday October 4th 2013 10:43 pm -04:00,I am getting a failure message and have no idea how to fix it on the 3rd test. make str from column. WRONG data returned for an item in an non square board..x emtpy stringy accumilatorfor loop i range/len/board/columfor loop char board/y/col_indxexit y == len/boardThis is TERRIBLE!I was really struggling on the if exit., Unresolved,0

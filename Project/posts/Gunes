@@ -1,0 +1,2 @@
+Saturday August 24th 2013 1:43 pm -04:00,when I calculate the following integer division I got 2 not 2.4 as other found.12/52If I write it as follows  it is fine.12.0/5.02.4Any suggestion?Thanks.GY, Resolved,0
+Saturday August 24th 2013 2:26 pm -04:00,Thank all of you to answer my question. I did not want to install python 3 version. That was the problem. Now I know how to solve that kind of problem in the future. Have a great weekend., Resolved,0

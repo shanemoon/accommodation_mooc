@@ -1,0 +1,1 @@
+Friday October 4th 2013 12:55 pm -04:00,when I run: >>> from tkinter.filedialog import askopenfile I get the error:ImportError: No module named tkinter.filedialogWhy can my computer not find the module?, Unresolved,0

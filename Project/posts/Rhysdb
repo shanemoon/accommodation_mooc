@@ -1,0 +1,2 @@
+Tuesday October 1st 2013 11:14 am -04:00,My original code for this problem doesnt work either. My make_str_from_row works but board_contains_word_in_row always returns false., Resolved,0
+Tuesday October 1st 2013 12:21 pm -04:00,My return row in string works but not the board contains word in row. , Unresolved,0

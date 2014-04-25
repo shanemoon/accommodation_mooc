@@ -1,0 +1,11 @@
+Friday August 30th 2013 10:13 am -04:00,Wong dont give out answers just guidence , Resolved,1
+Wednesday September 4th 2013 11:31 am -04:00,This is easy dont make it harder than it is.A stack frame is the variable or group of variables that the program is using/creating at that step in the code the global frame is all the variables for the whole code. To answer this question count the groups of variables the clearly separated groups  including the global frame cause it says so. Some frames only have one variable but still clearly separated. Dont count the individual variables. , Unresolved,1
+Thursday September 5th 2013 2:19 pm -04:00,Are you asking about the math?Just divide the min by 60 and add it to the hours37 / 60 = .61666666   therefore14:37 = 14 + .616666 = 14.6166666, Resolved,0
+Monday September 9th 2013 11:25 am -04:00,Not really sure about the error but you dont need the if statement because its a Boolean:>>> eggs = 12>>> eggs % 12 == 0True>>> eggs % 12 !=0False, Resolved,2
+Tuesday September 10th 2013 3:28 pm -04:00, A <-> T, Resolved,2
+Tuesday September 10th 2013 3:25 pm -04:00,The program is looking for get_complementary_sequence not get_complementaryI spelled complementary wrong and got the same three errors I went half crazy trying to figure out what was wrong with my code and it was my spelling the whole time, Resolved,1
+Tuesday September 10th 2013 4:12 pm -04:00,I know I spent half the day trying to get get_complemetary_sequence to work., Resolved,0
+Tuesday September 10th 2013 4:08 pm -04:00,Ok so think of it this way if you use s.find() and the string2 is not in string1 youll get -1., Resolved,0
+Tuesday September 10th 2013 4:17 pm -04:00,I got a single line code using only what was taught in lecture., Resolved,0
+Wednesday September 11th 2013 11:46 am -04:00,The easiest way to do this is to create two new strings s1 = ATCG and the s2 is the complimentary s2 = TAGC  where the position of each nucleotide in s1 corresponds to the position of their compliment in s2. the rest is a one line return statement. Good Luck, Unresolved,1
+Wednesday September 11th 2013 3:39 pm -04:00,You dont need it to equal a variable just return the statement that you are equating to a variablei.e.s = x + yreturn s this is the same as:return x + y, Resolved,1

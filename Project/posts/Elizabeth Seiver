@@ -1,0 +1,2 @@
+Saturday August 31st 2013 5:16 pm -04:00,I have the same problem. When I execute the code in IDLE locally it works well and all the test answers work. But each test returns `AttributeErrors` and `TypeErrors` from the autograder. Ive already tried uploading more than once to no avail., Unresolved,0
+Sunday September 1st 2013 8:09 pm -04:00,I decided to follow advice in another thread and resubmitted the `a1.py` file without changing anything. This time I got 36/41!, Unresolved,0

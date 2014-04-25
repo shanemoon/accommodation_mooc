@@ -1,0 +1,4 @@
+Saturday September 14th 2013 11:53 am -04:00,I know it says not to use str methods but is len() acceptable?, Resolved,0
+Saturday September 14th 2013 12:16 pm -04:00,Well the only thing I was using len() for was to check for strings of length 0 for my is_valid_sequence() function and after reading the assignment FAQ Ive realized that a string of length 0 is considered to be a valid sequence by the automarker anyway so go ahead and disregard this., Resolved,0
+Saturday September 14th 2013 12:47 pm -04:00,Yeah reading the docstring there isnt anything indicating that an empty string should return false so it makes sense.Its just that when coding the function it seemed natural to make it return empty strings as false given that  isnt a valid DNA sequence.Ill have to be more careful interpreting pre-written docstrings in the future., Resolved,0
+Saturday September 14th 2013 12:18 pm -04:00,len() isnt a string method though its a built-in function., Resolved,2

@@ -1,0 +1,14 @@
+Sunday September 8th 2013 3:50 pm -04:00,Remember that when a function is not native to Python you have to tell Python where to look for the function. , Unresolved,1
+Tuesday September 24th 2013 7:22 pm -04:00,How do you know when you need to specify a range and when you do not? Why do the first examples use a range and the last one in the lecture does not?, Resolved,0
+Wednesday September 25th 2013 11:09 am -04:00,In the nested lists lecture the last example she gives in the lecture. , Resolved,0
+Wednesday September 25th 2013 7:00 pm -04:00,THANK YOU!, Resolved,0
+Friday September 27th 2013 5:34 pm -04:00,Im copying everything directly off of the lecture screen for writing files but the cursor just goes to the next line when I write to_filname = tkinter.filedialog.asksaveasfilename(). Can someone tell me what Im doing wrong?, Unresolved,0
+Sunday September 29th 2013 11:19 am -04:00,student: test_a3.Test_02_ReadBoard.runERROR	student: test_a3.Test_11_NumWordsOnBoard.runERROR	student: test_a3.Test_04_MakeStrFromRow.runERROR	student: test_a3.Test_09_WordScore.runERROR	student: test_a3.Test_10_UpdateScore.runERROR	student: test_a3.Test_08_BoardContainsWord.runERROR	student: test_a3.Test_06_MakeStrFromColumn.runERROR	student: test_a3.Test_01_ReadWords.runERROR	student: test_a3.Test_07_BoardContainsWordInColumn.runERROR	student: test_a3.Test_03_IsValidWord.runERROR	student: test_a3.Test_05_BoardContainsWordInRow.runERRORFor those of us just starting this is not helpful feedback. I have NO IDEA what any of this means or how to fix it. , Unresolved,0
+Sunday September 29th 2013 11:33 am -04:00,They are all indentation errors but when I run them in the shell they are fine and when I run them in the visualizer they are fine and then I cut and paste them from the visualizer into the file and they come back as errors! , Unresolved,0
+Sunday September 29th 2013 11:35 am -04:00,17 out of 37 :(, Unresolved,0
+Sunday September 29th 2013 12:02 pm -04:00,I thought you cant run it until you are done and Im not done with the last two functions, Unresolved,0
+Sunday September 29th 2013 2:08 pm -04:00,I cant seem to test my read functions because I cant figure out how to tell visualizer what file to read...can someone help, Unresolved,0
+Sunday September 29th 2013 2:18 pm -04:00,thanks., Unresolved,0
+Sunday September 29th 2013 6:07 pm -04:00,Are we supposed to have it output in the shell or write it to another file? , Unresolved,0
+Sunday September 29th 2013 6:13 pm -04:00,thank you, Unresolved,0
+Sunday September 29th 2013 7:15 pm -04:00,Method Description:Run all methods in this TestCase whose name begin with test_.           Run self.setup() before and self.teardown() after.        Message:ERROR: SyntaxErrorinvalid syntax(./a3.py 271 24     board = board_file.)What is this error? I have it eleven times in all of my functions. Anyone recognize it?, Unresolved,0

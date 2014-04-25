@@ -1,0 +1,1 @@
+Thursday September 19th 2013 5:44 am -04:00,Here is another way to think about the problem. If you set the register bad_count to 0 and increment bad_count every time your test string (is not) a valid nucleotides than if bad_count does not = 0 the string isnt valid.Remember  is in all strings., Resolved,0

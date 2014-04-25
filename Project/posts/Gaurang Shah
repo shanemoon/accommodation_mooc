@@ -1,0 +1,1 @@
+Friday August 23rd 2013 4:05 am -04:00,Hi AllI got a syntax error on attempting question 15. Could any one help to where I have gone wrong.>>> def even_bigger(x): return (2 * x) ** xeven_bigger(12)SyntaxError: invalid syntax>>> SyntaxError: invalid syntaxSyntaxError: invalid syntax>>>,None,1

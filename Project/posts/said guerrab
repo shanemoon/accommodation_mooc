@@ -1,0 +1,2 @@
+Sunday September 15th 2013 1:37 pm -04:00,Hello I just want to mention that there is probably an error on quizThis code def sum(number1 number2):    print(number1+number2)result = sum(13)gives 4instead of noneAnother thing to mention we should not name a user defined function sum because its built in function in python. , Resolved,0
+Sunday September 15th 2013 2:33 pm -04:00,Thank you so much.Now I understand. I misunderstood the question. Have a good day, Resolved,0

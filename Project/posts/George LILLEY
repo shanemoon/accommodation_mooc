@@ -1,0 +1,3 @@
+Sunday September 29th 2013 10:13 pm -04:00,i have same problem not sure where to reset the list, Unresolved,0
+Sunday September 29th 2013 5:22 pm -04:00,Im having trouble with read word errors I submitted my code and got this:ERROR: DisabledBuiltinErrorCalling the open built-in is not permitted.anyone know what this means?my code is: words_file = open(wordlist1.txt r)    wordlist =     line = words_file.readline()    while line != :        wordlist.append(line.rstrip())        line = words_file.readline()    return wordlist    words_file.close(), Unresolved,0
+Sunday September 29th 2013 5:36 pm -04:00,thanks Tomthat solved my problem, Unresolved,0

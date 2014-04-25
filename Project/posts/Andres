@@ -1,0 +1,3 @@
+Sunday September 15th 2013 5:48 pm -04:00,hi im having the same problem and i read up in this forum that is because some use print instead of just return i wonder if that is the problem?, Unresolved,0
+Sunday September 15th 2013 5:51 pm -04:00,yes that was the solution for me it exist a difference between AT and just AT as we all know for me that was the problem thanks to that anonymous that make me realize of my problem., Unresolved,0
+Sunday September 15th 2013 6:11 pm -04:00,the problem is not in the result we are getting i think the problem is the way were getting it how does it look you use print or return? to get your results, Unresolved,0

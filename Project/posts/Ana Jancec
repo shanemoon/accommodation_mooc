@@ -1,0 +1,2 @@
+Wednesday October 2nd 2013 10:15 am -04:00,My function run perfectly in Idle but test report shows me this:Method Description:NoneMessage:ERROR: IndexErrorlist index out of rangeSo I didnt get any points. Please help me how to fix this?, Unresolved,0
+Wednesday October 2nd 2013 2:12 pm -04:00,I found a mistake. Problem was make_str_from_row function. When I fix that everything worked fine., Unresolved,0

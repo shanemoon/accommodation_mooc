@@ -1,0 +1,2 @@
+Saturday September 14th 2013 11:18 am -04:00,So I wrote the code for get_complementary_sequence using this method:    output =         for char in dna:        if char in dna:            output = output + ______(char)            return outputBut something goes wrong I get missing results such as: AT becomes T instead of TA. I dont know what happened. . ., Resolved,0
+Saturday September 14th 2013 11:33 am -04:00,Thank you Anon!! Gosh I feel so dumb now. . :) , Resolved,0

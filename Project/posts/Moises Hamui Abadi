@@ -1,0 +1,3 @@
+Wednesday August 21st 2013 3:46 am -04:00,I have a Mac running on OS X 10.8.4 i have downloades phyton and the ActiveTLC. what should i do?thanks ,None,0
+Monday September 9th 2013 2:31 am -04:00,def covert_to_km (miles):	 (number) -> float    Return the number of Km equivalent to the number of miles    >>> convert_to_km(1)    1.6090    >>> convert_to_km(1000)    1609.0    	return (miles *1.609)    ERRORconvert_to_km(1)Traceback (most recent call last):  File <pyshell#14> line 1 in <module>    convert_to_km(1)NameError: name convert_to_km is not defined>>> , Unresolved,0
+Monday September 9th 2013 2:37 am -04:00,hahaha Thanks!!!!!, Unresolved,0

@@ -1,0 +1,1 @@
+Thursday August 22nd 2013 2:19 am -04:00,I was trying on Python 2.7 to divide a num. I was getting same value for x / y and x // y where x and y are int. If i pass x and y as float then i get the result as float for x / y. Is it that way or there is some issue with my installation?However it is not hte case in 3.3. I get the right values as described in the video. , Unresolved,0

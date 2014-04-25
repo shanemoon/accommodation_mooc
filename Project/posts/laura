@@ -1,0 +1,1 @@
+Saturday August 31st 2013 1:36 pm -04:00,We can run:from __future__ import divisionto get Python 3 division behavior in Python 2. Is there something similar we can do to get input in Python 2 to behave as if we were using Python 3?Thanks!,None,1

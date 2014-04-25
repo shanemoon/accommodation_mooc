@@ -1,0 +1,1 @@
+Saturday August 24th 2013 7:14 pm -04:00,Hi Corinne and Jaime you are getting a SyntaxError because you are missing  space after x and + and space after x and  **  the right form is:def increment(x):    return x + 1def f(x):    return x ** 2and not return x+1 or return x**2I hope this solve your syntaxerror.Have a beautiful day bothGabriel, Resolved,-7

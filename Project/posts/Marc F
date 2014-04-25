@@ -1,0 +1,6 @@
+Monday August 26th 2013 10:05 am -04:00,Hiwould be better this wayhelp(abs)help(max)...,None,0
+Friday August 30th 2013 10:37 am -04:00,HelloHint:You can get the amount of minutes by using % and //You can get the amount of seconds by using %, Resolved,1
+Saturday September 14th 2013 8:26 am -04:00,Hiyour function get_complement doesnt seem to return the complement of C nucleotide which should be G.As a help your function get_complement() should pass the following test cases to work properly.>>> get_complement(A)T>>> get_complement(C)G>>> get_complement(G)C>>> get_complement(T)A, Resolved,0
+Saturday September 14th 2013 8:29 am -04:00,HiPlease click an Failure link to have more detail. Empty dna sequence is considered as valid., Resolved,0
+Sunday September 15th 2013 9:34 am -04:00,HiYour type contract description and test cases have be placed between triple double quotes.  .....  (number) -> number, Unresolved,1
+Thursday September 26th 2013 9:05 am -04:00,HiIndeed it should be a list of string in read_words function but in read_bord function it has to return a list of list of str. In read_board function youll have to use two loops.for example if you have the following board in your file is the following.ABCDEFGHyour read_board function will have te return the following result[[A B C D] [E F G H]] , Unresolved,1

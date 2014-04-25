@@ -1,0 +1,2 @@
+Wednesday September 25th 2013 9:17 pm -04:00,Is there is way to remove invisible characters (like end of line return character or caret etc) from strings?, Unresolved,0
+Wednesday September 25th 2013 10:12 pm -04:00,Lets say we have a long function and it requires multiple lines of comments.  Is there a short cut that we can use to comment out those lines without having to manually type # in front of every line?  In C++ we use /* to mark the first comment line and */ for the last comment line.  Do we have such keys in python?, Unresolved,0

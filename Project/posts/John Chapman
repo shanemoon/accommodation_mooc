@@ -1,0 +1,6 @@
+Wednesday September 11th 2013 5:00 pm -04:00,Similarly i used s1.find(s2 2) and also got it wrong.Are we supposed to use math functions?, Resolved,0
+Wednesday September 11th 2013 5:06 pm -04:00,woops never mind ;), Resolved,0
+Wednesday September 11th 2013 4:53 pm -04:00,s1.find(s2 2)Is it because Im not using maths functions?**Im not the first and probably not the last person to get bombed by this question, Unresolved,0
+Wednesday September 11th 2013 5:07 pm -04:00,Never mind got it, Unresolved,0
+Sunday September 15th 2013 10:26 am -04:00,Mr EnosIf my get_complement function is built with prohibiting returns on lengths > and < 1 will the autograder still incorporate my get_complement function into my get_complementary_sequence function? Which would give my get_complementary_sequence function obvious errors, Resolved,0
+Sunday September 15th 2013 9:43 am -04:00,Im having problems with the last question get_complementary_sequenceAre you meant to use indices? And are you not supposed to just assign one nucleotide with its complement and then return the string?I dont know my function works and Im getting the right results but Im guessing Im not going about it the way the assignment is expecting.Any help?  , Unresolved,1

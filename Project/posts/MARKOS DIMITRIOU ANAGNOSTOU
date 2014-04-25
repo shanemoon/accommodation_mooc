@@ -1,0 +1,3 @@
+Thursday August 22nd 2013 5:30 am -04:00,When the code 8=x is executed then occurs a Syntax Error.I think 8=x is an assignment statement. An assignment statement is executed as follows:1. Evaluate the expression on the right of the = sign.2. Store that value with the variable on the left of the = sign.During the execution of the code 8=x why there is not occur a Name Error in the above mentioned step 1?,None,0
+Thursday August 22nd 2013 6:01 am -04:00,I got it. Thank you Alexandre Loywick and Alexander Falgui for your valuable support!,None,2
+Friday August 23rd 2013 5:04 am -04:00,You are right I missed it.,None,0

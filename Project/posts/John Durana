@@ -1,0 +1,4 @@
+Wednesday August 28th 2013 4:44 pm -04:00,Hi Im trying to run the clock GUI but Im getting an Exception in Tkinter callback.  The GUI with the clocks appears in a new window however there are no hour minute or second hands on any of the clocks.Any advice on how to resolve this?, Resolved,0
+Wednesday August 28th 2013 5:03 pm -04:00,I had the a1_gui.py and a1.py in different paths which created the error.  Once they were both placed in the same folder the clock works., Resolved,0
+Saturday September 14th 2013 4:06 pm -04:00,Is there a way to view the actual code that enables the builtin functions and methods?, Unresolved,0
+Saturday September 14th 2013 4:37 pm -04:00,Thank you.  Do you know if there is a command in IDLE that lets you view the code?, Unresolved,0

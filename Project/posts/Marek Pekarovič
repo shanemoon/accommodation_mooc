@@ -1,0 +1,19 @@
+Wednesday August 28th 2013 8:51 am -04:00,Have you got older version of Python? Because its giving you int if you would have newest version you would get float. Use IDLE instead of cmd and btw. this is exercise not assigment 1, Resolved,0
+Monday September 2nd 2013 4:27 am -04:00,dont make it too complicated the definition is just one simple line we didnt even used if yet so why are you using it?, Unresolved,2
+Tuesday September 3rd 2013 9:50 am -04:00,have a look on course Computational Investing Part I ,None,0
+Tuesday September 3rd 2013 10:55 am -04:00,ofc how else would you use python in finance or any other field? If you are really interested in learning python you can try this site http://www.learnpython.org/,None,0
+Tuesday September 10th 2013 8:17 am -04:00,my too could be more such questions and less questions where you just copy paste options into idle and see which one works, Unresolved,0
+Wednesday September 11th 2013 1:43 pm -04:00,You dont have to use if in this just type return ... your expression and if that expression is true you will get True otherwise False., Resolved,0
+Saturday September 28th 2013 9:15 am -04:00,In update_score you dont use any loops just add word_score of word to score in player_info, Unresolved,0
+Saturday September 28th 2013 9:28 am -04:00,you just need to change player_info[1] so why use player_info[0] or entire player_info?, Unresolved,0
+Saturday September 28th 2013 6:39 am -04:00,dont use nested loop only normal with elif, Resolved,1
+Saturday September 28th 2013 9:11 am -04:00,In the videos you have everything you need for the assignments so I suggest watch them carefully., Unresolved,3
+Saturday September 28th 2013 9:18 am -04:00,in board_contains_word you must use previous functions board_contains_word_in_row and board_contains_word_in_column, Unresolved,2
+Saturday September 28th 2013 3:16 pm -04:00,Just type return row fuction or column fuction and it will return true if one of them is true thus board contains the word. I hope I didnt reveal too much., Unresolved,2
+Tuesday October 1st 2013 1:17 pm -04:00,If 1 OR 2 (one of them is true) then true otherwise falseIf 1 AND 2 (both of them are true) then true otherwise false, Unresolved,0
+Saturday September 28th 2013 9:25 am -04:00,Search every list in board and drag from them letter in column_index which you add to one string and thats how you get the word. I have used only 1 for loop for this., Resolved,0
+Saturday September 28th 2013 5:21 pm -04:00,If you have this in your a3.py file:from tkinter.filedialog import askopenfileimport a3delete it. I did this mistake and also recieved no points., Unresolved,0
+Monday September 30th 2013 7:14 pm -04:00,I have done some programming in Java and I like the simplicity of Python more. It makes programming easier and funnier.,None,0
+Friday October 4th 2013 5:14 am -04:00,lol this reminds me of my former classmates :)), Unresolved,0
+Friday October 4th 2013 5:16 am -04:00,Work         WeightExercise 15%Exercise 25%Assignment 110%Exercise 35%Exercise 45%Assignment 215%Exercise 55%Exercise 65%Assignment 315%Exercise 75%Final Exam25%,None,0
+Friday October 4th 2013 5:33 am -04:00,I dont think so you will get around 12%,None,0

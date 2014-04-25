@@ -1,0 +1,1 @@
+Saturday September 7th 2013 6:05 am -04:00,I would like to have my selfmade .py files for instance a function in a seperate library on the computer. But how can I use for instance the built in functions in math.py in a selfmade function placed in another library?import math in the selfmade function doesnt seem to work., Unresolved,0

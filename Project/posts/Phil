@@ -1,0 +1,10 @@
+Monday September 2nd 2013 1:42 am -04:00,Hi guysIm having trouble understanding what they mean by preconditions. Is that something that gets implemented into the run puts a limit?Or is that just just a note to ourself or other coders looking at it?, Resolved,0
+Monday September 2nd 2013 2:13 am -04:00,Hey guysso i get this error. Does anyone know what AssertionError means?FAILURE: AssertionError20 != 20.000000000000142, Unresolved,0
+Monday September 2nd 2013 1:34 pm -04:00,Ahh i see. Thanks alot guys!, Unresolved,0
+Thursday September 5th 2013 12:21 am -04:00,Hi guysThis course on Programming Language seems very interesting but at the same time too advanced for me.https://www.coursera.org/course/proglang Has anyone taken this before? Do you think this course Learn to Program will sufficiently train me enough to transition to a more advanced course?,None,0
+Sunday September 8th 2013 3:57 pm -04:00,if temp < 0:print(Its toque weather!)What makes the statement above syntactically incorrect?, Unresolved,2
+Sunday September 15th 2013 7:36 pm -04:00,Hi guysIm having understanding the count function. How do I use count that it counts all the letters in a variable instead of a certain letter.When I tried if dna1.count() > dna2.count()I got an error saying:SyntaxError: invalid syntax, Unresolved,0
+Sunday September 15th 2013 7:44 pm -04:00,ahh i see. Thanks!I always miss those little things =(, Unresolved,0
+Sunday September 15th 2013 9:31 pm -04:00,Can anyone tell me what this error message means?Message:FAILURE: AssertionErrorFalse is not true : Have you tested your function where dna2 appears at the beginning of dna1?>>> insert_sequence(aaaacc0)ccaaaait seems to be working fine on idle, Unresolved,0
+Sunday September 15th 2013 9:45 pm -04:00,ah i see haha thanks!, Unresolved,0
+Sunday September 22nd 2013 9:57 pm -04:00,How does this extend work? I tried adding additional numbers to my last by using extend but I get some weird message>>> colors(90 60 40)>>> colors.extend(30)Traceback (most recent call last):  File <pyshell#55> line 1 in <module>    colors.extend(30)AttributeError: tuple object has no attribute extend, Unresolved,0

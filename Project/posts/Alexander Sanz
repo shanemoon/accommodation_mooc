@@ -1,0 +1,11 @@
+Sunday August 18th 2013 9:31 pm -04:00,Wow! Instructors are ready for this course they answered a question in 4 minutes., Resolved,4
+Sunday August 25th 2013 7:55 pm -04:00,Recorded formulas or operations that come with Python. You can create your formulas and save it as we do in week ones videos. , Unresolved,0
+Wednesday August 28th 2013 10:25 pm -04:00,Just one week ago my programming skills were zero. Five minutes ago I finished Assignment 1 (41/41). I feel proud of myself I have learned many things in just one week. PD: I spent about three hours on Assignment 1. As the course progresses I should improve the pace of future assignments.,None,2
+Monday September 23rd 2013 1:06 pm -04:00,I hit the wall in Exercise 5. More than two hours of working and I havent finished. I will not continue to Week 6 until I review all the material., Unresolved,0
+Monday September 23rd 2013 10:09 am -04:00,Many people around here are in the same boat. ,None,0
+Thursday September 26th 2013 2:27 pm -04:00,I missed the parenthesis too. But I think that at this stage of the course we should discover those errors. , Resolved,0
+Thursday September 26th 2013 3:27 pm -04:00,I could open my second assignment just with this line:file = open(C:/Python33/a2.py)As other people said I changed \ for /., Unresolved,0
+Thursday September 26th 2013 12:28 pm -04:00,for i in range (len(s) - 1):        if s[i] == s[i + 1]:            repeats = repeats + 1return repeatsBonus: I think this code needs the letters that are repeated. If you want to know what letters are repeated add print (s[i]) after repeats = repeats 1repeats = 0for i in range(len(s) - 1):        if s[i] == s[i + 1]:            repeats = repeats + 1            print (s[i])return repeats, Unresolved,0
+Friday September 27th 2013 11:08 pm -04:00,Dont give up. Do one function at a time. Review the lecture related to the function and check the forums., Unresolved,2
+Friday September 27th 2013 10:51 pm -04:00,I used append., Resolved,0
+Saturday September 28th 2013 1:45 am -04:00,Check the indentation of return., Resolved,0

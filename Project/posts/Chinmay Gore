@@ -1,0 +1,11 @@
+Monday August 19th 2013 2:09 pm -04:00,whats the difference between working in IDLE which has a white screen and working in python application having a black screen?, Resolved,0
+Monday August 19th 2013 2:11 pm -04:00,I want to know about idle. What is it actually?please share your knowledge :), Resolved,0
+Monday August 19th 2013 2:17 pm -04:00,And in addition to that whats the difference between working in IDLE which has a white screen and working in python application (python command line )having a black screen?, Resolved,0
+Monday August 19th 2013 11:36 pm -04:00,Thank a lot :) , Resolved,0
+Tuesday August 20th 2013 2:16 pm -04:00,if i type a=5 then variable a has the address of the memory location (say x200) which contains 5. if i type a=9 then another memory address is created (say x300) containing value 9 and a has now the address x300. is this right? and another question is what happens to the existing location x200 and value 5 contained in it? whether x200 becomes free for other variables or not??  Is it same as what happens in C?, Unresolved,0
+Tuesday August 20th 2013 2:21 pm -04:00,How to clear the IDLE screen? as we do it in C by typing -clrscr();, Resolved,0
+Friday August 23rd 2013 2:35 am -04:00,I just copied and pasted the code of contains even number. python is giving error for the invalid syntax. I dont know well  about python syntax,None,0
+Wednesday August 21st 2013 2:13 pm -04:00,So guysHow are you feeling by completing this very first week? I started this python course with an urge to learn it and i am totally satisfied with the work in this week. How about you? :) ,None,1
+Saturday August 31st 2013 5:13 pm -04:00,I will help as what i can do, Approved,1
+Saturday August 31st 2013 5:06 pm -04:00,Its just the teachers success that they tought us very well. !,None,1
+Monday September 9th 2013 2:50 pm -04:00,if we declare a string which is in the example:s=Learn to ProgramThen >>> s[1:-8]earn toIf >>>s[-2:-9]then only   appears.Is it not able to read the string backwards?, Unresolved,0

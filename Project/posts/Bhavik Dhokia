@@ -1,0 +1,4 @@
+Tuesday September 10th 2013 11:52 am -04:00,Test when dna#2 appears at the beginning and at the end of dna#1 to ensure your code produces the correct result., Unresolved,0
+Friday September 27th 2013 12:38 pm -04:00,Ive tried to edit the board_contains_word_in_row but Im stuck and dont know why.  Shouldnt replacing the rows with columns work?My make_str_from_column method works and from my screencap you can see that TO is a word but why does board_contains_word_in_column return a False?, Resolved,0
+Friday September 27th 2013 12:51 pm -04:00,Ah great that makes sense. Problem solved. :), Resolved,0
+Saturday September 28th 2013 12:31 pm -04:00,Im really confused about this function as well., Unresolved,0

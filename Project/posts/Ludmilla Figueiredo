@@ -1,0 +1,2 @@
+Friday September 6th 2013 6:39 pm -04:00,I can see how this option:if temp == 22.5:    return Trueelif temp != 22.5:    return FalseIs equivalent to this:return temp == 22.5But shouldnt else come where elif is since if statements must finish with else?, Resolved,0
+Friday September 6th 2013 7:10 pm -04:00,Thanks a lot!, Resolved,0

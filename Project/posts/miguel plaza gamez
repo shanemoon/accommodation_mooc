@@ -1,0 +1,1 @@
+Wednesday September 4th 2013 4:00 pm -04:00,I think you should use method: append to modify a list.x.append(5)print(x)[12345]print y[12345]And both variables should point to the same address., Resolved,0

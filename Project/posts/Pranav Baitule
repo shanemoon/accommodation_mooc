@@ -1,0 +1,4 @@
+Monday September 9th 2013 11:14 am -04:00,First I wrote this - >>> eggs = 12>>> if eggs % 12 == 0:	return TrueSyntaxError: return outside functionThen I wrote this - >>> eggs = 12>>> def eggs_a(num):	if num % 12 == 0:		return True	else:		return False	>>> eggs_a(eggs)TrueI tried to write if statements without any functions but I get a syntax error as above and I cant even write the else statement as control jumps out after writing the return statement and gives me an error.Is it possible to write if-else statements without defining any functions or am I doing something wrong?, Resolved,0
+Monday September 9th 2013 11:40 am -04:00,Right. But as Jose said I wanted to test the if statement in the shell., Resolved,0
+Monday September 9th 2013 11:36 am -04:00,Ah. Yes. That was silly. Thank you., Resolved,0
+Thursday September 26th 2013 2:32 pm -04:00,You are returning a string instead of bool., Resolved,2

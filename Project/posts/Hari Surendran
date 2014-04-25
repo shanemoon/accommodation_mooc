@@ -1,0 +1,6 @@
+Sunday August 18th 2013 10:07 pm -04:00,There is a chrome browser extension as well. Unfortunately that is also 2.7.2. And I got the same response  for 2/3  2 // 3 and 2 % 3.,None,0
+Sunday August 18th 2013 10:19 pm -04:00,It might be a version issue. I get the same results for 3/2 and 3 // 2 and 3 % 2 in version 2.7.2. I am yet to install Python 3., Resolved,2
+Sunday August 18th 2013 10:43 pm -04:00,You can press control and then click and open it with installer . Another option would be to change security preferences using System preferences., Approved Resolved,5
+Monday August 19th 2013 10:04 pm -04:00,(4+5)*3 would be 27., Resolved,0
+Monday August 19th 2013 10:00 pm -04:00,I think you are not using the IDLE interpreter., Resolved,0
+Saturday August 31st 2013 2:44 pm -04:00,Is there a reason why  documentation for code is done as a str? It could have been in the form of a few lines of comments. Why as a single string? Is that to support a command line interface?, Unresolved,0

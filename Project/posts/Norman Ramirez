@@ -1,0 +1,4 @@
+Saturday August 31st 2013 7:39 pm -04:00,I keep getting this error upon returning this function:return hours + (minutes / 60) + (seconds / 60)SyntaxError: return outside function, Unresolved,0
+Saturday August 31st 2013 7:41 pm -04:00,Woops on the comment before. I added a parenthesis in the proper place and now it seems to be giving the proper answer., Unresolved,0
+Saturday August 31st 2013 7:45 pm -04:00,Although not in the format the prompt asks for. Doesnt give value as a lumped float., Unresolved,0
+Saturday August 31st 2013 7:52 pm -04:00,Ok figured it out. I had changed the operator + with  so thats why the answer wasnt being given as a lump float sum. , Unresolved,0

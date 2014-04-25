@@ -1,0 +1,2 @@
+Tuesday August 20th 2013 3:52 am -04:00,Every time I select IDLE/Preferences IDLE crashes. Any idea why this happens and what I can do about it?,None,0
+Tuesday August 20th 2013 4:55 am -04:00,Thanks both. Success. Have reinstalled Python and got the correct version of ActiveTcl and can now select preferences without IDLE crashing.,None,1

@@ -1,0 +1,9 @@
+Friday August 30th 2013 9:14 pm -04:00,Thank you I too could not understand the explanation as it was shown. I now understand my mistake. , Resolved,0
+Monday September 9th 2013 6:58 pm -04:00,That would be of a great help., Resolved,1
+Wednesday September 18th 2013 10:13 pm -04:00,How do you get it to loop back. All I can get it the first letter then it stops, Resolved,0
+Tuesday September 17th 2013 8:18 pm -04:00,I know you have to use .count in here somewhereand have no problem with using with one str but can not for the life of me figure out how to get it to work with two str. I keep getting error int object has no attribute count., Resolved,0
+Tuesday September 17th 2013 8:48 pm -04:00,I figured out my problem. I was switching dna and nucleotide around. , Resolved,0
+Wednesday September 18th 2013 8:46 pm -04:00,I can not figure out what I am doing wrong. I can not get past the first letter in the sequence. For example if the sequence is (ATCGG) the code reads only the A. I have:true = (ATCG)(if statement)        (return statement)for char in true:     if dna not in true:         return (False)     else:         return (True)Am I missing something in the loop?, Resolved,0
+Wednesday September 18th 2013 9:07 pm -04:00,true = (ACTG)the for loop is: for char in true:, Resolved,0
+Wednesday September 18th 2013 10:00 pm -04:00,Watched the video again. so I have it counting non ATCG letters and returning  False. However when I add a return of True statement I get false answers., Resolved,0
+Thursday September 19th 2013 6:32 pm -04:00,Thanks for the help. I finally understand what I was doing wrong. , Resolved,0

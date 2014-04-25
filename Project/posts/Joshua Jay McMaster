@@ -1,0 +1,3 @@
+Monday August 26th 2013 10:37 am -04:00,Cristina West when youre in the Python Shell you have to choose File -> New Windowthis will give you a window with those options., Resolved,0
+Thursday August 29th 2013 10:30 pm -04:00,que parte de caracas?  estoy en las mercedes!,None,0
+Sunday August 25th 2013 5:58 pm -04:00,Correct it doesnt update until its recalculated.>>> base = 10>>> height = 20>>> area = base * height / 2>>> area100.0>>> height = 10>>> area100.0>>> area = base * height / 2>>> area50.0>>> I agree this is counter intuitive.  Hopefully someone can jump in and let us know why/how this is better than what you and I both seem to expect., Unresolved,0

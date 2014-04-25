@@ -1,0 +1,1 @@
+Thursday August 22nd 2013 10:43 pm -04:00,Hey all I have another ord question.. Everything I type in I get this message. >>> ord(c)Traceback (most recent call last):  File <pyshell#37> line 1 in <module>    ord(c)TypeError: int object is not callablewhat am I doing wrong?, Resolved,0

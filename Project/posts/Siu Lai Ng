@@ -1,0 +1,1 @@
+Tuesday August 27th 2013 12:22 pm -04:00,>>> def sum(number1 number2):	return number1 + number2>>> result = sum(13)>>> new_result = result + 1>>> Why the answer is new_result refers to the value 5 BUT not TYPEERROR as I tried in the Python 3.3.2 Shell, Resolved,0

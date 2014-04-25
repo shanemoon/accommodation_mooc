@@ -1,0 +1,2 @@
+Friday August 30th 2013 7:17 am -04:00,Yep.. Im also getting the error when I Check my code for  time_to_utc which is Syntax Error-unexpected indent...!!!I an using a simple statement return ( to_24_hour_clock (-(utc_offset)+time));How to resolve this issue... anyone please help..???, Unresolved,0
+Friday August 30th 2013 8:25 am -04:00,Okay thanks... I got it...!!! :), Unresolved,0

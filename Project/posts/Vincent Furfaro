@@ -1,0 +1,13 @@
+Monday August 19th 2013 12:32 pm -04:00,You might want to try typing python3 instead of just python since Linux defaults to 2.7. We are using 3 for the course.,None,1
+Monday August 19th 2013 12:43 pm -04:00,I am attempting the same process but I have been teaching myself how to use vim for my text editor.,None,0
+Monday August 19th 2013 12:50 pm -04:00,I am still trying to get vim setup as a python IDE. Been playing with the vimrc file. Do you know how to set this up?,None,0
+Monday August 19th 2013 12:47 pm -04:00,Are you running your pi headless using ssh?,None,0
+Monday August 19th 2013 12:45 pm -04:00,So should we start a study group around using the Pi?,None,0
+Monday August 19th 2013 1:17 pm -04:00,Zach let her keep it and set her up to run with the GUI but set yourself up with SSH on the pi?,None,0
+Monday August 19th 2013 1:12 pm -04:00,No worries if you are lightyears behind and you get even further behind you will eventually be ahead(Einstein?)! And by the way i am further behind than you so i will get ahead before you eventually ;),None,2
+Tuesday August 20th 2013 7:58 am -04:00,Posted a Py on PI in the Study Group discussion if you are interested. ,None,0
+Tuesday August 20th 2013 8:10 am -04:00,Excellent work! Thank you., Pinned Approved Resolved,0
+Tuesday August 20th 2013 7:55 am -04:00,We are looking for other people who are interested in learning Python on on the Raspberry Pi. ,None,5
+Tuesday August 20th 2013 1:48 pm -04:00,The Raspberry Pi is very small and cheap($25 or $35) Linux computer that was originally developed to encourage the learning of Computer Science. It is very hackable in the sense that it uses open source software and there Input/Output pins add on boards etc. If you are interested in Linux electronics servers hacking computers learning to program or just a cheap computer to play with this is a great deal. There many others uses for the Pi and the Pi community is large and helpful. Hope this helps. Good Luck!,None,0
+Tuesday August 20th 2013 5:20 pm -04:00,Yes Linux is the most common OS for the Pi and you have choices to make there as well. The NOOBS install uses the Raspbian OS (Linux GUI) which includes PYTHON. ,None,0
+Tuesday August 27th 2013 6:28 am -04:00,Does a stack just keep track of memory addresses of variables?Does the heap  just hold values temporarily?Why  do we refer to these values as objects? , Unresolved,0

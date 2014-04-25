@@ -1,0 +1,82 @@
+Sunday September 1st 2013 5:36 pm -04:00,Hello To Every One  Glad to Meet You Here.I am Sepand Haghighi Undergraduate  student of Electrical And Electronic Engineering at Amir Kabir University Of Technology(Tehran Polytechnic),None,0
+Sunday September 8th 2013 4:08 pm -04:00,Hi SimaFor Question 13 Look At Here:https://class.coursera.org/programming1-002/forum/thread?thread_id=1450&utm_classid=970455&utm_nottype=class.forum.post&utm_notid=-1&utm_linknum=4#post-9421But For 14-16 :You Should Run The Code(greeting.py) In  Visualizer and click on forward until you get to that situation of arrows then you should you look at frames board and see how many stack are there.Look at this image  Only One Stack Frame Is exist in this moment of run.,None,0
+Sunday September 1st 2013 5:28 pm -04:00,Change Your Example to 1.2000000000000002, Unresolved,0
+Sunday September 1st 2013 5:51 pm -04:00,its not word in type its strand its better to set outputs to int instead of number, Unresolved,1
+Sunday September 1st 2013 5:58 pm -04:00,def count_vowels(word):                        (str) -˃ int                     Return the number of vowels in a given word                      >>> count_vowels(moose)                      3                      >>> count_vowels(scratch)                      1                        Is it an in-video quiz?, Unresolved,1
+Sunday September 1st 2013 5:47 pm -04:00,yeah its true  when you choose run module python shell will restart and all delete all of your previous function and variables  to avoid this things its better to import other module in script fileHope It Helps You., Resolved,0
+Sunday September 1st 2013 6:14 pm -04:00,I List Here Some Free  Library For Python And I Hope To Be Useful For At least One.Symbolic Mathematics In PythonMachine Learning In PythonNumerical Mathematics In Python Goto Function In PythonMake .exe file In PythonWork With Serial Port In Python, Resolved,1
+Sunday September 1st 2013 6:19 pm -04:00,delete count_letters there is no need to call it  only return sum of 2 other functions with general argument (word)., Resolved,1
+Monday September 2nd 2013 4:37 am -04:00,its not word its word without   , Resolved,2
+Monday September 2nd 2013 3:37 am -04:00,Use Details In Feedback Page Its Show You The Test Set And Answer From Your Code., Unresolved,0
+Monday September 2nd 2013 3:26 am -04:00,Assertion Is a tools in python to check equality of 2 things For example:assert 20 == 20assert 20==20.000000000000142if the condition in assertion was true pass this line else make assertion error., Unresolved,0
+Monday September 2nd 2013 3:18 am -04:00,Are you Sure your seconds_difference module return something?, Resolved,0
+Monday September 2nd 2013 3:21 am -04:00,You Shouldnt Change The Input  In This Case You Can Write One Line Code Return seconds//3600., Unresolved,1
+Monday September 2nd 2013 9:12 am -04:00,I Think Its a Bug In Upload Center System.If You Still Cant Download It Inform Coursera Team., Unresolved,0
+Monday September 2nd 2013 4:07 pm -04:00,Hi.Python Involved Some Interesting Function Like count that can count something in string list tuple and . . .for example:a=Helloa.count(e)you can also use split function that split a string., Unresolved,0
+Monday September 2nd 2013 3:59 pm -04:00,yeah look at Assignment 1: scoring 42/41post on Home Page., Unresolved,0
+Monday September 2nd 2013 3:57 pm -04:00,In First Look It Not Very Important but when you want to work with a large amount of data its very important and a good programmer should write program with small number of stack and variables and with less loop., Resolved,1
+Monday September 2nd 2013 4:45 pm -04:00,you should write something like at the end of your script:if __name__==__main__:    Quadratic_Equation()and if you want to Quadratic_Equation() without parameter you should use raw_input function to get parameter by manual., Unresolved,0
+Tuesday September 3rd 2013 4:34 am -04:00,Hi MonicaThis Errors Sometimes occur because of the white space in python maybe you made a tab in one line of the code.In First Step please run a1.py without any edit (maybe you did it), Unresolved,0
+Tuesday September 3rd 2013 3:20 am -04:00,look at this :>>> a=-1//24>>> a-1>>> (a*24)+23-1** // operator in python use floor function>>> import math>>> math.floor(1/24)0>>> math.floor(-1/24)-1, Unresolved,0
+Tuesday September 3rd 2013 3:07 am -04:00,Look at your Feedback of Assignment., Unresolved,0
+Tuesday September 3rd 2013 6:32 am -04:00,it means :1.there is no get_hours module.or 2.the error in the import of the library or 3.the objects dont have this methodswhen this error occured?, Unresolved,0
+Tuesday September 3rd 2013 5:34 am -04:00,Its Very Interesting a Microcontroller Circuit That Developed With Pythonhttp://www.circuitsforfun.com/,None,0
+Tuesday September 3rd 2013 11:02 am -04:00,Hi Charles Yeah You Can Program Without It  But Its A Useful Tools To discover how a program work in computers and a good tools to write a efficient code with less loop  stack and variables that its very Pro. in Large Scale Programming.Take A Look To This Topic:https://class.coursera.org/programming1-002/forum/thread?thread_id=1206Have a Nice Time ;-),None,1
+Tuesday September 3rd 2013 11:07 am -04:00,Argument It something that a function get and return something else.f(23) --> 23  in this case 23 are argumentbut parameters are something that a function involves when you want to write it.def a(ab):   . . . in this case ab are parameters.Have a Nice Time, Resolved,3
+Tuesday September 3rd 2013 1:36 pm -04:00,Look At This:http://stackoverflow.com/questions/7509579/python-idle-wont-start, Unresolved,0
+Tuesday September 3rd 2013 1:36 pm -04:00,Look At This:http://stackoverflow.com/questions/7509579/python-idle-wont-start, Unresolved,0
+Tuesday September 3rd 2013 1:38 pm -04:00,You can submit each exercise up to 5 times and we will use the highest grade from all of your submissions.,None,0
+Tuesday September 3rd 2013 11:16 pm -04:00,You Forgot To Put a Parentheses In This Line:area = math.sqrt(semi * (semi - side1) * (semi - side2) * (semi - side3) correct:area = math.sqrt(semi * (semi - side1) * (semi - side2) * (semi - side3) ), Resolved,0
+Wednesday September 4th 2013 1:34 am -04:00,To Make Duplicate Copy Of List: b=list(a)example:>>> a=[1234]>>> b=a>>> id(a)49819280>>> id(b)49819280>>> a=[1234]>>> b=list(a)>>> id(a)49817400>>> id(b)50320328, Resolved,0
+Wednesday September 4th 2013 1:41 am -04:00,You Should Write 3 Function:def get_hours(seconds):      . . . .      return ....def get_minutes(seconds):     . . . .      returndef get_seconds(seconds):     . . . .     returnyour first function should return an integer number that represent that seconds hour Hint: Use // functionyour second function should return an integer number that represent how many minute past after the complete hours for this second Hint: Use first functionFor 3rd function use first and second., Unresolved,3
+Wednesday September 4th 2013 2:36 am -04:00,This means that the return value should be in the range 0 to 59 inclusiveIf You Follow Steps I Said in My Post There Is No Need Too Think About This Condition, Unresolved,0
+Wednesday September 4th 2013 5:54 am -04:00,get_hours(seconds) get you the number of complete hours then you can:remain_sec=seconds-get_hours(seconds)*3600and again use of / / and . . . , Unresolved,1
+Wednesday September 4th 2013 7:14 am -04:00,a=get_hours(seconds)b=get_minutes(seconds)remain_sec=seconds-a*3600-b*60and . . . , Unresolved,2
+Wednesday September 4th 2013 5:16 am -04:00,def is_comfortable(temp):    (number) -> bool    Return whether temp is 22.5.    if temp==22.5:	    return True    return False, Unresolved,0
+Wednesday September 4th 2013 7:35 am -04:00,Only [~ep][Edit: please be mindful of the honor code. Its ok to hint to an answer but not to deliver it outright. ~ep], Unresolved,-1
+Wednesday September 4th 2013 12:17 pm -04:00,xor is a built-in function in operator lib:>>> import operator>>> operator.xor(11)0>>> , Resolved,2
+Wednesday September 4th 2013 12:25 pm -04:00,None(with big N) is a built-in value in python that represent Nothing and print(None) is correct but if you write  none its incorrect., Unresolved,0
+Wednesday September 4th 2013 12:22 pm -04:00,Please Explain Moremaybe your answer in correct but your function output way its not correct., Resolved,0
+Wednesday September 4th 2013 12:48 pm -04:00,Your Function Seems TrueGo to Assignment Result View Feedback and click to all to show you all of the test then look at the get_seconds test set, Resolved,1
+Wednesday September 4th 2013 12:52 pm -04:00,first  edit your time by offset(do something with this offset . . .) then use to_24_hour_clock function to converted to 24 hours., Unresolved,0
+Friday September 6th 2013 4:20 pm -04:00,it means the code should return average of passed grade number.**(passing condition is greater equal to 50)Here Some Example:grade1=60grade2=30f-->60----------------grade1=60grade2=70f-->65---------------grade1=40grade2=70f-->70------------grade1=40grade2=20f-->0.0Now You Should Find Which Of This Functions Can Provide This Conditions., Resolved,8
+Saturday September 7th 2013 1:30 pm -04:00,Yeah Bahman  You Can Install Both Of Them I Installed 2.7 and 3.1 in Windows 7Glad To Meet You Here ;-), Resolved,1
+Wednesday September 11th 2013 1:12 pm -04:00,Hi.You Should Return True and False Instead Of True And False, Resolved,0
+Wednesday September 11th 2013 3:59 pm -04:00,Dont Use find function.Look at this example:>>> Hello.find(ll)2its better to use in operator., Resolved,1
+Thursday September 12th 2013 4:15 am -04:00,Yes,None,0
+Thursday September 12th 2013 5:30 am -04:00,look at this:http://www.cs.uky.edu/~paulp/CS115S11/DebugIdle.htm, Unresolved,3
+Thursday September 12th 2013 4:56 pm -04:00,Python Indexing Is Circular For Example In This Case s[-5]==t and this letter is after that s[0] so there is no letter between there in python lang.Try This Example:>>>s[-3:1]>>>s[-2:3], Resolved,0
+Thursday September 12th 2013 5:12 pm -04:00,No, Resolved,1
+Friday September 13th 2013 3:59 am -04:00,Use KMPlayer, Unresolved,2
+Friday September 13th 2013 11:06 am -04:00,Hi Calin.Yeah You Can resolve exercises and assignments  but your effective score for get statement of accomplishment only include Week-3 With 20% Penalty And Week 4-5-6-7 and Final Exam.,None,0
+Friday September 13th 2013 10:55 am -04:00,Whats Your Browser?, Unresolved,0
+Friday September 13th 2013 12:20 pm -04:00,Hint : Use get_complement function., Resolved,2
+Saturday September 14th 2013 7:06 am -04:00,s=HowAreYouprint(s)orprint(HowAreYou), Unresolved,0
+Saturday September 14th 2013 7:00 am -04:00,HiWhich Visualizer? If you mean that is in this course its online you cant download it., Unresolved,0
+Saturday September 14th 2013 1:15 pm -04:00,Move Your Return Statement., Unresolved,0
+Saturday September 14th 2013 2:17 pm -04:00,I Think Yeah.But You Can Do it With 4 If., Unresolved,0
+Saturday September 14th 2013 3:11 pm -04:00,Did you test all of your functions manually?, Resolved,0
+Saturday September 14th 2013 3:19 pm -04:00,do something   submit your code part by part first delete functions that you wrote from beginning and submit otherswith this method you can find the error.But I Think Your Program Error Is in get_complement or get_complementary_sequence., Resolved,0
+Saturday September 14th 2013 3:57 pm -04:00,No But Why Long Code?get_complement its only four if and get_complementary_sequence. use get_complement  in a cycle., Resolved,0
+Saturday September 14th 2013 4:28 pm -04:00,Go to Folder That you installed python open python33 go to Lib folder you can open any of the library with idle and look at this builtin functions., Unresolved,0
+Sunday September 15th 2013 12:30 pm -04:00,why print?you should return, Resolved,0
+Sunday September 15th 2013 1:57 pm -04:00,Run Your Code Line By Line, Unresolved,0
+Tuesday September 17th 2013 4:57 pm -04:00,You Can Upload It From Your IPad With Regular Submission method  first download a2.py and open it with an editor and then save it open browser go to submit and choose your edited file  if you have idle in your IPad you cand also check your file we have some idle for ios., Unresolved,0
+Tuesday September 17th 2013 4:47 pm -04:00,def example(L):     (list) -> list        i = 0    result =     while i < len(L):        result.append(L[i])        i = i + 3    return result**This Code Only Save 3 and its multiply in result and ignore other, Resolved,0
+Saturday September 21st 2013 5:53 am -04:00,its not L.[i] its L[i], Resolved,1
+Saturday September 21st 2013 5:54 am -04:00,an also you should update i at the end of the while, Resolved,0
+Tuesday September 17th 2013 4:50 pm -04:00,This Code Join 2 nearby string in list  in while loop after you join the string :while i < len(L):        compressed_list.append(L[i] + L[i + 1])        # MISSING CODE HERE    return compressed_list**You Should Jump to next pair, Resolved,0
+Thursday September 19th 2013 3:25 am -04:00,When You are working with Shell  Copy And Paste Line By Line:>>> s=>>> names = [Alice Bob Carol]>>> for name in names:	s=s+name	>>> sAliceBobCarol>>> , Resolved,2
+Thursday September 19th 2013 8:38 am -04:00,Yeah,None,2
+Friday September 20th 2013 12:26 am -04:00,Look At This Example:>>> list(range(13))[1 2]>>> list(range(393))[3 6]when u use range(1n) its create 12...n-1, Unresolved,0
+Saturday September 28th 2013 12:02 pm -04:00,look at i=i-1 location its out of if statement., Unresolved,0
+Saturday September 28th 2013 11:57 am -04:00,Hi Syedlook at his example:a=open(wordlist1.txt)read_words(a), Resolved,0
+Saturday September 28th 2013 12:08 pm -04:00,if the file its in the same directory of that python script you can open its like above.but in general you can open it by address.like this:a=open(C:/Users/m/Desktop/wordlist1.txt), Resolved,0
+Saturday September 28th 2013 12:12 pm -04:00,read_word give an open word filefirst you should open a file like a=open(wordlist1.txt) and then give a to read_word as an arguments(read_word(a)) there is no need to tkinter.and your function should be work with this aOne Hint:Use list(words_file) in your function., Resolved,1
+Saturday September 28th 2013 1:39 pm -04:00,change all \ with / like this:a=open(C:/Users/m/Desktop/wordlist1.txt), Resolved,0
+Sunday September 29th 2013 11:57 am -04:00,in this case it should be work if you change your address to:read_words(C:/Users/syed.jaffar/Desktop/words_file.txt)--------------------------------------------------------------------------------------------But For This Assignment You Shouldnt Use Open() in your function your functions should get an open file and . . . For Example:def read_words(words_f):          a=list(words_f)          . . . .and when you want to run your code in IDLE its like this:>>>b=open(word_files.txt)>>>read_words(b), Resolved,0
+Saturday September 28th 2013 2:24 pm -04:00,I Think Its Like Exercises., Resolved,0
+Saturday September 28th 2013 2:22 pm -04:00,because there is no 4th column in [B Y E]its 0 1 2, Resolved,0
+Thursday October 3rd 2013 10:19 am -04:00,try this:s1.find(s2s1.find(s2)+1), Resolved,1
+Thursday October 3rd 2013 10:24 am -04:00,HiWhy You return player_info????You Should Only Update player_info[1] there is nothing to return.player_info[1]=player_info[1]+ . . ., Resolved,0
+Thursday October 3rd 2013 4:35 pm -04:00,Hidelete your for and only use one line v=board[...]., Resolved,0

@@ -1,0 +1,1 @@
+Wednesday September 11th 2013 11:10 am -04:00,Why is it that we have to import the math module in order to use math functions like sqrt() whereas for using functions like count() find() etc. on strings we do not require to import any modules ?What is basically the difference between these two ?, Resolved,1
