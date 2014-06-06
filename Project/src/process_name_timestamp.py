@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-f = open("name_timestamp_only.csv","rb")
+f = open("./dataset/name_timestamp_only.csv","rb")
 
 author_name_to_id = {}
 ANONYMOUS = ["Anonymous"]
@@ -19,6 +19,7 @@ BLACKKLIST.extend(TAS)
 BLACKKLIST.extend(STAFFS)
 
 list_post_authors = []
+list_post_author_ids = []
 list_post_timestamps = []
 start_timestamp = 1376875130
 
@@ -43,7 +44,8 @@ for line in f:
 						last_author_index += 1
 						author_name_to_id[author_name] = last_author_index
 
-					list_post_authors.append( author_name_to_id[author_name] )
+					list_post_author_ids.append( author_name_to_id[author_name] )
+					list_post_authors.append( author_name )
 					list_post_timestamps.append( timestamp -  start_timestamp)
 			except:
 				# If timestamp cannot be casted as int, it's a trash datapoint
@@ -57,12 +59,13 @@ num_timesteps = 15
 groups = np.zeros((num_cohorts, num_timesteps))
 
 size_timestep = max(list_post_timestamps) / num_timesteps
+print max(list_post_timestamps)
 size_cohort = num_authors / num_cohorts
 
 # Now go through the list again, and categorize them into cohorts and timesteps
 i = 0
 for i in range(num_good_data):
-	author_id = list_post_authors[i]
+	author_id = list_post_author_ids[i]
 	timestamp = list_post_timestamps[i]
 
 	# Author cohort
@@ -106,5 +109,5 @@ plt.xlabel('Time (Normalized)')
 plt.ylabel("% of posts by each cohort")
 plt.show()
 
-
-
+# Save the author names in the order of their first appearance
+open("./dataset/author_names_in_order","w").write(str(list_post_authors))
