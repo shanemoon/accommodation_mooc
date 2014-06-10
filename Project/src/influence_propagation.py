@@ -264,7 +264,7 @@ def get_frequent_clusters(filename, opt={}):
 			cluster_to_words[cluster_index].append( word )
 		else:
 			cluster_to_words[cluster_index] = [ word ]
-	
+
 	# Read the .CSV file and measure the frequency of word that also appears on the cluster
 	with open(filename, 'rb') as f:
 		reader = csv.reader(f)
@@ -278,7 +278,7 @@ def get_frequent_clusters(filename, opt={}):
 			(parent_id, post_author, post_id, post_text, timestamp, votes) = row[2], row[4], row[5], row[7], int(row[13]), int(row[16])
 
 			if meet_requirement(opt, timestamp, post_author):
-				words_in_post = [word.lower().strip(string.punctuation) for word in post_text]
+				words_in_post = [word.lower().strip(string.punctuation) for word in post_text.split()]
 				for word in words_in_post:
 					if word in word_to_cluster:
 						cluster = word_to_cluster[word]
@@ -325,7 +325,7 @@ if __name__ == "__main__":
 
 	# Option to filter out specific people, time range, etc.
 	opts = []
-	vary_opts = 0
+	vary_opts = 1
 
 	if vary_opts == 1:
 		timestamp_start = 1376875130
@@ -416,7 +416,7 @@ if __name__ == "__main__":
 			WHICH_LIST = 2
 			if WHICH_LIST == USE_HANDPICKED_LIST:
 				# Use the hand-picked list from clusters
-				(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename)
+				(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
 				selected_list = [1058, 707, 1171, 1928, 9, 1258, 619, 1966, 317, 79, 53, 1270, 1783, 1528, 825, 154, 591, 957, 100]
 				list_markers = [cluster_to_words[cluster] for cluster in selected_list]
 			
