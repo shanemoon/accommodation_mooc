@@ -224,7 +224,8 @@ def measure_accommodation(b_replies, a_utters, markers):
 
 def get_batch_accommodation(B, A, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, task_label):
 	"""
-		Return: 
+		Batch accommodation within groups of people, for a list of markers
+		Return: (C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)
 	"""
 	(E_b_given_a_set, E_b_set, E_a_set) = {}, {}, {}
 
@@ -242,6 +243,72 @@ def get_batch_accommodation(B, A, data, markers, num_E_b_given_a, num_E_a, num_E
 	num_E_b[task_label] = num_E_b.get(task_label, 0) + float( sum( [ E_b[marker] for marker in markers] )) 		
 	num_utters[task_label] = num_utters.get(task_label, 0) + len(b_replies_set) * len(markers)
 	return (C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)
+
+
+def get_list_markers(filename, WHICH_LIST, opt):
+	# Define lexemes to measure accommodation on
+	# The Echoes of Paper uses 451 lexemes total from the LWIC-derived 8 categories including articles, quantifiers, etc.
+	# However, we take a different approach. We are interested in language accommodation for a group of words
+	# that are semantically similar. Given a list of 'options' of words that a person could have chosen,
+	# we are intereseted in finding out whether the language accommodation can affect this choice of words.
+
+	# Obtain the word cluster and do frequency analysis to choose these lexemes.
+	# We have three different approaches:
+	USE_HANDPICKED_LIST = 1
+	USE_MOST_FREQUENT_CLUSTERS = 2
+	USE_LIWC = 3
+
+	# Choose which list to use
+	if WHICH_LIST == USE_HANDPICKED_LIST:
+		# Use the hand-picked list from clusters
+		(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
+		selected_list = [1058, 707, 1171, 1928, 9, 1258, 619, 1966, 317, 79, 53, 1270, 1783, 1528, 825, 154, 591, 957, 100]
+		list_markers = [cluster_to_words[cluster] for cluster in selected_list]
+		categories = [cluster_to_freq_sorted[i][1] for i in range(len(list_markers))]
+	
+	elif WHICH_LIST == USE_MOST_FREQUENT_CLUSTERS:
+		# Use the most popular clusters		
+		(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
+		list_markers = [cluster_to_words[pair[1]] for pair in cluster_to_freq_sorted[:20]]
+		categories = [cluster_to_freq_sorted[i][1] for i in range(len(list_markers))]
+	
+	elif WHICH_LIST == USE_LIWC:
+		# Use the LIWC-inspired lists (Danescu-Niculescu-Mizil et. al, 2012)
+		(list_markers, categories) = get_LIWC_list()	
+
+	return list_markers, categories
+
+def get_batch_accommodation_aggregated(B, A, data, list_markers, categories, task_label):
+	"""
+		Run get_batch_accommodation() for multiple categories of markers,
+		and return the aggregated result. 
+		* d['aggregated'] is a one number that represents the total aggregated influnece
+		* d[category] refers to the accommodation score for each category, each of which contains multiple markers
+	"""
+
+	# Batch Test Run to measure accommodation for each cluster
+	# We summarize the results in the following dictionaries of ( cluster_index, aggregiated_accommodation ) pairs
+	accommodation_scores = {}
+
+	num_E_b_given_a = {}
+	num_E_a = {}
+	num_E_b = {}
+	num_utters = {}
+
+	for i in range(len(list_markers)):
+		markers = list_markers[i]
+		category = categories[i]
+
+		(C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)	= \
+		get_batch_accommodation(B, A, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, task_label)
+		accommodation_scores[ category ] = C_b_a['aggregiated']
+
+	# Measure the total aggregated accommodation measure across all lists of markers
+	accommodation_scores['aggregiated'] = num_E_b_given_a[task_label]  / (num_E_a[task_label] + 1) - \
+									num_E_b[task_label] / (num_utters[task_label] + 1)
+
+	return accommodation_scores
+
 
 
 def get_frequent_clusters(filename, opt={}):
@@ -319,13 +386,19 @@ def get_LIWC_list():
 						cat_to_words[d[category]] = [word]
 	return cat_to_words.values(), cat_to_words.keys()
 
-if __name__ == "__main__":
-	# Run the main function
+
+
+def batch_measure_accommodation():
 	filename = "dataset/cleanEnglish.csv"
 
 	# Option to filter out specific people, time range, etc.
 	opts = []
-	vary_opts = 1
+	vary_opts = 0
+
+	# USE_HANDPICKED_LIST = 1
+	# USE_MOST_FREQUENT_CLUSTERS = 2
+	# USE_LIWC = 3		
+	WHICH_LIST = 3
 
 	if vary_opts == 1:
 		timestamp_start = 1376875130
@@ -397,100 +470,35 @@ if __name__ == "__main__":
 			non_leaders = list(set(non_leaders) & set(opt['include_authors']))
 			print leaders, non_leaders
 
+
+		# Get the list of markers from our choice of clusters (lexeme categories) to use
+		(list_markers, categories) =  get_list_markers(filename, WHICH_LIST, opt)
+
 		if (users != []) and (leaders != []) and (non_leaders != []):
 			# Make sure that none of them is empty
 
-			# Define lexemes to measure accommodation on
-			# The Echoes of Paper uses 451 lexemes total from the LWIC-derived 8 categories including articles, quantifiers, etc.
-			# However, we take a different approach. We are interested in language accommodation for a group of words
-			# that are semantically similar. Given a list of 'options' of words that a person could have chosen,
-			# we are intereseted in finding out whether the language accommodation can affect this choice of words.
+			# 1. 
+			# Target: Leaders (Group) = A
+			# Speaker: Users (Individual) = B
+			print "Target: Leaders"			
+			target_leaders = get_batch_accommodation_aggregated(users, leaders, data, list_markers, categories, 'target_leaders')
 
-			# Obtain the word cluster and do frequency analysis to choose these lexemes.
-			# We have three different approaches:
-			USE_HANDPICKED_LIST = 1
-			USE_MOST_FREQUENT_CLUSTERS = 2
-			USE_LIWC = 3
+			# 2. 
+			# Target: Non-Leaders (Group) = A
+			# Speaker: Users (Individual) = B
+			print "Target: Non-Leaders"
+			target_nonleaders = get_batch_accommodation_aggregated(users, non_leaders, data, list_markers, categories, 'target_nonleaders')
 
-			# Choose which list to use
-			WHICH_LIST = 2
-			if WHICH_LIST == USE_HANDPICKED_LIST:
-				# Use the hand-picked list from clusters
-				(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
-				selected_list = [1058, 707, 1171, 1928, 9, 1258, 619, 1966, 317, 79, 53, 1270, 1783, 1528, 825, 154, 591, 957, 100]
-				list_markers = [cluster_to_words[cluster] for cluster in selected_list]
-			
-			elif WHICH_LIST == USE_MOST_FREQUENT_CLUSTERS:
-				# Use the most popular clusters		
-				(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
-				list_markers = [cluster_to_words[pair[1]] for pair in cluster_to_freq_sorted[:20]]
-				print cluster_to_freq_sorted
-			
-			elif WHICH_LIST == USE_LIWC:
-				# Use the LIWC-inspired lists (Danescu-Niculescu-Mizil et. al, 2012)
-				(list_markers, list_categories) = get_LIWC_list()
-				pass
+			# 3. 
+			# Speaker: Leaders (Group)
+			# Target: Users (Individual)
+			speaker_leaders = get_batch_accommodation_aggregated(leaders, users, data, list_markers, categories, 'speaker_leaders')
 
-			# Batch Test Run to measure accommodation for each cluster
-			# We summarize the results in the following dictionaries of ( cluster_index, aggregiated_accommodation ) pairs
-			target_leaders = {}
-			target_nonleaders = {}
-			speaker_leaders = {}
-			speaker_nonleaders = {}
+			# 4. 
+			# Speaker: Non-Leaders (Group)
+			# Target: Users (Individual)
+			speaker_nonleaders = get_batch_accommodation_aggregated(non_leaders, users, data, list_markers, categories, 'speaker_nonleaders')
 
-			num_E_b_given_a = {}
-			num_E_a = {}
-			num_E_b = {}
-			num_utters = {}
-
-			i = -1
-			for markers in list_markers:
-				i += 1
-				if WHICH_LIST in [USE_HANDPICKED_LIST, USE_MOST_FREQUENT_CLUSTERS]:
-					category = cluster_to_freq_sorted[i][1]
-				elif WHICH_LIST == USE_LIWC:
-					category = list_categories[i]
-				# 1. 
-				# Target: Leaders (Group) = A
-				# Speaker: Users (Individual) = B
-				print "Target: Leaders"
-				(C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)	= \
-				get_batch_accommodation(users, leaders, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, 'target_leaders')
-				target_leaders[ category ] = C_b_a['aggregiated']
-
-				# 2. 
-				# Target: Non-Leaders (Group) = A
-				# Speaker: Users (Individual) = B
-				print "Target: Non-Leaders"
-				(E_b_given_a_set, E_b_set, E_a_set) = {}, {}, {}
-				(C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)	= \
-				get_batch_accommodation(users, non_leaders, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, 'target_nonleaders')
-				target_nonleaders[ category ] = C_b_a['aggregiated']		
-
-				# 3. 
-				# Speaker: Leaders (Group)
-				# Target: Users (Individual)
-				print "Speaker: Leaders"
-				(C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)	= \
-				get_batch_accommodation(leaders, users, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, 'speaker_leaders')
-				speaker_leaders[ category ] = C_b_a['aggregiated']		
-
-				# 4. 
-				# Speaker: Non-Leaders (Group)
-				# Target: Users (Individual)
-				print "Speaker: Non-Leaders"
-				(C_b_a, num_E_b_given_a, num_E_a, num_E_b, num_utters)	= \
-				get_batch_accommodation(non_leaders, users, data, markers, num_E_b_given_a, num_E_a, num_E_b, num_utters, 'speaker_nonleaders')
-				speaker_nonleaders[ category ] = C_b_a['aggregiated']
-
-			target_leaders['aggregiated'] = num_E_b_given_a['target_leaders']  / (num_E_a['target_leaders'] + 1) - \
-											num_E_b['target_leaders'] / (num_utters['target_leaders'] + 1)
-			target_nonleaders['aggregiated'] = num_E_b_given_a['target_nonleaders']  / (num_E_a['target_nonleaders'] + 1) - \
-											num_E_b['target_nonleaders'] / (num_utters['target_nonleaders'] + 1)
-			speaker_leaders['aggregiated'] = num_E_b_given_a['speaker_leaders']  / (num_E_a['speaker_leaders'] + 1) - \
-											num_E_b['speaker_leaders'] / (num_utters['speaker_leaders'] + 1)
-			speaker_nonleaders['aggregiated'] = num_E_b_given_a['speaker_nonleaders']  / (num_E_a['speaker_nonleaders'] + 1) - \
-											num_E_b['speaker_nonleaders'] / (num_utters['speaker_nonleaders'] + 1)
 
 			print "========================================= Summary ========================================="
 			print "We expect that the accommodation of (1) target_leaders is higher than (2) target_nonleaders"
@@ -518,3 +526,65 @@ if __name__ == "__main__":
 	print summary_target_nonleaders
 	print summary_speaker_leaders
 	print summary_speaker_nonleaders
+
+
+def influence_propagation_graph():
+	# Return multiple graphs for each time period,
+	# that shows a directed graph of language influence
+	filename = "dataset/cleanEnglish.csv"
+
+	# USE_HANDPICKED_LIST = 1
+	# USE_MOST_FREQUENT_CLUSTERS = 2
+	# USE_LIWC = 3		
+	WHICH_LIST = 1
+
+	# Option to filter out specific people, time range, etc.
+	opts = []
+	timestamp_start = 1376875130
+	timestamp_duration = 4131338
+	num_time_periods = 2
+
+	for i in range(num_time_periods):
+		opt = {}
+		opt['time_range'] = (timestamp_start + timestamp_duration / num_time_periods * i,  timestamp_start + timestamp_duration / num_time_periods * (i+1))
+		opts.append( opt )
+
+
+	for opt in opts:
+		# Parse the original .csv file and get the structured data 
+		data = structure_data(filename, opt)
+
+		# Hand-annotated
+		leaders = ['Alain Rouleau', 'Chrissie Nyssen', 'John Routh', 'Alexander Falgui', 'Rae Bezer', 'Alan C. Orrick', 'Tom Enos', 'Ashwini Kempraj'] 
+		non_leaders = ['Sandy Quaglieri', 'Obasi Eric Ojong', 'Ana', 'Barry Andersen', 'Anne Benissan', 'Artyom Vecherov', 'Bradley S. Walter']	
+		#users = leaders[:5] + non_leaders[:5]
+		users = leaders + non_leaders
+		num_users = len(users)
+
+		if (users != []) and (leaders != []) and (non_leaders != []):
+			# Make sure that none of them is empty
+
+			# Obtain the word cluster and do frequency analysis to choose these lexemes.
+			list_markers, categories = get_list_markers(filename, WHICH_LIST, opt)
+
+			# We measure accommodation of 1 vs. 1, and store each accommodation result in a matrix
+			# The matrix will be a N x N matrix, where each column represents the accommodation measure
+			# of one user with the rest (each row). It's like a precision matrix, except it's directed.
+			accommodation_matrix = np.zeros((num_users, num_users))
+
+			for i in range(num_users):
+				for j in range(i+1, num_users):
+					# Language coordination of b towards a
+					a = users[i]
+					b = users[j]
+					accommodation_scores = get_batch_accommodation_aggregated([b], [a], data, list_markers, categories, '%d->%d' % (j,i))
+					accommodation_matrix[i,j] = accommodation_scores['aggregiated']
+
+			print accommodation_matrix
+
+
+
+if __name__ == "__main__":
+	# Run the main function
+	#batch_measure_accommodation()
+	influence_propagation_graph()
