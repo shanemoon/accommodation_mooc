@@ -424,12 +424,10 @@ if __name__ == "__main__":
 				# Use the most popular clusters		
 				(word_to_cluster, cluster_to_words, cluster_to_freq, cluster_to_freq_sorted) = get_frequent_clusters(filename, opt)
 				list_markers = [cluster_to_words[pair[1]] for pair in cluster_to_freq_sorted[:20]]
-				print cluster_to_freq_sorted
 			
 			elif WHICH_LIST == USE_LIWC:
 				# Use the LIWC-inspired lists (Danescu-Niculescu-Mizil et. al, 2012)
 				(list_markers, list_categories) = get_LIWC_list()
-				pass
 
 			# Batch Test Run to measure accommodation for each cluster
 			# We summarize the results in the following dictionaries of ( cluster_index, aggregiated_accommodation ) pairs
