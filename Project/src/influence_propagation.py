@@ -550,8 +550,9 @@ def influence_propagation_graph():
 		opts.append( opt )
 
 
-	for opt in opts:
+	for k in range(len(opts)):
 		# Parse the original .csv file and get the structured data 
+		opt = opts[k]
 		data = structure_data(filename, opt)
 
 		# Hand-annotated
@@ -582,6 +583,27 @@ def influence_propagation_graph():
 
 			print accommodation_matrix
 
+			# Draw the accommodation matrix as a graph
+			g = Graph()
+			vertices = []
+
+			# Set up vertices
+			for i in range(num_users):
+				name = users[i]
+				v = g.add_vertex()
+				v.text = name
+
+				# Append to the list
+				vertices.append( v )
+
+			# Draw edges
+			for i in range(num_users):
+				for j in range(num_users):
+					if matrix[i,j] > 0:
+						g.add_edge( vertices[j], vertices[i] )
+
+			# Draw the graph
+			graph_draw(g, vertex_text=g.vertex_text, vertex_font_size=18, output_size=(200, 200), output="graph_period_%d.png" % k)
 
 
 if __name__ == "__main__":
